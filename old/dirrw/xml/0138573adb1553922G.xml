@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="573adb1553922">
+    <ref>573adb1553922</ref>
+    <datesv>2016-05-17</datesv>
+  </sauvegarde>
+  <etudiant numero="138">
+    <nom>ALCARAZ</nom>
+    <prenom>Jean-Baptiste</prenom>
+    <mel>jean-baptiste.alcaraz@icof.fr</mel>
+  </etudiant>
+</suivicomp>

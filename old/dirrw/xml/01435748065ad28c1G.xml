@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5748065ad28c1">
+    <ref>5748065ad28c1</ref>
+    <datesv>2016-05-27</datesv>
+  </sauvegarde>
+  <etudiant numero="143">
+    <nom>DEMORAND</nom>
+    <prenom>Thibaud</prenom>
+    <mel>thibaud.demorand@icof.fr</mel>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="571cdf53be663">
+    <ref>571cdf53be663</ref>
+    <datesv>2016-04-24</datesv>
+  </sauvegarde>
+  <etudiant numero="113">
+    <nom>MOIROUD</nom>
+    <prenom>Thomas</prenom>
+    <mel>thomas.moiroud@icof.fr</mel>
+    <situation ref="758">
+      <ref>758</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2 - Conception application Hopital St Luc St Joseph</libcourt>
+      <descriptif>Ce projet consistait en la modification d'une application déjà existante d'un hôpital. Cette application est à destination des patients victime de grandes brulures mais aussi aux médecins en charge de ces patients.</descriptif>
+      <contexte>Stage deuxième année BTS SIO</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>Unity , C#</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse de l'application envoyé par l’hôpital. Application à refaire entièrement sous android et ios. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Rédaction d'un document de synthèse sur l'application. Présentant les différentes interfaces de l'application ainsi que les différentes caractéristiques techniques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à la conception d'une application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Estimation du coup d'un plugin permettant le changement de language Anglais/francais</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développement d'une interface basique de l'application pour envoyer aux client. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Environnement de développement mis en commun avec toute l'équipe. 
+Installation de l'application sur différents devices pour permettre des phases de tests;</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Utilisation de Unity 3D pour la conception de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Elaboration de test pour mettre en évidence les erreur de calcul entre l'ancienne application et la nouvelle .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique relatif aux langues disponibles dans l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation expliquant les fonctionnalité de l'application (différents boutons, emplacement de saisie de texte)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de SVN , Google Doc , trello.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude d'un plugin permettant de gerer le changement de langue.</commentaireactivite>
+      </activitecitee>
+      <production numero="1506">
+        <numero>1506</numero>
+        <designation>Document utilisateur</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=sLGtcsDOG4my10UnGgtKS82Ls0JkB6SVmPd17vkaNRo%3d&amp;docid=0baad9d36953b4cb48c3f664fa3fed6bf</adresse>
+      </production>
+      <production numero="1507">
+        <numero>1507</numero>
+        <designation>Pages 2,3 et 4 en cour de conception</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=j%2fVwQL0MzlHUVz4NMyUnVb62IvvIHBPLNEOK9pRSsvk%3d&amp;docid=0abb3246dd5a74bd19ad19ebb84cead3a</adresse>
+      </production>
+      <production numero="1508">
+        <numero>1508</numero>
+        <designation>Application finale</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=TD%2b%2fvYL3ba2bj1fZxqwp4VynEkSh%2fy8SKyq1yVL8EGU%3d&amp;docid=08fedd2a965d3420fb963e295070e2e3c</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="780">
+      <ref>780</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>ANNEE 2 - PPE PHP</libcourt>
+      <descriptif>Développement d'une application PHP , GSB.
+Gestion de praticiens , compte rendu de praticiens , médicament.</descriptif>
+      <contexte>PPE en équipe.</contexte>
+      <datedebut>2016-03-01</datedebut>
+      <datefin>2016-03-01</datefin>
+      <environnement>PHP, mySQL, 
+PHPMYADMIN , UWAMP , NOTEPAD++</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges et recensement des fonctions à intégrer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Projet de conception d'un site web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Mise en place d'un planning des différentes taches à effectuer entre chaque membre du groupe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception d'une interface utilisateur gérant les connexions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception d'une base donnée sous PhpMyAdmin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Recensement des composants à développer pour le site web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Mise en place d'une page d'identification ainsi qu'un lien avec la base de donnée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation sur les différentes fonction php utilisés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un document d'explication sur l'utilisation des différents onglet (praticiens , compte-rendu, médicaments)
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de bitBucket </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1504">
+        <numero>1504</numero>
+        <designation>Document technique de l'application</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=RoMZ7YT6IldZ9cUk2bykHZpnFZ9nHHw1kZrlDhkyXHA%3d&amp;docid=0fdd52c3b33fb43ff8568eebbfe8b9759</adresse>
+      </production>
+      <production numero="1505">
+        <numero>1505</numero>
+        <designation>Document utilisateur </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=Jw93BwmVqERkHOIdEYpj14P30EX3VHvSK0oB6OW53A4%3d&amp;docid=01f099777136e467987e7c5a60f5a1815</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="802">
+      <ref>802</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 - Adaption de bases de données</libcourt>
+      <descriptif>Participation à une formation d'entreprise
+Importation de données depuis un serveur SQL
+Analyse des demandes pour PowerPivot
+Conception de tableaux croisé dynamiques sous PowerPivot en liens avec une base de données
+
+</descriptif>
+      <contexte>Stage première année BTS SIO</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Une maquette sur le type de tableau à fournir m'a été communiqué par mon maître de stage. Il à fallu pour moi  identifier ses attentes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Avec la maquette fournie il m'a fallu étudier les exigences attendues par mon tuteur. Ainsi que de regrouper toutes les données nécessaires à la réalisation de ce travail. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Dans cette situation , je suis parti d'une maquette J'avais pour objectif de rédiger un document sur les caractéristiques de cette maquette ainsi que de recenser tous les besoins nécessaires à la réalisation de cette maquette.  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Calcul manuel des temps d'interventions et calcul automatique grâce à powerpivot . Comparaison des deux résultat. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>L'activité que j'ai effectué ici est essentielle pour la suite du projet. En effet aucun travail n'est possible sans l'importation de données de la société. Un planning avec mon tuteur et un collègue à été établit . Conception de ces tableaux fait par</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Lors de la conception des ses tableaux , j'ai pu me confronter à différents soucis aussi bien au niveau des bases de données que de la mise en forme du tableau. Cependant des réunions hebdomadaires ont été planifiées pour résoudre ces problèmes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>A chaque reunion je devais faire part de mes problème lors de l'écusson du tableau croisé dynamique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Définition lors d'une réunion de la mise en place d'une sauvegarde automatique tout les soirs par un administrateur. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>La réalisation de ces tableaux permet aux collaborateur d’accéder à différentes informations issues des bases données. Cette méthode permet la saisie automatiques de données ( temps d'interventions , temps des demandes de services) et non plus la saisie </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Dans cette même situation , il fallait importer les données depuis la base de données dans un classeur Powerpivot , la sélection des différentes tables se fait soit à la souris , soit à l'aide de requête SQL. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>De nombreux test sur ces tableaux ont été réalisé par moi même et par un collaborateur. Ces test avait pour but de vérifier si les informations présentes dans les tableaux étaient bien les mêmes que celles des bases de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Lors de la formation de pré stage, il à été convenu avec mon maitre de stage de me former sur différents point permettant de me débrouiller sous powerpivot.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Lors de la formation j'ai pu étudier toutes les possibilités et utilisations qu'offre PowerPivot.</commentaireactivite>
+      </activitecitee>
+      <production numero="1422">
+        <numero>1422</numero>
+        <designation>Etapes permettant l'importation de données depuis un serveur SQL </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=5%2bNjq2F0FMi4PJkyZcvK4coyNywx1DyAeXoeoKzPj70%3d&amp;docid=0bf1e2985810a45bbb4aef14df69dfb93</adresse>
+      </production>
+      <production numero="1423">
+        <numero>1423</numero>
+        <designation>Analyse et création d'un document relatif au demandes</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=mgzmMgQ0PE2AZy7efl8oBEH%2f4WQbfzURcfZfs6JT534%3d&amp;docid=0831a8b34fbc047759629f511ab884c4a</adresse>
+      </production>
+      <production numero="1424">
+        <numero>1424</numero>
+        <designation>Ajout de critère de recherche pour powerpivot et modification de bases de données</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=QNjZCxZHziSEOq8CMLcADRbpHQFDE%2fV7i4yCmFwr%2bPU%3d&amp;docid=0b2d313630deb483ba84388e6aa77ff08</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="805">
+      <ref>805</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2 - Tests et réglages jeu</libcourt>
+      <descriptif>Test et réglages des différents niveaux d'un jeu de tennis , motion et touch ainsi que sur apple TV</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-01</datedebut>
+      <datefin>2016-03-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test d'un jeux de tennis &quot;INSTANT TENNIS&quot; sur apple TV et android en motion et touch.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Installation du jeux sur des devices android et soumission à l'apple store.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Mise a jour des difficultés pour chaque niveau. Avec repérage préalable des valeurs choisies.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Test réalisé sur Apple TV , Tablettes (motion et touch)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise en commun des différentes documentation. Modification des documents techniques déjà présents sur un Drive.</commentaireactivite>
+      </activitecitee>
+      <production numero="1511">
+        <numero>1511</numero>
+        <designation>Test et réglage du jeu INSTANT TENNIS</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=sTmmi18Jw%2fxkBQh0E%2f8RCLru65rW15at0JXN06j4RFw%3d&amp;docid=07bcf37aca6df46d58031430dcc3cf194</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="822">
+      <ref>822</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>ANNEE 2 - PPE C#</libcourt>
+      <descriptif>Projet c#</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-02</datedebut>
+      <datefin>2016-03-02</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges et recensement des fonctions à intégrer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Mise en place d'un planning des différentes taches à effectuer entre chaque membre du groupe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception d'une interface utilisateur gérant les connexions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception d'une base donnée sous PhpMyAdmin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Recensement des composants à développer pour l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement d'une application de gestion de médicaments 
+Mise en place d'une page d'identification ainsi qu'un lien avec la base de donnée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="823">
+      <ref>823</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Veille sur différents domaines informatique en lien avec mes stages ou non. </descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-02</datedebut>
+      <datefin>2016-03-02</datefin>
+      <environnement>Feedly, AppyGeek</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1529">
+        <numero>1529</numero>
+        <designation>Documents relatif aux différents erp</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=6yTxJA7FU2rzuxCKKGVh7E1YEpTPcUppgZt1qNuipho%3d&amp;docid=0fd2c2f76b6fe48bfbd4bd63a971cbd91</adresse>
+      </production>
+      <production numero="1530">
+        <numero>1530</numero>
+        <designation>Capture d'écran du flux de veille </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=Q3rvDsTxX3bzcXAJIRjTPuuD5lQRNkeVoU6Ga09v2RM%3d&amp;docid=0aaa68e46a25c4eefaf12c0cef2686eba</adresse>
+      </production>
+      <production numero="1531">
+        <numero>1531</numero>
+        <designation>Document relatif aux différents moteur et logiciel de développement de jeux video</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=TkcFBVvJRR4WRxDdR6aXoSsJFlcnLt6YRvv1La9sEYs%3d&amp;docid=07dde080de337465aba56927babf01d67</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

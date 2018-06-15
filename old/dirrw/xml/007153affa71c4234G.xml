@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53affa71c4234">
+    <ref>53affa71c4234</ref>
+    <datesv>2014-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="71">
+    <nom>aubel</nom>
+    <prenom>françois</prenom>
+    <mel>francois.aubel@icof.fr</mel>
+  </etudiant>
+</suivicomp>

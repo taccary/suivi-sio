@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b0ad3713a2b9">
+    <ref>5b0ad3713a2b9</ref>
+    <datesv>2018-05-27</datesv>
+  </sauvegarde>
+  <etudiant numero="191">
+    <nom>BRITTI</nom>
+    <prenom>Yohan</prenom>
+    <mel>yohan.britti@icof.fr</mel>
+    <situation ref="1323">
+      <ref>1323</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Transfert de données</libcourt>
+      <descriptif>Transvasement des données depuis les anciens serveurs agences vers un disque dur externe pour ensuite les transférer dans un nouveau serveur afin que les agences puissent re-télécharger leurs données. </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-16</datedebut>
+      <datefin>2018-05-24</datefin>
+      <environnement>Windows serveur 2003</environnement>
+      <moyen>usage de scrip et découverte de robocopy</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Automatisation de la sauvegarde par robocopy</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1326">
+      <ref>1326</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation nouveaux postes</libcourt>
+      <descriptif>Déballage, enregistrement matériel dans l'outil de gestion du parc, et enregistrement du matériel pour une masterisation. Après masterisation vérification et livraison du poste a l'utilisateur</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-21</datedebut>
+      <datefin>2018-05-21</datefin>
+      <environnement>windows 7/10</environnement>
+      <moyen></moyen>
+      <avisperso>intéressant et permet de configurer des postes rapidement.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre le besoin de l'utilisateur grâce à ça demande pour répondre au mieux a ses attentes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Automatisation de l'installation/configuration de Windows grâce à la virtualisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Voir comment je peux configurer ces ordinateurs rapidement sans trop surcharger le réseau car cela demande beaucoup de débit et de ressource donc par exemple en lancer le midi avant de partir déjeuner et le soir avant de partir comme ca pas trop de gêne</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

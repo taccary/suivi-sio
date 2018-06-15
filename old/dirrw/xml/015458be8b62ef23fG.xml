@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="58be8b62ef23f">
+    <ref>58be8b62ef23f</ref>
+    <datesv>2017-03-07</datesv>
+  </sauvegarde>
+  <etudiant numero="154">
+    <nom>THELISSON</nom>
+    <prenom>Aymeric</prenom>
+    <mel>aymeric.thelisson@icof.fr</mel>
+    <situation ref="909">
+      <ref>909</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Refonte du site JeromeBel.fr</libcourt>
+      <descriptif>Refonte d'un site codé en asp.net en HTML5, CSS3, Php7</descriptif>
+      <contexte>Entreprise amilease à chazelles sur lyon</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Windows 7
+Notepadd ++
+PhpMyAdmin</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges fournis par l'entreprise en charge du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Codes accès + back office dévelopé pour que le client puisse administrer son site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planning évoluant en fonction de l'avancement du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Interface développé en fonction des demandes de l'utilisateur (cahier des charges + rendez-vous téléphoniques)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Base de donnée du nouveau site recréée à partir de celle de l'ancien site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Sublime Text / Notepadd ++
+Google Chrome / Safari</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement d'un back office sécurisé pour le client</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tester si le code fonctionne directement sur le site web (celui-ci n'étant pas hébergé en local mais bien en ligne)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Faire en sorte que le code php réponde aux normes php7</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etudes des avantages des nouvelles normes tel que Php7 (celui-ci étant préférable pour le nouveau site web)</commentaireactivite>
+      </activitecitee>
+      <production numero="1600">
+        <numero>1600</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aymeric_thelisson_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=Y0FWnLxTSXy9G0ks7ehr9WyvTaNn22fcR5v8eI%2fI7Qc%3d&amp;docid=0c05bbb3bad6d40aca33b97c686682663&amp;rev=1</adresse>
+      </production>
+      <production numero="1669">
+        <numero>1669</numero>
+        <designation>Site web développé</designation>
+        <adresse>http://jeromebel.amilease.fr/index.php#</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="945">
+      <ref>945</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création d’un webdesign sous Photoshop et intégration de celui</libcourt>
+      <descriptif>Création d'un webdesign pour le compte d'un client </descriptif>
+      <contexte></contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Photoshop
+Joomla</environnement>
+      <moyen></moyen>
+      <avisperso>Expérience enrichissante</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recensement des demandes des clients à propos de leur site web (on a cherché à savoir ce que souhaiterais avoir les clients sur leur site web)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>On a cherché à savoir ce qu'attendais les clients</commentaireactivite>
+      </activitecitee>
+      <production numero="1670">
+        <numero>1670</numero>
+        <designation>Webdesign pour la mairie de Chaponost</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aymeric_thelisson_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=XZ3blCZQ2vpsrTyfzYahJniMhWCpWFghP4gNF2aI8Wc%3d&amp;docid=04e8e6277c49a4784a9d3057e01a9336a&amp;rev=1</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="973">
+      <ref>973</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Amélioration d'une application de surveillance de Cinémas</libcourt>
+      <descriptif>J'ai amélioré le code et ajouter des fonctionnalités à une appilciation en Objective-C permettant de surveiller l'état du matériel en fonctionnement dans les salles de cinémas des cinémas clients de l'entreprise</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>-Macbook Pro 2010 (MacOs Sierra)
+-XCode 8 pour coder
+- SGBD Sequel Pro
+- SequelPro pour accéder à la base de données
+</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>J'ai su comprendre quelles étaient les modifications attendus dans l'application déjà existante</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>J'ai su comprendre qu'elles nouvelles caractéristiques étaient attendues dans la nouvelle application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>J'ai sur utiliser mon application en reproduisant ses conditions réelles d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai su organiser mon temps en prenant quotidiennement des notes. De plus j'ai aussi rendu compte de mon activité chaque matin lors de réunions scrum</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>J'ai su organiser et ré-organiser mon planning pour mieux gérer mon retard dans le développement de certaines parties de mon application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>J'ai su organiser mon emploi du temps en fonction de la disponibilité de mon maitre de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai su reprendre et améliorer l'interface de l'application déja existante (l'interface étant quasi inutile dans le projet sur lequel je travaille)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>J'ai su modéliser et créer une nouvelle base de données pour y insérer les informations nécessaires à la surveillances du matériel des clients.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>J'ai su quelle parties du code étaient à modifier ou à améliorer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé une documentation technique à disposition des futures développeur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>J'ai rédigé une documentation d'utilisation à disposition des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>J'ai su corriger et améliorer mon code lorsque des dysfonctionnements étaient apparents</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>J'ai su m'apitoyer aux habitudes de développement de mon entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>J'ai présenté la technologie Xamarin à mon entreprise tout en montrant ses avantages ainsi que ses limites</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="998">
+      <ref>998</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique et complément d'information</libcourt>
+      <descriptif>Mise en place d'un dispositif de veille technologique</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-03-07</datedebut>
+      <datefin>2017-03-07</datefin>
+      <environnement>-Windows 10
+-Android 6</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>J'ai mis en place un dispositif de veille technologique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>J'ai su me former à l'utilisation de nouvelles technologies.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>J'ai su étudier des technologies en prenant compte de leurs avantages ainsi que leur limites.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1007">
+      <ref>1007</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PPE C#</libcourt>
+      <descriptif>Développement d'une application en C#</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-02-27</datedebut>
+      <datefin>2017-06-01</datefin>
+      <environnement>-Windows 10
+-VisualStudio 2015</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>J'ai su comprendre ce qu'on attendait de mon application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai établi un planning tout en rédigeant un compte rendu pendant le développement de mon application. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai su concevoir une interface à destination des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>J'ai su concevoir une base de données pour mon application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>J'ai su adapter mon application en fonction des caractéristiques attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé une documentation technique à disposition des futures développeurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>J'ai rédigé une solution technique à disposition des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>J'ai mis en place un git pour améliorer la gestion de mon code</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1018">
+      <ref>1018</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PPE PHP</libcourt>
+      <descriptif>Développement d'une application en Php</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-03-07</datedebut>
+      <datefin>2017-06-01</datefin>
+      <environnement>-Windows 10
+-Visual Studio Code</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>J'ai su comprendre ce qu'on attendait de mon application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai établi un planning tout en rédigeant un compte rendu pendant le développement de mon application. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai su concevoir une interface à destination des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>J'ai su concevoir une base de données pour mon application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>J'ai su adapter mon application en fonction des caractéristiques attendues</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé une documentation technique à disposition des futures développeurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>J'ai rédigé une solution technique à disposition des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>J'ai mis en place un git pour améliorer la gestion de mon code</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

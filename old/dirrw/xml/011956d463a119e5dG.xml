@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56d463a119e5d">
+    <ref>56d463a119e5d</ref>
+    <datesv>2016-02-29</datesv>
+  </sauvegarde>
+  <etudiant numero="119">
+    <nom>BOUREMEL</nom>
+    <prenom>Yohan</prenom>
+    <mel>yohan.bouremel@icof.fr</mel>
+    <situation ref="644">
+      <ref>644</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance matérielle et logicielle</libcourt>
+      <descriptif>- Paramétrage du focus des imprimantes pour réglage d'impression des étiquettes
+- vérification d'appartenance de prise à un VLAN
+- configuration ipod
+- déclaration d'un poste dans le domaine et dans l'inventaire</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-09</datefin>
+      <environnement></environnement>
+      <moyen>Ordinateur portable et poste de travail du client</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Utilisation d'un tutoriel pour corriger le problème de java sur le logiciel SAS et utilisation du bureau a distance pour prendre le la main sur un poste </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>on a eu une imprimante qui avait le capot arrière détruit et on ne pouvait pas trouver l'UF que l'on nous as donnée dans notre tableau </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>vérification de Vlan avec le fluxe et ajout de l'imprimante dans le gestionnaire d'imprimante. Ensuite configuration de nouveau poste de travail dans le domaine suite a un déménagement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>configuration d'un ipod pour les logiciels de dictée suite a la panne de l'ancien.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>mettre a jour le tableau qui va répertorier les informations suivantes :
+l'UF du service,l'imprimante,la localisation et le paramétrage des marges de l'imprimante.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Utilisation du logiciel easily pour paramétrer la marge des étiquettes</commentaireactivite>
+      </activitecitee>
+      <production numero="1356">
+        <numero>1356</numero>
+        <designation>Document pour la maintenance de matériel et logiciel Bouremel yohan BTS SIO SISR 2</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/yohan_bouremel_icof_fr/_layouts/15/start.aspx#/Documents/Forms/All.aspx?RootFolder=%2Fpersonal%2Fyohan_bouremel_icof_fr%2FDocuments%2FPartag%C3%A9%20avec%20tout%20le%20monde&amp;FolderCTID=0x012000D213A16297371</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="718">
+      <ref>718</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise a jour de l'inventaire informatique avec qualiparc</libcourt>
+      <descriptif>Mise en stock de matériel sur le logiciel de gestion de parc : Qualiparc 
+réédition des étiquettes
+Vérification du matériel et des équipements rattachés (écrans, imprimantes...)
+
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-25</datedebut>
+      <datefin>2015-05-26</datefin>
+      <environnement></environnement>
+      <moyen>poste de travail et logiciel qualiparc</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>vérification de la date ou service ou utilisateur de la machine pour le ticket d'intervention afin d'analyser une prioriter d'intervention</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour du n° d'inventaire et de l'état des éléments matériels dans la BD Qualiparc
+</commentaireactivite>
+      </activitecitee>
+      <production numero="1358">
+        <numero>1358</numero>
+        <designation>Document de mise a jour de l'inventaire  avec qualiparc Bouremel yohan BTS SIO SISR 2</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/yohan_bouremel_icof_fr/_layouts/15/start.aspx#/Documents/Forms/All.aspx?RootFolder=%2Fpersonal%2Fyohan_bouremel_icof_fr%2FDocuments%2FPartag%C3%A9%20avec%20tout%20le%20monde&amp;FolderCTID=0x012000D213A16297371</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="720">
+      <ref>720</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt> SCCM : remplacement de postes, retauration de données</libcourt>
+      <descriptif>remplacement de poste de plus de 5 ans par du nouveau matériel, passage de XP à W7
+restauration des données sur les nouveaux postes
+déploiement de master avec SCCM 2007</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-12</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement></environnement>
+      <moyen>Prise rj45,disque dur de l'utilisateur,câble sata.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>vérification de la date ou service ou utilisateur de la machine pour le ticket d'intervention afin d'analyser une prioriter d'intervention</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>utilisation du bureau a distance et </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et configuration de nouveau poste de travaille pour leurs déploiement dans le service dermatologie puis faire une sauvegarde de données des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>on devait remplacer tous le service dermatologie car ces postes de travail avait plus de 5 ans</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>utilisation du logiciel ghost et robotcopy(pour des dossier ayant un chemin plus long) pour de la sauvegarde de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>ajout de barrette mémoire de 2Go ou 4Go pour augmenter la vitesse du pc.</commentaireactivite>
+      </activitecitee>
+      <production numero="1359">
+        <numero>1359</numero>
+        <designation>SCCM remplacement de postes, sauvegarde des données</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/yohan_bouremel_icof_fr/_layouts/15/start.aspx#/Documents/Forms/All.aspx?RootFolder=%2Fpersonal%2Fyohan_bouremel_icof_fr%2FDocuments%2FPartag%C3%A9%20avec%20tout%20le%20monde&amp;FolderCTID=0x012000D213A16297371</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="755">
+      <ref>755</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance matériel et logiciel</libcourt>
+      <descriptif>changement de barrette mémoire
+correction d'erreur sur le logiciel SAS
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>ordinateur fixe</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Utilisation d'un tutoriel pour corriger le problème de java sur le logiciel SAS et utilisation du bureau a distance pour prendre la main a distance sur un poste </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite> mise a jour d'un tutoriel qui ne disait pas qu'il fallait ajouter l'imprimante dans le logiciel par rapport a une erreur d’impression d'étiquette.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="762">
+      <ref>762</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>suivi de ticket csd</libcourt>
+      <descriptif>cloturation de ticket</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>écrire la solution qui a été mise en œuvre  pour résoudre le problème avant de le clôturer</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="764">
+      <ref>764</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>dévelopement de site web</libcourt>
+      <descriptif>mise en place d'un site web vitrine</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

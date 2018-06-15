@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5048653b5fbf7">
+    <ref>5048653b5fbf7</ref>
+    <datesv>2012-09-06</datesv>
+  </sauvegarde>
+  <etudiant numero="4">
+    <nom>Baudin</nom>
+    <prenom>Edouard</prenom>
+    <mel>edouard.baudin@icof.fr</mel>
+  </etudiant>
+</suivicomp>

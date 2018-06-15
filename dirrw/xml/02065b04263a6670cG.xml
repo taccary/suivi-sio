@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b04263a6670c">
+    <ref>5b04263a6670c</ref>
+    <datesv>2018-05-22</datesv>
+  </sauvegarde>
+  <etudiant numero="206">
+    <nom>TUSALAMO</nom>
+    <prenom>Thierry</prenom>
+    <mel>thierry.tusalamo@icof.fr</mel>
+  </etudiant>
+</suivicomp>

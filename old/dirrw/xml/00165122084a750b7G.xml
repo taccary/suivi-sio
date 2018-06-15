@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5122084a750b7">
+    <ref>5122084a750b7</ref>
+    <datesv>2013-02-18</datesv>
+  </sauvegarde>
+  <etudiant numero="16">
+    <nom>Cartillier</nom>
+    <prenom>Marjorie</prenom>
+    <mel>marjorie.cartillier@icof.fr</mel>
+    <situation ref="4">
+      <ref>4</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Déploiement des postes informatiques </libcourt>
+      <descriptif>préparation des nouveaux postes pour qu'ils soient prêts à être utilisés par les utilisateurs (enlever les logiciels inutiles, installer logiciels utilitaires(7zip, office, adobe, java), les logiciels métiers, les licences. </descriptif>
+      <contexte>Pour les clients de la société SoftyPack. </contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Soit dans un atelier soit directement chez les clients. </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Récupération des informations sur les versions des logiciels à installer  et sur le domaine à intégrer. </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="5">
+      <ref>5</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>analyse des problèmes / dépannage</libcourt>
+      <descriptif>diagnostic grâce à différents moyens (cd de diagnostiques, tests divers) </descriptif>
+      <contexte>Dépannage des clients</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="7">
+      <ref>7</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>migration de serveur</libcourt>
+      <descriptif>migrer d'un serveur modèle ancien à un modèle récent avec la meme version :2008 server</descriptif>
+      <contexte>Demande d'un client de la société SoftyPack. </contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

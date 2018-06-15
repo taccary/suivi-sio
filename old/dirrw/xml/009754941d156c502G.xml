@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54941d156c502">
+    <ref>54941d156c502</ref>
+    <datesv>2014-12-19</datesv>
+  </sauvegarde>
+  <etudiant numero="97">
+    <nom>roger</nom>
+    <prenom>daniel</prenom>
+    <mel>daniel.roger@icof.fr</mel>
+    <situation ref="293">
+      <ref>293</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE2 Maison des ligues (M2L)</libcourt>
+      <descriptif>Installation d'une plateforme web de gestion.
+Configuration d'une sauvegarde d'une base de données MySQL.
+</descriptif>
+      <contexte>PPE2 SISR</contexte>
+      <datedebut>2014-01-17</datedebut>
+      <datefin>2014-02-13</datefin>
+      <environnement>Machines virtuelles.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des besoins du client.
+Liste du matériel nécessaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Besoin de deux machines physiques et 2 machines virtuelles (un serveur web et un client).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test de création et modification d'utilisateurs, ajout et modification d'évènements.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planning des tâches de chaque binôme.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Réalisation d'une liste de logiciels à installer (uWamp, Filezilla ...) et des machines virtuelles client/serveur à utiliser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation du serveur web et de la plateforme M2L, configuration de la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation sur la sauvegarde de la base de données.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="468">
+      <ref>468</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Migration Windows 7</libcourt>
+      <descriptif>Migration de postes Windows XP vers Windows 7</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Migration des postes de Windows XP vers Windows 7. Installation du système d'exploitation et des logiciels.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Sauvegarde et Restauration des données des utilisateurs. 
+Sauvegarde du profil utilisateur de Windows XP
+Restauration de ce profil sur Windows 7</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour de la procédure de migration Windows 7 sur le wiki interne à l'entreprise.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="475">
+      <ref>475</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation et configuration switch Cisco</libcourt>
+      <descriptif>Installation et configuration d'un switch Cisco. Remplacement d'un ancien switch. 
+Préparation du fichier de configuration du switch.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Préparation d'un fichier de configuration d'un switch Cisco.
+Installation du nouveau switch et application de la configuration du switch.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement de l'ancien switch.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="479">
+      <ref>479</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Recherche solution IPS/IDS</libcourt>
+      <descriptif>Recherche d'une solution IDS/IPS pour un futur projet de l'entreprise.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Recherche d'un solution logicielle et/ou matériel d'IPS/IDS permettant d'alerter un administrateur en cas de problème de sécurité sur le réseau.</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="509cdc723da3f">
+    <ref>509cdc723da3f</ref>
+    <datesv>2012-11-09</datesv>
+  </sauvegarde>
+  <etudiant numero="21">
+    <nom>Guerin</nom>
+    <prenom>Jean-Baptiste</prenom>
+    <mel>jean-baptiste.guerin@icof.fr</mel>
+    <situation ref="33">
+      <ref>33</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Etude du matériel de l’infrastructure informatique</libcourt>
+      <descriptif>Explication de l’infrastructure  présente. Explication détaillé du matériel présent, présentation de la baie systèmes ainsi que les différents services mise à disposition informatique, radio et téléphonie</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Observation d'une partie de l'architecture informatique de la gendarmerie Nationale. ( Salle </environnement>
+      <moyen>aucun</moyen>
+      <avisperso>Cette situation m'a permit de mettre en pratique les connaissances que j'ai pu acquérir au cours de ma première année de ma formation mais aussi de pointée mais faiblesse.</avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="32">
+        <numero>32</numero>
+        <designation>compte rendu de stage de la situation : Etude du matériel informatique</designation>
+        <adresse>http://data.over-blog-kiwi.com/0/15/86/91/201209/ob_7e07527bacbb06f8ce749c9ca6166dcb_situation-1.pdf</adresse>
+      </production>
+      <production numero="33">
+        <numero>33</numero>
+        <designation>compte rendu de stage de la situation : Etude du matériel informatique</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+    </situation>
+    <situation ref="45">
+      <ref>45</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d’un dispositif de communication sur un véhicule</libcourt>
+      <descriptif>Installation d’un dispositif radio dans un véhicule mobile. Mise en place du matériel au sein du véhicule, programmation et teste du dispositif mis en service.</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>documentation sur le dispostif, matériel à mettre en place (B.E.R, câblage, combiné, TDG).</environnement>
+      <moyen>aucun</moyen>
+      <avisperso>Cette situation m'a permit de voir une nouvelle technologie, de découvrir un nouveau type d'interconnexion et transmission d'information qui est un plus pour ma formation.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="34">
+        <numero>34</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un dispositif de communication sur un véhicule</designation>
+        <adresse>http://data.over-blog-kiwi.com/0/15/86/91/201209/ob_063c7921515df69db3e38d1a81f76a76_situation-2.pdf</adresse>
+      </production>
+      <production numero="35">
+        <numero>35</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un dispositif de communication sur un véhicule</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="49">
+      <ref>49</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d’un accès a internet au sein d'un service</libcourt>
+      <descriptif>Mise en place au sein du service auto d’un accès à internet grâce à la mise en place d’un ordinateur qui donnera l’accès. Installation du matériel et brassage du réseau.</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-06-18</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>documentation sur le dispositif à mettre en place ainsi que le matériel (ordinateur, câblage).Brassage du réseau dans la baie de l'atelier SIC </environnement>
+      <moyen>aucun</moyen>
+      <avisperso>Cette activité ma permit concrètement de mettre en pratique sur le terrain mais connaissance théorique  que j'ai apprit pendant ma première année. </avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="36">
+        <numero>36</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un accès a internet au sein d'un service</designation>
+        <adresse>http://data.over-blog-kiwi.com/0/15/86/91/201209/ob_476bcb83236137d1bcde5fd025d03ab6_situation-3.pdf</adresse>
+      </production>
+      <production numero="37">
+        <numero>37</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un accès a internet au sein d'un service</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="50">
+      <ref>50</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d’un réseau informatique provisoire </libcourt>
+      <descriptif>Installation physique d'un réseau informatique et radio provisoire dans les locaux d'une brigade temporaire estivale . Mise en place des différents élèments informatique ( baie systéme, ordinateur etc..)ainsi que l'installation d'un nouveau dispositif</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>matériel informatique et radio ( mât radio, BER, ordinateur serveur, switch, chiffreur, baie et autres composants)  ainsi qu'un cahier des charges dans la disposition d'installation du matériel physique.</environnement>
+      <moyen>aucun</moyen>
+      <avisperso>Cette activité ma permit d'installer physiquement un réseau informatique et radio. je trouve juste dommage que je n'ai pas eu le droit d'observer ou participer à l'installation ( programmation,configuration) des éléments. Néanmoins j'ai pumettre en o</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="38">
+        <numero>38</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un réseau informatique provisoire</designation>
+        <adresse>http://data.over-blog-kiwi.com/0/15/86/91/201209/ob_94f35face6c33c9ab02ff1bdfdff9d4d_situation-4.pdf</adresse>
+      </production>
+      <production numero="39">
+        <numero>39</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un réseau informatique provisoire</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="51">
+      <ref>51</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Projet personnel </libcourt>
+      <descriptif>L’étude porte sur la sécurisation de la liaison optique établie entre le bâtiment principal et le bâtiment Atelier. Elle permettra d’assurer un lien de secours en cas de perte de la liaison principale (câble arraché, problèmes de connexions ou autre.</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-06-12</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>étude de la liaison du réseau informatique, recherche de documentation,technologie , méthode via internet. </environnement>
+      <moyen>aucun</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="40">
+        <numero>40</numero>
+        <designation>compte rendu de stage de la situation : Projet personnel</designation>
+        <adresse>http://data.over-blog-kiwi.com/0/15/86/91/201209/ob_eae75dc773d7adb4f283e7973a1efe56_situation-5.pdf</adresse>
+      </production>
+      <production numero="41">
+        <numero>41</numero>
+        <designation>compte rendu de stage de la situation : Projet personnel</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

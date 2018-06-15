@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54ef9a302ce06">
+    <ref>54ef9a302ce06</ref>
+    <datesv>2015-02-26</datesv>
+  </sauvegarde>
+  <etudiant numero="71">
+    <nom>AUBEL</nom>
+    <prenom>François</prenom>
+    <mel>francois.aubel@icof.fr</mel>
+    <situation ref="451">
+      <ref>451</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[STAGE 1°] Cahier des charges</libcourt>
+      <descriptif>Élaboration et modification d'un cahier des charges.</descriptif>
+      <contexte>Ce cahier des charges a été fait pour l'entreprise Domerca.com</contexte>
+      <datedebut>2014-05-13</datedebut>
+      <datefin>2014-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Suite au stage de première que j'ai effectué, j'ai réalisé un cahier des charges afin d'établir les tâches que j'allai effectuer tout au long du stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Estimation du coût de l'hébergement web et les outils nécessaires à la réalisation des différentes tâches.</commentaireactivite>
+      </activitecitee>
+      <production numero="668">
+        <numero>668</numero>
+        <designation>A1.1.1 Analyse du cahier des charges d'un service à produire</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/francois_aubel_icof_fr/Documents/Stage_Fran%C3%A7ois_AUBEL_BTS_SIO1/Cahier%20des%20charges%20Domerca.com%20et%20Detecteurdefumee.co.pdf</adresse>
+      </production>
+      <production numero="731">
+        <numero>731</numero>
+        <designation>A1.2.1 Élaboration et présentation d'un dossier de choix de solution technique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/francois_aubel_icof_fr/Documents/Stage_Fran%C3%A7ois_AUBEL_BTS_SIO1/Cahier%20des%20charges%20Domerca.com%20et%20Detecteurdefumee.co.pdf</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="460">
+      <ref>460</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[STAGE 1°] Domerca - Site Domerca.com</libcourt>
+      <descriptif>J'ai mis à jour un site d'e-commerce en binôme fonctionnant sous Prestashop. Au départ il était en version 1.4, nous l'avons migré vers la version 1.6. Durant cette période de mise à jours, nous avons effectués divers test en local avant de migrer</descriptif>
+      <contexte>le site vers le serveur de production qui se trouve sur l'hébergeur 1&amp;1.</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-05-22</datefin>
+      <environnement>- Ordinateur avec Windows 7
+- Serveur WAMP en localhost
+- Serveur Web sous 1&amp;1 </environnement>
+      <moyen>- Notepad++
+- FileZilla</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Nous avons créer un serveur wamp en local, puis nous avons tester la mise à jour de Prestashop vers sa dernière version. Ensuite, nous avons mis en place un no-ip qui a permit de pouvoir accéder au site local depuis l'extérieur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Chaque jour, j'ai établis toutes les tâches que j'allai effectuer. Et j'ai consigné toutes mes tâches dans un rapport hebdomadaire. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Chaque jour, nous avons effectué diverses sauvegardes de la BDD et du site uploadé sur DropBox et Mega.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Nous avons mis en place en local un serveur test fonctionnant sous WAMP.
+Le serveur de production était hébergé par l'hébergeur 1&amp;1, on y accédait par FTP pour le transfert de fichiers via le logiciel FileZilla.</commentaireactivite>
+      </activitecitee>
+      <production numero="760">
+        <numero>760</numero>
+        <designation>A1.3.1 Test d'intégration et d'acceptation d'un service - Rédaction d'un rapport de test</designation>
+        <adresse>https://docs.google.com/spreadsheets/d/1pZmIuFBErHoAiE1DwcNI4Vv9s6vH3jWIriIsGR39N9M/edit#gid=0</adresse>
+      </production>
+      <production numero="763">
+        <numero>763</numero>
+        <designation>A1.4.1 Participation à un projet - Rédaction d'un compte rendu hebdomadaire</designation>
+        <adresse>https://www.dropbox.com/sh/wko56tbwuuhfmuq/AAAUE-gJhA4GyvtOa4i4Oppwa?dl=0</adresse>
+      </production>
+      <production numero="765">
+        <numero>765</numero>
+        <designation>A3.3.2 Planification des sauvegardes et gestion des restaurations - Sauvegarde du site Domerca</designation>
+        <adresse>https://mega.co.nz/#!BZ12zRxJ!drB4cY5AJCe0XvtNswukmKFhkYVcfhWrwkwflgITdFY</adresse>
+      </production>
+    </situation>
+    <situation ref="484">
+      <ref>484</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[STAGE 1°] Blog Eco-produit</libcourt>
+      <descriptif>Nous avons créé le blog éco-produits.co en local et nous l'avons ensuite transféré vers le serveur de production. J'ai en autre participé aux réglages du blog. </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-06-03</datedebut>
+      <datefin>2014-06-03</datefin>
+      <environnement>- Ordinateur avec Windows 7
+- Serveur WAMP en localhost
+- Serveur Web sous 1&amp;1 </environnement>
+      <moyen>- Notepad++
+- FileZilla</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place d'un blog et paramétrage de celui-ci.</commentaireactivite>
+      </activitecitee>
+      <production numero="678">
+        <numero>678</numero>
+        <designation>A1.3.4 Déploiement d'un service - Eco-produit.co</designation>
+        <adresse>http://www.eco-produits.co/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="514">
+      <ref>514</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[PPE GSB] Rédaction d'une documentation technique</libcourt>
+      <descriptif>Pour l'installation de application &quot;AppliFrais&quot;, j'ai établis une documentation technique montrant, comment installer l'application &quot;AppliFrais&quot;.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-09-15</datedebut>
+      <datefin>2014-09-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai effectué la rédaction d'une documentation technique afin de guider une personne pour installer l’application &quot;AppliFrais&quot;.</commentaireactivite>
+      </activitecitee>
+      <production numero="767">
+        <numero>767</numero>
+        <designation>A4.1.9 Rédaction d'une documentation technique</designation>
+        <adresse>https://www.dropbox.com/s/no1xp3hdpldn93n/Installation%20et%20mise%20en%20place%20de%20l%27application%20AppliFrais.docx</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="558">
+      <ref>558</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[STAGE 2°] Création d'un site web en PHP/JavaScript (CTDB)</libcourt>
+      <descriptif>Durant cette mission, j'ai crée un site web permettant de récupérer les données de modélisations d'objets en 3D et de les afficher sur le site. On peut trier les données à l'aide de filtres.</descriptif>
+      <contexte>J'ai développé ce site à l'aide des technologies HTML5, CSS3, JavaScript, WebGL.
+- Un formulaire de connexion avec un système de sessions et cookies
+- Un système de pagination
+- Un système de filtres</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>- Ordinateur avec Windows XP
+- Serveur Apache</environnement>
+      <moyen>- Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>A la fin du stage, le site était opérationnel, cependant je ne peux pas y accéder car le travail que j'ai effectué au sein de l'entreprise CoreTechnologie France doit rester dans l'entreprise et celui-ci doit rester confidentiel pour éviter le vol d'i</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J'ai placé le site web en localhost sur mon apache afin de pouvoir l'exploiter et y accéder par le biais de mon navigateur internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai participé à la réalisation d'un site web en PHP/JavaScript du début jusqu'à la fin dans son intégralité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Chaque semaine, je faisais une sauvegarde pour pouvoir garder toujours une trace de ce que j'ai fait.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>J'ai utilisé pendant le stage pour le développement du site WEB, les technologies du WEB (HTML5, CSS3, PHP, JavaScript) et pour l'application en C++, j'ai utilisé l'IDE VisualStudio Express 2005.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai effectué une maquette du site pour pouvoir ensuite le concevoir.
+
+(Voir la maquette sur Dropbox)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>J'ai effectué des requêtes SQL en lien avec la base de données fourni par l'entreprise.
+
+(Voir un aperçu de requêtes SQL)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>J'ai mis en place un débugger au sein du site web pour pouvoir afficher les erreurs rencontrées.
+
+(Voir un aperçu du débugger)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>J'ai développé le site web en général, avec en autres comme fonctionnalités : un système de filtres, un système de pagination et un système de connexion. 
+
+(Document Word)</commentaireactivite>
+      </activitecitee>
+      <production numero="840">
+        <numero>840</numero>
+        <designation>A1.4.1 | Blog sur le stage CoreTechnologie / Site Web PHP/JavaScript</designation>
+        <adresse>https://www.dropbox.com/s/jfc89lb0kcbssr9/A1.4.1%20-%20Participation%20%C3%A0%20un%20projet.docx</adresse>
+      </production>
+      <production numero="958">
+        <numero>958</numero>
+        <designation>A4.1.1 | Document relatif aux composants logiciels utilisés durant le stage</designation>
+        <adresse>https://www.dropbox.com/s/860opwrtc242zve/C4.1.1.1%20-%20Identifier%20les%20composants%20n%C3%A9cessaires.docx</adresse>
+      </production>
+      <production numero="959">
+        <numero>959</numero>
+        <designation>A4.1.2 | Maquette du site web PHP/JavaScript</designation>
+        <adresse>https://www.dropbox.com/s/uj46qfbb9u952de/A4.1.2%20-%20Maquette%20CTDB%20Website.pdf</adresse>
+      </production>
+      <production numero="960">
+        <numero>960</numero>
+        <designation>A4.1.3 | Aperçu d'un fichier contenant des requêtes SQL (confidentiel)</designation>
+        <adresse>https://www.dropbox.com/s/1jcyjr6ys26ge0v/functions.php</adresse>
+      </production>
+      <production numero="961">
+        <numero>961</numero>
+        <designation>A4.1.1 | Document relatif aux composants logiciels utilisés durant le stage</designation>
+        <adresse>https://www.dropbox.com/s/860opwrtc242zve/C4.1.1.1%20-%20Identifier%20les%20composants%20n%C3%A9cessaires.docx</adresse>
+      </production>
+      <production numero="962">
+        <numero>962</numero>
+        <designation>A4.1.6 | Aperçu du débugger du site CTDB</designation>
+        <adresse>https://www.dropbox.com/s/nfnvvky7hsny1uj/Website_CTDB_Debugger_Aper%C3%A7u.bmp</adresse>
+      </production>
+      <production numero="963">
+        <numero>963</numero>
+        <designation>A4.1.7 | Informations relatives au système de connexion à partir du Blog de François Aubel</designation>
+        <adresse>http://stagecoretechnologie.francoisaubel.ovh/coretechnologie-2015/</adresse>
+      </production>
+      <production numero="964">
+        <numero>964</numero>
+        <designation>A3.3.2 | Dernière sauvegarde en date du travail effectué au sein de l'entreprise CT France</designation>
+        <adresse>https://www.dropbox.com/s/k10pqw4kj35ynbp/edm64.zip</adresse>
+      </production>
+    </situation>
+    <situation ref="564">
+      <ref>564</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[STAGE 2°] Création d'un script PHP (console)</libcourt>
+      <descriptif>’ai réalisé un script en php console qui permet de mettre à jour et de remplir automatiquement la base de données. Ce script est ensuite associé à un programme batch, permettant ainsi de le lancer simplement, sans passer par l’invité de commandes.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>- Ordinateur avec Windows XP
+- Serveur Apache</environnement>
+      <moyen>- Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J’ai réalisé un script en php console qui permet de mettre à jour et de remplir automatiquement la base de données. Ce script est ensuite associé à un programme batch, permettant ainsi de le lancer simplement, sans passer par l’invité de commandes. 
+
+(V</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai participé au développement du script PHP (console) dans son intégralité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>J'ai développer un script en PHP (console) fonctionnant avec un script batch.</commentaireactivite>
+      </activitecitee>
+      <production numero="842">
+        <numero>842</numero>
+        <designation>Aperçu du script PHP + script batch (Un script d’automatisation)</designation>
+        <adresse>http://stagecoretechnologie.francoisaubel.ovh/coretechnologie-2015/</adresse>
+      </production>
+      <production numero="965">
+        <numero>965</numero>
+        <designation>A1.4.1 - Compte rendu d'activité du stage</designation>
+        <adresse>https://www.dropbox.com/s/sgvvcgq74ad0t1d/Suivi%20du%20stage.txt</adresse>
+      </production>
+    </situation>
+    <situation ref="565">
+      <ref>565</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[STAGE 2°] Création d'une application console en C++ (Parseur)</libcourt>
+      <descriptif>J’ai codé un programme en langage C++ permettant de parser un fichier d’entrer avec l’extension vml en un fichier de sortie avec l’extension js. Ceci permet ensuite de lire le format js sur un navigateur internet avec la technologie WebGl.</descriptif>
+      <contexte>On peut ainsi avoir une représentation 3D de l’objet. L’affichage en 3D de l’objet est réalisée grâce à la librairie Three.js (http://threejs.org/)</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-02-23</datefin>
+      <environnement>- Ordinateur avec Windows XP
+- Serveur Apache</environnement>
+      <moyen>- Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Ce script permet de traiter automatiquement une liste de fichiers.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Entretien oral tous les jours pour rendre compte de l'avancée des tâches en cours.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Je suis allé sur le site http://openclassrooms.com, pour m'instruire sur la langage C++ afin de pouvoir développer l'application.</commentaireactivite>
+      </activitecitee>
+      <production numero="843">
+        <numero>843</numero>
+        <designation>A1.3.4 | Blog rubrique (Un programme en C++)</designation>
+        <adresse>http://stagecoretechnologie.francoisaubel.ovh/coretechnologie-2015/</adresse>
+      </production>
+    </situation>
+    <situation ref="591">
+      <ref>591</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Chaque jour, j'entretiens une veille technologie à l'aide principalement de mon téléphone portable, ou je suis plusieurs fils d'actualités. Comme par exemple, Begeek.fr, le comptoireduhardware, FrAndroid...</descriptif>
+      <contexte>Cette veille me permet de rester informer des nouvelles sorties technologies que ce soit, au niveau logiciel ou matériel.</contexte>
+      <datedebut>2014-09-08</datedebut>
+      <datefin>2015-05-29</datefin>
+      <environnement>- Un smartphone avec une application de flux
+- Un site internet regroupant mes flux d'actualités</environnement>
+      <moyen>- BlinkFeed de mon téléphone portable (HTC One)
+- Netvibes</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>J'entretiens chaque jours une veille technologie en lisant les nouveaux articles parus par le biais de l'application de mon téléphone ou encore j'utilise le site Netvibes qui répertorie mes flux d'actualités.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Grâce aux différents outils que j'utilise (téléphone et Netvibes), je peux me document en permanence sur les nouvelles sorties technologiques.</commentaireactivite>
+      </activitecitee>
+      <production numero="966">
+        <numero>966</numero>
+        <designation>Netvibes | Outil utilisé pour le suivi de ma veille technologie</designation>
+        <adresse>http://www.netvibes.com/privatepage/1#Actualites</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

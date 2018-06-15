@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="52d7dbf50bb49">
+    <ref>52d7dbf50bb49</ref>
+    <datesv>2014-01-16</datesv>
+  </sauvegarde>
+  <etudiant numero="54">
+    <nom>noel</nom>
+    <prenom>vincent</prenom>
+    <mel>vincent.noel@icof.fr</mel>
+    <situation ref="269">
+      <ref>269</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Application de gestion de Stock </libcourt>
+      <descriptif>Mettre en place un logiciel Web afin que le gestionnaire des EPI (protection individuelle) puisse avoir un suivi sur les empreints des EPI</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-09-22</datedebut>
+      <datefin>2013-09-22</datefin>
+      <environnement>SNCF - Technicentre de LYON </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>- réalisation des écrans du logiciel.
+- création de la base de donnée.
+- recueillir les informations des EPI.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>- recueillir les information des utilisateur (grade)
+- Les besoins de chaque utilisateurs.
+- Niveau Administrateur ou Consultant</commentaireactivite>
+      </activitecitee>
+      <production numero="350">
+        <numero>350</numero>
+        <designation>Application de Gestion de Stock </designation>
+        <adresse>http://vincent-icof-fr.webnode.fr/projet-1/</adresse>
+      </production>
+      <production numero="351">
+        <numero>351</numero>
+        <designation>Définition des niveaux d'habilitation</designation>
+        <adresse>http://vincent-icof-fr.webnode.fr/projet-1/definition-des-niveaux-d%27habilitation-associes-%C3%A0-un-service/</adresse>
+      </production>
+      <production numero="352">
+        <numero>352</numero>
+        <designation>Rédaction des Spécifications </designation>
+        <adresse>http://vincent-icof-fr.webnode.fr/projet-1/redaction-des-specifications-techniques-de-la-solution-retenue-adaptation-dune-solution-existante-ou-realisation-dune-nouvelle-solution-/</adresse>
+      </production>
+    </situation>
+    <situation ref="270">
+      <ref>270</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Recensement Telecom réseau </libcourt>
+      <descriptif>Redaction des solutions et recensement des besoins </descriptif>
+      <contexte>les commutateurs arrivent a saturation.</contexte>
+      <datedebut>2013-09-22</datedebut>
+      <datefin>2013-09-22</datefin>
+      <environnement>SNCF -Technicentre de LYON</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>- Proposer différents budget pour chaque solution.
+- Rédiger un document clair et compréhensible par tous.</commentaireactivite>
+      </activitecitee>
+      <production numero="353">
+        <numero>353</numero>
+        <designation>Recensement Telecom et réseau </designation>
+        <adresse>http://vincent-icof-fr.webnode.fr/projet-2-/</adresse>
+      </production>
+      <production numero="354">
+        <numero>354</numero>
+        <designation>Recensement Telecom et réseau </designation>
+        <adresse>http://vincent-icof-fr.webnode.fr/projet-2-/elaboration-et-presentation-dun-dossier-de-choix-de-solution-technique/</adresse>
+      </production>
+    </situation>
+    <situation ref="287">
+      <ref>287</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>A1.1.1 Analyse du cahier des charges d'un service à produire</libcourt>
+      <descriptif>Ananlyse d'un cahier des charges pour la réalisation d'un site web.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-20</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

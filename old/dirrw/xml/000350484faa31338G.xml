@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="50484faa31338">
+    <ref>50484faa31338</ref>
+    <datesv>2012-09-06</datesv>
+  </sauvegarde>
+  <etudiant numero="3">
+    <nom>Ba</nom>
+    <prenom>Khalilou</prenom>
+    <mel>khalilou.ba@icof.fr</mel>
+  </etudiant>
+</suivicomp>

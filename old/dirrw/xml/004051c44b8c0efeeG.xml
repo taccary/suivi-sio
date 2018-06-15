@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51c44b8c0efee">
+    <ref>51c44b8c0efee</ref>
+    <datesv>2013-06-21</datesv>
+  </sauvegarde>
+  <etudiant numero="40">
+    <nom>vinson</nom>
+    <prenom>laetitia</prenom>
+    <mel>laetitia.vinson@icof.fr</mel>
+    <situation ref="190">
+      <ref>190</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Participation réunion</libcourt>
+      <descriptif>Vendredi 24 mai, réunion avec Romain Boldi responsable du projet Elliade afin d'expliquer l'objectif de cette nouvelle plateforme. Cahier des charges donné et commenté</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="191">
+      <ref>191</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maquette dynamique</libcourt>
+      <descriptif>Suite au cahier des charges, construction d'une maquette dynamique</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="192">
+      <ref>192</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Exigences site</libcourt>
+      <descriptif>Rendez-vous avec Benoît Rambaud (informaticien) pour l'informer sur le but de la future plateforme. Sujets abordés: référencement, ergonomie, responsibilité du site, ...</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="193">
+      <ref>193</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Se documenter à propos d‘une technologie</libcourt>
+      <descriptif>Recherche d'information sur le Javascript et JQuery</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="194">
+      <ref>194</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Déterminer la norme du prestataire informatique</libcourt>
+      <descriptif>Rendez-vous avec Benoit Rambaut pour déterminer les normes du site notamment la responsivité du site (adaptation du site suivant l'écran)</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="195">
+      <ref>195</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Caractériser des solutions</libcourt>
+      <descriptif>Questionnement sur des solutions à mettre en place ou non tels que (liste déroulante, checkbox, site responsible, ...)
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Recenser et caractériser des solutions répondant au cahier des charges (réalisation d'une nouvelle)</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="196">
+      <ref>196</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Planning personnel</libcourt>
+      <descriptif>Mise en place d'un planning, évolution suivant les besoins à mettre en place suite à un rendez-vous</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="197">
+      <ref>197</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Composants logiciels</libcourt>
+      <descriptif>Déterminer les outils nécessaire au développement de la maquette dynamique c'est-à-dire Uwamp, NotePad++
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identifier les composants logiciels nécessaires à la conception de la maquette dynamique</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

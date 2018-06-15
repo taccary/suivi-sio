@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="58d52ecb144e2">
+    <ref>58d52ecb144e2</ref>
+    <datesv>2017-03-24</datesv>
+  </sauvegarde>
+  <etudiant numero="129">
+    <nom>COLANGE</nom>
+    <prenom>Mathis</prenom>
+    <mel>Mathis.COLANGE@icof.fr</mel>
+    <situation ref="933">
+      <ref>933</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 1 - SCCM : Mise en production</libcourt>
+      <descriptif>Mise en production du système de déploiement logiciel Microsoft SCCM 2012 pour le site INL UCBL</descriptif>
+      <contexte>J'ai travailler sur la mise en production du service SCCM pour le site de l'INL UCBL, mission que j'ai effectuer en tache de fond sur toute la durée du stage et ou j'était essentiellement seul a travailler sur le déploiement.</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Windows 7 Pro, Console SCCM sous Windows serveur 2012, Hyper-V</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Réalisation une séquence de taches en conformité avec les besoins de l’INL demandé par mon maître de stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Modification de la variable de cache afin que tous les logiciels utilisés par l'INL puissent être installés sur les machines clientes.
+Choix parmis 3 solutions, de la meilleure solution pour le déploiement logiciel selon les exigences de l'INL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Choix de la solution de média d'installation, création d'un serveur de distribution sous Hyper-V, préparation du logiciel SCCM au déploiement logiciels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparation de plusieurs jeux d'essais a la fois sur la machine test mais aussi sur l'environnement SCCM (Test de déploiement, de suppression, d'installation de logiciels lourds, ajout de package de logiciel sur serveur de distribution)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mise en place d'une machine test pour tester tous les déploiements de logiciels et de verifier le bon déroulement des séquences de tâches.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Automatisation de l'installation d'un windows, et déploiement des logiciels sur les machines clientes SCCM</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation d'un serveur de distribution sous Hyper-V</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration de SCCM et du serveur de distribution depuis un serveur Windows 2012 n'étant pas sur le même site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Modification des séquences de tâches qui n'aboutissent pas, résolution de problème de déploiement logiciel en modifiant le cache SCCM pour accueillir des logiciels lourds.
+Analyse des erreurs depuis la console SCCM qui assure un suivi du déploiement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Relance d'installation SCCM après modifications des séquences de taches et/ou déploiement
+Tests sur les 3 solutions d'organisation de déploiement logiciels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Gestion de configuration d'un système d'exploitation a l'aide de SCCM pour le déploiement automatisé de nouvelle machine </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche diverses sur SCCM et renseignement sur la technologie</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Découverte du service SCCM et de son fonctionnement, prise en main de son logiciel. Documentation et formation sur la solution SCCM</commentaireactivite>
+      </activitecitee>
+      <production numero="1617">
+        <numero>1617</numero>
+        <designation>Découverte de SCCM</designation>
+        <adresse>http://mathis.colange.fr/sccm-decouverte-de-sccm/</adresse>
+      </production>
+      <production numero="1618">
+        <numero>1618</numero>
+        <designation>Gestion des séquences de tâches</designation>
+        <adresse>http://mathis.colange.fr/sccm-sequences-de-taches/</adresse>
+      </production>
+      <production numero="1619">
+        <numero>1619</numero>
+        <designation>Ajout des séquences de tâches</designation>
+        <adresse>http://mathis.colange.fr/sccm-ajout-de-sequences-de-taches/</adresse>
+      </production>
+      <production numero="1620">
+        <numero>1620</numero>
+        <designation>Ajout de pilote</designation>
+        <adresse>http://mathis.colange.fr/sccm-ajout-dun-pilote-pour-un-ordinateur/</adresse>
+      </production>
+      <production numero="1621">
+        <numero>1621</numero>
+        <designation>Média d'installation</designation>
+        <adresse>http://mathis.colange.fr/sccm-media-dinstallation/</adresse>
+      </production>
+      <production numero="1622">
+        <numero>1622</numero>
+        <designation>Création de regroupement</designation>
+        <adresse>http://mathis.colange.fr/sccm-creation-de-regroupements/</adresse>
+      </production>
+      <production numero="1623">
+        <numero>1623</numero>
+        <designation>Déploiement logiciels</designation>
+        <adresse>http://mathis.colange.fr/sccm-creation-dun-deploiement-logiciel/</adresse>
+      </production>
+      <production numero="1624">
+        <numero>1624</numero>
+        <designation>Ajout des logiciels à SCCM</designation>
+        <adresse>http://mathis.colange.fr/sccm-ajout-des-logiciels-a-sccm/</adresse>
+      </production>
+      <production numero="1625">
+        <numero>1625</numero>
+        <designation>Gestion du cache SCCM</designation>
+        <adresse>http://mathis.colange.fr/sccm-gestion-du-cache-sccm/</adresse>
+      </production>
+      <production numero="1626">
+        <numero>1626</numero>
+        <designation>Installation Hyper-V</designation>
+        <adresse>http://mathis.colange.fr/sccm-installation-hyper-v/</adresse>
+      </production>
+      <production numero="1627">
+        <numero>1627</numero>
+        <designation>Création regroupement parent</designation>
+        <adresse>http://mathis.colange.fr/sccm-creation-regroupement-parent/</adresse>
+      </production>
+      <production numero="1628">
+        <numero>1628</numero>
+        <designation>Endpoint Antivirus</designation>
+        <adresse>http://mathis.colange.fr/sccm-endpoint-antivirus/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="934">
+      <ref>934</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 1 - ECRANS : Uniformiser et optimiser les installations</libcourt>
+      <descriptif>Sur cette mission, j’ai dû travailler sur les différents écrans disposés dans les différents services et étages. Pour des uniformisations d'installation et des optimisations visuelles</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Windows 10, Windows Vista, Windows 7</environnement>
+      <moyen>Bureau a distance</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Demande d'effacement du curseur et report des alertes des mises a jour pour optimisation visuelle, uniformisation des installations en changeant un nom de session n’étant pas comme les autres, réparer un problème de BIOS coupant le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Choix d'une solution pour l'effacement du curseur et le report des alertes de mises a jour sur les écrans d'accueil
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résolution d'incidents sur l'ecran tactile salle pv pour le calibrage et le bug de Microsoft Edge
+Résolution d'incident pour une erreur BIOS sur un écran d'accueil</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Le problème sur l’écran tactile de la salle PV était une demande du responsable de la salle PV</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Identification du problème pour le calibrage et l'erreur Microsoft Edge sur l’écran tactile de la salle PV</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Modification pour le curseur, le report d'alertes mise a jour a distance sur les écrans d'accueil. De même pour l’écran d'accueil ou il fallait changer le nom de session</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Proposition d'un logiciel pour l'effacement du curseur, car aucune solution native existe</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="935">
+      <ref>935</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>STAGE 1 - PC EXPERIMENTATION : Sauvegarde et réparation</libcourt>
+      <descriptif>Dans cette mission j'ai travailler sur la réparation d'un PC de labo qui faisais un écran BSOD et sur la sauvegarde de machine de laboratoire ancienne</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Windows XP, Windows 95-98-2000, Ubuntu, Windows 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Élaboration de choix technique pour les sauvegardes sur les ordinateurs anciens de la salle PV</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Maintenir une qualité de service pour le PC FTIR en réparant le problème BSOD et aussi en prévoyant un changement de PC</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Gestion d'incidents avec le problème BSOD de l'ordinateur du FTIR</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Réponse a la demande d'assistance des responsables de la salle PV pour trouver une solution pour les sauvegardes des machines anciennes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Identification du problème faisant apparaître l'erreur BSOD sur le PC FTIR </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Pour le PC FTIR une proposition de changement de PC sous Windows 7 au responsable de la salle FTIR pour une meilleur condition de travail</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement du PC FTIR par une machine de test configuré sous Windows 7</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Solution de sauvegarde pour des machines sous Windows 95-98-2000 non connecté au réseau de l'INL</commentaireactivite>
+      </activitecitee>
+      <production numero="1629">
+        <numero>1629</numero>
+        <designation>Erreur BIOS FTIR</designation>
+        <adresse>http://mathis.colange.fr/ftir-probleme-bsod/</adresse>
+      </production>
+      <production numero="1630">
+        <numero>1630</numero>
+        <designation>Anciennes machines de la salle PV</designation>
+        <adresse>http://mathis.colange.fr/salle-pv-sauvegarde-anciennes-machines/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="936">
+      <ref>936</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>STAGE 1 - PC : Installation de machines sur le site UCBL INL</libcourt>
+      <descriptif>Différentes maintenances ou installations de machines sur le site de l'INL</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Windows 7, Ubuntu, Mac OSX</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Pour le MAC adaptation de la procédure INL d'installation d'un pc Windows. Répondre au besoin de l'utilisateur pour l'installation et les outils de son MAC</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Accompagnement de l'utilisateur pour l'installation et la configuration du nouveau MAC</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Suivi et compte-rendu a l'utilisateur une fois le MAC installé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résolution du problème du RAID sur la machine test de SCCM et sur la machine stagiaire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Identification des problèmes RAID sur les deux machines (test SCCM et machine stagiaire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Sauvegarde du contenu de la machine test SCCM a l'aide de GHOST avant la suppression du RAID (car ancien serveur de partage)</commentaireactivite>
+      </activitecitee>
+      <production numero="1631">
+        <numero>1631</numero>
+        <designation>Gestion RAID</designation>
+        <adresse>http://mathis.colange.fr/raid-gestion-raid-machine-test-et-stagiaire/</adresse>
+      </production>
+      <production numero="1632">
+        <numero>1632</numero>
+        <designation>Sauvegarde GHOST et GHOST EXPLORER</designation>
+        <adresse>http://mathis.colange.fr/raid-sauvegarde-lpmserveur-machine-test-sccm/</adresse>
+      </production>
+    </situation>
+    <situation ref="937">
+      <ref>937</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 1 - BONITA : Rédaction de processus métiers</libcourt>
+      <descriptif>Rédaction de processus métiers pour le transfert des compétences et l'amélioration de la qualité de service.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Windows 7, BonitaBPM</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Ecriture des procédures pour SCCM, et de l'installation du PC FTIR</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise a jour de la procédure pour les écrans d'accueil en rajoutant l'effacement du curseur souris</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Prise en main de BonitaBPM et documentation sur son utilisation et son principe de fonctionnement afin de rédiger toutes les procédures SCCM seul</commentaireactivite>
+      </activitecitee>
+      <production numero="1633">
+        <numero>1633</numero>
+        <designation>Procédures SCCM</designation>
+        <adresse>http://mathis.colange.fr/procedure-sccm/</adresse>
+      </production>
+      <production numero="1634">
+        <numero>1634</numero>
+        <designation>Procédure FTIR</designation>
+        <adresse>http://mathis.colange.fr/procedure-ftir/</adresse>
+      </production>
+      <production numero="1635">
+        <numero>1635</numero>
+        <designation>Procédure mise a jour pour le curseur</designation>
+        <adresse>http://mathis.colange.fr/procedure-mise-a-jour-pour-le-curseur/</adresse>
+      </production>
+      <production numero="1636">
+        <numero>1636</numero>
+        <designation>Interface BonitaBPM</designation>
+        <adresse>http://mathis.colange.fr/procedure-interface-bonitabpm/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1050">
+      <ref>1050</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 2 - SERVICES : Etude et mise en place de nouveaux services</libcourt>
+      <descriptif>Etude et mise en place de nouveaux services pour les utilisateurs de l'INL (logiciels, imprimantes, mises a jour, serveur de partage)</descriptif>
+      <contexte>Stage de 2ème année</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>Windows, Active Directory</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Preparation des différents test d'impression pour l'imprimante. Préparation des différents test de déploiement des GPO.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tests des GPO sur une machine de test. Et test des différents modes d'impression de la nouvelle imprimante.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Création d'un tutoriel pour installer la nouvelle imprimante manuellement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de l'imprimante et des GPO une fois les tests validés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Intervention sur le site de l'UCBL INL afin d'accompagner les utilisateurs ayant de sproblèmes avec la nouvelle imprimantes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et déclaration de l'adresse IP fixe de la nouvelle imprimante.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction de procédures de mises a jour d'installation de la nouvelle imprimante de la salle stagiaire et rédaction procédures pour première configuration de Pydio.</commentaireactivite>
+      </activitecitee>
+      <production numero="1763">
+        <numero>1763</numero>
+        <designation>Déploiement Pydio</designation>
+        <adresse>https://mathis.colange.fr/deploiement-pydio/</adresse>
+      </production>
+      <production numero="1764">
+        <numero>1764</numero>
+        <designation>Déploiement nouvelle imprimante</designation>
+        <adresse>https://mathis.colange.fr/deploiement-imprimante/</adresse>
+      </production>
+      <production numero="1765">
+        <numero>1765</numero>
+        <designation>Déploiement Druva InSync 5.8</designation>
+        <adresse>https://mathis.colange.fr/deploiement-druva-insync-5-8/</adresse>
+      </production>
+      <production numero="1766">
+        <numero>1766</numero>
+        <designation>Déploiement Partage INL UCBL</designation>
+        <adresse>https://mathis.colange.fr/deploiement-partage-inl-ucbl/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1051">
+      <ref>1051</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 2 - SCCM : Consolidation du service Microsoft SCCM 2012 R2</libcourt>
+      <descriptif>Maintenance et consolidation du service SCCM de l'UCBL INL, Optimisation des images de boot, Modification de package de logiciels, Test de déploiement, Ajout de package et modification de séquence de taches</descriptif>
+      <contexte>Stage de 2ème année</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>Windows Server, Hyper-V, Console SCCM</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Mettre a jour les paquets qui ne fonctionne pas afin de répondre au exigence de la qualité de services</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test des package logiciels mis a jour et/ou crée sur une machine de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement des package défectueux, mise a jour des versions des packages logiciels devenus obsolètes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration de SCCM sur un serveur Windows n'étant pas sur le même site</commentaireactivite>
+      </activitecitee>
+      <production numero="1767">
+        <numero>1767</numero>
+        <designation>Consolidation du service Microsoft SCCM 2012 R2</designation>
+        <adresse>https://mathis.colange.fr/consolidation-du-service-microsoft-sccm-2012-r2/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1052">
+      <ref>1052</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 2 - SALLE SRV : Gestion et maintenance</libcourt>
+      <descriptif>Remise en service d'un serveur HP (Reparation hardware et software), aménagement de la salle serveur pour mise en place d'un poste KVM, Etudier et supprimer les serveur obsolètes de la salle.</descriptif>
+      <contexte>Stage de 2ème année</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>XenServer, Windows Server</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test des différents composants du serveur HP (test des disques durs, de la ram, batterie RAID...) Test S.M.A.R.T et Test Memtest86+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Identification du problème sur le serveur HP crashé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Proposition de remplacer les disques defectueux et d'ajouter 24Go de RAM sur le serveur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation de la nouvelle batterie RAID, des nouveaux disques dur et de la RAM.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration du serveur a distance lors des tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Récupération et listing des composants du serveur HP, des serveurs informatiques obsolètes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation sur la carte RAID du serveur HP et de ses composants.
+Documentation sur la technologie KVM lors de son installation.</commentaireactivite>
+      </activitecitee>
+      <production numero="1768">
+        <numero>1768</numero>
+        <designation>RÉPARATION ET RESTAURATION D’UN SERVEUR HP CRASHÉ</designation>
+        <adresse>https://mathis.colange.fr/reparation-et-restauration-dun-serveur-hp-crashe/</adresse>
+      </production>
+      <production numero="1769">
+        <numero>1769</numero>
+        <designation>Gestion de la salle serveur</designation>
+        <adresse>https://mathis.colange.fr/gestion-de-la-salle-serveur-de-linl/</adresse>
+      </production>
+    </situation>
+    <situation ref="1053">
+      <ref>1053</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 2 - VIRTU : Gestion des serveurs avec un hyperviseur</libcourt>
+      <descriptif>Installation hyperviseur Xen7, installation de serveur virtuel CentOS 7 sous Xen, gestion des serveur sous Hyper-V, Création de serveur Windows Server 2012&amp;2016 sous Hyper-V</descriptif>
+      <contexte>Stage de 2ème année</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>XenServer (Console de gestion), Hyper-V (Console de gestion), Windows Server, CentOS7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Installation de serveur virtuel sous Windows (Hyper-V) et CentOS (XenServer).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Problème avec le logiciel Blender (Logiciel de rendu 3D) lors de son installation sur une machine virtuelle.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation de l'hyperviseur Xen sur la machine HP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Mises a jour de XenServer et disque dur d'un VM étendue car manque de place (sous Hyper-V)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration et configuration du XenServer depuis la console de gestion XenCenter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Découverte de XenCenter et de son fonctionnement.</commentaireactivite>
+      </activitecitee>
+      <production numero="1770">
+        <numero>1770</numero>
+        <designation>Gestion de serveurs virtuels sous Hyper-V</designation>
+        <adresse>https://mathis.colange.fr/gestion-de-serveurs-virtuels-sous-hyper-v/</adresse>
+      </production>
+      <production numero="1771">
+        <numero>1771</numero>
+        <designation>Gestion de serveurs virtuels sous XenServer</designation>
+        <adresse>https://mathis.colange.fr/gestion-de-serveurs-virtuels-sous-xenserver/</adresse>
+      </production>
+    </situation>
+    <situation ref="1054">
+      <ref>1054</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 2 - PC EXPERIMENTATION : Dépannage et réparation</libcourt>
+      <descriptif>Maintenance, sauvegarde et réparation de différences ordinateurs d'expérimentation a la suite de demandes des utilisateurs. Sauvegarde et backup faite a l'aide de GHOST. Installation/Réparation de logiciels scientifique</descriptif>
+      <contexte>Stage de 2ème année</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>Windows 7, Windows XP, Windows 8</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test d'un PC de manipulation a la suite de sa réinstallation (test des logiciels scientifique et bon fonctionnement des drivers)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Création des étiquettes pour cable de sécurité et mise a jour des noms des cables/etiquettes/clés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Incident technique sur une machine de manip (Remplacement de l'alimentation a la suite d'une coupure de courant)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Problème de machine de manip que ne démarre plus (faux contact prise ATX) + Caméra scientifique non reconnu par le PC (Réinstallation du driver)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Identification du problème de faux contact ATX, Identification du problème de driver et anticipation de changement d'alimentation du PC ayant subi une coupure de courant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement de l'alimentation de la machine.</commentaireactivite>
+      </activitecitee>
+      <production numero="1772">
+        <numero>1772</numero>
+        <designation>Dépannage et réparation d'ordinateurs d’expérimentation</designation>
+        <adresse>https://mathis.colange.fr/depannage-et-reparation-dordinateurs-dexperimentation/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1055">
+      <ref>1055</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 2 - PC : Installation de machines sur le site UCBL INL</libcourt>
+      <descriptif>Sur le site UCBL de l’INL, Installation de l'OS a l'aide du service SCCM, déploiement logiciel, chiffrement, Déclaration IP, Ajout a l'Active Directory, Transfert des données et accompagnement des utilisateurs. Installation d'un nouvel écran tactile</descriptif>
+      <contexte>Stage de 2ème année</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>Windows 7, Windows Server, Windows 10</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test de l'écran tactile tactile avant livraison. (Fonctionnement des scripts, auto-boot et auto-login)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en place du mot de passe admin-local pour les utilisateurs et installation du pc dans le bureau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement OS et logiciel a l'aide de SCCM. Chiffrement de la machine avec BitLocker</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Inventaire machine, câble de sécurité, étiquetage des machines et des câbles. Inventaire et étiquetage de l'écran tactile.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aide des utilisateurs dans la premiere prise en main et réponse a leur questions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Gestion des problèmes rencontrés lors de l'installation d'une machine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation du nouvel écran tactile dans la salle blanche LIPPMANN</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Ajout de la machine dans l'active directory via serveur distant et déclaration IP a distance via le site du CISR</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Backup et restauration des données lors d'une réinstallation d'une machine.</commentaireactivite>
+      </activitecitee>
+      <production numero="1773">
+        <numero>1773</numero>
+        <designation>Installation de machines sur le site UCBL INL</designation>
+        <adresse>https://mathis.colange.fr/installation-de-machines-sur-le-site-ucbl-inl/</adresse>
+      </production>
+      <production numero="1774">
+        <numero>1774</numero>
+        <designation>Maintenance de machine sur le site INL</designation>
+        <adresse>https://mathis.colange.fr/maintenance-de-machine-sur-le-site-inl/</adresse>
+      </production>
+      <production numero="1775">
+        <numero>1775</numero>
+        <designation>Installation et maintenance des écrans tactiles</designation>
+        <adresse>https://mathis.colange.fr/installation-et-maintenance-des-ecrans-tactiles/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1059">
+      <ref>1059</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 1&amp;2 - Assistance utilisateurs</libcourt>
+      <descriptif>Lors de mes 2 stages je suis intervenu auprès des usagers sur les différents site de l'INL selon leurs différentes demandes comme par exemple : gestion visio conférences H323 et tutoriel pour les utilisateurs, dépannage...</descriptif>
+      <contexte>Stage de 1ere &amp; 2ème année</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>Windows 7, Ubuntu</environnement>
+      <moyen>Bureau a distance, déplacement</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aide pour la mise en place d'une visio conférence H323</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Incident connexion LDAP sur serveur CentOS7, la connexion ne fonctionne plus.
+Réparation d'une clé USB infecté a l'aide d'ubuntu isolé du reseau</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Demande d'assistance visio conférence, installation VPN pour PC inter-sites, demande d'assistance pour installation imprimante.
+Demande d'assistance sur une imprimante qui ne fonctionne pas, Demande d'assistance a distance pour un problème mail spam</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Pour l'assistance de l'imprimante récuperer -&gt; Après tests ne démarre plus.
+Pour le problème LDAP -&gt; Mises a jour des certificats.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Changement d'un toner d'imprimante du rez de chaussée Blaise Pascal.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche sur LAPS utilisé dans l'active directory de l'INSA. Recherche sur le fonctionnement des visio H323</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude de LAPS. Etude du fonctionnement de H323</commentaireactivite>
+      </activitecitee>
+      <production numero="1776">
+        <numero>1776</numero>
+        <designation>Assistance utilisateurs</designation>
+        <adresse>https://mathis.colange.fr/assistance-utilisateurs/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

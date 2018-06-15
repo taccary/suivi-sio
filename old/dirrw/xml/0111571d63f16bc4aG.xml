@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="571d63f16bc4a">
+    <ref>571d63f16bc4a</ref>
+    <datesv>2016-04-25</datesv>
+  </sauvegarde>
+  <etudiant numero="111">
+    <nom>HERNANDEZ</nom>
+    <prenom>Alexandre</prenom>
+    <mel>alexandre.hernandez@icof.fr</mel>
+    <situation ref="716">
+      <ref>716</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1 - Développement d'un site de vente en ligne</libcourt>
+      <descriptif>Conception d'une plateforme de vente de contenu pour la société Mediagram.</descriptif>
+      <contexte>Création d'un site web</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-18</datefin>
+      <environnement>Jmeryse  - PhpMyAdmin - Windows 8 - Dreamweaver</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des différentes fonctionnalité du site a l'aide d'un cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Recherche des différentes solutions pour développer la plateforme et des composants nécessaire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception de la Base de Données sous Jmeryse et PHPMyAdmin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Gestion du développement sous Dreamweaver</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1283">
+        <numero>1283</numero>
+        <designation>Table BDD</designation>
+        <adresse>http://image.noelshack.com/fichiers/2015/26/1435526374-table-video.jpg</adresse>
+      </production>
+      <production numero="1305">
+        <numero>1305</numero>
+        <designation>Cahier des charges </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/alexandre_hernandez_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=DLiGNK98LhRDQP0FYfWVnyL0NMTGvwZ4F1z58sVz5zg%3d&amp;docid=05d08e7bfae544811b191a01360a10093</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="781">
+      <ref>781</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>STAGE 2 - Développement du site web Mediagram</libcourt>
+      <descriptif>Développement d'un site Vitrine pour Mediagram avec une partie de vente de différentes études sous forme de fichier PDF.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>Développement sous MAC. Framework PHP : Symfony 3.0. Gestion de configurations : GitHub. Travail en local sous MAMP. Environnement de développement : Atom</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compte rendu de l'ensemble des tâches réalisées</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Utilisation de Doctrine sous Symfony</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de Git</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Utilisation de Symfony 3.0</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1539">
+        <numero>1539</numero>
+        <designation>Documentation Technique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/alexandre_hernandez_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=n4HZKL0bmDRuly9rhEhGR3i4VyMnClj5YbB0%2frzAQwU%3d&amp;docid=09f14de9837774cf6b8eb21da669e60b0</adresse>
+      </production>
+      <production numero="1540">
+        <numero>1540</numero>
+        <designation>Compte Rendu Final</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/alexandre_hernandez_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=M3HuuKrwudmJVxcZYszJWwVonRCvrsWUqEd2uBADbIs%3d&amp;docid=1ebb8d8c1ffaf40158b0b5ad285c8d4a8</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="795">
+      <ref>795</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 1 - PPE PHP</libcourt>
+      <descriptif>Développement d'une application PHP nommée GSB qui permet de gérer des comptes rendus , des praticiens et des médicaments</descriptif>
+      <contexte>PPE en équipe</contexte>
+      <datedebut>2016-03-01</datedebut>
+      <datefin>2016-03-01</datefin>
+      <environnement>PHP , mySQL
+PHPMYADMIN , UWAMP, Notepad++ </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="804">
+      <ref>804</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Veille technologique</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-01</datedebut>
+      <datefin>2016-03-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b03b9d8e2b11">
+    <ref>5b03b9d8e2b11</ref>
+    <datesv>2018-05-22</datesv>
+  </sauvegarde>
+  <etudiant numero="194">
+    <nom>CHAPOT</nom>
+    <prenom>Alexandre</prenom>
+    <mel>alexandre.chapot@icof.fr</mel>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a941fd690dbe">
+    <ref>5a941fd690dbe</ref>
+    <datesv>2018-02-26</datesv>
+  </sauvegarde>
+  <etudiant numero="7">
+    <nom>Grimal</nom>
+    <prenom>Matthieu</prenom>
+    <mel>matthieu.grimal@icof.fr</mel>
+    <situation ref="11">
+      <ref>11</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Conception d'une base de données</libcourt>
+      <descriptif>Conception d'une nouvelle base de données MySQL, depuis une base Access.</descriptif>
+      <contexte>Développement de l'environnement numérique de travail d'exalta.</contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-07-13</datefin>
+      <environnement>Power AMC, Serveur local xampp</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Proposition de remplacement de la base de données Access par un application web, accessible à tous les employés de façon intuitive.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Passage d'une base Access non normalisé et non optimisé, à une base de données MySQL normalisé et optimisé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception d'une base de Données MySQL avec comme base d'information, une base de données Access.</commentaireactivite>
+      </activitecitee>
+      <production numero="27">
+        <numero>27</numero>
+        <designation>Rapport de Stage</designation>
+        <adresse>http://saya-irino.fr/ICOF/Rapport%20de%20Stage.pdf</adresse>
+      </production>
+    </situation>
+    <situation ref="16">
+      <ref>16</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement d'une application Web</libcourt>
+      <descriptif>Développement de l'environnement numérique de travail d'exalta.
+Codage en PHP avec le framework Symdony 2.</descriptif>
+      <contexte>Développement de l'environnement numérique de travail.</contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-07-13</datefin>
+      <environnement>Netbeans, plateforme local xampp.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation au Développement de l'application web : Environnement numérique de travail d'exalta.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Démonstration et explication du fonctionnement de l'application aux employés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Proposition de remplacement d'un script VBA par une application PHP complète et intuitive.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et Configuration d'un serveur Web : Apache, Mysql, PHP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement d'une base de données Access et de son script VBA par une base de données MySQL et son application PHP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Proposition du Framework Symfony 2.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface utilisateur de l'application Web, de la façons la plus intuitive possible.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Installation, configuration et utilisation de NetBeans.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement en PHP de l'environnement numérique de travail. Utilisation de Doctrine 2.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test de l'application au fur et a mesure que les modules sont codés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Élaboration de jeux d'essai, permettant de voir et de corriger les bugs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Réalisation des tests après correction des bugs, et test de mises en production sur serveur secondaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du Framework PHP Symfony 2, du moteur de Template TWIG et de l'ORM Doctrine 2.</commentaireactivite>
+      </activitecitee>
+      <production numero="28">
+        <numero>28</numero>
+        <designation>Rapport de Stage</designation>
+        <adresse>http://saya-irino.fr/ICOF/Rapport%20de%20Stage.pdf</adresse>
+      </production>
+      <production numero="223">
+        <numero>223</numero>
+        <designation>Documentation Symfony 2</designation>
+        <adresse>http://symfony.com/doc/current/index.html</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="79">
+      <ref>79</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 0</libcourt>
+      <descriptif>Travail sur le contexte GSB.
+Installation du contexte en local
+Production d’un guide d’installation
+Travail sur les normes de développement : production d’un document
+Création de la base de données à partir d’un fichier Excel (csv) contenant les mises</descriptif>
+      <contexte>GSB</contexte>
+      <datedebut>2013-01-06</datedebut>
+      <datefin>2013-01-06</datefin>
+      <environnement>Word, Notepad++, Windows 7, Excel, XAMPP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production d'un guide d'installation de l'application GSB.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Vérification du respect des normes. Production d'un document permettant de rectifier les erreurs.</commentaireactivite>
+      </activitecitee>
+      <production numero="80">
+        <numero>80</numero>
+        <designation>Notes sur les normes de développement</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE0/Grimal%20-%20Note%20Normes.docx</adresse>
+      </production>
+      <production numero="81">
+        <numero>81</numero>
+        <designation>Tuto d'installation</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE0/Grimal%20-%20Tutos%20install%20appli.docx</adresse>
+      </production>
+      <production numero="273">
+        <numero>273</numero>
+        <designation>CDC</designation>
+        <adresse>http://saya-irino.fr/ICOF/GSB-FicheDescriptive.doc</adresse>
+      </production>
+    </situation>
+    <situation ref="80">
+      <ref>80</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 1</libcourt>
+      <descriptif>Développement de l'application Comptable GSB.
+Lister et chiffrer les tâches à effectuer (document à produire par équipe)
+Développer les fonctionnalités « clôture » et « validation »
+Document à rendre : Dossier technique des modifications effectuées (s</descriptif>
+      <contexte>GSB</contexte>
+      <datedebut>2013-01-06</datedebut>
+      <datefin>2013-01-06</datefin>
+      <environnement>Netbeans PHP, XAMPP, Word</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Lecture du cahier des charges de l'application, et listage des tâches à effectuer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Analyse des conséquences de l'intégration d'une nouvelle application au système de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travail sur l'application et production de document permettant de rendre compte du travail effectué.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Suivis du travail des différents membres de l'équipe, analyse du retard ou de l'avance prise sur le planning établit, évaluation des performances de l'équipe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définition des spécifications de l'application, création d'une maquette et validation par l'équipe du choix de la technologie employée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification de la base de données GSB pour pouvoir y intégrer la nouvelle application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Listages des tâches, et prévisions du temps d’exécution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation de NetBeans PHP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de l'application GSB comptable, entièrement en PHP.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production de la documentation technique de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Création d'un jeux d'essai pour l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Vérification de l'emploi des normes.</commentaireactivite>
+      </activitecitee>
+      <production numero="82">
+        <numero>82</numero>
+        <designation>Documentation technique</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE1/Documentation%20Technique%20GSB%20-%20Team%20B.docx</adresse>
+      </production>
+      <production numero="83">
+        <numero>83</numero>
+        <designation>Gantt</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE1/GSB%20Gantt%20-%20Team%20B.xlsx</adresse>
+      </production>
+      <production numero="85">
+        <numero>85</numero>
+        <designation>Tâches à effectuer</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE1/T%c3%a2ches%20%c3%a0%20effectu%c3%a9es%20-%20Richard,%20Sok,%20Grimal.docx</adresse>
+      </production>
+      <production numero="274">
+        <numero>274</numero>
+        <designation>CDC</designation>
+        <adresse>http://saya-irino.fr/ICOF/GSB-FicheDescriptive.doc</adresse>
+      </production>
+    </situation>
+    <situation ref="81">
+      <ref>81</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 2</libcourt>
+      <descriptif>Création du Back-Office permettant de gérer les visiteurs.
+Lister et chiffrer les tâches à effectuer (document à produire par équipe)
+Proposer une maquette des différents écrans ou pages
+Développer les fonctionnalités « gestion des visiteurs » et « sta</descriptif>
+      <contexte>GSB</contexte>
+      <datedebut>2013-01-06</datedebut>
+      <datefin>2013-01-06</datefin>
+      <environnement>Netbeans JAVA, Git</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges et listage des tâches.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Etudes des conséquences de l’intégration d'une nouvelle application aux système.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Production d'une documentation technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation au projet et production d'une documentation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modification de la base de données GSB.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Créations de prototype avec Netbeans, et validation par l'équipe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation de NetBeans JAVA.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement du Back-Office en JAVA.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction de la documentation technique de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Test de l'application.</commentaireactivite>
+      </activitecitee>
+      <production numero="86">
+        <numero>86</numero>
+        <designation>Jeu d'essai</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/Fiche%20test%20visualition%20TEAM%20B.docx</adresse>
+      </production>
+      <production numero="87">
+        <numero>87</numero>
+        <designation>Tâches à effectuer</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/GSB2%20-%20T%c3%a2ches%20-%20Team%20B.docx</adresse>
+      </production>
+      <production numero="88">
+        <numero>88</numero>
+        <designation>Maquette</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/Gestion%20visiteurs.png</adresse>
+      </production>
+      <production numero="89">
+        <numero>89</numero>
+        <designation>Jeu d'essai</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/Jeux%20d'essai%20secteur.docx</adresse>
+      </production>
+      <production numero="90">
+        <numero>90</numero>
+        <designation>Tâches à effectuer</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/T%c3%a2ches%20TEAM%20B.xlsx</adresse>
+      </production>
+      <production numero="91">
+        <numero>91</numero>
+        <designation>Documentation technique</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/doc%20gestion%20visiteurs%20-%20Team%20B.docx</adresse>
+      </production>
+      <production numero="92">
+        <numero>92</numero>
+        <designation>Jeu d'essai</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/fiche%20test%20gestion%20visiteurs%20-%20Team%20B.docx</adresse>
+      </production>
+      <production numero="93">
+        <numero>93</numero>
+        <designation>Maquette</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/secteur_add_edit_list.png</adresse>
+      </production>
+      <production numero="94">
+        <numero>94</numero>
+        <designation>Maquette</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/secteur_affectation.png</adresse>
+      </production>
+      <production numero="95">
+        <numero>95</numero>
+        <designation>Maquette</designation>
+        <adresse>http://saya-irino.fr/ICOF/PPE2/visualisation%20des%20frais.png</adresse>
+      </production>
+      <production numero="275">
+        <numero>275</numero>
+        <designation>CDC</designation>
+        <adresse>http://saya-irino.fr/ICOF/GSB-FicheDescriptive.doc</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="122">
+      <ref>122</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2ème année</libcourt>
+      <descriptif>Amélioration d'un solution existante.
+Modification de la base de données.
+Développement de la nouvelle application.</descriptif>
+      <contexte>Stage de 2ème années.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-02-22</datefin>
+      <environnement>XAMPP, Mutualisé OVH, SQL Privé OVH, MySQL, Microsoft Windows 8, Microsoft WebMatrix, MySQL Workbench, Sybase PowerAMC, Google Chrome.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Etudes des propositions du client, et, proposer une solutions alternative à ce qui n'est pas faisable.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Etudes des risques. Installation de sécurité en cas de mauvaise manipulation par l'utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Définitions des informations visible selon les rôles, et attributions de ces rôles aux utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en production de l'application Web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation au projet du stage. Développement de l'application Web. Rendre compte au maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Estimations du temps de travail en fonction du nombres de personnes travaillant sur le projet. Affectation des tâches.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Formation du maître de stage à CodeIgniter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Prise en charges de plusieurs bugs. Définition du degré d'urgence. Résolution des bugs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Reflexion autour du projet d'amélioration de l'ENT.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Création de maquettes d'interfaces.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Automatisation de la sauvegarde de la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Proposition des améliorations à effectuer sur la nouvelle version de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définition des besoin pour les nouvelles interfaces. Validation par le maître de stage. Conception de ces interfaces.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Adaptation de la base de données existante pour qu'elle soir compatible avec la nouvelle application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de la nouvelle version de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Etudes des offres de serveur d'hébergement web, et choix de l'une d'entres elles selon les critères imposé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du Framework PHP Codeigniter et du Framework JavaScript HighCharts.</commentaireactivite>
+      </activitecitee>
+      <production numero="71">
+        <numero>71</numero>
+        <designation>Rapport de Stage</designation>
+        <adresse>http://saya-irino.fr/ICOF/Rapport%20de%20Stage%202.pdf</adresse>
+      </production>
+      <production numero="73">
+        <numero>73</numero>
+        <designation>Planning</designation>
+        <adresse>http://saya-irino.fr/ICOF/planning.xlsx</adresse>
+      </production>
+      <production numero="74">
+        <numero>74</numero>
+        <designation>Traitement de bug</designation>
+        <adresse>http://saya-irino.fr/ICOF/RE%20ent%20%C3%A0%20nouveau%20impossible%20de%20mettre%20des%20commentaires%20dans%20l'offre%20et%20%C3%A0%20partir%20de%20la%20liste%20devis%20%C3%A0%20faire.htm</adresse>
+      </production>
+      <production numero="75">
+        <numero>75</numero>
+        <designation>Traitement de Bug</designation>
+        <adresse>http://saya-irino.fr/ICOF/RE%20ent%20commentaires%20sur%20affaires%20en%20s%C3%A9lection%20pas%20sur%20la%20bonne%20affaire%20.htm</adresse>
+      </production>
+      <production numero="76">
+        <numero>76</numero>
+        <designation>Base de données</designation>
+        <adresse>http://saya-irino.fr/ICOF/bdd.svg</adresse>
+      </production>
+      <production numero="77">
+        <numero>77</numero>
+        <designation>Maquette d'Interface</designation>
+        <adresse>http://saya-irino.fr/ICOF/gerant_v1.png</adresse>
+      </production>
+      <production numero="78">
+        <numero>78</numero>
+        <designation>Trigger</designation>
+        <adresse>http://saya-irino.fr/ICOF/trigger%20tranche.sql</adresse>
+      </production>
+      <production numero="79">
+        <numero>79</numero>
+        <designation>Trigger</designation>
+        <adresse>http://saya-irino.fr/ICOF/trigger%20tranche%20update.sql</adresse>
+      </production>
+      <production numero="229">
+        <numero>229</numero>
+        <designation>Documentation CodeIgniter</designation>
+        <adresse>http://codeigniter.fr/user_guide/index.html</adresse>
+      </production>
+      <production numero="230">
+        <numero>230</numero>
+        <designation>Rapport de Stage Annexes</designation>
+        <adresse>http://saya-irino.fr/ICOF/Rapport%20de%20stage%202%20annexe.pdf</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="136">
+      <ref>136</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d'un dispositif de veille technologique</libcourt>
+      <descriptif>Mise en place d'un dispositif de veille technologique grâces à un suivis des flux RSS.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-03</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Windows</environnement>
+      <moyen>Netvibes</moyen>
+      <avisperso></avisperso>
+      <production numero="159">
+        <numero>159</numero>
+        <designation>Netvibes</designation>
+        <adresse>http://www.netvibes.com</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="140">
+      <ref>140</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>E4 : Applications CR</libcourt>
+      <descriptif>Développement des application de comptes rendus pour visiteur, dans le cadre de l'épreuve orale , dans le contexte GSB.</descriptif>
+      <contexte>GSB</contexte>
+      <datedebut>2013-04-14</datedebut>
+      <datefin>2013-04-14</datefin>
+      <environnement>Microsoft Windows 8, Microsoft Windows 7, Microsoft Windows Server 2012, Apache</environnement>
+      <moyen>Visual Studio 2012, Serveur Apache, Microsoft SQL Server 2012, Sublime Text 2</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction d'un dossier de spécifications techniques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparation de jeux d'essai pour tester l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test, et rédaction de rapport de test des applications.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de l'application Web sur le serveur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration d'un serveur Microsoft Windows Serveur 2012.
+Installation et configuration d'un serveur Apache.
+Installation et configuration d'un serveur Microsoft SQL 2012.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création de maquettes de l'interface de l'application.
+Conception de l'interface de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception et déploiement de la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Définition des éléments à développer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Création de tests unitaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de l'application Web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation des tests unitaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction des documentations techniques des applications.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction de la notice utilisateur.</commentaireactivite>
+      </activitecitee>
+      <production numero="163">
+        <numero>163</numero>
+        <designation>Cas d'utilisation textuelle</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%201/Cas_Utilisation_Web.docx</adresse>
+      </production>
+      <production numero="164">
+        <numero>164</numero>
+        <designation>Diagramme de cas d'utilisation</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%201/Cas_Utilisation_Web.vsdx</adresse>
+      </production>
+      <production numero="165">
+        <numero>165</numero>
+        <designation>Description</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%201/Epreuve%20E4.docx</adresse>
+      </production>
+      <production numero="166">
+        <numero>166</numero>
+        <designation>Jeux d'essai</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%201/Jeux%20d'essai.docx</adresse>
+      </production>
+      <production numero="167">
+        <numero>167</numero>
+        <designation>Spécifications Techniques</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%201/Sp%c3%a9cifications%20Techniques.docx</adresse>
+      </production>
+      <production numero="168">
+        <numero>168</numero>
+        <designation>MCD</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%201/bdd.png</adresse>
+      </production>
+      <production numero="169">
+        <numero>169</numero>
+        <designation>Script SQL</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%201/creabas.sql</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="141">
+      <ref>141</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>E4 : Back Office</libcourt>
+      <descriptif>Application de Back Office pour le Laboratoire, dans le cadre de l'épreuve orale , dans le contexte GSB.</descriptif>
+      <contexte>GSB</contexte>
+      <datedebut>2013-04-14</datedebut>
+      <datefin>2013-04-14</datefin>
+      <environnement>Microsoft Windows 8, Microsoft Windows 7, Microsoft Windows Server 2012</environnement>
+      <moyen>Visual Studio 2012, Microsoft SQL Server 2012</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction d'un dossier de spécifications techniques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Préparation de jeux d'essai pour tester l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test, et rédaction de rapport de test des applications.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de l'application Web sur le serveur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration d'un serveur Microsoft Windows Serveur 2012.
+Installation et configuration d'un serveur Apache.
+Installation et configuration d'un serveur Microsoft SQL 2012.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création de maquettes de l'interface de l'application.
+Conception de l'interface de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception et déploiement de la base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Définition des éléments à développer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Création de tests unitaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de l'application Client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation des tests unitaires.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction des documentations techniques des applications.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction de la notice utilisateur.</commentaireactivite>
+      </activitecitee>
+      <production numero="170">
+        <numero>170</numero>
+        <designation>Diagramme de cas d'utilisation</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%202/Diagramme%20de%20cas%20d'utilisation.vsdx</adresse>
+      </production>
+      <production numero="171">
+        <numero>171</numero>
+        <designation>Description</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%202/Epreuve%20E4.docx</adresse>
+      </production>
+      <production numero="172">
+        <numero>172</numero>
+        <designation>Spécifications Techniques</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%202/Sp%c3%a9cifications%20Techniques.docx</adresse>
+      </production>
+      <production numero="173">
+        <numero>173</numero>
+        <designation>MCD</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%202/bdd.png</adresse>
+      </production>
+      <production numero="174">
+        <numero>174</numero>
+        <designation>Script SQL</designation>
+        <adresse>http://saya-irino.fr/ICOF/E4/Situation%202/crebas.sql</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1226">
+      <ref>1226</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>test</libcourt>
+      <descriptif>test</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-02-22</datedebut>
+      <datefin>2018-02-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="576a933f0c2e5">
+    <ref>576a933f0c2e5</ref>
+    <datesv>2016-06-22</datesv>
+  </sauvegarde>
+  <etudiant numero="151">
+    <nom>ROCHETTE</nom>
+    <prenom>Jean</prenom>
+    <mel>jean.rochette@icof.fr</mel>
+    <situation ref="878">
+      <ref>878</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 Chartreux</libcourt>
+      <descriptif>Stage de 1ere année SLAM au service informatique de l'institution des Chartreux.</descriptif>
+      <contexte>6 semaines de stage sur le site de la croix-rousse et occasionnellement de St Just et St Etienne.</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Grand parc informatique de centaines de postes à gérer ainsi que des tableaux numériques, bornes Wi-Fi et autres appareils. </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

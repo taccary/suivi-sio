@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56d7f216006dd">
+    <ref>56d7f216006dd</ref>
+    <datesv>2016-03-03</datesv>
+  </sauvegarde>
+  <etudiant numero="127">
+    <nom>ALLIER</nom>
+    <prenom>Hugo</prenom>
+    <mel>Hugo.ALLIER@icof.fr</mel>
+  </etudiant>
+</suivicomp>

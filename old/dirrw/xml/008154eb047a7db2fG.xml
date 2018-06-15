@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54eb047a7db2f">
+    <ref>54eb047a7db2f</ref>
+    <datesv>2015-02-23</datesv>
+  </sauvegarde>
+  <etudiant numero="81">
+    <nom>mangel</nom>
+    <prenom>vincent</prenom>
+    <mel>vincent.mangel@icof.fr</mel>
+    <situation ref="447">
+      <ref>447</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Création d'un logiciel de gestion des heures</libcourt>
+      <descriptif>Conception complète d'un logiciel de gestion des heures passées sur une opération, et indiquant si l'opération est margeuse ou non en fonction des heures passées tout au long de l'année.</descriptif>
+      <contexte>Effectué au sein de l'entreprise Trajéo au cours du stage de première année</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-02</datefin>
+      <environnement>Ordinateur personnel équipé de Windows 7</environnement>
+      <moyen>Un ordinateur équipé de Visual Studio 2010</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>J'ai anticipé les choix de saisies du client, et ai réalisé des tests tout au long du développement, pour m'assurer de son fonctionnement constant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tout au long de la conception du logiciel j'ai réalisé des test afin d'éviter les erreurs que pourrait effectuer le client, comme les erreurs de saisie.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>J'ai installé sur l'ordinateur du client le programme terminé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J'ai installé sur l'ordinateur du client le programme terminé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai organisé mon temps et réparti sur le temps les taches nécessaires à l'achèvement du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>j'ai conçu le logiciel en réfléchissant à son fonctionnement et aux moyens à mettre en oeuvre pour y parvenir.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai modifié la présentation du logiciel afin de la rendre satisfaisante aux yeux du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>J'ai effectué des recherche et des tests de base pour réfléchir sur la direction à prendre pour le développement du programme</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé la documentation technique du programme.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>J'ai mis à jour cette documentation technique.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="448">
+      <ref>448</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Mise en place d'un site web 01</libcourt>
+      <descriptif>Conception et publication d'un petit site pour l'association &quot;Ensemble pour Estrablin&quot; à l'aide de l'outil Wordpress</descriptif>
+      <contexte>Effectué au cours du stage de première année</contexte>
+      <datedebut>2014-06-13</datedebut>
+      <datefin>2014-07-04</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>J'ai pris compte des difficultés que le client ne souhaitais pas rencontrer ainsi que les fonctionnalités du site qu'il souhaitait voir, notamment sur le plan de la sécurité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J'ai publié le site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai organisé mon temps et réparti sur le temps les taches nécessaires à l'achèvement du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>J'ai montré le fonctionnement du site, l'administration, comment le mettre à jour,...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>J'ai mis à jour pendant quelque temps le site, avant qu'il ne sache le maîtriser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>J'ai corrigé quelques problèmes d'interface,  notamment la langue de saisie ou les onglets du menu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>J'ai corrigé quelques problèmes d'interface,  notamment la langue de saisie ou les onglets du menu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>j'ai réfléchit au temps que prendrais la conception du site web, ainsi que son fonctionnement logiciel (wordpress)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>A la demnde du client j'ai modifié la présentation du tableau de bord Wordpress, </commentaireactivite>
+      </activitecitee>
+      <production numero="666">
+        <numero>666</numero>
+        <designation>Le site web</designation>
+        <adresse>https://ensemblepourestrablin.com/</adresse>
+      </production>
+    </situation>
+    <situation ref="449">
+      <ref>449</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Mise à jour d'un site web déjà existant</libcourt>
+      <descriptif>J'ai mis à jour le site de l'entreprise de mon stage.</descriptif>
+      <contexte>Effectué au sein de l'entreprise Trajéo au cours du stage de première année</contexte>
+      <datedebut>2014-06-17</datedebut>
+      <datefin>2014-06-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J'ai mis à jour le site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>J'ai vérifié que tout fonctionnait correctement et ai fait des mises à jour selon les demandes de mon maître de stage.</commentaireactivite>
+      </activitecitee>
+      <production numero="667">
+        <numero>667</numero>
+        <designation>Le site web</designation>
+        <adresse>http://trajeo.net/</adresse>
+      </production>
+    </situation>
+    <situation ref="498">
+      <ref>498</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Mise en place d'un site web 02</libcourt>
+      <descriptif>Conception et publication d'un petit site pour l'association &quot;VVE Bien Être&quot; à l'aide de l'outil Wordpress</descriptif>
+      <contexte>Effectué au cours du stage de première année</contexte>
+      <datedebut>2014-06-27</datedebut>
+      <datefin>2014-07-04</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>J'ai pris compte des difficultés que le client ne souhaitais pas rencontrer ainsi que les fonctionnalités du site qu'il souhaitait voir, comme l'esthétisme. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J'ai publié le site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai organisé mon temps et réparti sur le temps les taches nécessaires à l'achèvement du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>J'ai montré le fonctionnement du site, l'administration, comment le mettre à jour,...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>J'ai mis à jour et ai publié sur le site, le temps que le client prenne le relais.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>j'ai réfléchit au temps que prendrais la conception du site web, ainsi que son fonctionnement logiciel (wordpress)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>A la demande du client j'ai modifié la présentation du site et ai rajouté un menu latéral.</commentaireactivite>
+      </activitecitee>
+      <production numero="757">
+        <numero>757</numero>
+        <designation>Le site web</designation>
+        <adresse>http://vvebienetre.wordpress.com/</adresse>
+      </production>
+    </situation>
+    <situation ref="499">
+      <ref>499</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Création d'un logiciel de gestion des clients</libcourt>
+      <descriptif>Conception complète d'un logiciel de gestion des clients, permettant de rentrer les informations de contacts des clients en vue d'un publipostage ou mailing.</descriptif>
+      <contexte>Effectué au sein de l'entreprise Trajéo au cours du stage de première année</contexte>
+      <datedebut>2014-06-24</datedebut>
+      <datefin>2014-07-01</datefin>
+      <environnement>Ordinateur personnel équipé de Windows 7</environnement>
+      <moyen>Un ordinateur équipé de Visual Studio 2010</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>J'ai anticipé les choix de saisies du client, et ai réalisé des tests tout au long du développement, pour m'assurer de son fonctionnement constant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tout au long de la conception du logiciel j'ai réalisé des test afin d'éviter les erreurs que pourrait effectuer le client, comme les erreurs de saisie.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>J'ai installé sur l'ordinateur du client le programme terminé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J'ai installé sur l'ordinateur du client le programme terminé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai organisé mon temps et réparti sur le temps les taches nécessaires à l'achèvement du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>j'ai conçu le logiciel en réfléchissant à son fonctionnement et aux moyens à mettre en oeuvre pour y parvenir.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai modifié la présentation du logiciel afin de la rendre satisfaisante aux yeux du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>J'ai effectué des recherche et des tests de base pour réfléchir sur la direction à prendre pour le développement du programme</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé la documentation technique du programme.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>J'ai mis à jour cette documentation technique.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="500">
+      <ref>500</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Conception d'un site Web</libcourt>
+      <descriptif>Création et développement d'un site web sous WebDev 19 et comportant un backOffice</descriptif>
+      <contexte>Effectué au sein de l'entreprise Ameteam au cours du stage de première année</contexte>
+      <datedebut>2014-06-03</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Ordinateur personnel équipé de Windows 7</environnement>
+      <moyen>Un ordinateur équipé de WebDev 19</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>J'ai discuté avec le client afin de connaitre ses attentes au niveau du fonctionnement du site et de son contenu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>J'ai anticipé les choix de saisies du client, et ai réalisé des tests tout au long du développement, pour m'assurer de son fonctionnement constant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai organisé mon temps et réparti sur le temps les taches nécessaires à l'achèvement du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>J'ai rencontré beaucoup de problèmes et d'incidents, que j'ai du résoudre ou contourner.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>J'ai rencontré beaucoup de problèmes et d'incidents, et j'ai du comprendre d'où ils venaient et voir s'il était possible de les résoudres, ou sinon, de les contourner.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>j'ai conçu le site et son backoffice en réfléchissant à son fonctionnement et aux moyens à mettre en oeuvre pour y parvenir, ainsi qu'à la possibilité de réalisation sous l'outil WebDev.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai modifié la présentation du site afin de le rendre satisfaisante aux yeux du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>J'ai effectué des recherche et des tests de base pour réfléchir sur la direction à prendre pour le développement du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>J'ai ajouté des éléments au site, dont j'ai du vérifier le fonctionnement et la compatibilité.</commentaireactivite>
+      </activitecitee>
+      <production numero="758">
+        <numero>758</numero>
+        <designation>Le site web</designation>
+        <adresse>http://www.ameteam.fr/</adresse>
+      </production>
+    </situation>
+    <situation ref="559">
+      <ref>559</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Prise en main de logiciels de Drop shipping</libcourt>
+      <descriptif>Etude et analyse de trois logiciels de Drop Shipping fonctionnant différemment, puis sélection selon des critères du logiciel qui sera utilisé par la suite par l'entreprise.</descriptif>
+      <contexte>Effectué au sein de l'entreprise Netkom au cours du stage de deuxième année</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>Ordinateur équipé de Windows 8 + prise en main à distance d'un serveur xp</environnement>
+      <moyen>Ordinateur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="560">
+      <ref>560</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Aménagement site web E-commerce</libcourt>
+      <descriptif>Création des catégories de produits, configurations des modules et du menu du site.</descriptif>
+      <contexte>Effectué au sein de l'entreprise Netkom au cours du stage de deuxième année</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>Ordinateur équipé de Windows 8 + prise en main à distance d'un serveur xp</environnement>
+      <moyen>Ordinateur</moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="561">
+      <ref>561</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Création logiciel Passerelle</libcourt>
+      <descriptif>Conception d'un logiciel récupérant un fichier .CSV sur un serveur distant (FTP) et qui exporte des fichiers propres à l'exportation vers le site d'e-commerce.</descriptif>
+      <contexte>Effectué au sein de l'entreprise Netkom au cours du stage de deuxième année</contexte>
+      <datedebut>2015-01-26</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>Ordinateur équipé de Windows 8 + prise en main à distance d'un serveur xp</environnement>
+      <moyen>Ordinateur équipé de Visual Studio 2013</moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="562">
+      <ref>562</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 - Aménagement site web Quiz</libcourt>
+      <descriptif>Personnalisation d'un module de quiz web permettant l'obtention du permis bateau selon les demandes du client, notamment sur l’affichage, le fonctionnement des fautes et l'ajout de fonctionnalités.</descriptif>
+      <contexte>Effectué au sein de l'entreprise Netkom au cours du stage de deuxième année</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>Ordinateur équipé de Windows 8</environnement>
+      <moyen>FileZilla et notepad++</moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

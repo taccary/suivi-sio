@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5188adec5a672">
+    <ref>5188adec5a672</ref>
+    <datesv>2013-05-07</datesv>
+  </sauvegarde>
+  <etudiant numero="6">
+    <nom>Enfiedjian</nom>
+    <prenom>Thibault</prenom>
+    <mel>thibault.enfiedjian@icof.fr</mel>
+    <situation ref="135">
+      <ref>135</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance de code</libcourt>
+      <descriptif>Migration du site d'un hébergeur vers un autre.
+Maintenance du code site du front office et du back-office.
+Maintenance de la base de données. </descriptif>
+      <contexte>ABC Diffusion entreprise d’aménagement de bureaux.</contexte>
+      <datedebut>2012-06-11</datedebut>
+      <datefin>2012-07-06</datefin>
+      <environnement>Développement web.</environnement>
+      <moyen>Notepad++, Filezilla, Powerbullet. </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>En chaque début de semaine notre maître de stage nous fournissait un cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Pour chaque utilisateur de l'entreprise ( comptabilité, secrétariat, etc...) des droits sont attribués selon sa fonction.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Nous avons testé le service en local puis en ligne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Nous avions expliqué a notre maître de stage les nouvelles fonctionnalités d'administrations.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Nous avions expliqué a notre maître de stage les nouvelles fonctionnalités d'administrations.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place du site sur le nouvel hébergeur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>En fin de semaine nous devions lui rendre le cahier le suivi complété du cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Nous avions eu des guides d'utilisateurs et des tutoriels à fournir.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>A la suite du transfert, étant donné que le site était optimisé pour des versions obsolètes de MySQL et PHP, nombres d'incompatibilités entre les nouvelles versions et le code ont étés trouvées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Il y a eu des erreurs SQL et PHP lors du changement d'hébergeur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Une maquette du front office a été réalisé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Injecter une base de données, modification des requêtes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création d'un captcha sur les pages php.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Les mode d'emploi fournit par notre maître de stage a été mis à jour selon nos modification.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Les mode d'emploi fournit par notre maître de stage a été mis à jour selon nos modification.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="139">
+      <ref>139</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise à jour d'une application</libcourt>
+      <descriptif>Mise à jour, modification et tests d'une application existante. 
+Cahier des charges pour un futur extra-net remplissant le même rôle.</descriptif>
+      <contexte>DSI de l'OPAC du Rhône.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement>Développement applicatif VBA.</environnement>
+      <moyen>Excel</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Après chaque réunion avec les utilisateurs tout ce qui était à modifier ou à implémenter était noté dans le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests des fonctionnalités implémentées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>mise en place de la nouvelle application sur le réseau et formation pas à pas pour les utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place du service. Sauvegarde des anciennes données et implémentation de celles-ci dans la nouvelle application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Suivi par le maître de stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Réunions explicatives dans le but d'améliorer les fonctionnalités d'un service après développement et explications des tâches préalablement réalisées. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Vérification de la protection du service ainsi que de sa fluidité dans son exécution. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Des fonctionnalités majeures ne fonctionnent plus et empêchent l'utilisateur d'avancer dans ses tâches. Tests + recherche des fonctions et résolutions des problèmes dans le code.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Proposition d'incorporation au service de nouvelles fonctionnalités accélérant le traitement des données. cf. tableaux croisés dynamiques auto. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Modification de l'interface de Excel en y apportant des nouveaux boutons  simplifiant l'accès aux nouvelles fonctionnalités. + IHM plus clair permettant le traitement des données. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception d'un MCD et MCT dans le but d'anticiper la refonte de l'application sur un extranet plus tard.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>clonage du répertoire de travail et des fichiers et dossiers nécessaires  
+dans un environnement clôt dont les modifications n'auront pas d'incidences sur l'existant. (sandbox)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développer les éléments d'une solution et adapter le code existant au besoin des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>rédaction documentation technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>rédaction documentation utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Protection des fichiers et des données trop envahissante ne permettant pas le contrôle et l'accès à toutes les données nécessaires. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour d'une documentation technique propre à une application ou à une partie de celle-ci n'ayant été que peu modifiée.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

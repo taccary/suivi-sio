@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="504862c608395">
+    <ref>504862c608395</ref>
+    <datesv>2012-09-06</datesv>
+  </sauvegarde>
+  <etudiant numero="20">
+    <nom>Gondcaille</nom>
+    <prenom>Michael</prenom>
+    <mel>michael.gondcaille@icof.fr</mel>
+  </etudiant>
+</suivicomp>

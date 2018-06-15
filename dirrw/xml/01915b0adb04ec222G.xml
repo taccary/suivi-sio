@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b0adb04ec222">
+    <ref>5b0adb04ec222</ref>
+    <datesv>2018-05-27</datesv>
+  </sauvegarde>
+  <etudiant numero="191">
+    <nom>BRITTI</nom>
+    <prenom>Yohan</prenom>
+    <mel>yohan.britti@icof.fr</mel>
+    <situation ref="1323">
+      <ref>1323</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Transfert de données</libcourt>
+      <descriptif>Transvasement des données depuis les anciens serveurs agences vers un disque dur externe pour ensuite les transférer dans un nouveau serveur afin que les agences puissent re-télécharger leurs données. </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-16</datedebut>
+      <datefin>2018-05-24</datefin>
+      <environnement>Windows serveur 2003</environnement>
+      <moyen>usage de scrip et découverte de robocopy</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Automatisation de la sauvegarde par robocopy</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1326">
+      <ref>1326</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Préparation nouveaux postes</libcourt>
+      <descriptif>Déballage, enregistrement matériel dans l'outil de gestion du parc, et enregistrement du matériel pour une masterisation. Après masterisation vérification.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-21</datedebut>
+      <datefin>2018-05-21</datefin>
+      <environnement>windows 7/10</environnement>
+      <moyen></moyen>
+      <avisperso>intéressant et permet de configurer des postes rapidement.</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Automatisation de l'installation/configuration de Windows grâce à la masterisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Voir comment je peux configurer ces ordinateurs rapidement sans trop surcharger le réseau car cela demande beaucoup de débit et de ressource donc par exemple en lancer le midi avant de partir déjeuner et le soir avant de partir comme ca pas trop de gêne</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1334">
+      <ref>1334</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Demande de matériel.</libcourt>
+      <descriptif>Les employées font des demandes de matériel ou de création de comptes utilisateur</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-27</datedebut>
+      <datefin>2018-05-27</datefin>
+      <environnement>Win 7</environnement>
+      <moyen>Création de compte office 365, création de compte skype, modification des infos dans l'AD</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre les besoins de l'utilisateur grâce à ça demande pour répondre au mieux a ses attentes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Vérifier que le compte utilisateur créé fonction que les mails arrivent et que tout fonctionne</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Attribuer des accès a certains dossiers, certains serveurs etc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Créer un document pour informer les utilisateurs de leur mot de passe et toute les informations utiles</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1335">
+      <ref>1335</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Livraison matériel aux employés</libcourt>
+      <descriptif>Après traitement de la demande de matériel, livraison du matériel à l'employé.
+Remplacement de la flotte portable des commerciaux T440 --> Yoga 370</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-27</datedebut>
+      <datefin>2018-05-27</datefin>
+      <environnement>Lenovo, win 7, win 10</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Eviter de gêner les employés dans leurs travail le temps du changement d'ordinateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Fournir un guide ou former les utilisateurs à l'utilisation des nouveaux équipement.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1336">
+      <ref>1336</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestions des tickets incidents</libcourt>
+      <descriptif>Les utilisateurs créent des tickets sur Easy Vista et ensuite le support traite ces demandes</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-27</datedebut>
+      <datefin>2018-05-27</datefin>
+      <environnement>easy vista</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Aider les utilisateurs dans le changement de mot de passe et problèmes divers</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>requalifier le problème du ticket, si besoin transférer au Run N2 ou plus, appeler l'utilisateurs si besoin etc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Suite a une coupure de courant le 25/05 gestion des ticket et aide des utilisateurs dans la reprise du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>analyser le ticket, évaluer les tickets et demandes les plus urgents etc</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

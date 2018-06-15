@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="52f2371807c17">
+    <ref>52f2371807c17</ref>
+    <datesv>2014-02-05</datesv>
+  </sauvegarde>
+  <etudiant numero="39">
+    <nom>Viez</nom>
+    <prenom>antonin</prenom>
+    <mel>antonin.viez@icof.fr</mel>
+    <situation ref="263">
+      <ref>263</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Espace coopératif Alstom GRID</libcourt>
+      <descriptif>Etude, conception et mise en production d'un outils de communication et de partage pour les contrôleurs financiers d'Alstom GRID.</descriptif>
+      <contexte>Stage de BTS 1ème année chez Alstom. </contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>SharePoint serveur , html/css et javascript.</environnement>
+      <moyen>notepad++ et visual studio</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>élaboration du cahier des charges d'après les demandes de mon tuteur de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Mise en place de plusieurs niveaux de droits: admin, user et lecteurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>création d'un guide d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>mise en place des pages de sharepoint</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>création d'un guide d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Réunion à Paris La Défense pour formation -&gt; j'en ai profité pour parlé des composants logiciels nécessaires </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Présentation des maquettes </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>identifictation et demande d'aide</commentaireactivite>
+      </activitecitee>
+      <production numero="323">
+        <numero>323</numero>
+        <designation>Guide d'utilisation</designation>
+        <adresse>https://www.dropbox.com/s/i1nsys88wxyah29/user_guide.pptx</adresse>
+      </production>
+      <production numero="324">
+        <numero>324</numero>
+        <designation>Guide d'administration</designation>
+        <adresse>https://www.dropbox.com/s/wrvc6vzz68o6n6x/user_guide_admin.pptx</adresse>
+      </production>
+      <production numero="355">
+        <numero>355</numero>
+        <designation>Maquettes</designation>
+        <adresse>https://www.dropbox.com/s/h8l2pd8yku8312w/Presentation%20du%20projet.pptx</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="289">
+      <ref>289</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Application urgence-accidents de la SNCF</libcourt>
+      <descriptif>Participation au développement de l'application urgence-accidents, réalisation de tests,...</descriptif>
+      <contexte>Stage de 2ème année </contexte>
+      <datedebut>2014-01-06</datedebut>
+      <datefin>2014-02-21</datefin>
+      <environnement>Serveur</environnement>
+      <moyen>Tortoise SVN, NetBeans</moyen>
+      <avisperso>Toujours à la pointe</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test réaliser sur une application -&gt; HP ALM - Quality Center 11.00</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

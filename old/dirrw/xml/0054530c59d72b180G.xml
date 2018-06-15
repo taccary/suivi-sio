@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="530c59d72b180">
+    <ref>530c59d72b180</ref>
+    <datesv>2014-02-25</datesv>
+  </sauvegarde>
+  <etudiant numero="54">
+    <nom>noel</nom>
+    <prenom>vincent</prenom>
+    <mel>vincent.noel@icof.fr</mel>
+    <situation ref="270">
+      <ref>270</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Recensement Telecom réseau </libcourt>
+      <descriptif>Redaction des solutions et recensement des besoins </descriptif>
+      <contexte>les commutateurs arrivent a saturation.</contexte>
+      <datedebut>2013-09-22</datedebut>
+      <datefin>2013-09-22</datefin>
+      <environnement>SNCF -Technicentre de LYON</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>- Proposer différents budget pour chaque solution.
+- Rédiger un document clair et compréhensible par tous.</commentaireactivite>
+      </activitecitee>
+      <production numero="353">
+        <numero>353</numero>
+        <designation>Recensement Telecom et réseau </designation>
+        <adresse>http://vincent-icof-fr.webnode.fr/projet-2-/</adresse>
+      </production>
+      <production numero="354">
+        <numero>354</numero>
+        <designation>Recensement Telecom et réseau </designation>
+        <adresse>http://vincent-icof-fr.webnode.fr/projet-2-/elaboration-et-presentation-dun-dossier-de-choix-de-solution-technique/</adresse>
+      </production>
+    </situation>
+    <situation ref="287">
+      <ref>287</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>A1.1.1 Analyse du cahier des charges d'un service à produire</libcourt>
+      <descriptif>Analyse d'un cahier des charges pour la réalisation d'un site web.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-20</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="336">
+      <ref>336</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Maintenance à distance d' un utilisateur</libcourt>
+      <descriptif>Un problème de clavier et de souris. </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-01-15</datedebut>
+      <datefin>2014-01-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prise de contact avec VNC afin de valider la panne. Exécution de Malware Bytes.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="338">
+      <ref>338</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Insatallation de Office 2010</libcourt>
+      <descriptif>L'utilisateur a fait une demande de mise à niveau de office 2007 vers 2010.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-01-20</datedebut>
+      <datefin>2014-01-20</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Prise à distance du poste de l'utilisateur afin de lui faire la mise à niveau.</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

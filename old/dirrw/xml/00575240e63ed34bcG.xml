@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5240e63ed34bc">
+    <ref>5240e63ed34bc</ref>
+    <datesv>2013-09-24</datesv>
+  </sauvegarde>
+  <etudiant numero="57">
+    <nom>rajaonarivelo</nom>
+    <prenom>matthew</prenom>
+    <mel>matthew.rajaonarivelo@icof.fr</mel>
+  </etudiant>
+</suivicomp>

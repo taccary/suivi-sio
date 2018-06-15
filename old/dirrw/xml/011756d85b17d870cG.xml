@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56d85b17d870c">
+    <ref>56d85b17d870c</ref>
+    <datesv>2016-03-03</datesv>
+  </sauvegarde>
+  <etudiant numero="117">
+    <nom>ALBERT</nom>
+    <prenom>Jean</prenom>
+    <mel>jean.albert@icof.fr</mel>
+    <situation ref="695">
+      <ref>695</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation et mise en place  de postes pour Migration</libcourt>
+      <descriptif>Configuration de postes et choix de PC pour la migration vers Windows 8.1.
+Accompagnement des utilisateurs dans la découverte de Windows 8.1.</descriptif>
+      <contexte>Migration de Windows 7 à Windows 8.1</contexte>
+      <datedebut>2015-05-26</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en place de la salle de formation et création d'un document explicatif de Windows 8.1.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de Windows 8.1 au sein de l'entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aider les utilisateurs à maitriser de nouveaux outils afin de fournir un travail toujours plus optimal.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Création d'un document pour les futurs employés du service informatique sur la gestion du matériel</commentaireactivite>
+      </activitecitee>
+      <production numero="1285">
+        <numero>1285</numero>
+        <designation>Planning des migrations, Mail </designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-1ere-annee.html#1</adresse>
+      </production>
+      <production numero="1353">
+        <numero>1353</numero>
+        <designation>Extrait Rapport de stage Migration PC</designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-1ere-annee.html</adresse>
+      </production>
+      <production numero="1378">
+        <numero>1378</numero>
+        <designation>Document de comparaison T440 et X240</designation>
+        <adresse>A venir</adresse>
+      </production>
+      <production numero="1379">
+        <numero>1379</numero>
+        <designation>Documentation Installation PC fixe Lenovo - M93MTV1</designation>
+        <adresse>a venir</adresse>
+      </production>
+      <production numero="1380">
+        <numero>1380</numero>
+        <designation>Documentation de Gestion du matériel</designation>
+        <adresse>A venir</adresse>
+      </production>
+    </situation>
+    <situation ref="732">
+      <ref>732</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion D'incidents</libcourt>
+      <descriptif>Gestion de tickets d'incidents auprès des utilisateurs. Intervention directe ou prise en main à distance.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1374">
+        <numero>1374</numero>
+        <designation>Extrait rapport de stage, Résolution d'incident</designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-1ere-annee.html</adresse>
+      </production>
+      <production numero="1375">
+        <numero>1375</numero>
+        <designation>Documentation de Résolution d'incident</designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-2eme-annee.html</adresse>
+      </production>
+      <production numero="1376">
+        <numero>1376</numero>
+        <designation>Guide d'utilisation de VNC Viewer</designation>
+        <adresse>A venir</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="733">
+      <ref>733</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion de matériel informatique </libcourt>
+      <descriptif>Installation et gestion des stocks de matériel informatique divers (imprimantes, écrans,ordinateuts,claviers etc...).</descriptif>
+      <contexte>En temps que stagiaire maintenance informatique, une de mes missions est de gérer le matériel informatique de la société</contexte>
+      <datedebut>2015-05-26</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen>Outils fournit par l'entreprise</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation de matériel informatique(Pc,imprimante), renvoi de matériel défectueux.</commentaireactivite>
+      </activitecitee>
+      <production numero="1372">
+        <numero>1372</numero>
+        <designation>Extrait de rapport de stage, installation imprimante</designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-1ere-annee.html</adresse>
+      </production>
+      <production numero="1373">
+        <numero>1373</numero>
+        <designation>Documentation de Gestion du matériel</designation>
+        <adresse>A venir</adresse>
+      </production>
+    </situation>
+    <situation ref="734">
+      <ref>734</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Mise en place d'une solution de veille technologique.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-01</datedebut>
+      <datefin>2016-05-20</datefin>
+      <environnement></environnement>
+      <moyen>Site internet avec flux RSS</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Mettre en commun différentes sources d'informations sur un même thème sur un seul support.</commentaireactivite>
+      </activitecitee>
+      <production numero="1371">
+        <numero>1371</numero>
+        <designation>Site veille technologique</designation>
+        <adresse>http://veille-technologique-informatique-albert.e-monsite.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="737">
+      <ref>737</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Actualisation docuentation réseau.</libcourt>
+      <descriptif>Faire l'état des lieux des connexions des entre switchs des différents étages, relié à différentes prises.</descriptif>
+      <contexte>Le réseau informatique date de plusieurs années, la documentation liée est aussi ancienne, il faut tout revérifier pour actualiser la documentation.</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="765">
+      <ref>765</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Paramétrage point d'accès Wi-Fi</libcourt>
+      <descriptif>Proposer et tester une solution d'accès Wi-Fi pour une salle de réunion.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>Pfsense, Box internet</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1413">
+        <numero>1413</numero>
+        <designation>Dossier choix Wi-Fi</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="770">
+      <ref>770</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Rédaction d'une documentation technique (JO2016)</libcourt>
+      <descriptif>Rédaction d'une documentation technique sur les modes de connexion et de communication à l’étranger pour les journalistes allant aux Jeux olympiques au Brésil durant l'été 2016</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

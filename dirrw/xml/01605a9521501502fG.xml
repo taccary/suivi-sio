@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a9521501502f">
+    <ref>5a9521501502f</ref>
+    <datesv>2018-02-27</datesv>
+  </sauvegarde>
+  <etudiant numero="160">
+    <nom>CARON</nom>
+    <prenom>Timothee</prenom>
+    <mel>Timothee.CARON@icof.fr</mel>
+    <situation ref="1156">
+      <ref>1156</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1-Mise à jour d'un site web interne de gestion des activités  </libcourt>
+      <descriptif>Le site web n'etait plus utilisé depuis 2011 et m'a été confié afin que je le remette au gout du jour en ajoutant des fonctionnalités correspondant aux demandes de mon employeur.</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-26</datefin>
+      <environnement>Python 2.7
+SQLite3
+Notepad++
+Mozilla Firefox/Google Chrome
+GitHub+SourceTree
+framework : Flask (python), Bootstrap (CSS)</environnement>
+      <moyen></moyen>
+      <avisperso>Situation très enrichissante, prise en main des framework peu compliquée, la mise en combinaison du logiciel python gérant le back du html avec la liaison à la base de données change les interractions basiques avec le language html classique.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Le service est développé pour une utilisation interne : gestion des taches et projets en cours ou terminé par les salariés via une interface de tableau de bord pour visualiser les taches avec un accèes au détail d'une tache ainsi qu'a la modification et</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Les utilisateurs sont les salariés et le chef de projet. Les droits sont répartis par projet/tache par le créateur de ceux-ci ou un administrateur. Le service nécessite un serveur de déploiement et peut être exécuté en local pour test. Le niveau d'habila</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>La mise en place de l'environnement a necessité l'installation de python 2.7 et du framework Flask permettant l'utilisation de la base de données initialement liée à l'application. Le service fonctionne alors sur navigateur en localhost associé au por</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Les éléments  à sauvegarder et journaliser sont les insertions de pièces jointes (heuro-datées + nom créateur), les taches et projets accomplis à 100% sont historisés dans un onglet spécifiques, une version back up de la BDD est disponible sur le git ( a </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Le service est en exploitation sur un serveur linux de l'entreprise, étant donné qu'il s'agit uniquement d'un script à exécuté en local, il a juste fallu installer python 2.7 + Flask sur le serveur et exécuté le script qui se rafraîchit tout seul à ch</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en place via le service d'une répartition des heures pour compléter les modifications supplémentaires. Réunions bilans 2 fois par semaine (Lundi et jeudi/vendredi)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Problème au niveau des requêtes SQL entre le back et le front office provoquant des erreurs navigateur à cause du référencement dans le front.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>changet la base de données m'a forcé à réadapter de nombreuses fonction de mon index.py.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Mise en place d'une charte graphique neuve en accord avec le maitre de stage, maquette réalisée sur la version local de l'application et validation par le maitre de stage </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Mise à jour de l'ancienne base de données pour qu'elle soir en accord avec le nouveau modele de données et mise a jour des données interne de la base pour qu'elles soient en accord avec les besoins.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>environnement de dev python avec framework Flask,
+environnement de test en localhost.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>J'ai intégralement rédigé le documentation de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation du service GIT pour héberger les données et les modifications appliquées au projet via l'outil de visualisation SourceTree. Le git etant hébergé coté entreprise en privé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>suivi du Git</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1234">
+      <ref>1234</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2-Création d'un cahier des charges</libcourt>
+      <descriptif>Projet de stage à mener de la création du cahier des charges à la livraison du produit fini (application android). La commande de cette application a été faite par mon maitre de stage, M. Thomas CHEJFEC,DSI de la société GERFLOR.</descriptif>
+      <contexte>Cette situation correspond à mon second stage: réalisation d'une application android permettant une gestion de contact améliorée par la création de liens.Je n'ai malheureusement pas pu aller au-delà du cahier des charges.</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Android studio,
+MySQL,
+phpMyAdmin</environnement>
+      <moyen></moyen>
+      <avisperso>Malgré le fait que je n'ai pas terminé ma mission, j'ai beaucoup appris sur la gestion de projet via la création et la rédaction du cahier des charges. Notamment sur les comparatifs de technologies, le pricing etc...</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

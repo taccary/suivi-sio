@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b0c1a4d519fa">
+    <ref>5b0c1a4d519fa</ref>
+    <datesv>2018-05-28</datesv>
+  </sauvegarde>
+  <etudiant numero="219">
+    <nom>TOLBA</nom>
+    <prenom>Zakarya</prenom>
+    <mel>zakarya.tolba@icof.fr</mel>
+    <situation ref="1337">
+      <ref>1337</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Etude du cahier des charges du plugin à réaliser</libcourt>
+      <descriptif>Analyse des différentes conditions et restrictions qui seront appliqués dans ce plugin Wordpress.</descriptif>
+      <contexte>Cette fonction aura pour objectif de d'appliquer la restriction suivante: Appliquer un préfixe personnalisé en fonction du nom du site.</contexte>
+      <datedebut>2018-05-28</datedebut>
+      <datefin>2018-05-28</datefin>
+      <environnement>Windows 10, Wordpress 4.9.6, Sublime Text, Microsoft Word, UwAmp 3.1.0,</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

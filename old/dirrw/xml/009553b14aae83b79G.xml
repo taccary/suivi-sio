@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53b14aae83b79">
+    <ref>53b14aae83b79</ref>
+    <datesv>2014-06-30</datesv>
+  </sauvegarde>
+  <etudiant numero="95">
+    <nom>pouchoy</nom>
+    <prenom>victor</prenom>
+    <mel>victor.pouchoy@icof.fr</mel>
+    <situation ref="488">
+      <ref>488</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Contenu CMS</libcourt>
+      <descriptif>Ajout de contenu CMS sur un site existant</descriptif>
+      <contexte>Stage Irlande Dublin</contexte>
+      <datedebut>2014-06-30</datedebut>
+      <datefin>2014-06-30</datefin>
+      <environnement>Service informatique</environnement>
+      <moyen>PC, connection internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Ajout de contenu sur le futur nouveau site web du Griffith College en CMS.
+
+Ajouter des liens et des images sur la page des diplômes proposé aux futurs étudiant du Griffith, qui redirige l'utilisateur vers la formation de son choix. Puis, l'équipe inf</commentaireactivite>
+      </activitecitee>
+      <production numero="680">
+        <numero>680</numero>
+        <designation>Ajout de texte</designation>
+        <adresse>http://griffith-college-dev.sites.ac/about-griffith</adresse>
+      </production>
+      <production numero="681">
+        <numero>681</numero>
+        <designation>Ajout des liens</designation>
+        <adresse>http://griffith-college-dev.sites.ac/admissions/undergraduate</adresse>
+      </production>
+      <production numero="682">
+        <numero>682</numero>
+        <designation>Ajout des liens 2</designation>
+        <adresse>http://griffith-college-dev.sites.ac/admissions/postgraduate</adresse>
+      </production>
+      <production numero="683">
+        <numero>683</numero>
+        <designation>Ajout d'image et de contenu texte pour toute les sous-catégories associées.</designation>
+        <adresse>http://griffith-college-dev.sites.ac/campus-life/student-life</adresse>
+      </production>
+    </situation>
+    <situation ref="489">
+      <ref>489</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion de ticket OTRS-HelpDesk</libcourt>
+      <descriptif>Utilisation de l'application en ligne &quot;Helpdesk&quot; permettant la gestion des demandes et des incidents par ticket. Equivalent de OCS.</descriptif>
+      <contexte>Stage Griffith, dev web, maintenance reseau</contexte>
+      <datedebut>2014-06-30</datedebut>
+      <datefin>2014-06-30</datefin>
+      <environnement>Service Informatique du griffith college à Dublin</environnement>
+      <moyen>PC, Internet, </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Il m'est arrivé d'ouvrir, mettre en attente, fermer un ticket selon l'état du problème.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Lorsque je reçois un ticket via Helpdesk, je dois le résoudre ou le transféré à la personne compétente tout en informant l'éxpéditeur de l'avancement ou de la situation actuelle du problème ou de la demande. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Dans un document word, les problèmes sont listé. Je les trie selon leurs importance, les sur lignes en rouge si je ne peux pas le faire (manque de contenu, temps) en jaune si j'attend une réponse de quelqu'un d'autre concernant ce problème ou en vert s</commentaireactivite>
+      </activitecitee>
+      <production numero="684">
+        <numero>684</numero>
+        <designation>Le liens helpdesk</designation>
+        <adresse>http://helpdesk.gcd.ie/</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

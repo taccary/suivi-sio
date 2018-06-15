@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a9426e642c32">
+    <ref>5a9426e642c32</ref>
+    <datesv>2018-02-26</datesv>
+  </sauvegarde>
+  <etudiant numero="174">
+    <nom>BLUM</nom>
+    <prenom>Cathy</prenom>
+    <mel>Cathy.BLUM@icof.fr</mel>
+    <situation ref="1096">
+      <ref>1096</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1- Problèmes de bornes wifi au secteur logistique</libcourt>
+      <descriptif>Vérifier l'état de la connexion wifi à l'aide du logiciel Xirrus.</descriptif>
+      <contexte>A cause d’un problème de coupure du réseau au secteur logistique, on nous a demandés de vérifier l’état de la connexion wifi.</contexte>
+      <datedebut>2017-05-18</datedebut>
+      <datefin>2017-05-24</datefin>
+      <environnement>Windows 7</environnement>
+      <moyen>Le Logiciel Xirrus scanne l'environnement pour trouver tous les réseaux et mesure leur signal. </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Nous avons repéré le mal-fonctionnement d'un chariot qui utilisait le réseau wifi. Nous avons recherché les sources du problème grâce au logiciel Xirrus. Ce problème était dû à des interférences sur le réseau venant de l'antenne du chariot.</commentaireactivite>
+      </activitecitee>
+      <production numero="1846">
+        <numero>1846</numero>
+        <designation>Rapport de la mission</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/cathy_blum_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B45C3B15D-7D28-4DEB-ACCF-D84208AE2020%7D&amp;file=LS%20Bornes%20wifi.docx&amp;action=default</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1097">
+      <ref>1097</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Surveillance de l'environnement réseau</libcourt>
+      <descriptif>Réalisation d'interfaces sur le logiciel et former les employés à son utilisation.</descriptif>
+      <contexte>Conception des interfaces du logiciel the Dude. </contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Windows XP, Windows 7</environnement>
+      <moyen>The Dude sert à la surveillance de l’environnement réseau. Il permet un suivi continu des différents matériels connectés. S’il détecte la présence d'une défaillance, il avertit immédiatement l'utilisateur tout en indiquant la nature de la défaillance et</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Lors d'une réunion, j'ai présenté Dude en insistant sur l'utilisation de Dude et de la nécessité de sa maintenance et de sa mise à jour.   </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Évaluation les risques d'une mauvaise utilisation de the Dude ainsi que la non-considération d'un risque et de ces conséquences qui peuvent être des pertes de temps.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>- Débrancher le câble réseau doit déclencher l'alarme. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>J'ai installé le logiciel sur les moniteurs puis testé le service en débranchant le câble réseau. Sur la documentation, j'y ai inscrit le test à réaliser et les résultats.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Organisation et animation de la formation des collègues à l'utilisation de The Dude. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Par une formation, j'ai aidé les utilisateurs à gérer le logiciel et j'ai assuré un suivi par une vidéo et une documentation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Élaboration du guide d'utilisateur. </commentaireactivite>
+      </activitecitee>
+      <production numero="1847">
+        <numero>1847</numero>
+        <designation>Rapport de The Dude</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/cathy_blum_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B715AD7B1-F769-4165-8E5D-F3F177480DB3%7D&amp;file=The%20Dude%20Rapport.docx&amp;action=default</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1104">
+      <ref>1104</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Configuration d'un switch</libcourt>
+      <descriptif>Configuration un switch qui servira à la reprise au cas où le switch de base tombe en panne. Utilisation de la configuration du switch de base pour le switch de spare. </descriptif>
+      <contexte>Demande d'un switch de redondance. </contexte>
+      <datedebut>2017-05-17</datedebut>
+      <datefin>2017-05-22</datefin>
+      <environnement>Intégration du switch dans une baie de brassage.</environnement>
+      <moyen>Windows 7 avec le logiciel Putty servant à la prise en main à distance.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Le switch sert à la redondance lorsque le switch de base tombe en panne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration un switch à l'aide d'une configuration déjà établie en protégeant son accès par des vlans et un mot de passe crypté puis installation dans un rack.</commentaireactivite>
+      </activitecitee>
+      <production numero="1848">
+        <numero>1848</numero>
+        <designation>Rapport configuration d'un switch</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/cathy_blum_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B70A707B3-57A8-40F6-9006-096986A6C4C1%7D&amp;file=Rapport%20configuration%20switch.docx&amp;action=default</adresse>
+      </production>
+    </situation>
+    <situation ref="1105">
+      <ref>1105</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Audit de baies de brassage</libcourt>
+      <descriptif>J'ai réalisé un audit de baies de brassage en regardant si les câbles étaient bien rangés, en prenant le nom et l'adresse IP des switch, en regardant l'état générale de la baie et en regardant si l'onduleur est bien câblé à un switch.</descriptif>
+      <contexte>Mise en conformité des baies de brassage.</contexte>
+      <datedebut>2017-05-29</datedebut>
+      <datefin>2017-06-02</datefin>
+      <environnement>Baies de brassage</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour d'un document faisant le rapport de l'audit et des éléments à corriger.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Réalisé d'un audit des baies de brassages, soit une vérification de l’état des baies, de l’état des onduleurs,
+Réalisation d'un inventaire des switch en donnant leur nom, leur adresse IP et à quel vlan ils appartiennent.</commentaireactivite>
+      </activitecitee>
+      <production numero="1856">
+        <numero>1856</numero>
+        <designation>Rapport de l'audit</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/cathy_blum_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B54AFA16B-528E-4731-8902-56BA2F2E0711%7D&amp;file=Rapport%20Audit%20baies%20de%20brassage.docx&amp;action=default</adresse>
+      </production>
+    </situation>
+    <situation ref="1106">
+      <ref>1106</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Bornes wifi à l'usine moteur</libcourt>
+      <descriptif>Nous avons effectué les tests de réception WiFi à l'usine moteur. Nous avons localisées et répertoriées les bornes afin de savoir à combien se mesure la bande passante et s'il serait bon d’ajouter d’autre Bornes WiFi et où celles-ci devrait être placées</descriptif>
+      <contexte>Audit de performance suite à des problèmes de réception du signal.</contexte>
+      <datedebut>2017-06-07</datedebut>
+      <datefin>2017-06-14</datefin>
+      <environnement></environnement>
+      <moyen>Le Logiciel Xirrus scanne l'environnement pour trouver tous les réseaux et mesure leur signal. </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Documentation sur l'installation de bornes wifi supplémentaires suite au constat d'une mauvaise couverture wifi. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Nous nous sommes rendu compte de l’état de la couverture wifi à l'usine moteur. A plusieurs endroits stratégiques, nous avons effectué des tests de capacités d’émission Wi-Fi dans des zones spécifique</commentaireactivite>
+      </activitecitee>
+      <production numero="1849">
+        <numero>1849</numero>
+        <designation>Audit bornes wifi à l'usine moteur</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/cathy_blum_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B1985A8CC-B357-4A7B-929E-F1F2883368EB%7D&amp;file=Rapport%20Wifi%20Aera1.docx&amp;action=default</adresse>
+      </production>
+    </situation>
+    <situation ref="1121">
+      <ref>1121</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Paramétrage d'une borne wifi</libcourt>
+      <descriptif>A l'aide d'une documentation, nous avons paramétré une borne wifi.</descriptif>
+      <contexte>Paramétrage d'une borne wifi de redondance.  </contexte>
+      <datedebut>2017-06-21</datedebut>
+      <datefin>2017-06-21</datefin>
+      <environnement>Windows 7</environnement>
+      <moyen>Le Logiciel Xirrus scanne l'environnement pour trouver tous les réseaux et mesure leur signal. </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Nous avons configuré puis installé une borne wifi sur un switch.</commentaireactivite>
+      </activitecitee>
+      <production numero="1860">
+        <numero>1860</numero>
+        <designation>Rapport d'installation d'une borne wifi</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/cathy_blum_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B2D5C7809-D3EA-4257-B2D9-0AC713ABF75E%7D&amp;file=Rapport%20installation%20borne%20wifi.docx&amp;action=default</adresse>
+      </production>
+    </situation>
+    <situation ref="1201">
+      <ref>1201</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 - Surpervision réseau</libcourt>
+      <descriptif>Supervision de l'environnement réseau et implémentation du logiciel Eye of network. Création de map avec Nagvis, de graph avec Cacti et de schéma réseau avec Weathermap.</descriptif>
+      <contexte>Implémentation du logiciel Eye of Network.</contexte>
+      <datedebut>2018-01-09</datedebut>
+      <datefin>2018-02-08</datefin>
+      <environnement>Windows 7</environnement>
+      <moyen>Eye of Network (application de supervision réseau), Nagvis(sert à la cartographie de la disponibilité), Cacti(pour la gestion des performances ), Weathermap (pour une cartographie la bande passante), Nagios (gérant les incidents et les problèmes)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration du protocole SNMP sur tous les switch.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

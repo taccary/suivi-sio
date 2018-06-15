@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a96bfbf4befd">
+    <ref>5a96bfbf4befd</ref>
+    <datesv>2018-02-28</datesv>
+  </sauvegarde>
+  <etudiant numero="181">
+    <nom>PLATROZ</nom>
+    <prenom>Benjamin</prenom>
+    <mel>Benjamin.PLATROZ@icof.fr</mel>
+    <situation ref="1109">
+      <ref>1109</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Installation serveur web</libcourt>
+      <descriptif>windows server 2008 avec hyper V
++ VM debian (apache)</descriptif>
+      <contexte>Professionnel - Stage</contexte>
+      <datedebut>2017-06-19</datedebut>
+      <datefin>2017-06-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse de la demande, des restrictions et des conditions</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>étude sur la position idéale du serveur et l'impact de cet emplacement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>participation au projet du développement d'un site web (je me suis occupé de la partie serveur, matérielle)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>par rapport a le demande, j'ai effectué des propositions de structure réseau et logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation physique et logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>gestion des droits pour l’accès des webmaster</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite>évaluation de la machine proposé qui héberge l'hyperviseur avec le serveur web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Installation du sevrer sous les prochaine norme du réseaux</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1161">
+      <ref>1161</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - assistance a l'utilisateur</libcourt>
+      <descriptif>assistance a l'utilisateur</descriptif>
+      <contexte>Professionnel - Stage</contexte>
+      <datedebut>2017-06-26</datedebut>
+      <datefin>2017-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>accompagnement au utilisateur sur de nouveau service / machine</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>écouter / lire le problèmes , le diagnostiquer puis le résoudre.
+j'ai personnellement participer ou vue que des problèmes mineur et déjà connu (panne matérielle, ou formatage poste). 
+test , suivi et maintenance de dysfonctionnement d'un server</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>écouter / lire le problèmes , le diagnostiquer puis le résoudre.
+j'ai personnellement participer ou vue que des problèmes mineur et déjà connu (panne matérielle, ou formatage poste)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>évaluation du problème et réponse au utilisateur rencontrent celui ci</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>diagnostiquer et priorisé un problème</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>maintenance, brassage et test (diagnostic problème réseaux) </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1167">
+      <ref>1167</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - déploiement logiciel</libcourt>
+      <descriptif>WPKG et GPO de microsoft par AD</descriptif>
+      <contexte>Professionnel - Stage</contexte>
+      <datedebut>2017-06-26</datedebut>
+      <datefin>2017-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>test du plus pratique et du plus rapide,de l’outil de déploiement (WPKG, GPO)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>test de vitesse et fiabilité du service de déploiement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test sur un environnement de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>configuration des package wpkg</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>projet de mise a jour de PGI</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>après test, proposition oral de solution d’amélioration du service pour le déploiment avec ces avantage et inconvénient </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Proposition de système de déploiement d'imprimante par GPO</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Déploiement automatique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>proposition d'outils de déploiement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>utilisation de poste test dédier comme prototype pour test et déploiement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>mise en place réseau client serveur pour test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement package wpkg en XML</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>réalisation de test sur environnement de test et environnement réel (sur des postes dédier au test)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>analyse du problème, résolution ou adaptation du systeme</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>installation et configuration de wpkg</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>étude GPO microsoft et wpkg (déploiment)</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1182">
+      <ref>1182</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - déploiement machine</libcourt>
+      <descriptif>poste, appareil interconnexion, imprimante ...</descriptif>
+      <contexte>Professionnel - Stage</contexte>
+      <datedebut>2017-06-26</datedebut>
+      <datefin>2017-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>analyse des attentes, restriction et condition de la demande</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>test sur environement de test
+ou environement réel dans salle dédier</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation poste, configuration de poste (downgrade, installation PXE ...)
+configuration AP (filtrage MAC)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>rénovation poste</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1210">
+      <ref>1210</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 - Déploiement Téléphones mobiles</libcourt>
+      <descriptif>Changement de 180 Iphone
+- migration des anciens téléphone au nouveaux
+- récupération des anciens téléphone + listing des téléphones avec leur états</descriptif>
+      <contexte>Professionnel - Stage</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-01-18</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>un planning précis avait été définit lors du déploiement, de la récupération et du listing, des point était fait au fur et à mesure de l'avancement du déploiement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>un planing précis avait déjà été effectuer, celui ci variai en fonction de l'avancement du déploiement et des problèmes rencontrés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>indiquer au utilisateur les différence de leur nouveau mobile</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>remplacement des téléphones par des téléphones plus récents</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1211">
+      <ref>1211</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 - Mise en place IPBX (XIVO)</libcourt>
+      <descriptif>configuration hardware xivo + liaison aux terminaux
+maquette + installation client</descriptif>
+      <contexte>Professionnel - Stage</contexte>
+      <datedebut>2018-01-19</datedebut>
+      <datefin>2018-01-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>installation hardware xivo sur un réseau, installer et relié les terminaux.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Test de l'infrastructure xivo + switch + terminaux avant le déploiement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation et configuration switch pour la voip (VLAN, Trunk)
+configuration PABX</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Test de l'infrastructure xivo + switch + terminaux avant le déploiement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>test des appel téléphonique une fois le déploiement terminer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>étude de la configuration, su fonctionnement XIVO et du protocole SIP</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1212">
+      <ref>1212</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 - Déploiements Firewall</libcourt>
+      <descriptif>déploiement de plusieurs firewall CISCO (MERAKI) chez des client différent</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-23</datedebut>
+      <datefin>2018-02-09</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>cahier des charges analysé avec le client (téléphone)de la configuration nécessaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>installation sur site de firewall, et expliquer le fonctionnement au utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>réalisation de maquette firewall + router (WAN) + client (LAN, VPN)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation de firewall , configuration cluster (spare) avec 2 firewall</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>remplacement de firewall, migration en dégradé (2 WAN)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>administration reconfiguration , de firewall à distance (cloud meraki) </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>étude du fonctionnement des firewall de cette marque, ces fonctionnalités et ces limites</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1221">
+      <ref>1221</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 - configuration mailinblack</libcourt>
+      <descriptif>Configuration du service anti-spam mailinblack</descriptif>
+      <contexte>maquette + installation client</contexte>
+      <datedebut>2018-01-29</datedebut>
+      <datefin>2018-02-02</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>évaluation des risques au changement du serveur SMTP utilisé par le serveur mail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Test d'envoi de mail avec la nouvelle configuarion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Recueil d'informations sur la configuration actuelle utilisé et celle à avoir,
+recueil d'information sur la structure , le parcours des mails à avoir.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du fonctionnement du service mailinblack par leur documentations et par téléphone.</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

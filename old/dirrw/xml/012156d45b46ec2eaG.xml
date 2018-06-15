@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56d45b46ec2ea">
+    <ref>56d45b46ec2ea</ref>
+    <datesv>2016-02-29</datesv>
+  </sauvegarde>
+  <etudiant numero="121">
+    <nom>FRANCHINO</nom>
+    <prenom>Samuel</prenom>
+    <mel>samuel.franchino@icof.fr</mel>
+    <situation ref="638">
+      <ref>638</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion des clients</libcourt>
+      <descriptif>Habilitations des droits applicatifs,
+Habilitations des droits ressource projets,
+
+
+
+</descriptif>
+      <contexte> </contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Préparation a la participation d'une réunion, exposer les résultats d'une mission</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participer a la Revue de tous les profils métiers </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>gestion des ressources matériels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prise de contrôle d'un serveur a distance, pour régler des problèmes d'accès</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Prendre le contrôle d'un poste utilisateur à distance </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation d'une imprimante </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gestion et attributions des droits aux utilisateurs</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="727">
+      <ref>727</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion et évolution du parc informatique</libcourt>
+      <descriptif>Dépannage client, 
+Aide aux utilisateurs, 
+Migration des données serveurs,
+Optimisation du parc
+</descriptif>
+      <contexte>Stage première année</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Windows 7, Spot, Communicator, windows server 2003, windows server 2007 R2, outlook (dépanage client), GIR(Contrat), Annuaire, SITI(Gestion de parc), rameau DMI</environnement>
+      <moyen>Humain et matérielle</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Etude sur la technologie SSO</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Etude sur la technologie SSO</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Dépannage client et explication de l'ajout d'un lecteur réseau (lien DFS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>restitution de tous les postes inactifs du Parc informatique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Gestion de quota sur un disque DFS</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Ajout d'un lecteur réseau a distance, Dépannage Messagerie a distance</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Accès avec bureau a distance a un Serveur pour ajouter un profile </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Ajout d'un lecteur réseaux (lien DFS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>logiciel incompatible windows 7 mais compatibile windows XP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Droit d'accès sur les dossiers sensibles (RH, Comptabilité)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Pilote d'une imprimante</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise a jour de la documentation des postes utilisés /Inactifs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>instalation des Pilotes d'une imprimante</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Script Robocopy Migration de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise a jour documentation des postes actifs /Inactifs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Migration des postes de  XP vers Windows 7</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Envoie de déclaration de matériel non trouvé aux managers n'ayant pas restitué les postes inactifs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude sur la technologie SSO</commentaireactivite>
+      </activitecitee>
+      <production numero="1297">
+        <numero>1297</numero>
+        <designation>Gestion et évolution du parc informatique</designation>
+        <adresse>http://stage1-sio2-samuel.e-monsite.com/pages/optimisation-du-parc.html</adresse>
+      </production>
+      <production numero="1360">
+        <numero>1360</numero>
+        <designation>Gestion et évolution du parc</designation>
+        <adresse>http://stage1-sio2-samuel.e-monsite.com/pages/maintenance-de-poste-au-sein-d-un-parc.html</adresse>
+      </production>
+      <production numero="1361">
+        <numero>1361</numero>
+        <designation>Etude de la Technologie SSO</designation>
+        <adresse>http://stage1-sio2-samuel.e-monsite.com/pages/etude-de-la-technologie-sso.html</adresse>
+      </production>
+      <production numero="1362">
+        <numero>1362</numero>
+        <designation>Gestion de support matériel</designation>
+        <adresse>http://stage1-sio2-samuel.e-monsite.com/pages/gestion-de-support-materiel.html</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

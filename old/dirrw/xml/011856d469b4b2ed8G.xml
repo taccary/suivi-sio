@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56d469b4b2ed8">
+    <ref>56d469b4b2ed8</ref>
+    <datesv>2016-02-29</datesv>
+  </sauvegarde>
+  <etudiant numero="118">
+    <nom>BOIT</nom>
+    <prenom>Benjamin</prenom>
+    <mel>benjamin.boit@icof.fr</mel>
+    <situation ref="661">
+      <ref>661</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Assistance utilisateur // Interventions techniques</libcourt>
+      <descriptif>Assistance aux utilisateurs pour résoudre des problèmes</descriptif>
+      <contexte>Stage 1ère année - Centre hospitalier du Vinatier</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>DSI - Environnement Windows uniquement (Xp-Seven-8)
+Demandes transmises via un formulaire de demande d'intervention en ligne sur l'intranet</environnement>
+      <moyen>Informatique: Remote desktop // Remote assistance //procédures sur le réseau
+Humain: Téléphone // concertation avec des collègues // Déplacement sur place</moyen>
+      <avisperso>Permet d'appréhender l'environnement informatique et ses usagers de manière concrète</avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>diagnostiquer rapidement l'origine du problème et intervenir physiquement ou à distance. Consulter les membres du serice afin d'obtenir les caractéristiques de cette installation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Recueillir les demandes des utilisateurs, les trier contacter la personne par téléphone/mail, si besoin prendre le contrôle de son poste ou se déplacer sur place</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Indiquer le suivi effectué sur un poste</commentaireactivite>
+      </activitecitee>
+      <production numero="1264">
+        <numero>1264</numero>
+        <designation>Article Wordpress (avec images et PJ) \ Assistance</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="706">
+      <ref>706</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Déploiment de postes/ Masterisation </libcourt>
+      <descriptif>Déploiement d'image sur postes // Installation Physique du poste // MAJ procédure de création du master</descriptif>
+      <contexte>Stage 1ère Année // Mise à disposition nouveaux postes utilisateurs</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>DSI CH du Vinatier</environnement>
+      <moyen>Clés bootable pour déploiement images (WINPE et autres)</moyen>
+      <avisperso>La création de postes de manière automatisée, permet une efficacité accrue sur les grandes structures</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Envoi de compte rendus à mon maître de stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Déploiement de STA
+(logiciel et physique)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>MAJ de la procédure de création du master pour les Lenovo X131e </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>MAJ de la procédure de création du master pour les Lenovo X131e </commentaireactivite>
+      </activitecitee>
+      <production numero="1267">
+        <numero>1267</numero>
+        <designation>Article Wordpress (avec images et PJ) \ déploiement de postes</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1269">
+        <numero>1269</numero>
+        <designation>Article WP \ Procédure de création de master MAJ</designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+    <situation ref="749">
+      <ref>749</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Appréhension de l'architecture logique-physique // Maquettage</libcourt>
+      <descriptif>Comprendre l'infrastructure réseau du CHV, maquetter et tester les fonctionnalités mises en place</descriptif>
+      <contexte>Stage 2e année - Remplacement éléments réseaux obsolètes</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>DSI CH du Vinatier</environnement>
+      <moyen>Documentation, explications du tuteur;
+3 Switchs HP Procurve 2530-24-PoE+</moyen>
+      <avisperso>Permet la compréhension de la tâche à venir, l'assimilation de notions, de vérifier le bon fonctionnement de la solution mise en place</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Prendre en compte la haute criticité de la solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tester sur maquette le bon fonctionnement de STP et loop-protect</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Créer une maquette simulant le service en fonctionnement et effectuer les tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Créer une maquette simulant le service en fonctionnement</commentaireactivite>
+      </activitecitee>
+      <production numero="1389">
+        <numero>1389</numero>
+        <designation>Articles WP</designation>
+        <adresse>http://bboit-sisr.ddns.net/wordpress/index.php/category/epreuve_e6/stage_sio2/</adresse>
+      </production>
+    </situation>
+    <situation ref="750">
+      <ref>750</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Remplacement d'éléments réseaux obsolètes</libcourt>
+      <descriptif>Remplacement d'éléments réseaux obsolètes, brassage, rackage. Configuration d'éléments réseaux.</descriptif>
+      <contexte>Stage 2e année - Remplacement éléments réseaux obsolètes</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>DSI CH du Vinatier</environnement>
+      <moyen>Switchs HP Procurve 2530-24-PoE+;2530-24;2530-24G;3800</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compte rendu au maître de stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Superviser inventaire du matériel déployé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Supervision via IMC</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Rackage des SW</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacer SW 2524 par 2530, configuration en conséquence</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mettre à jour l'inventaire, le plan réseau</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Supervision via IMC, administration en telnet</commentaireactivite>
+      </activitecitee>
+      <production numero="1402">
+        <numero>1402</numero>
+        <designation>Articles WP</designation>
+        <adresse>http://bboit-sisr.ddns.net/wordpress/index.php/category/epreuve_e6/stage_sio2/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

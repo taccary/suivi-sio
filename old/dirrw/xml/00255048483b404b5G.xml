@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5048483b404b5">
+    <ref>5048483b404b5</ref>
+    <datesv>2012-09-06</datesv>
+  </sauvegarde>
+  <etudiant numero="25">
+    <nom>test</nom>
+    <prenom>test</prenom>
+    <mel>titi@toto.fr</mel>
+    <situation ref="1">
+      <ref>1</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>choix module boutique en ligne</libcourt>
+      <descriptif>J'ai du comparer différents modules pour le CMS Joomla pour enrichir le site d'un client avec une boutique en ligne.
+Après avoir comparé les solutions, j'ai choisi Virtuemart.</descriptif>
+      <contexte>mise en place d'une boutique en ligne pour SociétéBidon</contexte>
+      <datedebut>2012-05-21</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>mon pc portable, win 7, plateforme de test avec serveur local Uwamp</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>J'ai recensé les différents modules existants pour ajouter une boutique en ligne sur un CMS Joomla et rédigé un document comparatif en terme de couts et de contraintes technologiques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Après avoir choisi le composant Virtuemart, j'ai rédigé un document pour expliquer les changements a apporter à la solution actuelle d’hébergement afin d’intégrer le nouveau module. J'ai estimé les couts de ces changements et les charges de travail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>J'ai testé le module Virtuemart sur le site existant sur ma plateforme locale en utilisant des tutoriels trouvé sur le net. Le produit répond a toutes les attentes qui m'avait été formulées mais j'ai anticipé les évolutions possibles de la boutique.</commentaireactivite>
+      </activitecitee>
+      <production numero="1">
+        <numero>1</numero>
+        <designation>comparatif des solutions e-commerce pour joomla</designation>
+        <adresse>http://www.comparatif-ecommerce.com/</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

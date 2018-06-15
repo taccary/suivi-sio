@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="538b2e2b40b63">
+    <ref>538b2e2b40b63</ref>
+    <datesv>2014-06-01</datesv>
+  </sauvegarde>
+  <etudiant numero="80">
+    <nom>le texier</nom>
+    <prenom>adrien</prenom>
+    <mel>adrien.letexier@icof.fr</mel>
+  </etudiant>
+</suivicomp>

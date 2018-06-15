@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a9426230c7b0">
+    <ref>5a9426230c7b0</ref>
+    <datesv>2018-02-26</datesv>
+  </sauvegarde>
+  <etudiant numero="131">
+    <nom>GIRARD</nom>
+    <prenom>Arthur</prenom>
+    <mel>Arthur.GIRARD@icof.fr</mel>
+    <situation ref="907">
+      <ref>907</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Déploiement Rsyslog</libcourt>
+      <descriptif>Installation et déploiement Rsyslog sur machine virtuelle CentOs</descriptif>
+      <contexte>Stage 1ère année DSI Région Rhône-Alpes </contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Machine virtuelle</environnement>
+      <moyen>Putty</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>6</numero>
+        <commentaire>Merci de placer les documents utilisés pour réaliser cette mission, ils seront nécessaires pour valider ces activités. FG</commentaire>
+        <datecommentaire>2017-06-19</datecommentaire>
+        <numprof>6</numprof>
+        <nomprof>Granotier</nomprof>
+        <prenomprof>Frederique</prenomprof>
+        <melprof>frederique.granotier@icof.fr</melprof>
+      </avisprof>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de Rsyslog sur VM CentOs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Rsyslog renvoi des logs permettant de cibler un incident.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="911">
+      <ref>911</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Développement site web perso</libcourt>
+      <descriptif>Une semaine, je n'avais pas de tâches à réaliser donc j'ai développer mon site web.</descriptif>
+      <contexte>Personnel.</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>HTML-CSS-PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>7</numero>
+        <commentaire>Merci de placer les documents utilisés pour réaliser cette mission, ils seront nécessaires pour valider ces activités. FG</commentaire>
+        <datecommentaire>2017-06-19</datecommentaire>
+        <numprof>6</numprof>
+        <nomprof>Granotier</nomprof>
+        <prenomprof>Frederique</prenomprof>
+        <melprof>frederique.granotier@icof.fr</melprof>
+      </avisprof>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de mon propre site web, pour l'instant non hébergé sur le web.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="913">
+      <ref>913</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création base de données Rsyslog dans MySql</libcourt>
+      <descriptif>Création base de données Rsyslog dans MySql en ligne de commandes sur VM CentOs.</descriptif>
+      <contexte>Projet </contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>VM CentOS avec Rsyslog</environnement>
+      <moyen>VM</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>8</numero>
+        <commentaire>Merci de placer les documents utilisés pour réaliser cette mission, ils seront nécessaires pour valider ces activités. FG</commentaire>
+        <datecommentaire>2017-06-19</datecommentaire>
+        <numprof>6</numprof>
+        <nomprof>Granotier</nomprof>
+        <prenomprof>Frederique</prenomprof>
+        <melprof>frederique.granotier@icof.fr</melprof>
+      </avisprof>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création BDD MySql pour RSYSLog
+</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="917">
+      <ref>917</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>UCOPIA</libcourt>
+      <descriptif>Paramétrage et gestion portail captif UCOPIA</descriptif>
+      <contexte>Pro</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Portail captif</environnement>
+      <moyen>PC</moyen>
+      <avisperso></avisperso>
+      <avisprof>
+        <numero>9</numero>
+        <commentaire>Merci de placer les documents utilisés pour réaliser cette mission, ils seront nécessaires pour valider ces activités. FG</commentaire>
+        <datecommentaire>2017-06-19</datecommentaire>
+        <numprof>6</numprof>
+        <nomprof>Granotier</nomprof>
+        <prenomprof>Frederique</prenomprof>
+        <melprof>frederique.granotier@icof.fr</melprof>
+      </avisprof>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation sur UCOPIA puis paramétrage des comptes utilisateurs</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1153">
+      <ref>1153</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 SLAM - Développement d'une application pour Active Directory</libcourt>
+      <descriptif>Application de création/modification d'utilisateur dans Active Directory.</descriptif>
+      <contexte>Professionnel - Stage</contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Putty, WinSCP, Notepad ++.</environnement>
+      <moyen>Connaissances persos + aides tuteur de stage.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges d'une application (APIC) pour définir les contrôles graphiques ainsi que les fonctionnalités de l'application ainsi que la création de la BDD.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Tâches découpées en nombre de jours.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Chaque début de semaine compte rendu d'avancement ainsi que planification des tâches de la semaine en cours, avec le tuteur de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception de la base de données en fonction des besoins définis dans le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement de APIC (Application des Paramètres Individuels de Connexion)</commentaireactivite>
+      </activitecitee>
+      <production numero="1920">
+        <numero>1920</numero>
+        <designation>Cahier des charges APIC</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/arthur_girard_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farthur_girard_icof_fr%2FDocuments%2FStage%20Ressourcial%202017%2FCahier%20des%20charges</adresse>
+      </production>
+      <production numero="1921">
+        <numero>1921</numero>
+        <designation>Code APIC</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/arthur_girard_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farthur_girard_icof_fr%2FDocuments%2FStage%20Ressourcial%202017%2FApplication%20APIC</adresse>
+      </production>
+      <production numero="1922">
+        <numero>1922</numero>
+        <designation>Image application APIC</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/arthur_girard_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Farthur_girard_icof_fr%2FDocuments%2FStage%20Ressourcial%202017%2FAPIC</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

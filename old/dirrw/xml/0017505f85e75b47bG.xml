@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="505f85e75b47b">
+    <ref>505f85e75b47b</ref>
+    <datesv>2012-09-23</datesv>
+  </sauvegarde>
+  <etudiant numero="17">
+    <nom>Chomel</nom>
+    <prenom>Antoine</prenom>
+    <mel>antoine.chomel@icof.fr</mel>
+    <situation ref="17">
+      <ref>17</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance imprimante</libcourt>
+      <descriptif>l'imprimante ne scanner pas en PDF 
+
+réinstaller les pilotes et config directement sur l'imprimante</descriptif>
+      <contexte>l'imprimante </contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows 7 imprimante multifonction</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="38">
+      <ref>38</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance &amp; réinstallation de Windows</libcourt>
+      <descriptif>le client a changé de système de vidéo surveillance et a du changé de logiciel, pour avoir une machine propre et effacer les image confidentiel j'ai du réinstaller Windows ainsi que les pilotes et logiciel primordiales</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-06</datedebut>
+      <datefin>2012-09-06</datefin>
+      <environnement>WINDOWS XP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>test du logiciel de surveillance sur Windows 7 / --&gt; compatibilité qu'avec Windows xp</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>on a informer le client par une note sur son Marielle les indications de fonctionnement du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>on a informer le client par une note sur son Marielle les indications de fonctionnement du service les différence avec son ancien système</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="52">
+      <ref>52</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>importation de données dans le logiciel wipsos</libcourt>
+      <descriptif>retranscription des données de l'entreprise (cleint, fournisseurs, articles, fournisseurs, contrats) dans un fichier xls respectant les normes du logiciel Wipsos
+création d'un serveur ftp pour assurer la transmission des fichier d'importation sur Wind</descriptif>
+      <contexte>l'entreprise avait pour but d'informatiser son système de gestion logistique avec le logiciel wipsos</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>windows 7 / Windows server 2008 R2 héberger sur le cloud accès TSE</environnement>
+      <moyen></moyen>
+      <avisperso>taches longue et minutieuse </avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>impact du logiciel wipsos</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>avoir un système autonome et fluide pour réaliser des activité quotidienne rapidement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>définir les procédures </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>attribuer les droit aux utilisateur exemple: accès au tarif fournisseurs et tarif de ventes </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>base de données wipsos </commentaireactivite>
+      </activitecitee>
+      <production numero="9">
+        <numero>9</numero>
+        <designation>activite-1-importation-de-donnees-dans-wipsos</designation>
+        <adresse>http://sio-competences.overblog.com/activite-1-importation-de-donnees-dans-wipsos</adresse>
+      </production>
+    </situation>
+    <situation ref="56">
+      <ref>56</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>mise en place d'un contrôleur de domaine</libcourt>
+      <descriptif>installation des role active directory
+création d'utilisateurs et de groupes (service technique, commercial, administratif)</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows server 2008 r2</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="57">
+      <ref>57</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Suivi du matériel et maintenace</libcourt>
+      <descriptif>installation d'imprimante réseaux, scanners, adressage d'IP fixe
+Configuration scanner, ouverture des ports pour le Windows serveur 2008R2</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows 7, Windows server 2008 R2</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

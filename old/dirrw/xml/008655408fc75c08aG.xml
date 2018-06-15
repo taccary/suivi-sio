@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="55408fc75c08a">
+    <ref>55408fc75c08a</ref>
+    <datesv>2015-04-29</datesv>
+  </sauvegarde>
+  <etudiant numero="86">
+    <nom>royer</nom>
+    <prenom>arnaud</prenom>
+    <mel>arnaud.royer@icof.fr</mel>
+    <situation ref="465">
+      <ref>465</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 - Création du site internet de Freesons</libcourt>
+      <descriptif>Conception et création d'un site internet depuis le début pour le compte de Freesons, une association culturelle lois 1901. L'association n'a pas commencé son activité. A terme, un studio sera disponible pour répéter et enregistrer des instruments.</descriptif>
+      <contexte>Création d'un site internet pour le compte de Freesons en collaboration avec d'autres stagiaires en développement, en graphisme et en communication.</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Ordinateur individuel, travaux synchronisé sur dropbox.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Écoute des besoins du site donné oralement par le tuteur. Ces informations étais libre d'interprétation. Préparation  des premières fonctionnalités du site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>comptes rendues oral régulier au président de l'association sur l’avancement du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Prise en compte du temps passé sur le slider. Un jour et demi au lieu d'une demi-journée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Maquette de la page d’accueil, réflexion sur la disposition de l'interface</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>MCD fait avec JMERISE</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>cf maquette du site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>serveur local uwamp</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>développement pages par pages du site et de ses fonctionnalités. Correction de bugs</commentaireactivite>
+      </activitecitee>
+      <production numero="1045">
+        <numero>1045</numero>
+        <designation>FREESONS - Maquette page d'accueil</designation>
+        <adresse>https://www.dropbox.com/s/tsx7tvf4xr7yrdh/maquette%201%20acceuil.jpg?dl=0</adresse>
+      </production>
+      <production numero="1047">
+        <numero>1047</numero>
+        <designation>FREESONS - Plan du site</designation>
+        <adresse>https://www.dropbox.com/s/qx7q5l3ineg8188/Plan%20site%20web%20Freesons.jpg?dl=0</adresse>
+      </production>
+      <production numero="1048">
+        <numero>1048</numero>
+        <designation>FREESONS - mcd</designation>
+        <adresse>https://www.dropbox.com/s/rr09sd999jvgamc/mcd.PNG?dl=0</adresse>
+      </production>
+      <production numero="1051">
+        <numero>1051</numero>
+        <designation>FREESONS - Proto site</designation>
+        <adresse>https://www.dropbox.com/s/rr09sd999jvgamc/mcd.PNG?dl=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="556">
+      <ref>556</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2 - Maintenance du blog de M.CANAVY</libcourt>
+      <descriptif>Changement du nom de domaine, modifications diverses.</descriptif>
+      <contexte>Transfert d'un blog wordpress sur un autre nom de domaine pour améliorer le référencement</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-01-09</datefin>
+      <environnement>Plateforme Wordpress</environnement>
+      <moyen>Ordinateur portable personnel</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Envoie par mail des infos.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Installation d'un wordpress sur un serveur distant avec Filezilla</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1052">
+        <numero>1052</numero>
+        <designation>Blog de M.CANAVY</designation>
+        <adresse>http://www.bertrandcanavy.com/</adresse>
+      </production>
+    </situation>
+    <situation ref="557">
+      <ref>557</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2 - Developpement d'une application android</libcourt>
+      <descriptif>developpement d'une application android qui affiche une citation à chaque allumage de l'écran du smartphone.</descriptif>
+      <contexte>Développement d'une appli reprenant les fonctionnalités de PNLancrage</contexte>
+      <datedebut>2015-01-12</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>Android Studio</environnement>
+      <moyen>Ordinateur portable personnel sous Windows 8</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>voir mockup</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>implémentation et manipulation d'une base de donnée SQLite</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>réorganisation des fonctionnalités en fonction des priorité et du temps</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>test sur émulateur et sur SGS2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>production du CDC et journal de bord</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1057">
+        <numero>1057</numero>
+        <designation>Mockup plan de l'appli</designation>
+        <adresse>https://www.dropbox.com/s/wwua9ezrbztdn1s/Plan%20de%20l%27appli.png?dl=0</adresse>
+      </production>
+      <production numero="1059">
+        <numero>1059</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://www.dropbox.com/s/tz8otdn84upzuxm/cdc-myHippo.docx?dl=0</adresse>
+      </production>
+      <production numero="1060">
+        <numero>1060</numero>
+        <designation>Shéma explicatif d'intération avec la bdd</designation>
+        <adresse>https://www.dropbox.com/s/4j806b9t7mfyrzr/Fonctionnement%20myHippo%20BDD.jpeg?dl=0</adresse>
+      </production>
+      <production numero="1133">
+        <numero>1133</numero>
+        <designation>Suivi d'activité</designation>
+        <adresse>https://www.dropbox.com/s/d79xat08ceiovzz/Suivi%20d%27activit%C3%A9.docx?dl=0</adresse>
+      </production>
+      <production numero="1134">
+        <numero>1134</numero>
+        <designation>Doc technique</designation>
+        <adresse>https://www.dropbox.com/s/gxko9nbp0yuc7qp/DocTech-myHippo.docx?dl=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="585">
+      <ref>585</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Mise en place d'un dispositif de veille</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-02-26</datedebut>
+      <datefin>2015-02-26</datefin>
+      <environnement>Smartphone, ordinateur</environnement>
+      <moyen>Feedly</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1149">
+        <numero>1149</numero>
+        <designation>CV</designation>
+        <adresse>https://www.dropbox.com/s/oa8239fjqaf6tvk/Europass-CV-04_2015-Royer-FR.doc?dl=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="616">
+      <ref>616</ref>
+      <codeType>3</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE C#</libcourt>
+      <descriptif>Développement d'une interface permettant de gérer les clients et les visites pour le compte du laboratoire GSB.</descriptif>
+      <contexte>Le siège de GSB souhaite une application de type client lourd en C# pour gérer</contexte>
+      <datedebut>2015-03-30</datedebut>
+      <datefin>2015-03-30</datefin>
+      <environnement>Ordinateur windows 8</environnement>
+      <moyen>Visual Studio 2010</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1222">
+        <numero>1222</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://www.dropbox.com/s/0pf3ko5pv50mc8m/Projet-2_CdC_BackOffice_v1-0.pdf?dl=0</adresse>
+      </production>
+      <production numero="1224">
+        <numero>1224</numero>
+        <designation>SC onglet Visite</designation>
+        <adresse>https://www.dropbox.com/s/dg8bhcv2ol6n9xj/Onglet%20Visite.png?dl=0</adresse>
+      </production>
+      <production numero="1225">
+        <numero>1225</numero>
+        <designation>Regles de gestion</designation>
+        <adresse>https://www.dropbox.com/s/1f99qt6i0nabqpb/Regles-GestionGSB_royer.docx?dl=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="635">
+      <ref>635</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE PHP</libcourt>
+      <descriptif>Processus de gestion comptable, application web</descriptif>
+      <contexte>Il s'agit d'informatiser la saisie et la validation des fiches de frais des visiteurs médicales.</contexte>
+      <datedebut>2015-04-27</datedebut>
+      <datefin>2015-04-27</datefin>
+      <environnement>NetBeans</environnement>
+      <moyen>Ordinateur Windows 8</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1226">
+        <numero>1226</numero>
+        <designation>Tuto github</designation>
+        <adresse>https://www.dropbox.com/s/w8c0iro800npm0y/diab-prise-en-main-github.docx?dl=0</adresse>
+      </production>
+      <production numero="1227">
+        <numero>1227</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://www.dropbox.com/s/4morah26f76if10/Projet-1_CdC_Process_comptable_v1-0.pdf?dl=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

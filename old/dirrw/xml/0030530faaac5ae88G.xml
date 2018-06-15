@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="530faaac5ae88">
+    <ref>530faaac5ae88</ref>
+    <datesv>2014-02-27</datesv>
+  </sauvegarde>
+  <etudiant numero="30">
+    <nom>drure</nom>
+    <prenom>kevin</prenom>
+    <mel>kevin.drure@icof.fr</mel>
+    <situation ref="226">
+      <ref>226</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Encadrement de réalisation d'un intranet local</libcourt>
+      <descriptif>Suivi de la réalisation d'un intranet en tant que responsable du projet.</descriptif>
+      <contexte>Besoin d'un accès centralisé et distant pour le serveur de mails, le serveur de fichiers et les tutos correspondants.</contexte>
+      <datedebut>2013-05-28</datedebut>
+      <datefin>2013-05-31</datefin>
+      <environnement></environnement>
+      <moyen>Traitement de texte orienté programmation (Notepad++, Geany), clients FTP (FileZilla, Gigolo) et navigateur internet (chromium, firefox)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai été en charge du suivi de la réalisation d'un intranet (direction de l'équipe, accompagnement de la réalisation avec les personnes concernées, responsable du résultat final). Travail soumis à la validation finale du responsable informatique global</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>J'ai suivi le travail de plusieurs personnes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>L'intranet était ralentit par l'affichage d'une image d'arrière-plan (dû à une mauvaise connexion sur le réseau). Il a donc été décidé de faire le design sans image (uniquement en css).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai été chargé de la réalisation et du choix du CSS, en respectant quelques consignes d'esthétique et de gestion des ressources (connexion limitée)</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="233">
+      <ref>233</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance évolutive du site</libcourt>
+      <descriptif>J'ai été chargé de remettre en forme les pages jugées les plus importantes du site web.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-05-24</datefin>
+      <environnement></environnement>
+      <moyen>Interface d'administration du CMS, Geany (éditeur de texte)</moyen>
+      <avisperso>Cette tâche a été lourdement freiné par l'utilisation d'un CMS très restrictif.</avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai utilisé du CSS afin de remettre en forme les articles les plus importants du site, afin qu'ils soient plus visuels.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="239">
+      <ref>239</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation de samba sur une raspberry pi</libcourt>
+      <descriptif>Installation et configuration de samba sur raspbian depuis une application de bureau distant (SSH).</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-28</datedebut>
+      <datefin>2013-05-29</datefin>
+      <environnement></environnement>
+      <moyen>Raspberry pi avec raspbian et le protocole SSH installé, visionneur de bureaux distants, documentation sur samba</moyen>
+      <avisperso>Très formateur, j'ai dû m'en sortir seul avec une documentation très bien rédigée</avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>J'ai été chargé d'installer samba et de le configurer seul sur une raspberry pi afin d'avoir accès aux vidéo enregistrées depuis la caméra de surveillance (webcam)</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="244">
+      <ref>244</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Test de sécurité d'une solution de VOIP</libcourt>
+      <descriptif>Test de la sécurité des données en VOIP sur le réseau local (scan des trames avec WireShark)</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-30</datedebut>
+      <datefin>2013-05-31</datefin>
+      <environnement></environnement>
+      <moyen>WireShark (scan de trames), asterisk (serveur de VOIP linux), X-Lite (client de VOIP)</moyen>
+      <avisperso>Peu sécurisé</avisperso>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Nous avons mis en place un système de VOIP sur le réseau local dans le avec pour principale mission de tester le niveau de sécurité de celui-ci</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="249">
+      <ref>249</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise à jour d'une documentation informatique</libcourt>
+      <descriptif>Mise à jour d'une documentation informatique vieillissante (liste des machines, des configurations, comptes et identifiants, ...)</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-06-02</datedebut>
+      <datefin>2014-06-02</datefin>
+      <environnement></environnement>
+      <moyen>Traitement de texte (libre office), moyens humains (inventaire des machines)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>J'ai été chargé de repérer les informations obsolètes et de les mettre à jour pendant que deux autres personnes faisaient l'inventaires des machines et leur configuration.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="252">
+      <ref>252</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Maintenance corrective du site</libcourt>
+      <descriptif>Correction de codes CSS apparents sur certaines pages générées par le CMS</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-05</datedebut>
+      <datefin>2013-06-05</datefin>
+      <environnement></environnement>
+      <moyen>Interface d'administration du CMS</moyen>
+      <avisperso>Problème difficile à situé, étant donné que cela arrive sur des pages générées par le CMS, et à résoudre de manière propre (le code CSS est censé être échappé)</avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Le CMS n'a pas échappé une portion de code CSS qui s'affichait donc sur des pages générées par ce dernier. La solution optée à été de positionner le code en fin de page (limitations du CMS)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="309">
+      <ref>309</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Dévellopement et mise en place de l'application CDR Planning</libcourt>
+      <descriptif>Réalisation d'un planning en PHP, JavaScript et HTML connecté à une base de données MySQL, ainsi qu'un back office et une aide utilisateur interactive.</descriptif>
+      <contexte>Entreprise Comptoir des Revêtements CELMA
+Stage 2ème année</contexte>
+      <datedebut>2014-01-06</datedebut>
+      <datefin>2014-02-21</datefin>
+      <environnement>Langages: PHP, SQL, HTML, JavaScript, CSS
+Frameworks: JQuery (js), DataTable(js), REDIPS.drag (js)
+Logiciels et technologies utilisés: GIT, Geany, FileZilla, Chrome, FireFox, IE, PhpMyAdmin</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Restrictions d'accès à différentes fonctionnalités du planning selon le poste du personnel (compagnon, commercial, ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Formation individuelle à l'utilisation de l'outil pour chaque utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création et déploiement d'un exécutable permettant d’accéder au planning instantanément  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Utilisation d'une technologie de versionning (GIT).
+Réunions hebdomadaires sur l'avancée du planning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Demande d'un budget pour l'achat de ressources matérielles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aide aux utilisateurs en phase d'appropriation du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Corrections immédiates des bugs signalés par les utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Achat d'un téléviseur 4K et d'une carte graphique appropriée afin de permettre un affichage global du planning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Mise en place régulière de backups sur un disque dur externe. Convention de nommage: date du backup.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Choix des langages web afin de proposer un accès distant efficace</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Mise en place d'une interface d'administration de l'outil.
+Maquettage d'une page d'administration en collaboration avec les utilisateurs concernés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>MCD, création de la BDD sous MySQL, requêtage depuis l'application WEB </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Animation flash interactive sur l'utilisation de la solution proposée adaptée à tout type d'utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>Prise en compte de la qualité de service résultante de l'investissement dans le téléviseur 4k</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude de la technologie HDMI (normes pour la résolution) ainsi que le DVI et VGA</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="316">
+      <ref>316</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement et mise en place du site web cdr-celma.com</libcourt>
+      <descriptif>Création d'un site WEB vitrine afin de remplacer l'ancien devenue obsolète.</descriptif>
+      <contexte>Entreprise Comptoir des Revêtements CELMA</contexte>
+      <datedebut>2014-02-17</datedebut>
+      <datefin>2014-02-21</datefin>
+      <environnement>Langages web: HTML, CSS, JavaScript, PHP
+Framework: JQuery (js), Google Maps(js), Basic Slider JQuery (js)
+Logiciels et technologies utilisés: GIT, Geany, FileZilla, Chrome, FireFox, IE</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Hébergement FTP du site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Choix d'un fournisseur d'hébergement selon l'offre et la qualité de service proposé</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="511a5a259bc18">
+    <ref>511a5a259bc18</ref>
+    <datesv>2013-02-12</datesv>
+  </sauvegarde>
+  <etudiant numero="9">
+    <nom>Martin</nom>
+    <prenom>Jonathan</prenom>
+    <mel>jonathan.martin@icof.fr</mel>
+    <situation ref="10">
+      <ref>10</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Développement d'un site en ASP.NET / C#</libcourt>
+      <descriptif>Mise en forme d’un site en ASP.NET, convertir pages Visual Basic en C#, Création d’un menu dynamique en XML, Rédaction de documentation</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Win 7 - Visual Studio 2010</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Lecture des modifications à appliquer pour le site, et mise en œuvre de celles-là.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Etude des spécifications techniques pour le site à développer. (Plan du futur menu à réaliser, codage dans un fichier XML de paramétrage le contenu du menu afin qu’il puisse s’enrichir dynamiquement sans devoir recompiler l’application)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en œuvre d’un planning personnel pour le développement du site, à savoir une semaine par élément. (Mise en forme, création du menu, traduction des pages)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Suite au changement des normes d’entreprise, il a été demandé de convertir des pages codées de Visual Basic en C#.
+Développement des pages du site en ASP.NET + CSS structurées par une page maître reliées à leur propre code behind (C#), 
+Création du menu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d’une documentation technique présentant la solution mise en place (arborescence des fichiers, composants techniques utilisés, menu…).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Une documentation utilisateur à destination d’un développeur. Il conviendra de lui expliquer comment développer une page de détail, comment ajouter une entrée dans le menu.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="86">
+      <ref>86</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion de projet d'un site web</libcourt>
+      <descriptif>Gestion de projet d'un site web de A à Z de l'appréhension du cahier des charges à la phase de test du site.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-01-28</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement>Windows 8, Serveur déjà configuré, Joomla</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

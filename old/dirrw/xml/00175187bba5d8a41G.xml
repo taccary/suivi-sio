@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5187bba5d8a41">
+    <ref>5187bba5d8a41</ref>
+    <datesv>2013-05-06</datesv>
+  </sauvegarde>
+  <etudiant numero="17">
+    <nom>Chomel</nom>
+    <prenom>Antoine</prenom>
+    <mel>antoine.chomel@icof.fr</mel>
+    <situation ref="52">
+      <ref>52</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>importation de données dans le logiciel wipsos</libcourt>
+      <descriptif>retranscription des données de l'entreprise (cleint, fournisseurs, articles, fournisseurs, contrats) dans un fichier xls respectant les normes du logiciel Wipsos
+création d'un serveur ftp pour assurer la transmission des fichier d'importation sur Wind</descriptif>
+      <contexte>l'entreprise avait pour but d'informatiser son système de gestion logistique avec le logiciel wipsos</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>windows 7 / Windows server 2008 R2 héberger sur le cloud accès TSE</environnement>
+      <moyen></moyen>
+      <avisperso>taches longue et minutieuse </avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Etude de l'impact et des fonctionnalités Wipsos pour voir comment l'application va faire gagnez du temps</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Avoir un système autonome et fluide pour réaliser des activités quotidienne rapidement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Définir les procédures, le mode opératoires et la chronologies de la mise en place du logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Attribution des droits pour le logiciel Wipsos avec les comptes de l'active directory du Windows server 2008 R2 (lecture écriture sur certains dossiers du PGI , l'autre partie des droits est gérer par Wipsos avec des comptes nominatifs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Attribuer les droit aux utilisateur exemple: accès au tarif fournisseurs et tarif de ventes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Import de données dans le logiciel Wipsos via des fichier excel normalisé</commentaireactivite>
+      </activitecitee>
+      <production numero="9">
+        <numero>9</numero>
+        <designation>activite-importation-de-donnees-dans-wipsos</designation>
+        <adresse>http://chomel2013competences.wordpress.com/stage-de-1-ere-annee/activite-2-importation-de-donnees/</adresse>
+      </production>
+    </situation>
+    <situation ref="56">
+      <ref>56</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>mise en place d'un contrôleur de domaine</libcourt>
+      <descriptif>installation des rôles active directory
+création d'utilisateurs, de groupes et Unité Organisationnelle (service technique, commercial, administratif)</descriptif>
+      <contexte>L'entreprise voulait mettre en place un parc informatique en gérant les authentification avec un Windows server 2008 R2</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Windows server 2008 R2</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>création de groupe par service avec différentes autorisations</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>expliquer aux utilisateur comment se connecter au serveur via le bureau a distance et leur fournir les identifiant de connexion </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>configuration du Windows server 2008 r2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>administration du serveur héberger sur le cloud </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Création des utilisateurs dans les différents groupes en donnant l’accès a certains dossiers Wipsos a certains utilisateurs avec des habilitations différentes </commentaireactivite>
+      </activitecitee>
+      <production numero="145">
+        <numero>145</numero>
+        <designation>mise en place d'un contrôleur de domaine</designation>
+        <adresse>http://chomel2013competences.wordpress.com/stage-de-1-ere-annee/activite-3-mise-en-place-dun-controleur-de-domaine/</adresse>
+      </production>
+    </situation>
+    <situation ref="64">
+      <ref>64</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation du rôle TSE</libcourt>
+      <descriptif>Installation du serveur TSE pour avoir plusieurs accès simultané sue le Windows server 2008 R2</descriptif>
+      <contexte>Le bureau à distance était primordiale pour accéder en simultané au Logiciel de gestion commercial CMI WIPSOS qui était installer sur le Windows Server 2008 R2.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement>Windows server 2008 R2</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Installation d'un rôle TSE sur un Windows server 2008 r2 héberger sur le cloud. L'administration a distance se fait pas le bureau a distance</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Connexion au VPN via l'active directory du Windows server 2008 R2</commentaireactivite>
+      </activitecitee>
+      <production numero="96">
+        <numero>96</numero>
+        <designation>MODE OPÉRATOIRE TSE </designation>
+        <adresse>https://www.dropbox.com/s/uvr5tro76ek0c66/Mise%20en%20place%20du%20role%20TSE.pdf</adresse>
+      </production>
+    </situation>
+    <situation ref="106">
+      <ref>106</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d'un VPN</libcourt>
+      <descriptif>Mise en place d'un VPN entre un Windows 2008 R2 hébergé sur le cloud et le parc informatique. Le vpn permettra le partage de fichier ainsi que d'imprimer.</descriptif>
+      <contexte>l'entreprise utilise un Windows server 2008 R2 pour exploiter sont Progiciel intégrer. Le Windows server fait face à une utilisation courante via la connexion de bureau</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement>Windows server 2008 R2 - Windows 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration via une interface Web ou avec le bureau à distance, d'un serveur 2008R8 hébergé sur le Cloud. Installation du rôle VPN.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Connexion au VPN via l'active directory du Windows server 2008 R2</commentaireactivite>
+      </activitecitee>
+      <production numero="49">
+        <numero>49</numero>
+        <designation>mise en place d'un vpn</designation>
+        <adresse>https://www.dropbox.com/s/a22vqpmeaac5z99/Mise%20en%20place%20de%20liaison%20VPN.pdf</adresse>
+      </production>
+    </situation>
+    <situation ref="145">
+      <ref>145</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>importation de données dans le logiciel wipsos 2</libcourt>
+      <descriptif>retranscription des données de l'entreprise (cleint, fournisseurs, articles, fournisseurs, contrats) dans un fichier xls respectant les normes du logiciel Wipsos
+création d'un serveur ftp pour assurer la transmission des fichier d'importation sur Wind</descriptif>
+      <contexte>l'entreprise avait pour but d'informatiser son système de gestion logistique avec le logiciel wipsos</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>projet à long terme compte rendu chaque fin de semaine</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>problème de droit sur certains dossiers lorsqu'on se connecte avec de nouveaux utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>planification des sauvegarde chaque jour a 01h00 avec l'interface de l’hébergeur </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>mise au point des sujets à aborder lors de la formation</commentaireactivite>
+      </activitecitee>
+      <production numero="122">
+        <numero>122</numero>
+        <designation>Mise en place d'un PGI (CMI - WIPSOS)</designation>
+        <adresse>http://chomel2013competences.wordpress.com/stage-de-deuxieme-annee/activite-3-importation-de-donnees/</adresse>
+      </production>
+    </situation>
+    <situation ref="153">
+      <ref>153</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Suivi du matériel et maintenance</libcourt>
+      <descriptif>.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-04-28</datedebut>
+      <datefin>2013-04-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>maintenance quotidienne: imprimante, scanner, problème logiciel.</commentaireactivite>
+      </activitecitee>
+      <production numero="150">
+        <numero>150</numero>
+        <designation>maintenance</designation>
+        <adresse>http://chomel2013competences.wordpress.com/stage-de-1-ere-annee/activite-1/</adresse>
+      </production>
+    </situation>
+    <situation ref="154">
+      <ref>154</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Configuration d'un double accès internet</libcourt>
+      <descriptif>configuration et redirection des requêtes smtp, et de bande passante</descriptif>
+      <contexte>Pour optimiser l’utilisation d’internet au quotidien, la société a fait l’acquisition d’un router DUAL-WAN LINKSYS RV082</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement>Windows 7 - Routeur linksys RV082</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>test de l'envoi de mail lorsque nous sommes connecté sur la connexion orange alors que la requéte doit passer par la connexion bouygue télécom , test de la bande passante</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>travail en collaboration avec le second stagiaire, pour permettre une optimisation de connexion internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>vérification de l'envoie de mail, ainsi que la continuité du service lorsqu'une connexion est défaillante</commentaireactivite>
+      </activitecitee>
+      <production numero="146">
+        <numero>146</numero>
+        <designation>double accès internet</designation>
+        <adresse>http://chomel2013competences.wordpress.com/stage-de-deuxieme-annee/activite-4-configuration-dun-double-acces-internet/</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

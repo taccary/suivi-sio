@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="558b1e5294038">
+    <ref>558b1e5294038</ref>
+    <datesv>2015-06-24</datesv>
+  </sauvegarde>
+  <etudiant numero="105">
+    <nom>DUBOIS</nom>
+    <prenom>Thibaut</prenom>
+    <mel>thibaut.dubois@icof.fr</mel>
+    <situation ref="674">
+      <ref>674</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 ère année</libcourt>
+      <descriptif>-Développement d'une application d'affichage de VMs, de VIPs et de Plateformes dynamiquement dans différents tableaux ainsi qu'un affichage dynamique de l'URL en fonction de la plateforme et de l'environnement sélectionner.
+-Maintenance d'un script</descriptif>
+      <contexte>Stage de 1 ère année.</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Eclipse, Notepad++, HeidiSQL_9.2,</environnement>
+      <moyen>Un encadrant et moi.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Création du cahier des charges avec Barthélémy en vue de répondre à la demande de Daniel lors de la création du formulaire d'affichage des VMs, VIPs, et des informations liées à une plateforme sélectionner.
+(C1.1.1.3 et C1.1.1.4 non réalisés )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Mise en place d'une interface administrateur ainsi que d'une interface utilisateur pour le formulaire d'affichage des VMs, VIPs et d'une plateforme sélectionner.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise à disposition de Daniel de l'application demandé : formulaire d'affichage des VMs, VIPs et d'une plateforme sélectionner.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise en place d'une date maximum pour finir le projet ainsi que compte rendu régulier de l’avancement du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Accompagnement de Daniel à utiliser son nouveau formulaire et amélioration de certaines fonctionnalités. 
+(C2.1.1.2 : aucun besoin de la sorte ne s'est fait sentir).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Analyse d'un scripte en python dans le but de résoudre un bug</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résolution de l'incident en sollicitant l'entité compétente ( C2.2.1.2, C2.2.1.3, C2.2.1.4 non réalisés )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Modification du formulaire suite à quelques bugs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Mise en place de l'affichage d'un tableau contenant des informations liées à une plateforme sélectionner et affichage dynamique de l'URL en fonction de la plateforme sélectionner et ainsi que de l'environnement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Mise en place d'une interface administrateur pour Daniel et d'une interface utilisateur pour les autres.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Utilisation d'une environnement de développement : Eclipse.
+Utilisation d'une base de données : HeidiSQL_9.2.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Définir les spécifications de l'interface utilisateur de la solution applicative.
+Réalisation d'un schéma de la forme du formulaire et des emplacements de chaque éléments.
+Adaptation du schéma en fonction des préférences de Daniel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Réalisation d'une base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation de Eclipse comme environnement de développement
+Duplication du code régulièrement et modification des éléments sur un seul jusqu'à que ça marche.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tests d'affichage de tel ou tel VM en fonction de sa plateforme et de son environnement observé dans la base de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Trouver l’origine et la solution au dysfonctionnements constatés </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1237">
+        <numero>1237</numero>
+        <designation>Formulaire d'affichage des VMs après la création de la liste déroulante des plateformes, des différents environnements et du tableaux, sans css</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thibaut_dubois_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fthibaut_dubois_icof_fr%2FDocuments%2FSTAGE%2FDocuments%2520de%2520preuve%2FFormulaireAffichage_VMs_VIP</adresse>
+      </production>
+      <production numero="1238">
+        <numero>1238</numero>
+        <designation>Formulaire d'affichage des VMs après la création de la liste déroulante des plateformes, des différents environnements et du tableaux, avec css</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thibaut_dubois_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fthibaut_dubois_icof_fr%2FDocuments%2FSTAGE%2FDocuments%2520de%2520preuve%2FFormulaireAffichage_VMs_VIP</adresse>
+      </production>
+      <production numero="1239">
+        <numero>1239</numero>
+        <designation>Formulaire d'affichage des VMs et des VIPs après la création du tableau des VIPs, avec css</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thibaut_dubois_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fthibaut_dubois_icof_fr%2FDocuments%2FSTAGE%2FDocuments%2520de%2520preuve%2FFormulaire_IntegrationDesVI</adresse>
+      </production>
+      <production numero="1240">
+        <numero>1240</numero>
+        <designation>Formulaire d'affichage des VMs et des VIPs plus tableau info plateforme et URL</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thibaut_dubois_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fthibaut_dubois_icof_fr%2FDocuments%2FSTAGE%2FDocuments%2520de%2520preuve%2FFormulaireTabInfoPf_URL.png</adresse>
+      </production>
+      <production numero="1241">
+        <numero>1241</numero>
+        <designation>Bug dans l’exécution du scripte python</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thibaut_dubois_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fthibaut_dubois_icof_fr%2FDocuments%2FSTAGE%2FDocuments%2520de%2520preuve%2FTests%2520Scripte%2520pytho</adresse>
+      </production>
+      <production numero="1242">
+        <numero>1242</numero>
+        <designation>Résolution du bug lors de l'exécution du scripte python</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thibaut_dubois_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fthibaut_dubois_icof_fr%2FDocuments%2FSTAGE%2FDocuments%2520de%2520preuve%2FTests%2520Scripte%2520pytho</adresse>
+      </production>
+      <production numero="1243">
+        <numero>1243</numero>
+        <designation>Cause et solution bug scripte python</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thibaut_dubois_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fthibaut_dubois_icof_fr%2FDocuments%2FSTAGE%2FDocuments%2520de%2520preuve%2FCause%2520bug%2520scripte%2</adresse>
+      </production>
+      <production numero="1244">
+        <numero>1244</numero>
+        <designation>Export de la base de données crée</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thibaut_dubois_icof_fr/Documents/STAGE/Documents%20de%20preuve/Export_base_sql.sql</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

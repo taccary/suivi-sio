@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="532ac4d35c2c1">
+    <ref>532ac4d35c2c1</ref>
+    <datesv>2014-03-20</datesv>
+  </sauvegarde>
+  <etudiant numero="96">
+    <nom>riche</nom>
+    <prenom>rémi</prenom>
+    <mel>remi.riche@icof.fr</mel>
+  </etudiant>
+</suivicomp>

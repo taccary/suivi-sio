@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b02e2c36085b">
+    <ref>5b02e2c36085b</ref>
+    <datesv>2018-05-21</datesv>
+  </sauvegarde>
+  <etudiant numero="208">
+    <nom>ABITBOL</nom>
+    <prenom>Jérémy</prenom>
+    <mel>jeremy.abitbol@icof.fr</mel>
+  </etudiant>
+</suivicomp>

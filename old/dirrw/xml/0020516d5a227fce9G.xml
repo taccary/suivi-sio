@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="516d5a227fce9">
+    <ref>516d5a227fce9</ref>
+    <datesv>2013-04-16</datesv>
+  </sauvegarde>
+  <etudiant numero="20">
+    <nom>Gondcaille</nom>
+    <prenom>Michael</prenom>
+    <mel>michael.gondcaille@icof.fr</mel>
+    <situation ref="28">
+      <ref>28</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Migration des serveurs d'impression Novell sous Windows</libcourt>
+      <descriptif>Proposer une solution afin de migrer les servers d'impressions Novell vers un environnement Microsoft.</descriptif>
+      <contexte>Stage SIO, service informatique du Grand Lyon</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Réalisation d’un document  présentant les différentes solutions répondant aux critères.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Dans le document, présentation des éléments permettant de mettre en place la solution technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Afin de mettre en place un serveur d’impression, nous avons du installer le rôle de serveur d’impression.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Réalisation de tutoriel qui présente les différentes étapes de l’installation du rôle de serveur d’impression.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Proposition d’une solution d’infrastructure afin de mettre en place des serveurs d’impression Novell sous Microsoft.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Prise en main à distance du serveur d’impression afin de gérer les imprimantes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Mise en place de génération de rapports automatique permettant de renseigner les informations des imprimantes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation de test pour la mise en place d’une solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Réalisation d’une documentation technique pour présenter les différentes solutions afin de migrer des serveurs d’impression Novell sous Microsoft</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Mise en place d’une gestion de configuration des imprimantes dans le serveur d’impression.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Réalisation de rapports sous HP WebJetadmin</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Veille technologique dans le cadre de la solution permettant de migrer des serveurs d’impression Novell sous Microsoft.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Réalisation de rapports sous HP WebJetadmin, étude du serveur d’impression.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="31">
+      <ref>31</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>SCCM 2012 : Installation, configuration prise en main </libcourt>
+      <descriptif>Projet SCCM 2012, installation de celui-ci sur une machine W7, installation de la console SCCM, puis du client.
+</descriptif>
+      <contexte>Stage SIO, service informatique du Grand Lyon.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Installation de la console SCCM 2012 ainsi que du client, qui permet de remonter les info de la machine sur la console d’administration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Problème dans l’installation du client SCCM, le serveur ne remonte aucune information sur la machine</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>•	Problème dans l’installation du client SCCM, le serveur ne remonte aucune information sur la machine
+•	Problème lors de la création d’un .MSI pour le déploiement de l’application par SCCM
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour de la documentation sur Adminstudio qui permet la création de MSI</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Prise en main à distance des serveurs de recette de SCCM 2012, serveur de l’AD, du point de gestion, de la base de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Prise en main sur le serveur de l’AD, et des GPO</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création de package d’application en MSI dans le but de les déployer par SCCM</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test des packages créer et des déploiements d’applications.
+Test sur les regroupements de périphériques créés grâce à des requêtes SQL
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Remonter des informations des postes utilisateurs grâce à SCCM sur la configuration matérielle et logicielle</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Remonter des informations des postes utilisateurs grâce à SCCM sur la configuration matérielle et logiciel</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="34">
+      <ref>34</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Découverte du service INTERVENTION</libcourt>
+      <descriptif>Fournir aux utilisateurs, une assistance des plus rapides afin que ceux-ci puissent utiliser leur poste de travail afin de travailler en toute sérénité.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Dépannage aux utilisateurs :
+Problème connexion compte utilisateur
+Problème imprimante, kits de maintenance non à jours
+Problème écran gris : remplacement carte graphique
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Problème avec GroupWise, mot de passe perdu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Problème logiciel qui ne ce lance plus, identification du problème</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Prise en main à distance des postes utilisateurs ayant des problèmes</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="37">
+      <ref>37</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Découverte du service EDI</libcourt>
+      <descriptif>Masterisation de poste utilisateur neuf, en vue du renouvellement du parc informatique du Grand Lyon.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation du câblage pour les futures postes de travail d’un étage du Grand Lyon</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Installation des postes utilisateur dans les bureaux du Grand Lyon.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Utilisation par la prise en main à distance du serveur de Ghost</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Installation de poste neuf grâce à Norton Ghost, configuration et installation logiciel spécifiques</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="100">
+      <ref>100</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation materiels</libcourt>
+      <descriptif>Installation et configuration d'une nouvelle infrastructure chez un client, dans le but de remplacer un équipement obsolète.</descriptif>
+      <contexte>Stage BTS SIO 2nd année, Société Sysale</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="110">
+      <ref>110</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Permanence téléphonique</libcourt>
+      <descriptif>Dépannage téléphonique dans le but de dépanner les clients par téléphone, et prise en main sur le poste à distance pour règler le problème</descriptif>
+      <contexte>Stage SIO de 2nd année, société Sysale</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résolution de l'incident par téléphone, ou par prise en main à distance, rédaction d'un bon d'intervention technique, et mise à jour des documentations techniques sur le client</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Ecouter le client sur son problème, identifier le problème de l'utilisateur, et prendre le contrôle du poste si nécessaire. Rédaction d'un bon d'intervention technique à la fin du dépannage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Lors de l'explication du problème par le client, déterminer la source du problème (service, application), qualifier le problème, résolution du problème, et envois d'un technicien sur place si le problème n'est pas résolue, rapidement, ou sur une autre </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

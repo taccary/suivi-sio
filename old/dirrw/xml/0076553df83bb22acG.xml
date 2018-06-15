@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="553df83bb22ac">
+    <ref>553df83bb22ac</ref>
+    <datesv>2015-04-27</datesv>
+  </sauvegarde>
+  <etudiant numero="76">
+    <nom>diab</nom>
+    <prenom>nicolas</prenom>
+    <mel>nicolas.diab@icof.fr</mel>
+    <situation ref="463">
+      <ref>463</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1- Élaboration d'un dossier de choix de solution techniqu</libcourt>
+      <descriptif>Etude de différentes technologies web et mobiles et langages afin d'orienter les choix de l'entreprise pour la création d'un site web et d'une application mobile.</descriptif>
+      <contexte>Stage première année</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-05-30</datefin>
+      <environnement>Google</environnement>
+      <moyen>Etude réalisée à la bibliothèque universitaire de l'INSA, proche du lieu de stage.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Benchmark sur différentes technologies web et mobiles et différents langages afin d'orienter les choix de l'entreprise pour la création d'un site web et d'une application mobile.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Le dossier rédigé a servi de base à une restitution orale quotidienne</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Rédaction d'un dossier sur différents langages et technologies web et mobiles</commentaireactivite>
+      </activitecitee>
+      <production numero="675">
+        <numero>675</numero>
+        <designation>Fichier de Benchmark</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=Yrw6qEfeUevdJmu5qyUe9L1Tb9MU5XVnlbJyyzkxziI%3d&amp;docid=0417115f507c7487cb01d4c1a6fb687ce</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="480">
+      <ref>480</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1- Production d'un site web</libcourt>
+      <descriptif>Création d'un site web en Python, étant orienté selon les directives de mon maître de stage et accompagné d'un autre stagiaire qui s'occupait de la charte graphique</descriptif>
+      <contexte>Stage première année</contexte>
+      <datedebut>2014-06-02</datedebut>
+      <datefin>2014-07-03</datefin>
+      <environnement>Python, Django, PostGreSQL, GitHub, could9 IDE</environnement>
+      <moyen>Développement effectué depuis chez moi en télétravail</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Vers la fin du stage, rédaction d'un document pour expliquer comment mettre en place localement le site développé et expliquer son fonctionnement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Dans un projet de création d'entreprise, j'ai été responsable de la partie développement.
+Rapport quotidien de l'avancement par mail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'une base de donnée PostGreSQL selon un UML donné. Adaptation de cette base aux besoins de développement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement du site web depuis zéro. Mise en place des fonctionnalités de base liées aux comptes (création, modification, profil)
+Sécurité gérée par le Framework.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Mise en place d'un système de gestion de version des fichiers : GitHub</commentaireactivite>
+      </activitecitee>
+      <production numero="677">
+        <numero>677</numero>
+        <designation>Code source du projet - github</designation>
+        <adresse>https://github.com/NicolasDiab/pimble-site</adresse>
+      </production>
+      <production numero="734">
+        <numero>734</numero>
+        <designation>Document de présentation du code</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=ZTgrqa3MWlMe2N5nff4KfZc7v1K5GbJIhmCYWWI83a0%3d&amp;docid=04950534e4eed40279afd304d13126896</adresse>
+      </production>
+      <production numero="736">
+        <numero>736</numero>
+        <designation>UML reçu de mon maître de stage</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=IBzFKldDa2lRAvhj43cxggAmgW3rN4h794XwZ97dLsQ%3d&amp;docid=0dfccbd2e505244e6bf19f24a288b27c5</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="542">
+      <ref>542</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2 - Réalisation d'un site web WordPress</libcourt>
+      <descriptif>Rédaction d'un cahier des charges, réflexion, conception, rédactions de documentations, élaboration du design, formation utilisateurs, sécurité et référencement, correction de bugs</descriptif>
+      <contexte>Stage de deuxième année chez Ukronium1828</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-16</datefin>
+      <environnement>WordPress, notepad++</environnement>
+      <moyen></moyen>
+      <avisperso>Expérience intéressante, j'ai toujours voulu apprendre WordPress</avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Je me suis renseigné sur le fonctionnement de l'ancien site d'Ukronium1828, hébergeur etc... avant de mettre celui que j'ai développé en ligne</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>J'ai réfléchi sur le besoin de sécurité des comptes utilisateurs notamment avec le paiement e-commerce, SSL ou non, paiement direct ou non</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Mise en ligne du site sur 1&amp;1 et formation des employés d'Ukronium1828 à l'utilisation du back-office</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de l'application web Ukronium1828 sur 1&amp;1</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Projet de création du site web d'Ukronium1828. Rapport continu de l'avancement, travaillant dans le même bureau que le patron, + rapport hebdomadaire écrit</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Analyse des moyens financiers de l'entreprise et rétractation à l'utilisation seulement de services gratuits</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Formation des employés Ukronium1828 à l'utilisation du back-office et à WordPress</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Analyse de la vitesse (https://developers.google.com/speed/pagespeed/insights/), sécurité, responsive du site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Résolutions de bugs tout au long du développement (ex : bug ajax avec woocommerce, bug du double attribut &lt;title&gt;, etc ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Proposition d'amélioration constante de services (cache, etc)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Complétion de la documentation liée au service développé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Auto-cochage d'options selon les besoins du client pour simplifier le back office</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Confidentialité des données. Rédaction des mentions légales après étude sur Internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Conception de services et estimation des délais</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception du design du site web à partir d'un thème WordPress : Hueman</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Définition des besoins de services à programmer liés au cahier des charges (forum, responsive, cache, SEO, ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement du site web WordPress en PHP/MySQL. Site hébergé sur 1&amp;1.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique pour assurer l'évolution par des développeurs tiers</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation d'utilisation pour aider les employés à utiliser des fonctions plus avancées</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Résolution de bugs tout au long du développement. Optimisation de la vitesse (cache) et du responsive</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Rajout à une documentation technique d'informations lors du développement de nouveaux modules</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etudes de divers technologies, outils, plugins WordPress (gzip, WP Super Cache, WP total cache, Rocket, etc ...)</commentaireactivite>
+      </activitecitee>
+      <production numero="822">
+        <numero>822</numero>
+        <designation>Présentation de l'entreprise - Ukronium1828</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=iWov27wgEKnted2U%2bjk%2f2MBGavixsalfT%2fnXn%2b3ZUhg%3d&amp;docid=014188d0281fc4435a7e3785512b21a05</adresse>
+      </production>
+      <production numero="823">
+        <numero>823</numero>
+        <designation>Planning</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=FlpcU7ZyHEygOm8depmYPW0GPspXsHQ2bGbhir%2b5eWQ%3d&amp;docid=06e95e13ce1884180a3b4a5418ccd1b41</adresse>
+      </production>
+      <production numero="824">
+        <numero>824</numero>
+        <designation>Aspect de l'ancien site d'Ukronium1828 (dossier .zip)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=LRf08G%2ftvJqiFjh1RzTl3rEVH4uYV7rxMjh6uVIaNPE%3d&amp;docid=0c5eb249b957847c1bcbf54922c004c08</adresse>
+      </production>
+      <production numero="825">
+        <numero>825</numero>
+        <designation>Nouveau site d'Ukronium1828 que j'ai créé</designation>
+        <adresse>http://www.ukronium1828.fr/</adresse>
+      </production>
+      <production numero="826">
+        <numero>826</numero>
+        <designation>Cahier des charges rédigé</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=0t4f2TWPkhTZFg1M5ywEiOEK09bnyZV7uZIA3hkWhnI%3d&amp;docid=0d9fd95cd72314369b90c49de5afd6826</adresse>
+      </production>
+      <production numero="827">
+        <numero>827</numero>
+        <designation>Rapport d'activité hebdomadaire</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=X8ttVMoOgzdDrakgdzDLiby2s4WmXz7DxXdX16%2flc9E%3d&amp;docid=0899502cdfdb841819dd78a55c7eb400b</adresse>
+      </production>
+      <production numero="828">
+        <numero>828</numero>
+        <designation>Documentation d'utilisation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=hlp3wQ7Ww9qlS%2bjqDyFxuHfxDFxXm0%2bxuMsY6V4GeQ0%3d&amp;docid=04a47b55bfaa647cfb425ac6dc2a52067</adresse>
+      </production>
+      <production numero="847">
+        <numero>847</numero>
+        <designation>Documentation technique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=vKLT7gyejKwUVwt2oHj4pyvqNX76ocIwCgP69DP27Rg%3d&amp;docid=0a1d544907ce1493ea85eaeff03339bc5</adresse>
+      </production>
+      <production numero="848">
+        <numero>848</numero>
+        <designation>Aide à la reprise du forum pour un employé Ukronium</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=KUi3pa5CcGi%2fahOEkLhTTYml6tsTHltpATqzGD1QE64%3d&amp;docid=071934e258f1549949130aadc07897039</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="581">
+      <ref>581</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Année 2 - Veille technologique et complément de formation</libcourt>
+      <descriptif>Mise en place d'une veille technologique au cours de la deuxième année d'étude.
+Recherche et mise à niveau sur des points clés comme le C++</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-09-01</datedebut>
+      <datefin>2015-06-11</datefin>
+      <environnement>Recherche Google et aggrégat d'informations sur Facebook et Feedly</environnement>
+      <moyen></moyen>
+      <avisperso>Je pense que la veille est le moyen de formation le plus efficace en information qui est un milieu en perpétuelle évolution</avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche et mise en place d'un Feedly, une extension de chrome pour agréger les flux RSS et recherche manuelle d'informations clé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>J'ai vu que j'avais besoin de nouvelles connaissances grâce à la veille pour mettre en oeuvre mes objectifs professionnels</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Apprentissage de divers technologies comme le C++, langage absolu de la programmation du jeu vidéo que l'on a pas eu l'occasion d'aborder en cours</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="605">
+      <ref>605</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Année 2 - PPE C#</libcourt>
+      <descriptif>Développement en équipe de 4 étudiants du back-office commercial dans le contexte de GSB.
+Je me suis occupé de la partie de gestion des commandes et de la base de données</descriptif>
+      <contexte>GSB</contexte>
+      <datedebut>2014-12-15</datedebut>
+      <datefin>2015-02-27</datefin>
+      <environnement>Visual Studio, git, SQL Server</environnement>
+      <moyen></moyen>
+      <avisperso>Mise en pratique des connaissances acquises en cours dans un projet qui pourrait presque être utilisé.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges et adaptation du développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à un projet de dev C#. Compte rendu via un Gant</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception de l'interface de gestion des commandes. C’est un collègue qui l'a ensuite développée</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>J'ai créé la base de données sur SQL après une mise en commun des besoins de développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Conception du développement de la gestion des commandes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Développement réalisé avec visual studio directement lié avec Team Fondation Server.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>J'ai développé la partie de gestion des commandes du logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé un fichier word de documentation technique pour expliquer la structure du code et de la base de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>J'ai rédigé un fichier word de documentation d'utilisation pour expliquer le fonctionnement de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Mise en place d'un système de gestion de version des fichiers : Team Fondation Server</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Analyse d'un fichier préconisant des normes de développement pour GSB. Adaptation de la manière de coder.</commentaireactivite>
+      </activitecitee>
+      <production numero="1065">
+        <numero>1065</numero>
+        <designation>Documentation technique BDD</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=4linomvT9c2NEoXS0KtC1ZjjGq4f%2b5cZP7mJ3zB6qwk%3d&amp;docid=053ea481e97fd4e338182e4c67bf739ae</adresse>
+      </production>
+      <production numero="1066">
+        <numero>1066</numero>
+        <designation>Documentation technique gestion commandes</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=SYOgQwoYKM47L7Y5pFlGSFFquIbS%2f9MEz4nnD8zcPtA%3d&amp;docid=02fed8730eb2e4523bf3e224c16ebc99d</adresse>
+      </production>
+      <production numero="1067">
+        <numero>1067</numero>
+        <designation>Documentation d'utilisation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=jAgaq44s3SnQDKQObD5LUT0oFLOMGFsR3bbgvZPyWbw%3d&amp;docid=019a2d40d7f994e70a6fea81650edcd44</adresse>
+      </production>
+      <production numero="1084">
+        <numero>1084</numero>
+        <designation>Cahier des charges reçu (.pdf à télécharger)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=Kn5I28AGPAIQrRzJWonU%2fPUxgGh9cEAx2aA%2bwiSemyE%3d&amp;docid=0a01971b76480414699e7ece384a69a25</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="609">
+      <ref>609</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Année 2 - PPE PHP</libcourt>
+      <descriptif>Développement PHP de modules d'un site web gsb existant. Je me suis occupé de la partie BDD, validation des fiches et suivi du paiement.</descriptif>
+      <contexte>GSB</contexte>
+      <datedebut>2015-02-02</datedebut>
+      <datefin>2015-03-16</datefin>
+      <environnement>Notepadd++, UwAmp, git, google</environnement>
+      <moyen></moyen>
+      <avisperso>J'ai trouvé le projet bien trop facile pour être intéressant</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges et adaptation du développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à un projet de dev PHP. Compte rendu via un Gant</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Conception et développement de l'interface de validation et paiemetn des fiches de frais</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>J'ai modifié la base de données de base de gsb sur MYSQL après une mise en commun des besoins de développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé un fichier word de documentation technique pour expliquer la structure du code et de la base de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>J'ai rédigé un fichier word de documentation d'utilisation pour expliquer le fonctionnement de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Mise en place d'un système de gestion de version des fichiers : Git</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Analyse d'un fichier préconisant des normes de développement pour GSB. Correction du code pré-éxistant en corrélation aux standards et adaptation de la manière de coder.</commentaireactivite>
+      </activitecitee>
+      <production numero="1079">
+        <numero>1079</numero>
+        <designation>Cahier des charges reçu (.pdf à télécharger)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=6so3kBzSVKOlx5ExSiggmIBEXukAqvtje10ZiRWnLIo%3d&amp;docid=02b2ba86fdbbe4dfd8180de3ec82d06c2</adresse>
+      </production>
+      <production numero="1080">
+        <numero>1080</numero>
+        <designation>Accès au site web développé (se connecter avec dandre / oppg5)</designation>
+        <adresse>http://172.17.21.13/cAccueil.php</adresse>
+      </production>
+      <production numero="1081">
+        <numero>1081</numero>
+        <designation>Documentation d'utilisation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=FqGIg%2bwI%2bxwpDKn9iQLXZjdG4q1if8cmxWujwa50mWs%3d&amp;docid=0cc011aa9e972492390a11093bfd06f20</adresse>
+      </production>
+      <production numero="1082">
+        <numero>1082</numero>
+        <designation>Documentation technique générale</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=g3SnVwDsWaEgsMVL4e5lKYuXLkhfrB2RK%2be%2fRIjDB90%3d&amp;docid=0c53b585c3ce04e4484d26351d47c75ab</adresse>
+      </production>
+      <production numero="1083">
+        <numero>1083</numero>
+        <designation>Documentation technique BDD</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=f0ZEXyvR%2fC50YZDBE4E5MpqxkppG%2falKLWyMfb9xxqs%3d&amp;docid=05d188cb9439b44d3806768620cc8d59c</adresse>
+      </production>
+      <production numero="1085">
+        <numero>1085</numero>
+        <designation>Contexte GSB</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=8zSySRQCEAvK8cXEBgyO%2bHf5H7iQAZU8hp%2b2Spl1yEY%3d&amp;docid=094e0e676e7e840f29061c18b093840e3</adresse>
+      </production>
+      <production numero="1086">
+        <numero>1086</numero>
+        <designation>Fichier des normes</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/nicolas_diab_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=7bGJpPnnfbN4MLW9hzA9B6s0roPfEyRaDJ4RrVvLJ6s%3d&amp;docid=014feaba41e9d4375ab707837d454ed6a</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

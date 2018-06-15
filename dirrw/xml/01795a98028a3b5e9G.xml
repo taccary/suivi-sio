@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a98028a3b5e9">
+    <ref>5a98028a3b5e9</ref>
+    <datesv>2018-03-01</datesv>
+  </sauvegarde>
+  <etudiant numero="179">
+    <nom>OBAID</nom>
+    <prenom>Ali</prenom>
+    <mel>Ali.OBAID@icof.fr</mel>
+    <situation ref="1119">
+      <ref>1119</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1ère année : déploiement informatique</libcourt>
+      <descriptif>Fait des images pour des postes spécifique en ayant recours à des logiciels tels que OSCAR et ACRONIS.</descriptif>
+      <contexte>Dans un établissement scolarisé, charger de renouveler les postes.</contexte>
+      <datedebut>2017-05-18</datedebut>
+      <datefin>2017-06-28</datefin>
+      <environnement>Salles composé d'un postes principale et parfois d'autres postes travaillant dans le même réseau.</environnement>
+      <moyen>Sauvegarde par windows, OSCAR ou ACRONIS et formatage gparted,OSCAR ou gparted</moyen>
+      <avisperso>Travail plutôt prenant et doit avoir beaucoup de patience.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Application des objectifs du maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction des étapes à faire pour remplir le cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Problèmes liées à de mauvaises manipulations et résolution par l'intermédiaire de ses propres connaissances ou du maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Logiciels ou pilotes qui marchent pas. Par exemple ; pas de pilote carte réseau: il faut mettre le bon ; tout dépendra de la marque de ce poste.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>La mis à jour de Windows Update et téléchargement et installation des logiciels nécessaires dans chacun des postes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Mis en place du domaine de l'établissement pour la connexion des identifiants de ce domaine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Avec Windows Update , sélectionner les mis à jour importantes à installer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>Regarder si la bonne version de Windows est installée dans le bon poste.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Problème à avancer dans les objectifs du cahier des charges : renseignement sur ordinateur ou demande au maître de stage de l'aide.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude de logiciel de  déploiement informatique :OSCAR et ACRONIS.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1220">
+      <ref>1220</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2ème année : infrastructure et réseaux</libcourt>
+      <descriptif>-Dépannage sur sites et interventions
+-Mise en place de l'inventaire du parc informatique
+-Cartographie de la mairie : physique et logique
+-Travaux Pratiques</descriptif>
+      <contexte>Dans la mairie de Vaulx en Velin, il y a le service informatique qui s'occupe de tout les incidents dans la mairie et autour d'elle.</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Baie de brassage, switches HP, routeurs LINKSYS, modems ZYXEL, bornes wifi et câblage en cuivre câble Ethernet, Fibre Optique et postes dans un domaine. </environnement>
+      <moyen>Vue des sites par déplacement et communication des périphériques. 
+Résolutions des pannes en équipe et avec matériels d'infrastructure. Schématisations avec Microsoft Visio et mise en place de l'inventaire avec Excel. Rédaction des TP avec Word.</moyen>
+      <avisperso>Stage instructifs et exemplaires.</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Rendre compte des activités du projet comme la mis à jour des gestions de configurations de l’organisme, mise en place de bornes wifi et réalisation de plusieurs maquettes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Contribuer à l'évaluation du projet en mettant à jour la gestion des configurations de la mairie et en réalisant des maquettes explicant le mode de fonctionnement de certains switchs hp, routeur et borne wifi.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recenser l'inventaire du parc informatique de la mairie de Vaulx en Velin comme les switchs, les modems, les bornes wifi et les routeurs.
+Mise en place d'un document Excel pour répertorié l'inventaire du parc informatique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aider les utilisateurs en cas de pannes et d'incidents concernant la connexion des réseaux.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Exploitation d'ancien fichiers de gestion des configurations dans des fichiers Excel et World et mis à jour.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Dépannages et résolution d'incidents avec l'équipe infrastructure réseau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Concevoir une maquette de la mairie de Vaulx en Velin dans le plan physique puis dans le plan logique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et configuration de switchs et de routeurs pour des travaux pratiques.
+Communication ou non des postes en fonction des TP réalisés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction de TP sur la communication dans un VLAN, inter-VLAN et routage inter-VLAN avec toutes les commandes des switchs HP sur des documents Word.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Recenser les caractéristiques techniques en mettant en place un tableau Excel et en schématisant une carte physique et une carte logique du réseau de la mairie.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Renseigner les éléments sur la configurations de switchs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Suivi des configurations de switchs HP Procurve 2510G-48 et HP V1910-24G et d'un routeur LINKSYS WRT54LG en mettant en place la rédaction d'une documentation des TP réalisés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>On est averti grâce à un helpdesk et un site de messagerie commun à la mairie???</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Se documenter à propos du fonctionnement des switchs HP et des routeurs.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

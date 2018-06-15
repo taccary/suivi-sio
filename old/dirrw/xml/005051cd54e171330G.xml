@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51cd54e171330">
+    <ref>51cd54e171330</ref>
+    <datesv>2013-06-28</datesv>
+  </sauvegarde>
+  <etudiant numero="50">
+    <nom>guy</nom>
+    <prenom>olivier</prenom>
+    <mel>olivier.guy@icof.fr</mel>
+    <situation ref="231">
+      <ref>231</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation d'un parc informatique</libcourt>
+      <descriptif>Etude du besoin du client (école primaire)
+Assemblage des PC (10 postes)
+Installation des systèmes d'exploitation (Windows XP)
+Configuration réseau des machines sur site</descriptif>
+      <contexte>Stage de 1ere année</contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement>composants informatiques, CPL, Routeur, Switch...</environnement>
+      <moyen>En duo avec le second stagiair</moyen>
+      <avisperso>Bonne expérience, mise en autonomie qui nous a permis de mettre en oeuvre nos compétences dans le domaine du réseau et de l'informatique.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Réalisation d'une configuration à bas prix destinée à une école primaire  en s'adaptant à leur besoin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Analyse de l'intégration des nouveaux postes dans le réseau pré-existant de l'école.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tests de communications des différents postes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Estimation du temps à passer pour la réalisation du projet.
+Compte rendu au près du responsable de l'entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Indiquer aux employés de l'école comment le nouveau système fonctionne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Réalisation d'un schéma réseau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation des postes dans le réseau, configuration du routeur</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="241">
+      <ref>241</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Maintenance d'un système informatique</libcourt>
+      <descriptif>Diagnostique de panne,
+Réparation,
+Mise à jour de composants et logiciels,
+Prévention (sécurité : antivirus).
+Prise en charge des clients (rédaction de fiches d'intervention)</descriptif>
+      <contexte>Stage 1ere année</contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement>Ordinateur et périphériques</environnement>
+      <moyen>Seul ou avec un second stagiair</moyen>
+      <avisperso>Bonne expérience.</avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Explication du fonctionnement d'un nouveau OS ou logiciel sur l’ordinateur d'un client</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Diagnostique et réparation niveau matériel ou logiciel des postes utilisateur confiés suite à une panne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Utilisation de logiciel de prise en main à distance afin de détecter une panne et de la résoudre.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Définir la panne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Evaluations des composants logiciel et matériel présents sur un PC et remplacement des éléments dépassés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Assemblage et installation d'ordinateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement ou mise à jour d'éléments défectueux ou obsolètes (logiciel et matériel).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Intervention sur site et à distance sur des ordinateurs clients.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude du meilleur choix possible de composants informatique (processeur, carte graphique...) et de leurs limites.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

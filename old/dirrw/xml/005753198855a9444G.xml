@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53198855a9444">
+    <ref>53198855a9444</ref>
+    <datesv>2014-03-07</datesv>
+  </sauvegarde>
+  <etudiant numero="57">
+    <nom>rajaonarivelo</nom>
+    <prenom>matthew</prenom>
+    <mel>matthew.rajaonarivelo@icof.fr</mel>
+    <situation ref="274">
+      <ref>274</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Utilisation/création d’outils permettant de repérer les doublons</libcourt>
+      <descriptif>L'objectif de cette tâche a été d’identifier tous les doublons présents dans la table en question. Pour repérer les doublons, je devais soit créer une requête permettant ainsi d’afficher tous les doublons de cette table, soit avoir recours à un logiciel</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-03</datedebut>
+      <datefin>2013-06-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>C1.1.1.2) Mise en place d'une requête pour supprimer les doublons</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>C.1.1.2.2) La mise en place de cette requête modifie la base de données de manière définitive</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="275">
+      <ref>275</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Suppression des informations redondantes </libcourt>
+      <descriptif>Supprimer la bonne ligne de doublons c’est-à-dire la ligne qui contenait la mauvaise information et d’enregistrer les personnes rattachés à ces doublons à un seul et même établissement.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-04</datedebut>
+      <datefin>2013-06-12</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>C.1.2.1.1) Suppression des doublons directement dans la base de données
+C.1.2.1.3) Rédaction d'un mode opératoire pour les utilisateurs afin de plus avoir de doublons</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>C.1.2.3.1) Risque de doublons s'il n'y a aucune vérification des informations existantes dans la base de données
+C.1.2.3.2) Problème de lenteur au niveau de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>C.1.3.2.1) La sauvegarde des modifications des tables en question
+C.1.3.2.3) Sauvegarde sur le serveur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>C.2.2.1.1) Utilisation d'un manuel </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="276">
+      <ref>276</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Importation de données via Excel </libcourt>
+      <descriptif>Trouver un moyen d’importer les données dans la table en question après que cette table ait été nettoyée des informations redondantes</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-13</datedebut>
+      <datefin>2013-06-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>C.1.2.2.1) Utilisation d'un programme en VBA</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>C.1.2.4.2) Duplication de la base de données pour faire les tests d'importation </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="277">
+      <ref>277</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Verrouillage de la création de nouvel établissement</libcourt>
+      <descriptif>bloquer le mode de saisie d’un nouvel établissement afin d’éviter l’apparition de nouveaux doublons</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-20</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>C.1.1.3.2) Bloquer le mode de saisie de la création d'un nouvel établissement afin d'éviter d'avoir de fausses informations et d'éviter les pertes d'argent </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="278">
+      <ref>278</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en service de la base de données</libcourt>
+      <descriptif>- Écraser l'ancienne base de données avec la nouvelle
+- Rédaction d'un mode opératoire pour les utilisateurs </descriptif>
+      <contexte></contexte>
+      <datedebut>2013-07-01</datedebut>
+      <datefin>2013-07-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>C.1.3.1.1) Remplacer la base de données actuelle par la nouvelle travaillée pendant les semaines de stage
+C.1.3.1.2) Test de la nouvelle base de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>C.1.4.1.2) participation à la migration de la BD, rédaction d'un rapport d'activité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>C.2.1.1.1) Rédaction d'un mode opératoire</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

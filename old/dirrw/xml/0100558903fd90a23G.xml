@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="558903fd90a23">
+    <ref>558903fd90a23</ref>
+    <datesv>2015-06-23</datesv>
+  </sauvegarde>
+  <etudiant numero="100">
+    <nom>ANDRES</nom>
+    <prenom>Alexandre</prenom>
+    <mel>alexandre.andres@icof.fr</mel>
+  </etudiant>
+</suivicomp>

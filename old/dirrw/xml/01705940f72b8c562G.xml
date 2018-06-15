@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5940f72b8c562">
+    <ref>5940f72b8c562</ref>
+    <datesv>2017-06-14</datesv>
+  </sauvegarde>
+  <etudiant numero="170">
+    <nom>VALLAS</nom>
+    <prenom>Louis</prenom>
+    <mel>Louis.VALLAS@icof.fr</mel>
+  </etudiant>
+</suivicomp>

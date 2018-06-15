@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56fb01d6ba7e0">
+    <ref>56fb01d6ba7e0</ref>
+    <datesv>2016-03-30</datesv>
+  </sauvegarde>
+  <etudiant numero="122">
+    <nom>LE BARS</nom>
+    <prenom>Tim</prenom>
+    <mel>tim.lebars@icof.fr</mel>
+    <situation ref="832">
+      <ref>832</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>1-Etude sur la mise en place de client léger &amp; veille tech.</libcourt>
+      <descriptif>1-Etude sur la mise en place de client léger &amp; veille tech.
+Demande de devis</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>#Participation à la conférence AMAZON WEB SERVICE à Lyon le 23/06/2015.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>#Etude de la technologie des clients légers, du Protocol RDP, de WINDOWS server 2012, de HYPER-V.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="833">
+      <ref>833</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>1-Mise en place et maintenance de matériel</libcourt>
+      <descriptif>1-Mise en place et maintenance de matériel
+Création, Maintenance et nettoyage de Poste</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>#Incompatibilité de logiciel (exécuter en compatibilité windows XP).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>#J’ai installé des antivirus, Pc configuration IP Statique et ajout dans le domaine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>#J’ai administré un switch afin de sortir le rapport d’erreur de paquets.
+(Lien de production Excel)</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="834">
+      <ref>834</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>1-Partage de ressources</libcourt>
+      <descriptif>1-Partage de ressources
+Gestion des droits, partage et ressources serveurs</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>#Apres avoir eu la liste de droits produite par mon tuteur, j’ai géré des droits et partage (Windows 2003).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>#Explication des lecteurs réseaux créés, et des droits associés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>#Explication des lecteurs réseaux créer, et des droits associer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>#Gestion de droit et partage de dossier en fonction des utilisateurs.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="835">
+      <ref>835</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>1-Création d'un plan réseau</libcourt>
+      <descriptif>1-Création d'un plan réseau
+Création plan réseau et script de recueille d'information</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>#Explication des lecteurs réseaux créer, et des droits associer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>#Proposition réorganisation du réseau, d’après le schéma réseau effectué.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>#Création d’un script démarrage pour récolte d’information réseau (Nom poste, IP, MAC, Marque du matériel).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>#Création d’un script démarrage pour récolte d’information réseau (Nom poste, IP, MAC, Marque du matériel.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="836">
+      <ref>836</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>1-Automatisation de la création de signature</libcourt>
+      <descriptif>1-Automatisation de la création de signature
+Création signature HTML et d'un programme graphique</descriptif>
+      <contexte>Stage de 1ére année</contexte>
+      <datedebut>2015-03-18</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement>BAT, python, Windows 7,XP,SERVER 2003, SERVER 2012, HYPER-V, Programme VISIO, Outlook.</environnement>
+      <moyen>Humain et matériel </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>#Installation de signature mail (HTML) Outlook.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>#Création signature HTML et du programme graphique, Conversion de vidéo (pour vidéo « pub » de l’établissement).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>#Réalisation d’un programme python graphique pour génération de signature HTML pour Outlook.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>#Réalisation d’un programme python graphique pour génération de signature HTML pour Outlook.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>#Réalisation d’un programme python graphique pour génération de signature HTML pour Outlook.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="838">
+      <ref>838</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>2-Création d'un script &quot;Plan Blanc Alerte&quot;</libcourt>
+      <descriptif>Déploiement OCS / Télémaintenance (Dame Ware) / Mise en place de switch en stack / Ecriture d'un script en Autoit / Ecriture de script en python / Ecriture d'un interface graphique en python pour le Plan Blanc / Création d'un setup.exe /Procédure rédac</descriptif>
+      <contexte>Stage de 2ème année</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>BAT, python, Shell, Windows 7,DEBIAN 3, DAME WARE, Kapersky, GLPI , OCS , Autoit, Inno setup , qtdesigner, cx_freezer, </environnement>
+      <moyen>Humain et matériel </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>#Création du cahier des charges du logiciel « Plan alerte » réflexion du fonctionnement technique. À la suite d’une réunion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>#Voir  document plan blanc d'alerte (titre1)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>#Voir  document plan blanc d'alerte (titre1)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>#Création du cahier des charges du logiciel « Plan alerte » réflexion du fonctionnement technique. À la suite d’une réunion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>#Création du cahier des charges du logiciel « Plan alerte » réflexion du fonctionnement technique. À la suite d’une réunion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>#Voir  document plan blanc d'alerte (titre1) &amp; go to sleep</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>#Voir  document plan blanc d'alerte (titre1) &amp; go to sleep</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>#Dossier Plan Blanc limitation au utilisateur éligible</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>#Voir  document plan blanc d'alerte (titre1)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>#Documentation utlisateur plan blanc alerte</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>#Documentation technique et utilisateur &amp; go to sleep (gotosleep install)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>#Planning suivi de stage ? peut servir ? pour le logiciel « plan blanc alerte » (étude, développement (en même temps réunion avec le tuteur discussion des problèmes), test)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>#Planning de test pour plan blanc alerte sur certain poste (suivi stage)
+planning installation sur poste.
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>#Mise a jour de plan blanc alerte réécriture complète
+Service deja existant mais, c'était une version non abouti (laisser par un stagiaire)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>#Dossier plan blanc restriction de l’éligibilité des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>#Mise à jour quasi-complète de la documentation « Plan Blanc alerte » et « Panneau Info » </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>#Affectation des droits utilisateurs pour le dossier Plan Blanc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>#Proposition d’une solution « Plan Blanc Alerte » pour remplacer la version obsolète</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>#Logiciel Plan Blanc Alerte, interface ludique est le plus simple possible</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>#Cahier des charges « Plan blanc alerte »</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>#Logiciel « Plan blanc alerte » test fait ? / test hors ligner / version test/ fichier cible special/ problème sur pfexec accepter le contrat de licence (poste qui a jamais accepter clé de registrer…)/</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>#Logiciel Plan Blanc Alerte, interface ludique est le plus simple possible</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>#Test crontab du script, script qui se met en marche (tel date)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>#Rédaction d’une procédure technique pour ///LE WEB// (web, plan blanc alerte , ocs scan) SECURISATION DU SITE WEB CH-DRACENIE.fr</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>#Rédaction d’une procédure utilisateur pour ( plan blanc alerte , ocs scan)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>NON#En cours
+#VEILLE TECHONO python et qtdesigner</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>#Apprentissage python, graphique, qtdesigner, pfexec, innosetup
+Openclassroom , cours universitaire (python et qtdesigner)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>#Apprentissage python, graphique, qtdesigner, pfexec, innosetup</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="839">
+      <ref>839</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>2-Go To Sleep</libcourt>
+      <descriptif>2-Go To Sleep</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>#Voir  document plan blanc d'alerte (titre1) &amp; go to sleep</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>#Voir  document plan blanc d'alerte (titre1) &amp; go to sleep</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>#Go to sleep optionnellement plan blanc alerte</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>#Documentation technique et utilisateur &amp; go to sleep (gotosleep install)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>#« plan blanc alerte » document utilisateur &amp; Go to sleep (explication)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>#Go to sleep performance</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="840">
+      <ref>840</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>2-Demande d'assitance et OCS</libcourt>
+      <descriptif>2-Demande d'assitance</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>#Maintenance et mise à jour de poste à distance, prise de rendez-vous par téléphone, informer l’utilisateur du poste de sa maintenance.
+#Assistance utilisateur pour transfère favoris internet explorer Firefox./// gestion des incidents///</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>#Présentation de Dame Ware, et mise à jour de kapersky</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>#Rédaction d’une procédure technique pour ///LE WEB// (web, plan blanc alerte , ocs scan) SECURISATION DU SITE WEB CH-DRACENIE.fr
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>#Rédaction d’une procédure utilisateur pour ( plan blanc alerte , ocs scan)</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="841">
+      <ref>841</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>2-Matériel réseau et Site Web</libcourt>
+      <descriptif>2-Matériel réseau</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>#Rédaction d’une procédure technique pour ///LE WEB// (web, plan blanc alerte , ocs scan) SECURISATION DU SITE WEB CH-DRACENIE.fr</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>#Switch en stack documentation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>#Switch en stack documentation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>#Rédaction d’une procédure technique pour ///LE WEB// (web, plan blanc alerte , ocs scan) SECURISATION DU SITE WEB CH-DRACENIE.fr</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

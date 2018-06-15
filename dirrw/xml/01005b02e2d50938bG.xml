@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b02e2d50938b">
+    <ref>5b02e2d50938b</ref>
+    <datesv>2018-05-21</datesv>
+  </sauvegarde>
+  <etudiant numero="100">
+    <nom>SAID</nom>
+    <prenom>Fayçal</prenom>
+    <mel>faycal.said@icof.fr</mel>
+    <situation ref="1327">
+      <ref>1327</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année</libcourt>
+      <descriptif>
+
+
+
+	Ma 1ère mission consiste à développer le service de chat, pour l'API que Klanik est entrain de développer pour un outil de gestions des patients et des compétences des médecins en France, pour le moment ma version focntionne et ne prend que 23 pe</descriptif>
+      <contexte>Santé</contexte>
+      <datedebut>2018-05-14</datedebut>
+      <datefin>2018-06-22</datefin>
+      <environnement>NodeJS
+Express(Bibliothèque de NodeJs)
+Socket.io(Bibliothèque de NodeJs)
+Nodemon(Bibliothèque de NodeJs)
+MangoDB
+</environnement>
+      <moyen>Mon ordinateur personnel</moyen>
+      <avisperso>Trés intéressant, le cours  a suivre était difficile mais la personne avec moi est trés gentil et fait du javascript depuis 23 ans</avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="506c69754f3d6">
+    <ref>506c69754f3d6</ref>
+    <datesv>2012-10-03</datesv>
+  </sauvegarde>
+  <etudiant numero="24">
+    <nom>Teixeira-Ferreira</nom>
+    <prenom>Gerald</prenom>
+    <mel>gerald.teixeira-ferreira@icof.fr</mel>
+    <situation ref="40">
+      <ref>40</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>installation réseau</libcourt>
+      <descriptif>la société g a acquis de nouveaux locaux et profite de cette occasion pour renouveler son parc informatique.
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-06</datedebut>
+      <datefin>2012-09-06</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>création d'un plan réseau qui sera suivi pour l'installation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation de switch, ordinateur, imprimante </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>récupération des données session des anciens poste (windows xp) a l'aide de cobian backup</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>mise en place d'un reseaux &quot;workgroup&quot; </commentaireactivite>
+      </activitecitee>
+      <production numero="30">
+        <numero>30</numero>
+        <designation>installation réseau</designation>
+        <adresse>https://www.dropbox.com/home/SISR/1-installation%20r%C3%A9seau</adresse>
+      </production>
+    </situation>
+    <situation ref="44">
+      <ref>44</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>systeme VOIP</libcourt>
+      <descriptif>la société C a bâti des logements dédiés à la location et a décidé d'y installer la VOIP dans chacun des logements.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-06</datedebut>
+      <datefin>2012-09-06</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>préparation du détail de l'offre de OVH pour la voip
+préparation du prix total du matériel informatique
+pour reunion avec société C</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>mise en place de repartition de charge</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>mail entre la société C en moi meme sur l'état de l'avens</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>création de plan réseau</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>proposition d'inclure les routeurs dans la baie de brassage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>configuration du routeur et des bornes wifi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>redaction du contrat d'utilisation du wifi dans les locations</commentaireactivite>
+      </activitecitee>
+      <production numero="29">
+        <numero>29</numero>
+        <designation>systeme VOIP</designation>
+        <adresse>https://www.dropbox.com/home/SISR/3-systeme%20VOIP</adresse>
+      </production>
+    </situation>
+    <situation ref="60">
+      <ref>60</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>sauvegardes et exportations de machines virtuelles</libcourt>
+      <descriptif>la société D fait appel à nous pour la mise en place de sauvegardes et exportations de machines virtuelles dans le but de restauration rapide en cas de perte.
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-09-25</datedebut>
+      <datefin>2012-09-25</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>mise ne place de scripts de restauration de machines virtuelles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>mise ne place de scripts de sauvegarde de machines virtuelles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>ajout d'entrer dans le planificateur de taches de windows serveur 2008r2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>utilisation des éléments de Hyper-V pour les traduire en script PowerShell </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>test de fonctionnement des scripts sur des machines identique que celle en production</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>approfondissement des connaissances sur PowerShell</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>étude du fonctionnement de microsoft Hyper-V </commentaireactivite>
+      </activitecitee>
+      <production numero="21">
+        <numero>21</numero>
+        <designation>sauvegardes et exportations de machines virtuelles</designation>
+        <adresse>https://www.dropbox.com/home/SISR/2-sauvegardes%20et%20exportations%20de%20machines%20virtuelles</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

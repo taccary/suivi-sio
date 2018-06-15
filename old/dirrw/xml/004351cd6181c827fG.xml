@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51cd6181c827f">
+    <ref>51cd6181c827f</ref>
+    <datesv>2013-06-28</datesv>
+  </sauvegarde>
+  <etudiant numero="43">
+    <nom>avisse</nom>
+    <prenom>tom</prenom>
+    <mel>tom.avisse@icof.fr</mel>
+    <situation ref="187">
+      <ref>187</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation d'une baie de brassage chez MJS</libcourt>
+      <descriptif>L'entreprise MJS nous à sollicités pour ses nouveaux locaux. Ceux-ci comprennent 4 salles : L’accueil, la salle de réunion, le bureau de direction ainsi que le bureaux des employés.
+</descriptif>
+      <contexte>MJS est un client de l'entreprise Oméga Informatique qui m'a accueilli en stage.</contexte>
+      <datedebut>2013-06-03</datedebut>
+      <datefin>2013-06-07</datefin>
+      <environnement>HP 18110-24G v2 -Switch -Géré - 24 x10/100/1000 + 2 x Gigabit
+Cordon RJ45 - 2m - Jaune
+Cable réseau RJ45 F/UTP CAT6 blanc - 0.5m x20qte</environnement>
+      <moyen>Travail avec mon tuteur.
+</moyen>
+      <avisperso>Cette expérience était une première ; elle a été très enrichissante et m'a appris énormement.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Il a fallu des entretiens avec le client pour pouvoir répondre à toutes ses attentes et ainsi lui proposer une solution efficace afin de gérer son réseau informatique.
+
+la société a 4 bureaux distincts .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Une petite salle spéciale à été aménagée pour la baie de brassage afin que personne ne puisse y entrer sans autorisation. A ce jour seul l'informaticien et l’électricien y ont un droit d'accès physique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Il faut répertorier correctement ou va chaque fils savoir quel câble va sur le switch jusqu'au rack .
+Connaitre la quantité et le nom de chaque composant pour l'installation de la baie de brassage .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Prise de rendez vous avec le client pour l'installation.
+Avant de partir du chantier faire un compte rendu des faits et de la progression dans l'installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Création d'une documentation d’utilisation  pour le client afin qu'il puisse comprendre ce qui a été mis en place et comment cela fonctionne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise à jour de la documentation technique a la fin de l'installation. afin que le client afin puisse comprendre ce qui a été mis en place et comment cela fonctionne. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Mise en place d'un contrat de maintenance sur 10h pour l'installation de la baie de brassage.
+Mise en place d'un contrat trimestriel pour la maintenance de la baie de brassage</commentaireactivite>
+      </activitecitee>
+      <production numero="300">
+        <numero>300</numero>
+        <designation>baie de brassage</designation>
+        <adresse>http://tomavisse.over-blog.com/installation-d-une-baie-de-brassage-chez-mjs-etench%C3%A9%C3%AFt%C3%A9</adresse>
+      </production>
+    </situation>
+    <situation ref="242">
+      <ref>242</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation du serveur chez MJS</libcourt>
+      <descriptif>L'entreprise MJS nous à sollicités pour ses nouveaux locaux. Ceux-ci comprennent 4 salles : L’accueil, la salle de réunion, le bureau de direction ainsi que le bureaux des employés.
+</descriptif>
+      <contexte>MJS est un client de l'entreprise Oméga Informatique qui m'a accueilli en stage.</contexte>
+      <datedebut>2013-06-28</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Serveur NAS</environnement>
+      <moyen>Travail avec mon tuteur</moyen>
+      <avisperso>Expérience agréable qui apprend comment créer , déplacer et partager des fichiers</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Il a fallu des entretiens avec le client pour pouvoir répondre à toutes ses attentes et ainsi lui proposer une solution efficace afin de gérer son réseau informatique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Les risques liés au dysfonctionnement sont que les données seront inaccessibles, le partage de fichiers ne pourra être effectué....</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Démarrage du serveur NAS , explication de l'installation au client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Expliquer au client comment retrouver ses dossier facilement sur le serveur. Voir avec le client si cela lui convient ou s'il veut d'autres prestations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Expliquer au client comme le partage fonctionne , comment déplacer des fichiers ou créer des utilisateurs avec ou sans droit d'accès...</commentaireactivite>
+      </activitecitee>
+      <production numero="305">
+        <numero>305</numero>
+        <designation>Installation du serveur</designation>
+        <adresse>http://tomavisse.over-blog.com/installation-d-un-serveur-mjs-%C3%A9tenche%C3%AFt%C3%A9</adresse>
+      </production>
+    </situation>
+    <situation ref="251">
+      <ref>251</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Recherche de données sur de nouveaux produits.</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-06-28</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Samsung, Acer</environnement>
+      <moyen>recherche personnelle
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche d'information concernant de nouveaux produits sur le marché et ceux encore en production . Résumé des caractéristiques du matériel recherché</commentaireactivite>
+      </activitecitee>
+      <production numero="306">
+        <numero>306</numero>
+        <designation>Veille technologique</designation>
+        <adresse>http://tomavisse.over-blog.com/veille-technologique</adresse>
+      </production>
+    </situation>
+    <situation ref="254">
+      <ref>254</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance PC</libcourt>
+      <descriptif>Des particuliers désirant faire un diagnostique sur leurs ordinateurs nous ont sollicités.</descriptif>
+      <contexte>Travail pour les particuliers</contexte>
+      <datedebut>2013-06-28</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Toutes marques d'ordinateurs (fixes ou portables)</environnement>
+      <moyen>travail avec le tuteur</moyen>
+      <avisperso>un peu de maintenance informatique est enrichissante mais il ne faut pas non plus faire que sa à longueur de journée car on se lasse vite.</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Lister les différents test que l'on peut effectué pour savoir d'où vient la panne sur l'ordinateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Faire les tests tout en prenant soin de décrire les résultats de chaque tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Faire un diagnostique pour le changement de pièces, évaluer le cout de la réparation matériel ou logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>Renseigner le client sur le prix de la réparation et le conseiller si oui ou non cela vaut le coût .</commentaireactivite>
+      </activitecitee>
+      <production numero="308">
+        <numero>308</numero>
+        <designation>Maintenance PC</designation>
+        <adresse>http://tomavisse.over-blog.com/maintenance-informatique</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

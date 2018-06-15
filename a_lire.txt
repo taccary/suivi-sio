@@ -1,0 +1,35 @@
+===================================================================================================================
+Liste des corrections David ROUMANET (david.roumanet@ac-grenoble.fr)
+===================================================================================================================
+Tour 1:
+2016-09-03 Modification classe synthese.php pour intégrer le le nom de l'étudiant dans le nom du fichier PDF
+2016-09-04 Modification classe synthese.php pour décodage UTF-8 sur les libellés des activités, etc.
+2016-09-03 Modification classe vue/haut.php pour charset=utf-8
+2016-09-03 Modification classe init/install.php pour charset=utf-8
+2016-09-03 Modification de plusieurs classes vue/*.php pour correction caractères accentués
+2016-09-03 Modification classe model.class.php pour utilisation de mysqli_ à la place de mysql_ (déprécié)
+2016-09-04 Modification classe model.class.php pour ajout remplaceDataEtudiant() et estEtudiant()
+2016-09-04 Modification classe ctrl/Saisie.class.php pour ajout correctif Alain Serres (usurpation)
+2016-09-03 Correction style.css pour font-family (san-serif -> sans-serif)
+2016-09-03 Modification style.css pour moderniser l'interface (fond gris, couleurs bleutées)
+2016-09-03 Modification bandeau.png pour moderniser l'interface
+-------------------------------------------------------------------------------------------------------------------
+Tour 2:
+2016-09-08 Suppression de l'encodage ha() dans classe control.class.php (base+navigateur déjà en UTF-8)
+2016-09-08 Changement de mise en page dans la synthèse PDF (marge 'mgs' conditionnelle : 55 si SISR/SLAM, 32 par défaut)
+2016-09-08 Ajout d'un 2e tuteur de stage (soit 3 signatures : 1 formateur + 2 tuteurs) + marge saut de page modifiée
+2016-09-08 Ajout de pages détails dans la synthèse
+2016-09-10 Modification mise en page classe instal.php (ajout du fichier init.css)
+-------------------------------------------------------------------------------------------------------------------
+Tour 3:
+2017-01-22 Dans Groupe5.php, modification type="file" accept=".csv" pour limiter l'affichage des fichiers possibles
+2017-01-22 Dans Groupe.class.php, correction pour accepter tout nom de fichier (pas seulement noms.csv)
+2017-01-22 Dans Groupe5.php aide pour encodage fichier CSV au format UTF-8 (par défaut, ANSI 8859)
+2017-01-22 Dans Groupe.class.php, acceptation fichiers CSV avec deux séparateurs : , ou ;
+-------------------------------------------------------------------------------------------------------------------
+Tour 4:
+2017-01-30 Dans Modele.class, ajout de date_default_timezone_set("Europe/Paris"); (empèche affichage warning PHP) dans saisie situation
+2017-01-31 Dans dessitusel.php, formatage colonne et ajout de la source de la situation (PPE, stage...)
+2017-01-31 Dans Model.class.php, modification function getSitusEl pour ajout du libellé source situation
+2017-01-31 Remplacement FPDF par TFPDF (compatible Unicode dans la synthèse PDF) et ajout police Roboto
+2017-01-31 Dans style.css, corrections diverses (présence d'un " et */ inutiles)

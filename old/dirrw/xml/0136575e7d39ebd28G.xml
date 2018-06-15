@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="575e7d39ebd28">
+    <ref>575e7d39ebd28</ref>
+    <datesv>2016-06-13</datesv>
+  </sauvegarde>
+  <etudiant numero="136">
+    <nom>VIVIEN</nom>
+    <prenom>Clement</prenom>
+    <mel>Clement.VIVIEN-RAGUET@icof.fr</mel>
+  </etudiant>
+</suivicomp>

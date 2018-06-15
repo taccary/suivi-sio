@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b100d1f75867">
+    <ref>5b100d1f75867</ref>
+    <datesv>2018-05-31</datesv>
+  </sauvegarde>
+  <etudiant numero="208">
+    <nom>ABITBOL</nom>
+    <prenom>Jérémy</prenom>
+    <mel>jeremy.abitbol@icof.fr</mel>
+    <situation ref="1350">
+      <ref>1350</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet BL soins</libcourt>
+      <descriptif>J’effectue mon stage chez Berger Levrault le 12e éditeur de logiciel de France. Je suis  sur le projet BL soins qui est un projet codé en C#. Je m’occupe de la programmation de différents services d’une maison de retraite.</descriptif>
+      <contexte>Projet crée il y a 5 ans, le projet est déjà bien avancé.Il y a une base de données ainsi qu'une interface logiciel fonctionnelle.</contexte>
+      <datedebut>2018-05-14</datedebut>
+      <datefin>2018-05-28</datefin>
+      <environnement>Microsoft Windows 10, C#, HTML/CSS, TypeScript, Aurelia.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Les membres du projet BLSoins établissent un cahier des charges des demandes des clients, des bugs et des missions. Dans le cas de l'entreprise on prévoit un sprint sur 3 semaines.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="559bc51cca4a4">
+    <ref>559bc51cca4a4</ref>
+    <datesv>2015-07-07</datesv>
+  </sauvegarde>
+  <etudiant numero="107">
+    <nom>DUFLOT</nom>
+    <prenom>Florian</prenom>
+    <mel>florian.duflot@icof.fr</mel>
+    <situation ref="728">
+      <ref>728</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Developpement d'une application VBA</libcourt>
+      <descriptif>Création d'une application sous excel en langage VBA</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-08</datedebut>
+      <datefin>2015-07-10</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso>Difficulté à comprendre les besoins réels de l'entreprise et personne ne connaissait le langage pour m'aider</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges orales et récapitulatif des attentes sur un tableau.
+Un tableau type m'a été fourni afin d'avoir un idée du résultat attendu.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Lancer les extractions sur mon applications et les comparer à l'application PREAU(existante) afin de vérifier la conformité des résultats. Test réalisé par le maitre de stage et validation orale.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Les données ne devaient pas pouvoir être modifier par tous le monde. Création d'un mot de passe administrateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'une interface utilisateur simple d'utilisation a partir d'une demande orale du maitre de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Lancer mon application et vérifier que les calculs étaient correct, grâce a l'application PREAU.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Création d'une documentation expliquant le fonctionnement de l'application et prise en compte des différents messages d'erreurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>A fourni l'application au service demandeur qui l'a testé sur le réseau du CNPE</commentaireactivite>
+      </activitecitee>
+      <production numero="1298">
+        <numero>1298</numero>
+        <designation>Application rendu (ne peut pas etre executé a cause de la necessité d'avoir acces a des logiciels de l'entreprise)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/florian_duflot_icof_fr/Documents/Stage%201ere%20Annee/Appli%20PREAU/appli_releve_v2.0.xls</adresse>
+      </production>
+      <production numero="1299">
+        <numero>1299</numero>
+        <designation>Documentation utilisateur</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/florian_duflot_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B86FF6492-D150-46C4-B84B-6ED9182C859F%7D&amp;file=Guide_utilisation.doc&amp;action=default</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

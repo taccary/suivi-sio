@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="553e421b8a7e2">
+    <ref>553e421b8a7e2</ref>
+    <datesv>2015-04-27</datesv>
+  </sauvegarde>
+  <etudiant numero="80">
+    <nom>le texier</nom>
+    <prenom>adrien</prenom>
+    <mel>adrien.letexier@icof.fr</mel>
+    <situation ref="431">
+      <ref>431</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année 2014 - Application gestion utilisateurs</libcourt>
+      <descriptif>Auto-formation à de nouvelles compétences afin de participer à la réalisation d'une application de gestion des utilisateurs des robots avec l'équipe de développement. </descriptif>
+      <contexte>Travail collaboratif avec une partie de l'équipe de développeurs.</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-05-28</datefin>
+      <environnement></environnement>
+      <moyen>Firefox, Google Chrome, Mysql Workbench, Wamp, Spring Tool Suit, Notepad ++, Git Bash,Compte avec droits d'administrateur sur le site de Suitable Technologies.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test des requêtes de l'API de Suitable Technologie avant de les utiliser sur la plateforme de gestion des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Installation de Spring Tool Suite, fonctionnant sous Eclipse, et connexion à un serveur prévue pour les tests.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="432">
+      <ref>432</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1ère année - Robot Lycéen</libcourt>
+      <descriptif>Recherche et mise au point de nouveaux mode de contrôle du robot lycéen, notamment en utilisant une manette de jeux USB et des applications smartphones simulant différents joysticks.</descriptif>
+      <contexte>Collaboration avec une partie de l'équipe de développement.</contexte>
+      <datedebut>2014-06-09</datedebut>
+      <datefin>2014-06-16</datefin>
+      <environnement></environnement>
+      <moyen>Manette de XBox 360, Iphone, smartphone sous Android, Robot Lycéen, Navigateur web, Spring Tool Suite, Gamepad API tester.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>S'assurer que les contrôleurs susceptibles d'être retenue sont reconnue par les navigateurs web et donc par le robot.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Réaliser des tests de compatibilité des contrôleurs avec les navigateurs via une interface graphique web qui décrit l'interprétation du contrôleurs par le navigateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Suivie de tutoriels concernant OpenCV.</commentaireactivite>
+      </activitecitee>
+      <production numero="769">
+        <numero>769</numero>
+        <designation>Outils de test des contrôleurs par le navigateur</designation>
+        <adresse>https://www.dropbox.com/s/23te41jqaf80itf/Gamepad%20API%20tester.html?dl=0</adresse>
+      </production>
+      <production numero="1143">
+        <numero>1143</numero>
+        <designation>Application Monect</designation>
+        <adresse>https://www.dropbox.com/s/scecai4a9aqixqp/monectInterface.webp?dl=0</adresse>
+      </production>
+    </situation>
+    <situation ref="549">
+      <ref>549</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2ème année - Application Alchemy 2.0</libcourt>
+      <descriptif>Développement des modules pour l'application Alchemy 2.0 et rédactions de documents relatifs aux développement.</descriptif>
+      <contexte>Travail seul, nombreux contacts avec mon maître de stage pour me tenir informé des spécifications des différents modules en développement.</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement></environnement>
+      <moyen>NetBeans, API Alchemy, Word, Exel, Forum Alchemy.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse de la demande : Développement d'Aclhemy V2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Création des modules &quot;affect&quot; et &quot;create&quot;.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Adaptation des options de paramétrage des modules aux demandes de modifications.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation de NetBeans.
+Utilisation du débogueur de NetBeans afin de tester le rendu visuel des modules développés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création des modules &quot;affect&quot; et &quot;create&quot;.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test de compatibilité des modules sur les différentes version du logiciel </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique pour la version 2 d'Alchemy.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation d'utilisation pour la version 2 d'Alchemy.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de Git</commentaireactivite>
+      </activitecitee>
+      <production numero="1140">
+        <numero>1140</numero>
+        <designation>Documentation d'utilisation d'Alchemy</designation>
+        <adresse>https://www.dropbox.com/s/94dt94jb1a441mz/manuelUtilisationAlchemy.docx?dl=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="628">
+      <ref>628</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE1-SIO2-GSB PHP</libcourt>
+      <descriptif>Développement d'une application de gestion des fiches de frais</descriptif>
+      <contexte>Projet Personnel Encadré</contexte>
+      <datedebut>2014-09-01</datedebut>
+      <datefin>2015-06-30</datefin>
+      <environnement></environnement>
+      <moyen>NeatBeans, PhpMyAdmin, SqlServer, Git.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1183">
+        <numero>1183</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://www.dropbox.com/s/1ia56jleh94ee3i/GSB-AppliFrais-Fiche%20Descriptive.doc?dl=0</adresse>
+      </production>
+      <production numero="1184">
+        <numero>1184</numero>
+        <designation>Normes développement PHP     </designation>
+        <adresse>https://www.dropbox.com/s/w0p2d8p2hgx9r4l/GSB-ApplisWebPHP-NormesDevlpt.doc?dl=0</adresse>
+      </production>
+      <production numero="1185">
+        <numero>1185</numero>
+        <designation>Dossier git projet</designation>
+        <adresse>https://www.dropbox.com/s/s0qyiy7sk7e0hzx/dossierGit.PNG?dl=0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="629">
+      <ref>629</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE2-SIO2-GSB C#</libcourt>
+      <descriptif>Développement d'un Back-office commercial en C#</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-09-01</datedebut>
+      <datefin>2015-06-30</datefin>
+      <environnement></environnement>
+      <moyen>Visual Studio, Sql Server, Team Fondation.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="631">
+      <ref>631</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Veille technologique via une application des gestion de flux RSS installé sur mon smartphone</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-04-18</datedebut>
+      <datefin>2015-04-18</datefin>
+      <environnement></environnement>
+      <moyen>Smartphone</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Utilisation d'un gestionnaire de flux RSS installé de base sur mon smartphone, avec lequel je peux sélectionner les flux, classés par thème, de différentes sources.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

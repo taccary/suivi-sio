@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51a73f78625be">
+    <ref>51a73f78625be</ref>
+    <datesv>2013-05-30</datesv>
+  </sauvegarde>
+  <etudiant numero="31">
+    <nom>floriot</nom>
+    <prenom>vincent</prenom>
+    <mel>vincent.floriot@icof.fr</mel>
+    <situation ref="181">
+      <ref>181</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion d'un problème client</libcourt>
+      <descriptif>Erreur d'affichage d'une page php et résolution de cette derniere (mise à jour plugin joomla)</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-29</datedebut>
+      <datefin>2013-05-30</datefin>
+      <environnement></environnement>
+      <moyen>base de données via phpmyadmin , documentation joomla</moyen>
+      <avisperso>Passage des différentes versions assez longues (beaucoup d'erreurs)</avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résoudre le problème d'affichage selon la doc joomla , cet incident est ensuite noté comme corrigé dans project_pier.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>mise a jour d'un plugin joomla</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="182">
+      <ref>182</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place de système de Report</libcourt>
+      <descriptif>documentation sur l'ensemble des moyens possibles de réaliser du reporting , puis mise en place de celle ci via une interface php puis intégration sur le systeme pier_project</descriptif>
+      <contexte>Compte rendu horaire sur les projets..</contexte>
+      <datedebut>2013-05-22</datedebut>
+      <datefin>2013-05-27</datefin>
+      <environnement>PC</environnement>
+      <moyen>Base de données en local </moyen>
+      <avisperso>Analyse des différents logiciels un peu long mais l'ensemble était captivant quand cela marche</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recensement des différentes gestions de reporting , réunion sur la mise en place et les choses à améliorer/ou ajouter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planning sur une semaine environ pour commencer à pourvoir l'utiliser dans le service. Rendu de son activité chaque soir sur mon avancement</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="183">
+      <ref>183</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Rédaction d'un document de synthèse</libcourt>
+      <descriptif>Rédaction de la doc explicative du système de report et sur l'utilisation du logiciel pour créer des nouveaux reports à l'avenir</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-05-28</datedebut>
+      <datefin>2013-05-28</datefin>
+      <environnement></environnement>
+      <moyen>Word</moyen>
+      <avisperso>La documentation n'est pas forcément le plus intéressant à faire mais permet de faire gagner du temps au prochain utilisateur</avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Documentation technique sur comment marche l'application php , à quel table fait elle appel ... etc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>rédaction d'une doc sur comment marche la solution de report ainsi qu'une doc sur une explication du logiciel les choses à ne pas faire et une FAQ sur les différents problèmes rencontrés sur ce logiciel qui pourrait arriver aux prochains utilisateurs</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

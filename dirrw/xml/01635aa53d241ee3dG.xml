@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5aa53d241ee3d">
+    <ref>5aa53d241ee3d</ref>
+    <datesv>2018-03-11</datesv>
+  </sauvegarde>
+  <etudiant numero="163">
+    <nom>PIOT</nom>
+    <prenom>Julien</prenom>
+    <mel>Julien.PIOT@icof.fr</mel>
+    <situation ref="1172">
+      <ref>1172</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Gestion des sessions sous RDM</libcourt>
+      <descriptif>Apprentissage du langages PowerShell.Connaissance du projet, de l'utilité du projet.Utilisation du logiciel Remote Desktop Manager.Améliorations du script, création de fonctions. Vérification des sessions, des bons user/mdp, de la connexion des sessions.</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-18</datedebut>
+      <datefin>2017-06-28</datefin>
+      <environnement>PowerShell
+Remote Desktop Manager</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Connaissance du projet à réaliser, des fonctionnalités.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mes tests était de lancer le script PowerShell et de vérifier à chaque fois si les user, mdp, host sont crée ainsi que les dossiers et les types des sessions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Pour ce faire, rien de plus simple, il on juste à lancer le script PowerShell et les sessions vont se crée sous RDM avec l'id qu'ils auront choisit.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création d'un script PowerShell automatisé pour crée les sessions demandées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Chaque jour, je devais faire en sorte que le script fonctionne avec du plus, des fonctionnalité supplémentaire. Création dossier, mdp, type...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Le projet, je l'ai suivi jusqu'au bout car quand j'ai commencé les projet, il n'y avait rien. Sujet de stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prendre le contrôle à distance de système windows, windows server, linux, SAP pour tester les connexions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Script</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>A chaque modification du script, test du script pour la création des sessions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Réalisation des tests unitaires avec PowerShell ISE car on mettait des points d’arrêt dans le programme pour voir et analyser les script, son bon fonctionnement.</commentaireactivite>
+      </activitecitee>
+      <production numero="1929">
+        <numero>1929</numero>
+        <designation>PowerShell aide, commande, commande de base</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=0a4d295c6d6e9481497d559d826096fd8&amp;authkey=Ab7qlAvZAl5M5fO6Wb-xFvE</adresse>
+      </production>
+      <production numero="1931">
+        <numero>1931</numero>
+        <designation>Aide RDM</designation>
+        <adresse>https://help.remotedesktopmanager.com/index.html?importcsv_strategies.htm</adresse>
+      </production>
+      <production numero="1932">
+        <numero>1932</numero>
+        <designation>Aide PowerShell</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=0a4d295c6d6e9481497d559d826096fd8&amp;authkey=Ab7qlAvZAl5M5fO6Wb-xFvE</adresse>
+      </production>
+      <production numero="1933">
+        <numero>1933</numero>
+        <designation>Premier script</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=04acbf2d8e67f4b36ad0bea00a519bb27&amp;authkey=AVonUTssSu0ajX3RB-YFoqg</adresse>
+      </production>
+      <production numero="1934">
+        <numero>1934</numero>
+        <designation>Script PowerShell avec csv</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=0911b36e42bd041f983b0984f9ea1b41e&amp;authkey=ASNz0sCbBTJBNhNgd1YFk4c</adresse>
+      </production>
+      <production numero="1935">
+        <numero>1935</numero>
+        <designation>Script + Json</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=099452add3cf84b7592908c4a2b01e1c1&amp;authkey=ARYXFaVCyWVPQHwWofLl9J0</adresse>
+      </production>
+      <production numero="1936">
+        <numero>1936</numero>
+        <designation>Script avec fonction callJson</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=077e58b2bfc434f48a55e40b5fc802c5a&amp;authkey=ATmy-oaOeVKLKGb3czJO7CU</adresse>
+      </production>
+      <production numero="1951">
+        <numero>1951</numero>
+        <designation>Script PowerShell Fonctionnelle (fini)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=0f9e0dd5d523348168a152b15e985aebe&amp;authkey=AW-Q1oQJR3f8vXS4WloPiVg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1215">
+      <ref>1215</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Création d'un site e-commerce/Job Board</libcourt>
+      <descriptif>Création d'un site web e-commerce / job board (Dailing) avec l'outil Wordpress(CMS). Dailing est un site web d'offre d'emploi spécialisé dans les offres d'emplois de transporteur.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-02</datedebut>
+      <datefin>2018-02-09</datefin>
+      <environnement>Wordpress, plugin
+Html, CSS, PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre le cahier des charges et le site à créer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Recenser les plugins, thèmes wordpress à acheter, les modifications à faire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test fait après chaque modification. Création de compte, réception mail ...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tester les modification</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Documentation sur le site web, la charte graphique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Wordpress, plugin, mise à jour de ces composants.</commentaireactivite>
+      </activitecitee>
+      <production numero="1986">
+        <numero>1986</numero>
+        <designation>Site Dailing</designation>
+        <adresse>http://transports-mobilites.fr/Dailing(preprode)</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1216">
+      <ref>1216</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Création d'une solution applicative de gestion de leads</libcourt>
+      <descriptif>Création d'une solution applicative pour la gestion de leads, trier, classer, cibler les leads reçu via le formulaire d’inscription. Un tableau se charge de récupérer les informations dans la base de données pour ensuite afficher toutes les informations.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-02</datedebut>
+      <datefin>2018-02-09</datefin>
+      <environnement>Html, CSS, PHP, FileZilla</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1987">
+        <numero>1987</numero>
+        <designation>Solution applicative de gestion de leads</designation>
+        <adresse>transports-mobilites.fr/Recrutement</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1217">
+      <ref>1217</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Création d'un site web Wordpress</libcourt>
+      <descriptif>Création d'un site web Wordpress pour l'organisation IAE pour la journée de la vente. Mise en ligne du service sur un serveur externe, exportation.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-02</datedebut>
+      <datefin>2018-02-09</datefin>
+      <environnement>Wordpress, Html, CSS</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1988">
+        <numero>1988</numero>
+        <designation>Site Journée de la vente</designation>
+        <adresse>http://journeedelavente.com/</adresse>
+      </production>
+    </situation>
+    <situation ref="1263">
+      <ref>1263</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Veille technologique faite au cours des deux années de BTS ainsi que la vie de tout les jours.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-09-01</datedebut>
+      <datefin>2018-06-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1311">
+      <ref>1311</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE - C#</libcourt>
+      <descriptif>Création d'une application sous Visual Studio en C# sur le thème de GSB</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-09-01</datedebut>
+      <datefin>2018-03-30</datefin>
+      <environnement>Visual Studio, C#, Git</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1312">
+      <ref>1312</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE - PHP</libcourt>
+      <descriptif>Gestion des praticiens via un site web PHP, MCV</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-09-01</datedebut>
+      <datefin>2018-03-30</datefin>
+      <environnement>PHP,HTML,CSS,Git</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

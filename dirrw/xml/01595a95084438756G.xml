@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a95084438756">
+    <ref>5a95084438756</ref>
+    <datesv>2018-02-27</datesv>
+  </sauvegarde>
+  <etudiant numero="159">
+    <nom>BARBET</nom>
+    <prenom>Julien</prenom>
+    <mel>Julien.BARBET@icof.fr</mel>
+    <situation ref="1188">
+      <ref>1188</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Etude cahier des charges</libcourt>
+      <descriptif>Analyse et compréhension du cahier des charges (Rafraichir le site internet en y ajoutant premièrement de nouvelles informations et ensuite un nouveau design). Mise en place de l'environnement de travail : UwAmp,mysql,CMS Drupal </descriptif>
+      <contexte>Analyser un site internet (SOS-Piratage), ses informations, son architecture et comprendre à quoi il sert.
+</contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-05-23</datefin>
+      <environnement>Ordinateur en local</environnement>
+      <moyen>Ordinateur, humains (Tutrice de stage ), UwAmp, CMS (Drupal)</moyen>
+      <avisperso>Semaine obligatoire afin de comprendre le sujet et d'analyser les nouveaux moyens techniques pour réussir la tâche</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre et préparer &quot;le terrain&quot; afin de réussir la tâche demandée. Passage obligatoire (pour moi) afin de poursuivre le stage;</commentaireactivite>
+      </activitecitee>
+      <production numero="1943">
+        <numero>1943</numero>
+        <designation>Site internet ciblé</designation>
+        <adresse>http://www.sos-piratage.com</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1189">
+      <ref>1189</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Apprentissage et compréhension</libcourt>
+      <descriptif>Apres avoir installé l'environnement de travail j'ai commencé à étudié le CMS DRUPAL pour le comprendre et voir comment il fonctionne. De plus j'ai lu le site internet entier afin de comprendre de quoi il parlait plus précisément et des risques liés au</descriptif>
+      <contexte>Etude du CMS, lecture du site internet et compréhension des risques du piratage</contexte>
+      <datedebut>2017-05-23</datedebut>
+      <datefin>2017-05-30</datefin>
+      <environnement>Local (ordinateur)
+</environnement>
+      <moyen>Internet, SOS-Piratage, tutrice de stage, mail pour converser.</moyen>
+      <avisperso>Semaine enrichissante et utile. J'ai beaucoup appris sur le piratage, les risques liés à celui-ci, les conséquences. De plus j'ai pu analyser le CMS Drupal et le comprendre en partie (thème/modules etc)</avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Enumérer les potentiels risques de piratage en fonction des différentes activités faites sur internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Aider à la conception ou au renouvellement d'un projet (apporter des idées, du savoir )</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Rechercher de l'information en continue afin de mettre à jour du contenue et d'être tenu au courant de toutes les nouveautés</commentaireactivite>
+      </activitecitee>
+      <production numero="1944">
+        <numero>1944</numero>
+        <designation>Drupal</designation>
+        <adresse>http://www.drupalfrance.com</adresse>
+      </production>
+      <production numero="1945">
+        <numero>1945</numero>
+        <designation>SOS-Piratage</designation>
+        <adresse>http://www.sos-piratage.com</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1190">
+      <ref>1190</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Travail sur le site internet</libcourt>
+      <descriptif>Durant cette 3ème semaine j'ai pu rendre compte de ce que j'avais compris et appris à ma tutrice de stage qui m'a ensuite demander de me lancer dans le rafraîchissement du site.</descriptif>
+      <contexte>Commencement du rafraîchissement du site internet (SOS-Piratage)</contexte>
+      <datedebut>2017-05-30</datedebut>
+      <datefin>2017-06-06</datefin>
+      <environnement>Ordinateur (local)</environnement>
+      <moyen>Internet, mail, CMS Drupal, skype (avec un développeur), tutrice de stage, ordinateur en local.</moyen>
+      <avisperso>semaine interessante mais assez compliqué. La compréhension du CMS n'est pas forcément facile au premier abord. J'ai demandé un peu d'aide et j'ai aussi regardé des tutoriels afin d'en apprendre d'avantage</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Développé un service tel qu'un site internet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Donner des idées, partager, étudier des solutions</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Amélioration d'un service en fonction du savoir faire, des idées, des moyens disponibles et du temps</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création d'une base de donnée grâce à UwAmp sous mysql pour installer le CMS Drupal et travailler sur le site internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Rafraichissement des informations données dans le site internet.</commentaireactivite>
+      </activitecitee>
+      <production numero="1946">
+        <numero>1946</numero>
+        <designation>Rafraîchissement du look et de l'informations</designation>
+        <adresse>http://www.sos-piratage.com</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1192">
+      <ref>1192</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Poursuite du site</libcourt>
+      <descriptif>Poursuite du site internet (Choix du thème définitif), travail sur le CSS, les couleurs, le design, les modules</descriptif>
+      <contexte>Travail du site en local ( choix du thème suer le site Drupal et modification de celui-ci pour atteindre l'effet souhaité)</contexte>
+      <datedebut>2017-06-06</datedebut>
+      <datefin>2017-06-13</datefin>
+      <environnement>Ordinateur (local)</environnement>
+      <moyen>Ordinateur, internet, Drupal thèmes, tutrice de stage, skype livre.</moyen>
+      <avisperso>Semaine &quot;ordinaire&quot; et poursuite du developpement</avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour du site, des informations, de son but et de son design</commentaireactivite>
+      </activitecitee>
+      <production numero="1947">
+        <numero>1947</numero>
+        <designation>Themes Drupal et évolution du site</designation>
+        <adresse>https://www.drupal.org/project/project_theme</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1193">
+      <ref>1193</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Poursuite site internet</libcourt>
+      <descriptif>Poursuite du site, changement du menu, modification des couleurs, du design, de la taille</descriptif>
+      <contexte>Poursuite du site internet sur Drupal</contexte>
+      <datedebut>2017-06-13</datedebut>
+      <datefin>2017-06-20</datefin>
+      <environnement>Ordinateur en local</environnement>
+      <moyen>Ordinateur, tutrice de stage,CMS Drupal, internet</moyen>
+      <avisperso>Semaine de finalisation du site, de son design, de ses informations. Semaine plus chargée mais interessante</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place d'un service utilisable et fonctionnel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche d'informations en rapport avec son temps (évolution des méthodes, des procédés etc.)</commentaireactivite>
+      </activitecitee>
+      <production numero="1948">
+        <numero>1948</numero>
+        <designation>Recherche d'informations complémentaires sur le piratage télécom</designation>
+        <adresse>http://www.sos-piratage.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1194">
+      <ref>1194</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Finalisation</libcourt>
+      <descriptif>Finalisation du site, rendez vous avec la tutrice de stage. Faute de temps, j'ai du envoyer mon travail (code source) afin que les ingénieurs puissent mettre en ligne celui-ci. Le reste semblait être trop compliqué. </descriptif>
+      <contexte>Finalisation du site en local et envoie du travail + rendez-vous</contexte>
+      <datedebut>2017-06-20</datedebut>
+      <datefin>2017-06-27</datefin>
+      <environnement>Ordinateur en local</environnement>
+      <moyen>Ordinateur, tutrice de stage, skype, CMS Drupal, internet, Drupal.com</moyen>
+      <avisperso>Semaine de finalisation du travail de ces 6 semaines. Rendez-vous intéressant et très bon apprentissage. Ces 6 semaines m'ont fait découvrir de nombreuses ressources afin de développer et de travailler confortablement sur un projet.</avisperso>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Tester son travail afin de se rendre compte que tout marche correctement</commentaireactivite>
+      </activitecitee>
+      <production numero="1949">
+        <numero>1949</numero>
+        <designation>Finalisation ( le site SOS-Piratage aura bientôt un nouveau design).</designation>
+        <adresse>http://www.sos-piratage.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

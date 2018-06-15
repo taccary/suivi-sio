@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5239d7d63138e">
+    <ref>5239d7d63138e</ref>
+    <datesv>2013-09-18</datesv>
+  </sauvegarde>
+  <etudiant numero="40">
+    <nom>vinson</nom>
+    <prenom>laetitia</prenom>
+    <mel>laetitia.vinson@icof.fr</mel>
+    <situation ref="229">
+      <ref>229</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création d'une application ELLIADE</libcourt>
+      <descriptif>Permettre à des clients ou prospects d’accéder à des analyses (analyse de portefeuille, analyse de trésorerie, analyse d'écosystème,...) pour l'instant non disponible en ligne.</descriptif>
+      <contexte>Stage 1ère année</contexte>
+      <datedebut>2013-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement>UwAmp, NotePad++</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges et identification des besoins et des fonctionnalités attendus</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Suite à une réunion, recensement des exigences liées au site (responsible design, ergonomie, référencement,...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Élaboration d'un planning personnel en fonction des réunions faite avec Romain Boldi et Clément Natier nécessitant des modifications (textes, design, tarification,...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Présentation de la future plateforme ELLIADE au responsable (Thierry BES) ainsi qu'au chef de projet (Romain Boldi)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Identification des logiciels nécessaire pour la construction de la future plateforme ELLIADE (UwAmp, Notepad++, Firebug)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développement d'une future application ELLIADE pour prospects et clients</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Standard adopté par le prestataire informatique (Coface Services) site responsible obligatoire</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Recherche d'information sur l'utilisation le JavaScript (compteur du nombre de checkbox cochées avec tarif,...)</commentaireactivite>
+      </activitecitee>
+      <production numero="337">
+        <numero>337</numero>
+        <designation>Analyse du cahier des charges et identification des besoins et des fonctionnalités attendus</designation>
+        <adresse>http://developpeusesio.wordpress.com/2013/09/03/analyse-du-cahier-des-charges-de-la-plateforme-elliade/</adresse>
+      </production>
+      <production numero="338">
+        <numero>338</numero>
+        <designation>Recensement des exigences liées au site</designation>
+        <adresse>http://developpeusesio.wordpress.com/2013/09/03/etude-des-exigences-liees-a-la-qualite-attendue-dun-service-et-standard-adopte/</adresse>
+      </production>
+      <production numero="339">
+        <numero>339</numero>
+        <designation>Élaboration d'un planning personnel</designation>
+        <adresse>http://developpeusesio.wordpress.com/2013/09/03/elaboration-dun-planning-personnel/</adresse>
+      </production>
+      <production numero="340">
+        <numero>340</numero>
+        <designation>Présentation de la future plateforme ELLIADE</designation>
+        <adresse>http://developpeusesio.wordpress.com/2013/09/03/presentation-de-la-future-plateforme-elliade/</adresse>
+      </production>
+      <production numero="341">
+        <numero>341</numero>
+        <designation>Identification des logiciels nécessaire pour la construction</designation>
+        <adresse>http://developpeusesio.wordpress.com/2013/09/03/identification-des-logiciels-necessaire-pour-la-construction/</adresse>
+      </production>
+      <production numero="342">
+        <numero>342</numero>
+        <designation>Standard adopté par le prestataire informatique</designation>
+        <adresse>http://developpeusesio.wordpress.com/2013/09/03/etude-des-exigences-liees-a-la-qualite-attendue-dun-service-et-standard-adopte/</adresse>
+      </production>
+      <production numero="343">
+        <numero>343</numero>
+        <designation>Se documenter à propos d‘une technologie, d'un composant, d'un outil ou d'une méthode</designation>
+        <adresse>http://developpeusesio.wordpress.com/2013/09/03/se-documenter-a-propos-dune-methode/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

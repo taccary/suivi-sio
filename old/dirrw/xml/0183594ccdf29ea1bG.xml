@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="594ccdf29ea1b">
+    <ref>594ccdf29ea1b</ref>
+    <datesv>2017-06-23</datesv>
+  </sauvegarde>
+  <etudiant numero="183">
+    <nom>REVELLAT</nom>
+    <prenom>Quentin</prenom>
+    <mel>Quentin.REVELLAT@icof.fr</mel>
+    <situation ref="1133">
+      <ref>1133</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>stage Exploitantr STC &quot;Back Office&quot;</libcourt>
+      <descriptif>Réception et Traitement de tickets d'incidents jusqu’à la résolution.</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-22</datedebut>
+      <datefin>2017-06-30</datefin>
+      <environnement>Bureautique</environnement>
+      <moyen>PC - Outils de ticketing - Pack Office</moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

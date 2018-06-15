@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51865123839a1">
+    <ref>51865123839a1</ref>
+    <datesv>2013-05-05</datesv>
+  </sauvegarde>
+  <etudiant numero="10">
+    <nom>Pereira</nom>
+    <prenom>Jonathan</prenom>
+    <mel>jonathan.pereira@icof.fr</mel>
+    <situation ref="72">
+      <ref>72</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PPE - Travail préparatoire GSB</libcourt>
+      <descriptif>Installation du contexte en local
+Production d'un guide d'installation
+Travail sur les normes de développement : production d'un document
+Création de la base de données à partir d'un fichier Excel(csv)</descriptif>
+      <contexte>Cas GSB</contexte>
+      <datedebut>2012-10-01</datedebut>
+      <datefin>2012-10-01</datefin>
+      <environnement>Ordinateur fixe, Serveur local, Connexion internet</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production d'un guide d'installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Rédaction d'une documentation sur les normes de développement.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="73">
+      <ref>73</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE - Développement GSB</libcourt>
+      <descriptif>Développer les fonctionnalités « clôture » et « validation »
+Création d'un dossier technique des modifications effectuées (scripts, BD)
+Reprise des données</descriptif>
+      <contexte>Cas GSB</contexte>
+      <datedebut>2012-10-05</datedebut>
+      <datefin>2012-10-26</datefin>
+      <environnement>Ordinateur fixe, Serveur local, Connexion internet</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Etude d'un cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Modification de fonctionnalités sur un site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travailler pour un projet au sein d'une équipe.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création ou modification d'une base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Élaboration de test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Programmer une solution logicielle.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Mise au point d'une documentation technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Élaboration de test.</commentaireactivite>
+      </activitecitee>
+      <production numero="61">
+        <numero>61</numero>
+        <designation>Documentation _ Fiche descriptive</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkczIyYUUzbFdGLWc/edit</adresse>
+      </production>
+      <production numero="62">
+        <numero>62</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkbnRaNWkzeUlWc0E/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="74">
+      <ref>74</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE - Back-Office GSB</libcourt>
+      <descriptif>Réalisation d'un back-office permettant à un administrateur de gérer l'application GSB.</descriptif>
+      <contexte>Cas GSB</contexte>
+      <datedebut>2012-11-12</datedebut>
+      <datefin>2012-12-17</datefin>
+      <environnement>Ordinateur fixe, Serveur local, Connexion internet</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Etude d'un cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Travailler pour un projet au sein d'une équipe.
+(en tant que chef de projet)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Suivi des tâches d'un projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création ou modification d'une base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Conception d'un prototype logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Élaboration de tests pour le suivi du développement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Programmer une solution logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Élaboration d'une documentation technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Élaboration de tests pour la mise en production.</commentaireactivite>
+      </activitecitee>
+      <production numero="59">
+        <numero>59</numero>
+        <designation>Maquettes</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkY2xoVjdwQXRyUW8/edit</adresse>
+      </production>
+      <production numero="60">
+        <numero>60</numero>
+        <designation>Attribution des tâches</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkdEVtUFJkQzd5ZGs/edit</adresse>
+      </production>
+      <production numero="63">
+        <numero>63</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkcjBwcnVkbXc5ODg/edit</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="75">
+      <ref>75</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>FT - Organisation de données</libcourt>
+      <descriptif>Analyse de fichiers Excel, afin de réaliser une base de données sous Access 2003
+en tenant compte des fonctionnalités requises pour le service à produire.</descriptif>
+      <contexte>France Telecom (Lyon Lacassagne) PIR _ Logiciel de gestion de stock</contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-04</datefin>
+      <environnement>Ordinateur fixe, Connexion Intranet et Internet.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des demandes de la mission.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception de bases de données.</commentaireactivite>
+      </activitecitee>
+      <production numero="55">
+        <numero>55</numero>
+        <designation>Modèle physique de la base de données</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkdklaX1pkRWdiTmc/edit</adresse>
+      </production>
+      <production numero="56">
+        <numero>56</numero>
+        <designation>Documentation initiale (inventaire)</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkdDJPc3liSXNCMXc/edit</adresse>
+      </production>
+      <production numero="57">
+        <numero>57</numero>
+        <designation>Documentation récapitulative</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkLWxnU0RvR3h4cFE/edit</adresse>
+      </production>
+      <production numero="64">
+        <numero>64</numero>
+        <designation>Liste de requêtes SQL</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbka0VMd3VXU0JQX28/edit</adresse>
+      </production>
+    </situation>
+    <situation ref="76">
+      <ref>76</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>FT - Développement VBA</libcourt>
+      <descriptif>Développement de plusieurs prototypes d'application VBA(BDD Access + Formulaires).
+Choix de la solution application la plus intuitive et répondant le mieux aux demandes de mon tuteur.
+Développement d'outils permettant l'accès aux données de la base </descriptif>
+      <contexte>France Telecom (Lyon Lacassagne) PIR _ Logiciel de gestion de stock</contexte>
+      <datedebut>2012-06-05</datedebut>
+      <datefin>2012-06-20</datefin>
+      <environnement>Ordinateur fixe, Connexion Intranet et Internet</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Choix de la solution applicative.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Réalisation de prototypes d'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Programmation d'applications.</commentaireactivite>
+      </activitecitee>
+      <production numero="58">
+        <numero>58</numero>
+        <designation>Schéma applicatif</designation>
+        <adresse>https://docs.google.com/file/d/0B8UfEIe7jnbkUkNrRXRCODN4RzA/edit</adresse>
+      </production>
+    </situation>
+    <situation ref="78">
+      <ref>78</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>FT - Finalisation de l'appli</libcourt>
+      <descriptif>Tests, corrections et mise en place de l'application de gestion de stock codée en VBA.</descriptif>
+      <contexte></contexte>
+      <datedebut>2012-06-21</datedebut>
+      <datefin>2012-06-28</datefin>
+      <environnement>Ordinateur fixe, Connexion Intranet et Internet.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Amélioration des fonctionnalités d'une application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Élaboration de tests afin de repérer ce qui est opérationnel et ce qui ne l'est pas, pour améliorer l'application et la mettre en place.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="142">
+      <ref>142</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>E4 - Médicaments (C#)</libcourt>
+      <descriptif>Réalisation d’un back-office de gestion de médicaments et d’une base de données MySql adéquate à l’application.</descriptif>
+      <contexte>Contexte GSB</contexte>
+      <datedebut>2013-03-01</datedebut>
+      <datefin>2013-06-20</datefin>
+      <environnement>Ordinateur portable sous W8, Visual Studio 2012, deux serveurs virtuels dont un Windows et un Debian. </environnement>
+      <moyen>Compétences théoriques, expériences professionnelles, consultation d'Internet.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Documentation relative aux fonctionnalités de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Proposition de maquettes d'application C#.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Réalisation d'une base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation de tests afin de vérifier le fonctionnement de l'application et de pouvoir connaitre les bugs à corriger.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction de documentation.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="155">
+      <ref>155</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>E4 - Comptes-rendus (PHP)</libcourt>
+      <descriptif>Elaboration d’une application de gestion de comptes rendus étant reliée à une base de données MySql (gérée grâce à phpMyAdmin).</descriptif>
+      <contexte>Contexte GSB</contexte>
+      <datedebut>2013-03-01</datedebut>
+      <datefin>2013-06-20</datefin>
+      <environnement>Ordinateur portable sous W8, NotePad++, deux serveurs virtuels dont un Windows et un Debian. </environnement>
+      <moyen>Compétences théoriques, expériences professionnelles, consultation d'Internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Etude d'un cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Travail sur le design et l'intuitivité de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Réalisation d'une base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation de tests afin de vérifier le fonctionnement de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction de documentation.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

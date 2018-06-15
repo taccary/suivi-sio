@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5ab7a21a3675b">
+    <ref>5ab7a21a3675b</ref>
+    <datesv>2018-03-25</datesv>
+  </sauvegarde>
+  <etudiant numero="175">
+    <nom>BOYET</nom>
+    <prenom>Aurelien</prenom>
+    <mel>Aurelien.BOYET@icof.fr</mel>
+    <situation ref="1122">
+      <ref>1122</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Renouvellement parc informatique Cabinet CHEMIN BOYET</libcourt>
+      <descriptif>- Remplacement de l’ensemble du parc informatique (4 postes, 2 serveurs, 1 commutateur)
+- Conception et amélioration du site internet de l’entreprise
+- Configuration d’un Commutateur Cisco
+- Ouverture d'une ligne VDSL2</descriptif>
+      <contexte>Stage 1ère année</contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-30</datefin>
+      <environnement>UWAMP, Microsoft Windows Server 2012, Microsoft Windows Server 2016 Essentiels, Microsoft Windows 10 v1703, Google Chrome, Crypto (logiciel Immobilier), Synology DSM, Cisco IOS, Apple IOS, Sublime Text v3, </environnement>
+      <moyen></moyen>
+      <avisperso>Avis très positif de ma part, j'ai pu réaliser beaucoup de tache en entreprise et en partie prendre des décisions importantes</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Réalisation d'une étude sur le remplacement du parc informatique de l'entreprise, avec les contraintes qui me sont imposé.
+Compte rendu avec le responsable.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Recommandations technique minimal du logiciel immobilier utilisé dans l'entreprise (Crypto v5), Contact de la société Crypto pour connaitre ces informations. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Le logiciel étant l'outil de travail principale de l'entreprise, le service doit être disponible en permanence.
+Un onduleur est donc présent sur le serveur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Présentation du dossier avec le matériel à acquérir, étude du budget avec le responsable pour conclure le dossier.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Récapitulatif de la réalisation de la nouvelle solution pour le passage au nouvelle version de Windows (Microsoft Windows Server 2016, Windows Server 2012, Windows 10 v1703)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création d'une image Système Windows avec préparation Sysprep, déploiement sur les différents postes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Organisation du travail, de la sorte que j'ai toujours quel que chose à faire, avec compte rendu oral chaque jour en fin de journée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aide sur l'utilisation du nouveau système d'exploitation Windows 10 </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Test de la confidentialité du partage de fichier SMB Windows</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Bureau à distance lors de la configuration et la de la résolution d'incident</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Team viewer pour repondre aux demandes d'assistances des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Une coupure de courant de plus de 30 minutes à eu lieu donc l'onduleur à du couper le serveur. Avec la configuration appliqué dans le BIOS le serveur à redémarré tous seul.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Les GPO ne s'applique pas correctement, après étude des problèmes et recherche sur internet, le problèmes à été résolue en activant la fonction &quot;attente de l'initialisation des cartes réseaux&quot; </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Proposition d'amélioration de l'infrastructure informatique, pour accéléré la vitesse.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Liste des composants à remplacer pour améliorer l'infrastructure informatique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Plan Visio pour Schématiser le réseau</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration d'un switch Cisco, Serveur Windows</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Lors du remplacement du serveur Crypto V5 l'arret du service à été obligatoire, la procédure à été réalisé avec l'aide de la hotline du logiciel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>La configuration de RDP permet de gérer le serveur à distance en cas de problèmes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Configuration de la Sauvegarde Windows sur le serveur NAS Synologie</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gestion des utilisateurs avec active directory</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Test de la nouvelle version de Windows Serveur 2016, sur un environnement virtualisé pour tester la configuration des différentes options</commentaireactivite>
+      </activitecitee>
+      <production numero="1956">
+        <numero>1956</numero>
+        <designation>Facture d'achat</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?folderid=0c3fb702e8e0e47a79ac5429ac2573e8e&amp;authkey=Ae9IEFzj_gVn3FGveFxRI-A</adresse>
+      </production>
+      <production numero="1957">
+        <numero>1957</numero>
+        <designation>Photo montage PC</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?folderid=0919ae5a195904eb4b12d09e73618efaf&amp;authkey=AZfG6nLby1vwPQ4FvQZ-nW0</adresse>
+      </production>
+      <production numero="1958">
+        <numero>1958</numero>
+        <designation>Commande de câble réseaux</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=0d407ed130bf044798d0e035d925385bc&amp;authkey=AS-zTqC96wY7vYIkQFGhS9k</adresse>
+      </production>
+      <production numero="1959">
+        <numero>1959</numero>
+        <designation>Fond écran personnaliser au Cabinet</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=09cfa5218657b4375b912062b0ad903ef&amp;authkey=ATUnuXdmEJzShib7uniJ_1g</adresse>
+      </production>
+      <production numero="1960">
+        <numero>1960</numero>
+        <designation>Préconisations techniques minimales pour La Solution Crypto Version 5</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=0782c2f18bf1b400bb09ebec768de944e&amp;authkey=AVzZQvpk9rUqzGBs59M2o-c</adresse>
+      </production>
+      <production numero="1961">
+        <numero>1961</numero>
+        <designation>Procédure installation applications PC</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=0e8e74fc7059949cf9117ebaf18487b37&amp;authkey=ATqqEVT9mK1jxnVNHeLshvM</adresse>
+      </production>
+      <production numero="1962">
+        <numero>1962</numero>
+        <designation>Rapport d'activité</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=0a2574a58a82b46c683d23e8d88258612&amp;authkey=Ae4v4kQkNlT09tX7nMHho4w</adresse>
+      </production>
+      <production numero="1963">
+        <numero>1963</numero>
+        <designation>Récapitulatif étude commande informatique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=03015ed536b964e418f7424089622279e&amp;authkey=AU09knRZ46rs3b09QRmOX64</adresse>
+      </production>
+      <production numero="1964">
+        <numero>1964</numero>
+        <designation>Note_carte_mère_serveur_S1200SP</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=0a6243e2a5ab64b54bd9273337a5a9ae8&amp;authkey=Ad2Ghu7XULaorijPzNzxyL4</adresse>
+      </production>
+      <production numero="1965">
+        <numero>1965</numero>
+        <designation>Note_xeon-e3-1200-v6</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=05b0f1075d7534c1f87040dec0abf32ec&amp;authkey=AXhLFeDCrwhaOmHHAwQuFsU</adresse>
+      </production>
+      <production numero="1966">
+        <numero>1966</numero>
+        <designation>Plan du réseau</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/aurelien_boyet_icof_fr/_layouts/15/guestaccess.aspx?docid=047c50bac72eb42c082b2e76afd50d4e6&amp;authkey=Ac0BTkqkFs81riXbNKqw3lQ</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1285">
+      <ref>1285</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Script Powershell Active Directory</libcourt>
+      <descriptif>Création d'un script pour l'automatisation de la création d'un utilisateur dans l'Active Directory, des dossiers utilisateurs et des droits sur les dossiers</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-01-09</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Création d'un script permettant de créer un utilisateur dans l'Active Directory, créer les dossiers utilisateurs avec les bons droits</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1302">
+      <ref>1302</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Documentation pour l'installation d'un poste Windows</libcourt>
+      <descriptif>Ecriture d'une documentation pour l'installation d'un poste client Windows 10, avec l'ensemble des logiciels utiles.</descriptif>
+      <contexte>A la suite de l'installation d'un poste j'ai pris la décision d'écrire une documentation.</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Windows 10 v1709</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Ecriture d'une documentation pour l'installation d'un poste client Windows 10, avec l'ensemble des logiciels utiles.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1303">
+      <ref>1303</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Outils de Veille Technologique</descriptif>
+      <contexte>Utilisation d'un site de veille (Netvibes)</contexte>
+      <datedebut>2018-01-17</datedebut>
+      <datefin>2018-03-09</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Utilisation du site Netvibes pour la veille technologique et la recherche d'information</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Je me renseigne sur le site Netvibes et à l'aide du moteur de recherche Google. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Je me renseigne sur le site Netvibes et à l'aide du moteur de recherche Google. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1306">
+      <ref>1306</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d'un outil de suivi de parc informatique</libcourt>
+      <descriptif>Mise en place des outils GLPI et OCS inventory</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-11-06</datedebut>
+      <datefin>2017-12-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>A l'aide de GLPI j'ai pu réalisé la mise en place d'une gestion de configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>A l'aide de GLPI j'ai pu réaliser cette activité en injectant une base de donnée existante</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1307">
+      <ref>1307</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Etude de plusieurs solutions d'accès internet</libcourt>
+      <descriptif>Lors de mon stage de deuxième année j'ai eu l'occasion de contribuer à prendre la décision sur le choix du fournisseur d'accès internet professionnel </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>L'entreprise était en pleine négociation lors de mon stage sur le choix du nouveau fournisseur d'accès internet qui allait fournir l'accès internet au différentes Brasseries et Restaurants. J'ai donc participé à des rendez-vous avec les prestataires</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1308">
+      <ref>1308</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Suivi de déploiement de nouveaux serveurs</libcourt>
+      <descriptif>Remplacement des serveurs existants par deux nouveaux serveurs virtualisés réalisées par la société Xefi</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Configuration des sessions sur le nouveau serveur RDS, connexion sur le logiciel outlook sur chaque session utilisateur, imprimante</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a70958b75ffb">
+    <ref>5a70958b75ffb</ref>
+    <datesv>2018-01-30</datesv>
+  </sauvegarde>
+  <etudiant numero="187">
+    <nom>PONTILLE</nom>
+    <prenom>Aldric</prenom>
+    <mel>Aldric.PONTILLE@icof.fr</mel>
+    <situation ref="1136">
+      <ref>1136</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1-Câblage chantier crématorium de Bron</libcourt>
+      <descriptif>Nos objectifs ont donc été : Tirer tous les câbles et d'installer des chemins de câbles. Assemblage de l'armoire électrique et raccordement des câbles. Tirage de câbles d'alimentation. Installation éclairages et bloc de secours.</descriptif>
+      <contexte>Travail sur un chantier</contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement></environnement>
+      <moyen>Outils, touret de câbles, plans</moyen>
+      <avisperso>Ce chantier était très intéressant car nous avons fait plein de choses différentes, j'ai pu découvrir comment se déroule un chantier</avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Risque humain : il faut faire attention sur un chantier, ça peut être dangereux. Effectuer un travail fiable pour ne pas retarder le chantier.
+
+Risque matériel : un mauvais câblage peut être néfaste au fonctionnement des appareils.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Nous avons tester les connexions une fois les prises ethernet installées. Test avec des appareils.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à l’avancement du projet : conformité et avancement vérifier par l'architecte du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Le projet a pris du retard, il aurait du se terminer le 15 juin et le délai a été repoussé à début juillet. l'architecte a demandé du câblage non prévu initialement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement des halogènes par des LED. Changement de prise et d’interrupteur qui chauffent. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude du monde de l'électricité, courant fort, courant faible, câble info, 3g 2.5, 3g 1.5,  5G 1.5, câble qui résistent a la chaleur</commentaireactivite>
+      </activitecitee>
+      <production numero="1976">
+        <numero>1976</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/:b:/g/personal/aldric_pontille_icof_fr/EdQ4_iqn64VGrbT4BN3vrtMBSfXPnzgEYelIoWc_jrQxlQ?e=hGiPQy</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

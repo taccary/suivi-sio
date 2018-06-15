@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="573b74c5831c3">
+    <ref>573b74c5831c3</ref>
+    <datesv>2016-05-17</datesv>
+  </sauvegarde>
+  <etudiant numero="135">
+    <nom>THO</nom>
+    <prenom>Brandon</prenom>
+    <mel>Brandon.THO@icof.fr</mel>
+    <situation ref="862">
+      <ref>862</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Journée du 17/05/16</libcourt>
+      <descriptif>1.	9h30 : Intervention sur le site de la banque populaire à la part-dieu, remplacement d’un poste et configuration du nouveau poste et restauration de la sauvegarde de l'ancien poste (durée 4h, retour sur le site à 14h).
+2.	11h : Récupération d’un nouve</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-05-17</datefin>
+      <environnement></environnement>
+      <moyen>Vehicule, Chariot, tablette.</moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="57e7c22692fd1">
+    <ref>57e7c22692fd1</ref>
+    <datesv>2016-09-25</datesv>
+  </sauvegarde>
+  <etudiant numero="130">
+    <nom>DECOUCHES</nom>
+    <prenom>Nicolas</prenom>
+    <mel>Nicolas.DECOUCHES@icof.fr</mel>
+    <situation ref="896">
+      <ref>896</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Assistance utilisateur</libcourt>
+      <descriptif>Activité concernant l'assistance aux utilisateurs</descriptif>
+      <contexte>Stage de première année</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Tout le site des Hospices Civils de Lyon</environnement>
+      <moyen></moyen>
+      <avisperso>Stage extrêmement enrichissant, avec des activités assez variées et une possibilité de suivre et réaliser une intervention depuis l'impression du ticket jusqu'à sa clôture.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Par exemple dans le cas où la demande de l'utilisateur n'est pas claire il faut lui téléphoner et essayer de lui faire préciser quel est son problème. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Dans le cas où les utilisateurs ont pris des décisions sans contacter les personnes compétentes (Installation voir achat d'une application hors de ce que les HCL mettent à disposition pour la même utilisation par exemple).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Se renseigner dans les docs techniques où sont souvent recensés des tests qui permettent de valider que notre dépannage marche. Sinon il est toujours possible de contacter un technicien qui a deja eu affaire à ce problème</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Par exeple, ajout d'utilisateurs dans HPLiance (l'annuaire) pour qu'ils aient des droits d'accès internet ou de messagerie par exemple.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Sauvegarde intégrale du disque du PC que l'on remplace, ou encore préparation des machines à l'avance pour qu'au moment du remplacement l'utilisateur puisse reprendre son travail sans gêne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compte-rendu de ce qui a été fait lors d'une intervention au responsable une fois que l'intervention est terminée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Vérification des stocks, choix des interventions en fonction du stock disponible.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Si migration de xp vers 7 par exemple, explicaton à l'utilisateur de ce qui change au niveau de l'interface etc... </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Suivi d'un ticket via l'application CSD.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Par exemple quand l'utilisateur a des questions qui sortent de l'intervention en cours (pour un deuxième écran par exemple), il faut lui dire qui contacter et quelles sont les justifications qu'il faudrait donner pour ça.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>En cas de problème de réseau au niveau d'une imprimante par exemple.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Migration de xp vers 7</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement d'un poste --&gt; Ajout de RAM. Ou encore remplacemet d'une imprimante qui était obsolète.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>GEDI --&gt; Certaines docs étaient à mettre à jour, nous l'avons fait.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Création des queues d'impressions sur le serveur Unix pour l'applicatif Pégase.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Ghost</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gestion de l'AD ainsi que du service d'annuaire Microsoft.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Gedi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Lors d'application spécifique si il y a un technicien présent pr exemple dans le biomédical.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite>5 ans d'amortissement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>Par exemple si un service déménage physiquement, il faut prévoir dans quels locaux ils vont s'installer, s'il y a besoin de nouveaux matériels ou s'ils ont deja tout et que rien n'est obsolète...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Ajout d'un utilisateur dans le carnet d'adresse d'un MFP --&gt;Sur certains modèles l'opération ne peut pas être faites à distance. Il faut le préciser dans la procédure à suivre.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="910">
+      <ref>910</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion de parc</libcourt>
+      <descriptif>Activités relevant de la gestion du parc informatique(gestion des postes utilisateurs, des imprimantes...).</descriptif>
+      <contexte>Stage de première année aux Hospices Civils de Lyon.</contexte>
+      <datedebut>2016-06-27</datedebut>
+      <datefin>2016-06-27</datefin>
+      <environnement>Windows XP, Windows 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Par exemple dans le cas où la demande de l'utilisateur n'est pas claire il faut lui téléphoner et essayer de lui faire préciser quel est son problème. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Dans le cas où les utilisateurs ont pris des décisions sans contacter les personnes compétentes (Installation voir achat d'une application hors de ce que les HCL mettent à disposition pour la même utilisation par exemple).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Par exemple, ajout d'utilisateurs dans HPLiance (l'annuaire) pour qu'ils aient des droits d'accès internet ou de messagerie par exemple.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Vérification des stocks, choix des interventions en fonction du stock disponible.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Suivi d'un ticket via l'application CSD.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement d'un poste --&gt; Ajout de RAM. Ou encore remplacemet d'une imprimante qui était obsolète.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>GEDI --&gt; Certaines docs étaient à mettre à jour, nous l'avons fait.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Création des queues d'impressions sur le serveur Unix pour l'applicatif Pégase.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Ghost</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gestion de l'AD ainsi que du service d'annuaire Microsoft.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Gedi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>Par exemple si un service déménage physiquement, il faut prévoir dans quels locaux ils vont s'installer, s'il y a besoin de nouveaux matériels ou s'ils ont deja tout et que rien n'est obsolète...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Ajout d'un utilisateur dans le carnet d'adresse d'un MFP --&gt;Sur certains modèles l'opération ne peut pas être faites à distance. Il faut le préciser dans la procédure à suivre.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51a737f18aebb">
+    <ref>51a737f18aebb</ref>
+    <datesv>2013-05-30</datesv>
+  </sauvegarde>
+  <etudiant numero="31">
+    <nom>floriot</nom>
+    <prenom>vincent</prenom>
+    <mel>vincent.floriot@icof.fr</mel>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="551d2e2c21f77">
+    <ref>551d2e2c21f77</ref>
+    <datesv>2015-04-02</datesv>
+  </sauvegarde>
+  <etudiant numero="91">
+    <nom>gallet</nom>
+    <prenom>rémi</prenom>
+    <mel>remi.gallet@icof.fr</mel>
+    <situation ref="458">
+      <ref>458</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[Stage 1] -Maintenance  migration de poste utilisateurs</libcourt>
+      <descriptif>Mon tuteur de stage m'a donné deux ordinateurs à monter. Ces ordinateurs étaient obsolètes dans leur configuration matérielle et ils étaient sous Windows XP et ils devait être migrés vers Windows 7. </descriptif>
+      <contexte>service informatique d'une fabrique de céramique.
+Récupération d'un materiel ancien pour l'actualiser </contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Ordinateur, Windows</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="517">
+      <ref>517</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage 1] - Gestion ESXi</libcourt>
+      <descriptif>Lors de mon stage, le système de virtualisation ESXi était déjà installé sur deux serveurs. Il y avait une machine virtualisée par application. Mon travail a été de rajouter des machines virtuelles. Une pour la mise en place d'un serveur de cloud et d'a</descriptif>
+      <contexte>service informatique d'une fabrique de céramique.
+Gestion des serveurs</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-29</datefin>
+      <environnement>ESXi, serveurs, virtualisation</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="577">
+      <ref>577</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[Stage 2] - Pont Wifi</libcourt>
+      <descriptif>Nous passons par une borne wifi compatible avec le mode bridge, qui est le mode pont wifi.
+
+La première antenne sera sur le toit du bâtiment HTI 49. Cette antenne sera reliée via un câble rSMA au boîtier wifi qui devra se situer à l'intérieur du bâtime</descriptif>
+      <contexte>L'entreprise dispose de deux batiments relié par une connexion VPN passant par Internet. Le but est d'améliorer le débit en mettant en place une connexion direct grace à un pont wifi.</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-02-23</datefin>
+      <environnement>Routeur, switch, VPN, Borne wifi, antenne</environnement>
+      <moyen></moyen>
+      <avisperso>Ce projet a été très enrichissant, il m'a permit de monter un vrai projet qui répond à un besoin et de pouvoir le mettre en place.
+J'ai pu vraiment approfondir plusieurs domaines (wifi,VPN) tout en apportant un plus à l'entreprise.</avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Le projet permettra d'améliorer concidérablement le taux de transfert entre les deux batiments. Le changement de service sera complètement transparent pour les utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Le projet se devait d'apporter un meilleur taux de transfert</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>J'ai réalisé un document explicatif pour décrire le projet en détail.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>J'ai mis en place un système de redondance. Au cas où le pont wifi ne fonctionne plus (pour diverses raisons), le tunnel VPN passera par Internet pour assurer la continuité du réseau entre les deux batiments.
+En revanche, cela dégradera quand même les t</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Un jeu de test a pu etre éffectué avant le montage du pont wifi et après son montage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>J'ai pu tester l'efficacité de la redondance. J'ai debranché un cable du pont wifi sur le routeur, et le VPN a pris le relais en passant par Internet. Le delai de changement est d'environ 2 minutes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai du rendre un compte rendu du projet pour qu'il accepte de s'engager.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>J'ai proposé une solution d'infrastructure. L'antenne wifi que j'ai séléctionné selon plusieurs critères ainsi que les bornes wifi séléctionnées aussi selon certains critères.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Pour la sécurité, la borne wifi émet un signal crypté grace à une clé WPA2. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>J'ai installé les antennes wifi sur le toit des batiments et les ai orientées.
+Mettre en place les bornes wifi et les configurer.
+Configurer le routeur Draytek pour qu'il passe en VPN par le pont wifi et configurer le système de redondance.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>J'ai du prendre la main sur des serveurs distants pour m'éviter de changer constaemment de batiment pour faire des configurations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche d'informations concernant les nouvelles normes wifi.
+</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="593">
+      <ref>593</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[Stage 2] - Gestion sauvegarde</libcourt>
+      <descriptif>L'entreprise a déjà un système de sauvegarde en place, mais il manque de mise à jour.
+Mon travail a consisté à remettre en service un système de sauvegarde sur bande  qui était laissé à l'abandon.
+J'ai aussi pu remettre à niveau le logiciel Acronis, </descriptif>
+      <contexte>Le système de sauvegarde de l'entreprise a été laissé à l'abandon. J'ai donc du leremettre en place et modifier certains points.</contexte>
+      <datedebut>2015-03-02</datedebut>
+      <datefin>2015-03-02</datefin>
+      <environnement>Sauvegarde, logiciel, deploiement</environnement>
+      <moyen></moyen>
+      <avisperso>Très enrichissent, il faut vraiement se creuser la tête pour penser à tout. Les sauvegarde sont des points fondamentaux pour l'entreprise et je n'avais jamais eu l'occasion de bien mettre en place un système de sauvegarde.</avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>J'ai dû évaluer des risques du système de sauvegarde qui était en service et prévenir mon tuteur des différents problèmes que l'entreprise pourrait rencontrer au cas où un problème se produirait.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Le logiciel agent Acronis à dû être déployé sur les différents postes à sauvegarder et des taches ont du être planifié.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>J'ai dû prendre la main sur le serveur Acronis qui tourne sous Windows XP ainsi que sur chaque machine qui nécessitait l'installation d'un agent Acronis.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Les taches de sauvegarde sont mis en place sur le serveur Windows affin de sauvegarder tout le disque contenant les données vers un disque dur externe.
+Les NAS de chaque batiment sont synchronisés entre eux.
+Les données de l'entreprise sont sauvegardé </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Les taches fonctionnent automatiquement grace à une planification.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Les tests de sauvegarde ont été éffectué pour vérifier le bon fonctionnement des sauvegardes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>J'ai rédigé un document d'utilisation pour la restauration d'une sauvegarde en cas de problème avec une machine ou avec des fichiers.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56e085aad8cff">
+    <ref>56e085aad8cff</ref>
+    <datesv>2016-03-09</datesv>
+  </sauvegarde>
+  <etudiant numero="121">
+    <nom>FRANCHINO</nom>
+    <prenom>Samuel</prenom>
+    <mel>samuel.franchino@icof.fr</mel>
+    <situation ref="638">
+      <ref>638</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion des droits et des habilitations utilisateurs</libcourt>
+      <descriptif>Habilitations des droits applicatifs,
+Habilitations des droits ressource projets,
+
+
+
+</descriptif>
+      <contexte> </contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Droit d'accès sur les dossiers sensibles (RH, Comptabilité)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Dépannage client et explication de l'ajout d'un lecteur réseau (lien DFS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Ajout d'un lecteur réseau a distance, Dépannage Messagerie a distance</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prise de contrôle d'un serveur a distance, pour régler des problèmes d'accès</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Dépannage client à distance et explication de l'ajout d'un lecteur réseau (lien DFS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Droit d'accès sur les dossiers sensibles (RH, Comptabilité)
+Proposition (donné accès spécifique a 1 groupe </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Gestion et attributions des droits aux utilisateurs</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="727">
+      <ref>727</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion et évolution du parc informatique</libcourt>
+      <descriptif>Dépannage client, 
+Aide aux utilisateurs, 
+Migration des données serveurs,
+Optimisation du parc,
+
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Windows 7, Spot, Communicator, windows server 2003, windows server 2007 R2, outlook (dépanage client), GIR(Contrat), Annuaire, SITI(Gestion de parc), rameau DMI</environnement>
+      <moyen>Humain et matérielle</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Dépannage client et explication de l'ajout d'un lecteur réseau (lien DFS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>restitution de tous les postes inactifs du Parc informatique</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Gestion de quota sur un disque DFS
+et des postes inutilisé</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Capteur de Supervision </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Accès avec bureau a distance a un Serveur pour ajouter un profile AD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Ajout d'un lecteur réseaux (lien DFS)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>logiciel incompatible windows 7 mais compatibile windows XP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation d'une imprimante </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise a jour de la documentation des postes utilisés /Inactifs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>instalation des Pilotes d'une imprimante</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Script Robocopy Migration de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Mise en place capteur de supervision </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Proposition de la solution Keepass Pour le plateau pilotage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Schéma réseau de SAMAT</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Mise a jour documentation des postes actifs /Inactifs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Migration des postes de  XP vers Windows 7</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Envoie de déclaration de matériel non trouvé aux managers n'ayant pas restitué les postes inactifs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude sur la technologie SSO</commentaireactivite>
+      </activitecitee>
+      <production numero="1297">
+        <numero>1297</numero>
+        <designation>Gestion et évolution du parc informatique</designation>
+        <adresse>http://stage1-sio2-samuel.e-monsite.com/pages/optimisation-du-parc.html</adresse>
+      </production>
+      <production numero="1360">
+        <numero>1360</numero>
+        <designation>Gestion et évolution du parc</designation>
+        <adresse>http://stage1-sio2-samuel.e-monsite.com/pages/maintenance-de-poste-au-sein-d-un-parc.html</adresse>
+      </production>
+      <production numero="1361">
+        <numero>1361</numero>
+        <designation>Etude de la Technologie SSO</designation>
+        <adresse>http://stage1-sio2-samuel.e-monsite.com/pages/etude-de-la-technologie-sso.html</adresse>
+      </production>
+      <production numero="1362">
+        <numero>1362</numero>
+        <designation>Gestion de support matériel</designation>
+        <adresse>http://stage1-sio2-samuel.e-monsite.com/pages/gestion-de-support-materiel.html</adresse>
+      </production>
+    </situation>
+    <situation ref="783">
+      <ref>783</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>sauvegarde et restauration de base de donnée</libcourt>
+      <descriptif>sauvegarde de base de donné 
+Procédure de restauration de base de donnée</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-07</datedebut>
+      <datefin>2016-02-25</datefin>
+      <environnement>Remote desktop connection manager, Microsoft SQL Manager sur Microsoft SQL server,(2012R2) Tache planifié </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Script de sauvegarde en transact SQL sur Microsoft SQL server a l'aide de Microsoft SQL management studio 
+avec un script &quot;.bat&quot; en tâche planifié tous les jours à 00h avec une rétention de 7 jours</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Script de sauvegarde planifié par avec Microsoft SQL studio management  a s’exécuter tous les soirs à 22h
+&quot;.bat&quot; en tâche planifié tous les jours à 00h avec la rétention des fichiers de 7 jours
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Procédure de restauration de base de donnée</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1409">
+        <numero>1409</numero>
+        <designation>A3.3.2 Planification des sauvegardes et gestion des restaurations</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1410">
+        <numero>1410</numero>
+        <designation>A3.3.4 Automatisation des tâches d'administration</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1411">
+        <numero>1411</numero>
+        <designation>A4.1.1 Rédaction d'une documentation d'utilisation</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="801">
+      <ref>801</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion du firewall stormshield</libcourt>
+      <descriptif>Mise en place du cahier des charges relatif au firewall règles du firewall
+mise en place de la veille technologique relatif a la sécurité et au firewall
+Mise en place de VPN</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-07</datedebut>
+      <datefin>2016-03-24</datefin>
+      <environnement>VPN access manager (shrew soft), Stormshield Windows 7, interface web de storshield</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Listing des tâches avec relatif a la mise en service du firewall et des ces services
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Études des risques lié a la mise en place des règles Any qui ne laisse rien passer (mail de sfr qui arrive en externe)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Mise en place de règle autorisation des sociétés externes en observant stormshield realtime monitor</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Un firewall stormshield, mettre en place les tunnels, configurer méthodes de chiffrement, l'impacte sur le filtrage nat (IPsec)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mise en place d'une session test pour le déploiement du VPN</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Procédure de configuration et d'utilisation du VPN pour l'utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Procédure de mise en place du VPN</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planning personnel et succession des tâches pour la mise en place des règles et le déploiement (avec les tâches récurrentes les différentes missions)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Procédure de configuration du poste client avec VPN access manager (shrew soft)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>la sécurité a été renforcé et l'administrateur a maintenant accès au réseaux de l'entreprise a distance </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>serveur de rebond (déjà présent //stormshield) </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>solution: mettre en place les règles de filtrage: coût un firewall et une license stormshield (déjà acheté)  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration et mise en place du VPN et du Firewall</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration a distance via interface web de la Configuration et la mise en place du VPN et du Firewall</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Conception des améliorations sur la configuration stormshield</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>lister selon le cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Documentation stormshield</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>recherche stormshield netasq arkoon</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>IPsec, SSL, SSL portail, stormshield</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>IPsec, SSL, SSL portail, stormshield </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

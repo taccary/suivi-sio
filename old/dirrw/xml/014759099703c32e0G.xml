@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="59099703c32e0">
+    <ref>59099703c32e0</ref>
+    <datesv>2017-05-03</datesv>
+  </sauvegarde>
+  <etudiant numero="147">
+    <nom>GIRAUD</nom>
+    <prenom>Julien</prenom>
+    <mel>julien.giraud-sauveur@icof.fr</mel>
+    <situation ref="883">
+      <ref>883</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 1ère année, Visual editor</libcourt>
+      <descriptif>Amélioration d'une application existante.
+librairie qui permet de générer une page web.</descriptif>
+      <contexte>Stage de 1ère année</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>Mac os X, Xcode, safari, firefox,  TextWrangler, SourceTree, Slack, JIRA, BitBucket, Windows 10, Notepad++, FireBug.</environnement>
+      <moyen></moyen>
+      <avisperso>J'ai trouvé ce stage très intéressant car il m'a permit de découvrir un tout nouveau environnement (environnement apple) mais aussi car le problème posé était simple à comprendre et la solution que j'ai proposé était complète.</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réalisation de testes unitaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compte rendu activité hebdo, utilisation de jira.
+http://giraju.e-monsite.com/pages/premier-stage/competences/compte-rendu-stage.html
+http://giraju.e-monsite.com/pages/competences/utilisation-de-jira.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Réflexion sur une solution au problème posé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Réalisation d'une interface utilisateur pour présenter les fonctionnalités de l'application.
+http://giraju.e-monsite.com/pages/premier-stage/competences/interface-utilisateur.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Mise en place d'un environnement de développement sur mac.
+http://giraju.e-monsite.com/pages/premier-stage/competences/mis-en-place-d-un-environnement-de-developpement.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Codage de l'application.
+http://giraju.e-monsite.com/pages/premier-stage/competences/codage-de-l-application.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Réalisation de testes unitaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation pour l'utilisation de l'application.
+http://giraju.e-monsite.com/pages/premier-stage/competences/documentation-du-programme.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>correction de divers bogue de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>l'application faite était une solution pour faire évoluer l'application qui était déjà en place.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Réalisation de testes unitaire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de git par dépôt bitbucket.
+http://giraju.e-monsite.com/pages/competences/systeme-de-git.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Utilisation de git par dépôt bitbucket.
+http://giraju.e-monsite.com/pages/premier-stage/competences/systeme-de-git.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>utilisation de frameworks cocoapods.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Recherche d'information sur le langage objectif C d'Apple.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation sur le langage objectif C ainsi que sur l'IDE Xcode.
+http://giraju.e-monsite.com/pages/premier-stage/competences/documentation-objectif-c.html</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="974">
+      <ref>974</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 2ème année, RemoteWeb</libcourt>
+      <descriptif>Création d'une application web.
+application permettant de contrôler un cinéma.</descriptif>
+      <contexte>Stage de 2ème année</contexte>
+      <datedebut>2017-01-03</datedebut>
+      <datefin>2017-02-24</datefin>
+      <environnement>Mac os X, safari, firefox development edition, chrome, visual code, SourceTree, Slack, JIRA, BitBucket, Windows 10, Notepad++, FireBug.</environnement>
+      <moyen></moyen>
+      <avisperso>J'ai trouvé ce stage très intéressant car c'était la première fois où j'ai développé une application web très complète tout en étant en équipe.</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>je me suis vue attribuer un projet par mon maitre de stage.
+le projet à été suivis grâce à un outil informatique.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/compte-rendu-du-stage.html
+http://giraju.e-monsite.com/pages/second-st</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>le projet à été suivis grâce à un système de gestion de projet.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/utilisation-de-jira.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>l'application est sécurisée ne permettant pas aux utilisateurs de se connecter si leur IP n'est pas ou plus autorisées.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/gestion-des-acces-de-l-application.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Nous avons estimé des délais de réalisation de notre projet.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/utilisation-de-jira.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>j'ai construit une interface qui soit la plus ergonomique possible.
+chaque élément de l'interface à été confirmer avec le maitre de stage.
+preuve : logiciel Slack relié à JIRA.
+http://giraju.e-monsite.com/pages/second-stage/competences/utilisation-de</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>j'ai mis en place un environnement de développement dans laquelle grace à des outils logiciels.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/mise-en-place-de-l-environnement.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>notre projet à consister à développer une application web.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/developpement-de-l-application.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>création d'un document contenant une documentation technique.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/documentation.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>création d'un document contenant une documentation d'utilisation.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/documentation.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>réalisation de testes sur un environnement de production.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation de git avec sauvegarde sur un serveur bitbucket.
+bitbucket est relié à JIRA.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/utilisation-de-jira.html
+http://giraju.e-monsite.com/pages/second-stage/competences/suivi-du-pr</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Utilisation de git par dépôt bitbucket.
+a chaque sauvegarde sur le serveur, une verification sur son contenue doit être fait.
+preuve : http://giraju.e-monsite.com/pages/second-stage/competences/suivi-du-projet.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>utilisation de frameworks.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>lors du stage, j'ai présenter une technologie à l’équipe de développement.
+preuve : https://mega.nz/#!QNwTwRxQ!rS4oiARDtZVoiiXUPX7nxot-Go-x2Vyp1wjb1otQTVk</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>lors du stage, j'ai présenter une technologie à l’équipe de développement.
+preuve : https://mega.nz/#!QNwTwRxQ!rS4oiARDtZVoiiXUPX7nxot-Go-x2Vyp1wjb1otQTVk</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1000">
+      <ref>1000</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>mise en place d'une veille technologique.</descriptif>
+      <contexte>Formation</contexte>
+      <datedebut>2016-09-01</datedebut>
+      <datefin>2017-04-30</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>refor</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1006">
+      <ref>1006</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE C#</libcourt>
+      <descriptif>réalisation d'une application en langage c# en suivant un cahier des charge défini.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-12-01</datedebut>
+      <datefin>2017-04-30</datefin>
+      <environnement>visual studio 2016, SourceTree, BitBucket, Windows 10.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges du projet.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/cahier-des-charges.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>écriture des testes unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>écriture des testes unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Les besoins ont été partagés entre les membres du groupe.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/attribution-du-projet.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Réalisation d'une interface.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/interface-du-ppe-csharp.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>conception de la base de données.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/modele-de-la-base-de-donnees.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>développement avec visual studio, utilisation du debugger.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/visual-studio.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>développement de l'application.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/visual-studio.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction d'une documentation technique.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/redaction-d-une-documentation-technique.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'une documentation d'utilisation.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/redaction-d-une-documentation-technique.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>écriture des testes unitaires</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>utilisation de git dans visual studio.
+preuve : http://giraju.e-monsite.com/pages/ppe-csharp/competences/utilisation-de-git.html</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Le groupe s'est mis d'accord sur l'utilisation des normes apprise lors de mon stage à l'ADDE.
+preuve : http://giraju.e-monsite.com/pages/premier-stage/competences/documentation-objectif-c.html</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1008">
+      <ref>1008</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE PHP</libcourt>
+      <descriptif>réalisation d'une application en langage php en suivant un cahier des charge défini.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-12-01</datedebut>
+      <datefin>2017-04-30</datefin>
+      <environnement>firefox development edition, visual code, SourceTree, BitBucket, Windows 10.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="570cf79c80f1f">
+    <ref>570cf79c80f1f</ref>
+    <datesv>2016-04-12</datesv>
+  </sauvegarde>
+  <etudiant numero="120">
+    <nom>CROUVIZIER</nom>
+    <prenom>Jordan</prenom>
+    <mel>jordan.crouvizier@icof.fr</mel>
+    <situation ref="685">
+      <ref>685</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>1 - OBIANE : Gestion interne</libcourt>
+      <descriptif>Inventaire de brassage.
+Marquage des câbles.
+Changement de cassettes de sauvegarde.
+Implémentation imprimantes.</descriptif>
+      <contexte>Optimisation de la gestion de l'infrastructure.</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Classeur Excel.</environnement>
+      <moyen>Dymo, imprimantes Xerox Workcentre 3750.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Production d'un document (inventaire de brassage) qui servira ultérieurement pour gérer plus efficacement l'infrastructure.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Gestion des cassettes de sauvegarde afin d'assurer la continuité de service.</commentaireactivite>
+      </activitecitee>
+      <production numero="1335">
+        <numero>1335</numero>
+        <designation>Production Obiane</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/jordan_crouvizier_icof_fr/Documents/Stage1_CROUVIZIER/PRODUCTIONS/OBIANE</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="687">
+      <ref>687</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>1 - BOIRON/ARKEMA : Mise en place switchs pour maquette client</libcourt>
+      <descriptif>BOIRON =&gt; Rackage, câblage et configuration de 8 switchs
+Les switchs sont reliés entre eux via fibre
+Nommage du matériel installé via Dymo.
+ARKEMA =&gt; Rackage 6 switchs - Utilisation de modules SFP
+Implémentation de 3 switchs pour simulation bâti</descriptif>
+      <contexte>Élaboration d'infrastructures pour des clients.</contexte>
+      <datedebut>2015-05-22</datedebut>
+      <datefin>2015-06-19</datefin>
+      <environnement>Cisco IOS, Putty</environnement>
+      <moyen>Switchs Cisco 4500X (x 2 - Core LAN), Cisco 2750 (x3 - Simulation bâtiments)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Utilisation SPB (802.1aq) plutôt que STP (802.1d) PRODUIRE DOC</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Mise en production d'architectures pour configuration client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Rackage et câblage de plusieurs switchs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Configuration d'une partie des switchs installés (activation VTP sur les swicths simulant le bâtiment, un switch serveur, les deux autres en tant que clients)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Utilisation SPB (802.1aq) plutôt que STP (802.1d) : PRODUIRE DOC</commentaireactivite>
+      </activitecitee>
+      <production numero="1332">
+        <numero>1332</numero>
+        <designation>Production Boiron</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/jordan_crouvizier_icof_fr/Documents/Stage1_CROUVIZIER/PRODUCTIONS/BOIRON</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="741">
+      <ref>741</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>2 - Supervision serveur HP via Centreon</libcourt>
+      <descriptif>Recherche des MIBs HP-Compaq afin de les ajouter dans Centreon en vue de paramétrer des traps SNMP.</descriptif>
+      <contexte>Migration système de monitoring (HPOV -&gt; Centreon)</contexte>
+      <datedebut>2016-01-18</datedebut>
+      <datefin>2016-01-22</datefin>
+      <environnement>Client web d'administration Centreon, Oidview</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration du serveur de supervision Centreon afin d'ajouter de nouveaux éléments à monitorer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Administration distante de Centreon pour ajout OID matériel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Paramétrage du logiciel de supervision Centreon.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Consultation de la documentation fournie par le constructeur sur son site web.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Produire doc /!</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="743">
+      <ref>743</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>2 - Mise en place de GPP afin de remplacer des scripts</libcourt>
+      <descriptif>- Appliquer des paramètres Outlook 2010 à chaque ouverture de session utilisateur.
+- Appliquer des paramètres utilisateur en fonction de la présence ou non d'Outlook 2010</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-02-01</datedebut>
+      <datefin>2016-02-12</datefin>
+      <environnement>Windows Server 2008 R2, MMC, Editeur de Registre</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="799">
+      <ref>799</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>2 - Montage volumes, scripts et automatisation</libcourt>
+      <descriptif>- Exchange 2013 : Création d'un script afin d'automatiser le montage des volumes en  cas de besoin ultérieur.
+- srv-mail02 : Correction du script et optimisation du code permettant envoi Centreon via NSClient ++ pour monitoring.
+Élaboration de procédu</descriptif>
+      <contexte>- Migration Exchange.
+- Migration système de monitoring (HPOV -&gt; Centreon)</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>- Notepad++, Windows 7, Batch
+- Windows Server 2003 R2, Powershell</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>/! Produire doc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>/! Produire doc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>/! Produire doc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>/! Produire doc : Rapport de test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>/! Produire doc : Procédure (FAIT)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>/! Produire doc : Automatisation montage volumes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>/! Produire doc : Planning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Automatisation du montage de volumes dans le cadre de la màj Exchange.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Mise en place d'un script permettant de remonter des informations sur un environnement de type Windows à Centreon afin de le monitorer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="830">
+      <ref>830</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>VEILLE</libcourt>
+      <descriptif>Mise en place d’un dispositif de veille technologique via méthode push : l’information me vient par un outils spécialisés (Feedly, application smartphone).
+Je la consulte quotidiennement.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-01</datedebut>
+      <datefin>2016-03-31</datefin>
+      <environnement>Feedly</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

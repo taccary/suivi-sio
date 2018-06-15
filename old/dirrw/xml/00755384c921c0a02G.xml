@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5384c921c0a02">
+    <ref>5384c921c0a02</ref>
+    <datesv>2014-05-27</datesv>
+  </sauvegarde>
+  <etudiant numero="75">
+    <nom>delay</nom>
+    <prenom>anthony</prenom>
+    <mel>anthony.delay@icof.fr</mel>
+    <situation ref="429">
+      <ref>429</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Modification du contenu d'une page internet existante</libcourt>
+      <descriptif>Modification de la page d'annuaire du site
+Mise à jour du contenu de celle-ci en lien avec le nouveau livret d'activités
+de l'entreprise
+Élaboration d'un cahier des charges en vue des modifications</descriptif>
+      <contexte>Stage de première année au CADEC</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-05-26</datefin>
+      <environnement>Backoffice de l'entreprise (application CMS), Internet Explorer, Mozilla Firefox, 
+Google Chrome,Microsoft Windows 8, Notepad++, serveur Uwamp </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse des demandes des utilisateurs et des employés de l'entreprise pour la réalisation du cahier des charges la page.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Élaboration du cahier des charges des modifications à effectuer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction des différents éléments mis à jour.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Tests du nouveau annuaire via le backoffice du site (prévisualisation). </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Démonstration de l'utilisation de l'annuaire aux membres de l'entreprise.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en ligne du contenu modifié.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation au projet de rénovation d'une partie du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Vérification de la compatibilité avec les différents navigateurs, adaptabilité et contrôle de l'implémentation de la page sur le site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Proposition d'amélioration qui à entraîné des modifications du cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction du cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <production numero="656">
+        <numero>656</numero>
+        <designation>Cahier des charges de l'annuaire et description (différentes versions)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/anthony_delay_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=BWjQnfsZe3zZt%2fUo77X7GJZJMdXpWipft79JMPjHVxI%3d&amp;docid=006dae29b4fc84d018cc4d6e46f853202</adresse>
+      </production>
+      <production numero="657">
+        <numero>657</numero>
+        <designation>Version de base de l'annuaire (1.0) - code</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/anthony_delay_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=UWeQtKys1i9IClUi9H5E4W2T3Wu%2bGIoTC5lnU3YSsS8%3d&amp;docid=09ff5f5d641704d3c86ef6d722c362ce2</adresse>
+      </production>
+      <production numero="658">
+        <numero>658</numero>
+        <designation>Version modifée de l'annuaire (2.0) - code</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/anthony_delay_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=lH7LsqZKXm%2bBhTjVyOYiflMMRQMUAPR4et84YZcfG1c%3d&amp;docid=0b9afe31e521b4e10867315dda989a558</adresse>
+      </production>
+      <production numero="659">
+        <numero>659</numero>
+        <designation>Version finale de l'annuaire (3.0) - code</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/anthony_delay_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=DHXpeUrqNmsG94TzeFL2luy9jhDw5Fy3QBw2J5WsvJM%3d&amp;docid=075a9f2f86c384825915019329f02a308</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

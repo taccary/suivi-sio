@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="557fe7abd4bef">
+    <ref>557fe7abd4bef</ref>
+    <datesv>2015-06-16</datesv>
+  </sauvegarde>
+  <etudiant numero="106">
+    <nom>DUCHENET</nom>
+    <prenom>Victor</prenom>
+    <mel>victor.duchenet@icof.fr</mel>
+    <situation ref="659">
+      <ref>659</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création application</libcourt>
+      <descriptif>Créer une application pour réinitialiser un ordinateur.</descriptif>
+      <contexte>Ne doit formater l'ordinateur, doit être simple et rapide.</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement></environnement>
+      <moyen>utilisation du langage powershell</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

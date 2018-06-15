@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="574820c410abb">
+    <ref>574820c410abb</ref>
+    <datesv>2016-05-27</datesv>
+  </sauvegarde>
+  <etudiant numero="143">
+    <nom>DEMORAND</nom>
+    <prenom>Thibaud</prenom>
+    <mel>thibaud.demorand@icof.fr</mel>
+    <situation ref="864">
+      <ref>864</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Programmation en c# de variateurs</libcourt>
+      <descriptif>J'ai créé un programme en c# pour des clients d'une entreprise, ce programme permet d'enregistrer des données et de les utiliser ensuite pour faire fonctionner des machines.
+
+Il permet d'enregistrer des valeurs dans plusieurs tableaux. Chaque tablea</descriptif>
+      <contexte>J'ai travaillé en casi-autonomie. Mon maitre de stage m'a expliqué un peu les différentes contraintes que doit posséder le programme (un grand nombre de contrainte) et j'ai mis environ 6 jours à programmer avant de le finir jeudi 26</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-05-26</datefin>
+      <environnement>Programmation industriel avec de l'automatisme </environnement>
+      <moyen>J'ai travaillé avec mon ordinateur sur visual studio </moyen>
+      <avisperso>Vraiment très enrichissante</avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>J'ai fais des tests une multitude de fois jusqu'à ce que mon programme soit totalement fini, j'ai tester toutes les combinaisons possibles dans ce programme et le programme est maintenant fonctionnel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Les utilisateurs du service sont une entreprise cliente du nom de Texinov' et plus précisement ce sont quelques employés qui rentrent les données, ils ne peuvent pas faire d'erreur puisque tous les cas de bug ont été reglés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>J'ai fait un arbre avec les différentes possibilités qui sont très nombreuses afin de les régler toutes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mon maitre de stage m'a donné autant de temps que je voulais, j'ai au début reflechis au contexte dans lequel j'étais pour voir a peu près tous les besoins du programme, j'ai ensuite créer le programme en commentant au maximum le code, j'ai d'abord </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Au début mon maitre de stage voulait juste pouvoir programmer les 7 variateurs et je lui ai proposé de faire un datagridview regroupant tous les variateurs ayant été programmé afin d'améliorer la visibilité j'ai joué sur les couleurs pour différencier l</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Il fallait que j'utilise visual studio et que je code en c#, j'ai du utiliser gimp pour l'aspect graphique du formulaire (le logo de l'entreprise cliente en png ou d'autres image), j'ai utilisé excel pour gérer l'importation des données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Lorsque l'on démarre le programme on arrive sur une page avec 8 boutons, j'y ai pensé dès le début, il y a 7 boutons qui sont les 7 variateurs et le 8ème bouton charge le datagridview regroupant toutes les données de tous les variateurs dans une autre p</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

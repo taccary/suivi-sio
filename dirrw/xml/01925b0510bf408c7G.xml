@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b0510bf408c7">
+    <ref>5b0510bf408c7</ref>
+    <datesv>2018-05-23</datesv>
+  </sauvegarde>
+  <etudiant numero="192">
+    <nom>CANTAGALLO</nom>
+    <prenom>Clément</prenom>
+    <mel>clement.cantagallo@icof.fr</mel>
+  </etudiant>
+</suivicomp>

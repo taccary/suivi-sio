@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="510d33165edc1">
+    <ref>510d33165edc1</ref>
+    <datesv>2013-02-02</datesv>
+  </sauvegarde>
+  <etudiant numero="19">
+    <nom>Durdux</nom>
+    <prenom>Antoine</prenom>
+    <mel>antoine.durdux@icof.fr</mel>
+    <situation ref="32">
+      <ref>32</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d'un serveur proxy</libcourt>
+      <descriptif>Installation et configuration d'un serveur proxy destiné à être installé dans deux lycées.</descriptif>
+      <contexte>Stage de première année au lycée ICOF et Lycée Jean-Baptiste de la salle.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>J'avais à ma disposition un PC portable et un PC fixe suivant dans quel lycée je me trouvais.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Prise en compte des besoins du réseau, les différents sites à bloquer</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Comparaison entre deux proxy: Squid et le proxy d'IPCOP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>listes des différentes fonctionnalité de Squid</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests de connexion à partir d'une autre machine en passant par le proxy, et sans le proxy pour vérifier que le proxy fonctionne correctement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>déploiement du proxy sur les postes utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Projet Squid</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Mise à jour automatique du proxy, de la blacklist</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Le proxy permet de renforcer la sécurité du réseau</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Gestion des logs que renvoie le serveur squid</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test sur machine virtuelle puis sur le réseau</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="39">
+      <ref>39</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>assistance aux utilisateurs</libcourt>
+      <descriptif>dépannages des utilisateurs du réseau du lycée</descriptif>
+      <contexte>Dans les lycées Jean-Baptiste de la salle et lycée ICOF</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Un pc portable qui m'a permis de me connecter à distance</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>réponse d'une demande d'assistance pour des problèmes d'impression</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Mise en place d'une imprimante de secours en local.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Recherche du problème réseau, tempête de broadcast.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Utilisation du spanning tree</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement d'un switch</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Connexion à un serveur grâce à l'outils connexion bureau à distance</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Sauvegarde sur un serveur Nas des données des utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>création d'un profil utilisateur</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="84">
+      <ref>84</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>développement d'un logiciel de gestion</libcourt>
+      <descriptif>Développement d'un logiciel via une plateforme de développement spécial, adélia.
+</descriptif>
+      <contexte>Dans le cadre d'un stage. Stage effectué dans une clinique: Clinique-Belledonne.</contexte>
+      <datedebut>2013-01-28</datedebut>
+      <datefin>2013-03-08</datefin>
+      <environnement>Dans le service informatique avec un PC.</environnement>
+      <moyen>Connexion sur un serveur AS400, qui gère les application ainsi que les bases de données.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Récupération de l'utilisateur lors de sa connexion au logiciel. Suivant son statut, il pourra effectuer ou pas certaines actions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Un utilisateur pourra suivant son statut modifier, créer ou alors seulement visualiser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'une interface utilisateur permettant de chercher les fournisseurs, suivant leur domaine ou alors par leur nom. On peut ensuite créer un nouveau fournisseur, le modifier ou le visualiser plus en détails.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création de base de données, une pour les fournisseurs et une pour les contacts au sein de ses fournisseurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement d'un programme au sein d'une plateforme de gestion des logiciel d'un système d'information.
+Création du logiciel d'affichage et de gestion des fournisseurs.
+Récupération du code d'autres logiciels pour alimenter le mien.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

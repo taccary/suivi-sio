@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5162e4a627797">
+    <ref>5162e4a627797</ref>
+    <datesv>2013-04-08</datesv>
+  </sauvegarde>
+  <etudiant numero="6">
+    <nom>Enfiedjian</nom>
+    <prenom>Thibault</prenom>
+    <mel>thibault.enfiedjian@icof.fr</mel>
+    <situation ref="135">
+      <ref>135</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance de code</libcourt>
+      <descriptif>Migration du site d'un hébergeur vers un autre.
+Maintenance du code site du front office et du back-office.
+Maintenance de la base de données. </descriptif>
+      <contexte>ABC Diffusion entreprise d’aménagement de bureaux.</contexte>
+      <datedebut>2012-06-11</datedebut>
+      <datefin>2012-07-06</datefin>
+      <environnement>Développement web.</environnement>
+      <moyen>Notepad++, Filezilla, Powerbullet. </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>En chaque début de semaine notre maître de stage nous fournissait un cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Pour chaque utilisateur de l'entreprise ( comptabilité, secrétariat, etc...) des droits sont attribués selon sa fonction.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Nous avons testé le service en local puis en ligne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Nous avions expliqué a notre maître de stage les nouvelles fonctionnalités d'administrations.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Nous avions expliqué a notre maître de stage les nouvelles fonctionnalités d'administrations.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place du site sur le nouvel hébergeur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>En fin de semaine nous devions lui rendre le cahier le suivi complété du cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Nous avions eu des guides d'utilisateurs et des tutoriels à fournir.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>A la suite du transfert, étant donné que le site était optimisé pour des versions obsolètes de MySQL et PHP, nombres d'incompatibilités entre les nouvelles versions et le code ont étés trouvées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Il y a eu des erreurs SQL et PHP lors du changement d'hébergeur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Une maquette du front office a été réalisé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Injecter une base de données, modification des requêtes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création d'un captcha sur les pages php.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Les mode d'emploi fournit par notre maître de stage a été mis à jour selon nos modification.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Les mode d'emploi fournit par notre maître de stage a été mis à jour selon nos modification.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

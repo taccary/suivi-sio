@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="553ea4cf115fc">
+    <ref>553ea4cf115fc</ref>
+    <datesv>2015-04-27</datesv>
+  </sauvegarde>
+  <etudiant numero="71">
+    <nom>AUBEL</nom>
+    <prenom>François</prenom>
+    <mel>francois.aubel@icof.fr</mel>
+    <situation ref="451">
+      <ref>451</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[STAGE 1°] Cahier des charges</libcourt>
+      <descriptif>Élaboration et modification d'un cahier des charges.</descriptif>
+      <contexte>Ce cahier des charges a été fait pour l'entreprise Domerca.com</contexte>
+      <datedebut>2014-05-13</datedebut>
+      <datefin>2014-05-15</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Suite au stage de première que j'ai effectué, j'ai réalisé un cahier des charges afin d'établir les tâches que j'allai effectuer tout au long du stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Estimation du coût de l'hébergement web et les outils nécessaires à la réalisation des différentes tâches.</commentaireactivite>
+      </activitecitee>
+      <production numero="668">
+        <numero>668</numero>
+        <designation>A1.1.1 Analyse du cahier des charges d'un service à produire</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/francois_aubel_icof_fr/Documents/Stage_Fran%C3%A7ois_AUBEL_BTS_SIO1/Cahier%20des%20charges%20Domerca.com%20et%20Detecteurdefumee.co.pdf</adresse>
+      </production>
+      <production numero="731">
+        <numero>731</numero>
+        <designation>A1.2.1 Élaboration et présentation d'un dossier de choix de solution technique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/francois_aubel_icof_fr/Documents/Stage_Fran%C3%A7ois_AUBEL_BTS_SIO1/Cahier%20des%20charges%20Domerca.com%20et%20Detecteurdefumee.co.pdf</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="460">
+      <ref>460</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[STAGE 1°] Domerca - Site Domerca.com</libcourt>
+      <descriptif>J'ai mis à jour un site d'e-commerce en binôme fonctionnant sous Prestashop. Au départ il était en version 1.4, nous l'avons migré vers la version 1.6. Durant cette période de mise à jours, nous avons effectués divers test en local avant de migrer</descriptif>
+      <contexte>le site vers le serveur de production qui se trouve sur l'hébergeur 1&amp;1.</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-05-22</datefin>
+      <environnement>- Ordinateur avec Windows 7
+- Serveur WAMP en localhost
+- Serveur Web sous 1&amp;1 </environnement>
+      <moyen>- Notepad++
+- FileZilla</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Nous avons créer un serveur wamp en local, puis nous avons tester la mise à jour de Prestashop vers sa dernière version. Ensuite, nous avons mis en place un no-ip qui a permit de pouvoir accéder au site local depuis l'extérieur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Chaque jour, j'ai établis toutes les tâches que j'allai effectuer. Et j'ai consigné toutes mes tâches dans un rapport hebdomadaire. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Chaque jour, nous avons effectué diverses sauvegardes de la BDD et du site uploadé sur DropBox et Mega.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Nous avons mis en place en local un serveur test fonctionnant sous WAMP.
+Le serveur de production était hébergé par l'hébergeur 1&amp;1, on y accédait par FTP pour le transfert de fichiers via le logiciel FileZilla.</commentaireactivite>
+      </activitecitee>
+      <production numero="760">
+        <numero>760</numero>
+        <designation>A1.3.1 Test d'intégration et d'acceptation d'un service - Rédaction d'un rapport de test</designation>
+        <adresse>https://docs.google.com/spreadsheets/d/1pZmIuFBErHoAiE1DwcNI4Vv9s6vH3jWIriIsGR39N9M/edit#gid=0</adresse>
+      </production>
+      <production numero="763">
+        <numero>763</numero>
+        <designation>A1.4.1 Participation à un projet - Rédaction d'un compte rendu hebdomadaire</designation>
+        <adresse>https://www.dropbox.com/sh/bwb5arbftzmpzx4/AABywvAqf3uU2YIvuMMqO5cKa</adresse>
+      </production>
+      <production numero="765">
+        <numero>765</numero>
+        <designation>A3.3.2 Planification des sauvegardes et gestion des restaurations - Sauvegarde du site Domerca</designation>
+        <adresse>https://mega.co.nz/#!BZ12zRxJ!drB4cY5AJCe0XvtNswukmKFhkYVcfhWrwkwflgITdFY</adresse>
+      </production>
+      <production numero="1199">
+        <numero>1199</numero>
+        <designation>[Capture d'écran] Domerca</designation>
+        <adresse>https://www.dropbox.com/s/2ihnesy4i0eecah/Domerca.png</adresse>
+      </production>
+    </situation>
+    <situation ref="484">
+      <ref>484</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[STAGE 1°] Blog Eco-produit</libcourt>
+      <descriptif>Nous avons créé le blog éco-produits.co en local et nous l'avons ensuite transféré vers le serveur de production. J'ai en autre participé aux réglages du blog. </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-06-03</datedebut>
+      <datefin>2014-06-03</datefin>
+      <environnement>- Ordinateur avec Windows 7
+- Serveur WAMP en localhost
+- Serveur Web sous 1&amp;1 </environnement>
+      <moyen>- Notepad++
+- FileZilla</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place d'un blog et paramétrage de celui-ci.</commentaireactivite>
+      </activitecitee>
+      <production numero="678">
+        <numero>678</numero>
+        <designation>A1.3.4 Déploiement d'un service - Eco-produit.co |  Hors Ligne actuellement (raison : inconnu)</designation>
+        <adresse>http://www.eco-produits.co/</adresse>
+      </production>
+      <production numero="1198">
+        <numero>1198</numero>
+        <designation>[Capture d'écran] Blog écro produits</designation>
+        <adresse>https://www.dropbox.com/s/1dkidy1h8finoam/Blog_eco_produits.png</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="558">
+      <ref>558</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[STAGE 2°] Création d'un site web en PHP/JavaScript (CTDB)</libcourt>
+      <descriptif>Durant cette mission, j'ai crée un site web permettant de récupérer les données de modélisations d'objets en 3D et de les afficher sur le site. On peut trier les données à l'aide de filtres.</descriptif>
+      <contexte>J'ai développé ce site à l'aide des technologies HTML5, CSS3, JavaScript, WebGL.
+- Un formulaire de connexion avec un système de sessions et cookies
+- Un système de pagination
+- Un système de filtres</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>- Ordinateur avec Windows XP
+- Serveur Apache</environnement>
+      <moyen>- Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>A la fin du stage, le site était opérationnel, cependant je ne peux pas y accéder car le travail que j'ai effectué au sein de l'entreprise CoreTechnologie France doit rester dans l'entreprise et celui-ci doit rester confidentiel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai participé à la réalisation d'un site web en PHP/JavaScript du début jusqu'à la fin dans son intégralité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Chaque semaine, je faisais une sauvegarde pour pouvoir garder toujours une trace de ce que j'ai fait.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>J'ai utilisé la librairie Three.js pour l'utilisation du WebGl.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai effectué une maquette du site pour pouvoir ensuite le concevoir.
+
+(Voir la maquette sur Dropbox)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>J'ai effectué des requêtes SQL en lien avec la base de données fourni par l'entreprise.
+
+(Voir un aperçu de requêtes SQL)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>J'ai mis en place un débugger au sein du site web pour pouvoir afficher les erreurs rencontrées.
+
+(Voir un aperçu du débugger)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>J'ai développé le site web en général, avec en autres comme fonctionnalités : un système de filtres, un système de pagination et un système de connexion. 
+
+(Document Word)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Durant cette mission, j'ai effectué différents tests pour vérifier le bon fonctionnement du site.</commentaireactivite>
+      </activitecitee>
+      <production numero="840">
+        <numero>840</numero>
+        <designation>A1.4.1 | Blog sur le stage CoreTechnologie / Site Web PHP/JavaScript</designation>
+        <adresse>https://www.dropbox.com/s/jfc89lb0kcbssr9/A1.4.1%20-%20Participation%20%C3%A0%20un%20projet.docx</adresse>
+      </production>
+      <production numero="958">
+        <numero>958</numero>
+        <designation>A4.1.1 | Document relatif aux composants logiciels utilisés durant le stage</designation>
+        <adresse>https://www.dropbox.com/s/860opwrtc242zve/C4.1.1.1%20-%20Identifier%20les%20composants%20n%C3%A9cessaires.docx</adresse>
+      </production>
+      <production numero="959">
+        <numero>959</numero>
+        <designation>A4.1.2 | Maquette du site web PHP/JavaScript</designation>
+        <adresse>https://www.dropbox.com/s/uj46qfbb9u952de/A4.1.2%20-%20Maquette%20CTDB%20Website.pdf</adresse>
+      </production>
+      <production numero="960">
+        <numero>960</numero>
+        <designation>A4.1.3 | Aperçu d'un fichier contenant des requêtes SQL (confidentiel)</designation>
+        <adresse>https://www.dropbox.com/s/1jcyjr6ys26ge0v/functions.php</adresse>
+      </production>
+      <production numero="962">
+        <numero>962</numero>
+        <designation>A4.1.6 | Aperçu du débugger du site CTDB</designation>
+        <adresse>https://www.dropbox.com/s/nfnvvky7hsny1uj/Website_CTDB_Debugger_Aper%C3%A7u.bmp</adresse>
+      </production>
+      <production numero="963">
+        <numero>963</numero>
+        <designation>A4.1.7 | Informations relatives au système de connexion à partir du Blog de François Aubel</designation>
+        <adresse>http://stagecoretechnologie.francoisaubel.ovh/coretechnologie-2015/</adresse>
+      </production>
+      <production numero="964">
+        <numero>964</numero>
+        <designation>A3.3.2 | Dernière sauvegarde en date du travail effectué au sein de l'entreprise CT France</designation>
+        <adresse>https://www.dropbox.com/s/k10pqw4kj35ynbp/edm64.zip</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="564">
+      <ref>564</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[STAGE 2°] Création d'un script PHP (console)</libcourt>
+      <descriptif>J’ai réalisé un script en php console qui permet de mettre à jour et de remplir automatiquement la base de données. Ce script est ensuite associé à un programme batch, permettant ainsi de le lancer simplement, sans passer par l’invité de commandes.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>- Ordinateur avec Windows XP
+- Serveur Apache</environnement>
+      <moyen>- Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>J’ai réalisé un script en php console qui permet de mettre à jour et de remplir automatiquement la base de données. Ce script est ensuite associé à un programme batch, permettant ainsi de le lancer simplement, sans passer par l’invité de commandes. 
+
+(V</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai participé au développement du script PHP (console) dans son intégralité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>J'ai développer un script en PHP (console) fonctionnant avec un script batch.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Durant cette mission, j'ai effectué différents tests pour vérifier le bon fonctionnement du site.</commentaireactivite>
+      </activitecitee>
+      <production numero="842">
+        <numero>842</numero>
+        <designation>Aperçu du script PHP + script batch (Un script d’automatisation)</designation>
+        <adresse>http://stagecoretechnologie.francoisaubel.ovh/coretechnologie-2015/</adresse>
+      </production>
+      <production numero="965">
+        <numero>965</numero>
+        <designation>A1.4.1 - Compte rendu d'activité du stage</designation>
+        <adresse>https://www.dropbox.com/s/sgvvcgq74ad0t1d/Suivi%20du%20stage.txt</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="565">
+      <ref>565</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[STAGE 2°] Création d'une application console en C++ (Parseur)</libcourt>
+      <descriptif>J’ai codé un programme en langage C++ permettant de parser un fichier d’entrée avec l’extension vml en un fichier de sortie avec l’extension js. Ceci permet ensuite de lire le format js sur un navigateur internet avec la technologie WebGl.</descriptif>
+      <contexte>On peut ainsi avoir une représentation 3D de l’objet. L’affichage en 3D de l’objet est réalisée grâce à la librairie Three.js (http://threejs.org/)</contexte>
+      <datedebut>2015-02-23</datedebut>
+      <datefin>2015-02-23</datefin>
+      <environnement>- Ordinateur avec Windows XP
+- Serveur Apache</environnement>
+      <moyen>- Notepad++
+- Visual Studio 2005</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Ce script permet de traiter automatiquement une liste de fichiers.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Entretien oral tous les jours pour rendre compte de l'avancée des tâches en cours.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>A l'aide du débugger de Visual Studio, j'ai pu réaliser des tests à fin de corriger les erreurs rencontrées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>J'ai utilisé la librairie Three.js qui permet de modéliser des objets en 3D par le biais d'un navigateur internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Durant cette mission, j'ai effectué différents tests pour vérifier le bon fonctionnement du site.</commentaireactivite>
+      </activitecitee>
+      <production numero="843">
+        <numero>843</numero>
+        <designation>A1.3.4 | Blog rubrique (Un programme en C++)</designation>
+        <adresse>http://stagecoretechnologie.francoisaubel.ovh/coretechnologie-2015/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="591">
+      <ref>591</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille Technologique</libcourt>
+      <descriptif>Chaque jour, j'entretiens une veille technologie à l'aide principalement de mon téléphone portable, ou je suis plusieurs fils d'actualités. Comme par exemple, Begeek.fr, le comptoireduhardware, FrAndroid...</descriptif>
+      <contexte>Cette veille me permet de rester informer des nouvelles sorties technologies que ce soit, au niveau logiciel ou matériel.</contexte>
+      <datedebut>2014-09-08</datedebut>
+      <datefin>2015-05-29</datefin>
+      <environnement>- Un smartphone avec une application de flux
+- Un site internet regroupant mes flux d'actualités</environnement>
+      <moyen>- BlinkFeed de mon téléphone portable (HTC One)
+- Netvibes</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>J'entretiens chaque jours une veille technologie en lisant les nouveaux articles parus par le biais de l'application de mon téléphone ou encore j'utilise le site Netvibes qui répertorie mes flux d'actualités.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="966">
+        <numero>966</numero>
+        <designation>Netvibes | Outil utilisé pour le suivi de ma veille technologie</designation>
+        <adresse>http://www.netvibes.com/privatepage/1#Actualites</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="619">
+      <ref>619</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[PPE GSB] PHP </libcourt>
+      <descriptif>J'ai travaillé sur le développement de la partie modification d'un utilisateur du site web GSB.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-28</datedebut>
+      <datefin>2015-09-28</datefin>
+      <environnement>- Ordinateur avec Windows 8.1
+- Serveur Apache
+</environnement>
+      <moyen>- Netbeans
+- Notepad++</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges concernant le développement du projet GSB PHP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Établir des tests sur la création et modification d'un utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test sur la création d'utilisateur et modification d'un utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai participé au développement de ce projet, notamment sur la partie utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création de l'interface &quot;Création d'un utilisateur&quot; et &quot;modification d'un utilisateur&quot;</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Manipulation des utilisateurs à travers des requêtes SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Gestion des tests sur un serveur en local puis exportation des modifications sur le serveur de développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement d'une solution PHP existante, mise en place d'une sécurité au niveau des requêtes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé une documentation technique sur l'installation de GSB PHP</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>J'ai réalisé différents tests avant de l'exporter sur le serveur de production</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation d'un github pour partager les ressources avec le groupe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Utilisation des normes de développement en PHP </commentaireactivite>
+      </activitecitee>
+      <production numero="1125">
+        <numero>1125</numero>
+        <designation>[PDF] Rédaction d'une documentation utilisateur</designation>
+        <adresse>https://www.dropbox.com/s/nabd60ntgnty9op/Documentation_utilisateur_PHP.pdf</adresse>
+      </production>
+      <production numero="1126">
+        <numero>1126</numero>
+        <designation>[PDF] Rédaction d'une documentation technique</designation>
+        <adresse>https://www.dropbox.com/s/wezhrfo8ag0qard/Documentation_technique_PHP.pdf</adresse>
+      </production>
+      <production numero="1127">
+        <numero>1127</numero>
+        <designation>[PDF] Guide d'installation de la solution WEB PHP</designation>
+        <adresse>https://www.dropbox.com/s/2i1w6of4u0ylxil/Installation_et_mise_en_place_de_l%27application_AppliFrais.pdf</adresse>
+      </production>
+      <production numero="1128">
+        <numero>1128</numero>
+        <designation>[DOC] Description de l'entreprise GSB</designation>
+        <adresse>https://www.dropbox.com/s/9rknee5rn4xskgo/GSB_description_organisation.doc</adresse>
+      </production>
+      <production numero="1132">
+        <numero>1132</numero>
+        <designation>[DOC] Cahier des charges de l'entreprise GSB</designation>
+        <adresse>https://www.dropbox.com/s/tpld65m41cyi0ge/GSB_cahier_des_charges.doc</adresse>
+      </production>
+      <production numero="1187">
+        <numero>1187</numero>
+        <designation>[Capture d'écran] Aperçu de l'interface GSB</designation>
+        <adresse>https://www.dropbox.com/s/k0ws0uvb428b9u7/Accueil_processus_comptable.png</adresse>
+      </production>
+      <production numero="1188">
+        <numero>1188</numero>
+        <designation>[Capture d'écran] Modification des utilisateurs</designation>
+        <adresse>https://www.dropbox.com/s/ec1b8qnljitjt4r/Modification_utilisateurs_processus_comptable.png</adresse>
+      </production>
+      <production numero="1189">
+        <numero>1189</numero>
+        <designation>[Capture d'écran] Schéma de la base de données</designation>
+        <adresse>https://www.dropbox.com/s/bb55jgb3iudkepz/Sch%C3%A9ma_bdd_processus_comptable.png</adresse>
+      </production>
+      <production numero="1190">
+        <numero>1190</numero>
+        <designation>[Sauvegarde] Site web GSB</designation>
+        <adresse>https://www.dropbox.com/sh/eqf0j7u4r3wcbf8/AACi3YJEleVqb_QVWvVTdwpca</adresse>
+      </production>
+      <production numero="1200">
+        <numero>1200</numero>
+        <designation>[GitHub] Projet PHP GSB Frais</designation>
+        <adresse>https://github.com/FrancoisAubel/ProjetGSB_PHPSuite</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="620">
+      <ref>620</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>[PPE GSB] C#</libcourt>
+      <descriptif>J'ai travaillé sur le développement de la partie utilisateur du back office commercial GSB.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-09-29</datedebut>
+      <datefin>2015-05-01</datefin>
+      <environnement>- Ordinateur avec Windows 8.1
+- Serveur Apache</environnement>
+      <moyen>- Visual Studio 2012</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Cahier des charges concernant le développement du projet GSB C#</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Établir des tests sur la création et modification d'un utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Test sur la création d'utilisateur et modification d'un utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai participé au développement de ce projet, notamment sur la partie utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création de l'interface utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Manipulation des utilisateurs à travers des requêtes SQL</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Gestion des tests sur un serveur en local puis exportation des modifications sur le serveur de développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement d'une solution PHP existante, mise en place d'une sécurité au niveau des requêtes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé une documentation technique sur l'installation de GSB C#</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>J'ai réalisé différents tests avant de l'exporter sur le serveur de production</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Utilisation d'un github pour partager les ressources avec le groupe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Utilisation des normes de développement en PHP </commentaireactivite>
+      </activitecitee>
+      <production numero="1129">
+        <numero>1129</numero>
+        <designation>Rédaction d'une documentation utilisateur</designation>
+        <adresse>https://www.dropbox.com/s/2v924ud286m7lt6/Documentation_utilisateur_C%23.pdf</adresse>
+      </production>
+      <production numero="1130">
+        <numero>1130</numero>
+        <designation>Rédaction d'une documentation technique</designation>
+        <adresse>https://www.dropbox.com/s/29tqiy6svo2a5vh/Documentation_technique_C%23.pdf</adresse>
+      </production>
+      <production numero="1131">
+        <numero>1131</numero>
+        <designation>[PDF] Cahier des charges de l'organisation GSB</designation>
+        <adresse>https://www.dropbox.com/s/ksmzzmt9q9m5crd/Projet-2_CdC_BackOffice_v1-0.pdf</adresse>
+      </production>
+      <production numero="1191">
+        <numero>1191</numero>
+        <designation>[Capture d'écran] Schéma de la base de données</designation>
+        <adresse>https://www.dropbox.com/s/fq468iz4hvtxw2r/Sch%C3%A9ma_Bdd_C%23.png</adresse>
+      </production>
+      <production numero="1192">
+        <numero>1192</numero>
+        <designation>[Capture d'écran] Aperçu globale de l'application</designation>
+        <adresse>https://www.dropbox.com/s/c9kejsz5b4c8hge/Accueil_application_C%23.png</adresse>
+      </production>
+      <production numero="1193">
+        <numero>1193</numero>
+        <designation>[Capture d'écran] Aperçu de la partie client</designation>
+        <adresse>https://www.dropbox.com/s/4uxp71vtzpilpwe/Partie_Gestion_des_clients.PNG</adresse>
+      </production>
+      <production numero="1194">
+        <numero>1194</numero>
+        <designation>[Sauvegarde] Application lourde C#</designation>
+        <adresse>https://www.dropbox.com/sh/0trukbdpeieti58/AAArUYzqQjZ62OCs_oUkImMha</adresse>
+      </production>
+      <production numero="1201">
+        <numero>1201</numero>
+        <designation>[GitHub] Projet C#</designation>
+        <adresse>https://github.com/FrancoisAubel/ProjetC-</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54fc5b48a23e1">
+    <ref>54fc5b48a23e1</ref>
+    <datesv>2015-03-08</datesv>
+  </sauvegarde>
+  <etudiant numero="87">
+    <nom>Bee</nom>
+    <prenom>Vincent</prenom>
+    <mel>vincent.bee@icof.fr</mel>
+    <situation ref="497">
+      <ref>497</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1-HCL-Maquette de Solution de renouvellement de switchs</libcourt>
+      <descriptif>Scénario, Réalisation et test du renouvellement afin de ne pas couper les connections des utilisateurs nécessaires à leur travail.  
+
+* Interconnexion d'un commutateur Cisco du stack avec un Foundry
+* les ports d’interconnexion entre les deux commutat</descriptif>
+      <contexte>Stage 1ère année HCL </contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>2 switch (un foundry et un Cisco), 2 PC </environnement>
+      <moyen>Logiciel SecureCRT
+</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Sur une plateforme de test, réaliser le scénario prévu pour le changement de matériels réseau.</commentaireactivite>
+      </activitecitee>
+      <production numero="770">
+        <numero>770</numero>
+        <designation>Schéma test de la solution réalisée </designation>
+        <adresse> https://app.box.com/files/0/f/0/1/f_21225831813</adresse>
+      </production>
+    </situation>
+    <situation ref="501">
+      <ref>501</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1-HCL-Installation Switch Cisco</libcourt>
+      <descriptif>Configuration, Changement des anciens switchs Foundry par les nouveaux switchs Cisco </descriptif>
+      <contexte>stage 1ère année HCL</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>PC, switch Foundry et Cisco</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Changement des switchs Foundry, obsolètes par des Cisco 3750X grâce à la solution de migration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Configuration et Installation des switchs Cisco</commentaireactivite>
+      </activitecitee>
+      <production numero="771">
+        <numero>771</numero>
+        <designation>Configuration des switchs Cisco 3750x</designation>
+        <adresse>https://app.box.com/files/0/f/0/1/f_21258779669</adresse>
+      </production>
+      <production numero="772">
+        <numero>772</numero>
+        <designation>Installation des switchs Cisco 3750x</designation>
+        <adresse>https://app.box.com/files/0/f/0/1/f_21258697735</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="518">
+      <ref>518</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1-HCL-Mise à jour documentation</libcourt>
+      <descriptif>Après avoir changer les switchs, il a fallu mettre à jour plusieurs documents concernant le schéma réseau, la surveillance, le gestionnaire de parc.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>PC</environnement>
+      <moyen>Qualiparc, What's up Gold, Visio </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour de différents documents pour être conforme à la situation réelle. </commentaireactivite>
+      </activitecitee>
+      <production numero="773">
+        <numero>773</numero>
+        <designation>Mise à jour what's up gold</designation>
+        <adresse>https://app.box.com/files/0/f/0/1/f_21259044869</adresse>
+      </production>
+      <production numero="774">
+        <numero>774</numero>
+        <designation>Mise à jour Qualiparc</designation>
+        <adresse>https://app.box.com/files/0/f/0/1/f_21259039245</adresse>
+      </production>
+      <production numero="775">
+        <numero>775</numero>
+        <designation>Mise à jour Schéma Réseau</designation>
+        <adresse>https://app.box.com/files/0/f/0/1/f_21259041269</adresse>
+      </production>
+    </situation>
+    <situation ref="596">
+      <ref>596</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2-INL-Création GPO imprimantes</libcourt>
+      <descriptif>Automatisation du déploiement des imprimantes du sites UCBL avec des GPO</descriptif>
+      <contexte>Stage 2ème année INL</contexte>
+      <datedebut>2015-03-08</datedebut>
+      <datefin>2015-03-08</datefin>
+      <environnement>Serveur Active Directory de l'université Lyon 1 avec un compte personnel possédant les droits d'administrateur</environnement>
+      <moyen>Ordinateur personnel</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création d'une GPO pour affecter automatiquement les imprimantes du site UCBL sur les nouveaux pc intégrés dans le domaine. </commentaireactivite>
+      </activitecitee>
+      <production numero="988">
+        <numero>988</numero>
+        <designation>GPO imprimantes </designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+    <situation ref="597">
+      <ref>597</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2-INL-Installation et configuration serveur Dell R620</libcourt>
+      <descriptif>Installation et configuration d'un serveur Dell grâce à iDRAC 7 (Integrated Dell Remote Access Controller = page web pour administrer le serveur)
+Mise en place d'un raid 5 et alerte SNMP </descriptif>
+      <contexte>Stage 2ème année </contexte>
+      <datedebut>2015-03-08</datedebut>
+      <datefin>2015-03-08</datefin>
+      <environnement>Serveur PowerEdge R620 - Idrac 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et configuration d'un serveur Dell PowerEdge R620, mise en place d'un raid 5 et alerte SNMP.
+Cette installation du serveur est dans le but d'installation un hyperviseur par la suite - Windows Serveur 2012 R2 : Hyper-V </commentaireactivite>
+      </activitecitee>
+      <production numero="989">
+        <numero>989</numero>
+        <designation>Idrac</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="990">
+        <numero>990</numero>
+        <designation>Alerte SNMP</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="991">
+        <numero>991</numero>
+        <designation>RAID 5 </designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+    <situation ref="598">
+      <ref>598</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2-INL-Ajout de machines dans le domaine de l'INL</libcourt>
+      <descriptif>Joindre les nouvelles machines au domaine Active Directory de I'Université Lyon 1 et appliquer des stratégies de groupe logicielles (GPO)
+</descriptif>
+      <contexte>Stage 2ème année</contexte>
+      <datedebut>2015-03-08</datedebut>
+      <datefin>2015-03-08</datefin>
+      <environnement>Serveur Active Directory</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Joindre les nouvelles machines au domaine Active Directory de I'Université Lyon 1 et appliquer des stratégies de groupe logicielles (GPO)
+</commentaireactivite>
+      </activitecitee>
+      <production numero="992">
+        <numero>992</numero>
+        <designation>Domaine INL</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="993">
+        <numero>993</numero>
+        <designation>GPO affectées</designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

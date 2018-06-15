@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54b4f4fd1630d">
+    <ref>54b4f4fd1630d</ref>
+    <datesv>2015-01-13</datesv>
+  </sauvegarde>
+  <etudiant numero="95">
+    <nom>pouchoy</nom>
+    <prenom>victor</prenom>
+    <mel>victor.pouchoy@icof.fr</mel>
+    <situation ref="488">
+      <ref>488</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Participation projet Web CMS</libcourt>
+      <descriptif>Ajout de contenu CMS sur un site existant</descriptif>
+      <contexte>Stage Irlande Dublin</contexte>
+      <datedebut>2014-06-30</datedebut>
+      <datefin>2014-06-30</datefin>
+      <environnement>Web, CMS.</environnement>
+      <moyen>PC, connection internet</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Ajout de contenu sur le futur nouveau site web du Griffith College en CMS. (News, article, personnes...)
+
+Ajouter des liens et des images sur la page des diplômes proposé aux futurs étudiant du Griffith, qui redirige l'utilisateur vers la formation de </commentaireactivite>
+      </activitecitee>
+      <production numero="680">
+        <numero>680</numero>
+        <designation>Ajout de texte divers dans la rubrique About Griffith</designation>
+        <adresse>http://www.griffith.ie/about-griffith</adresse>
+      </production>
+      <production numero="681">
+        <numero>681</numero>
+        <designation>Ajout des liens d'admission</designation>
+        <adresse>http://www.griffith.ie/admissions/undergraduate</adresse>
+      </production>
+      <production numero="682">
+        <numero>682</numero>
+        <designation>Ajout des liens 2</designation>
+        <adresse>http://www.griffith.ie/admissions/postgraduate</adresse>
+      </production>
+      <production numero="683">
+        <numero>683</numero>
+        <designation>Ajout d'image et de contenu texte pour toute les sous-catégories associées.</designation>
+        <adresse>http://www.griffith.ie/campus-life/student-life</adresse>
+      </production>
+      <production numero="685">
+        <numero>685</numero>
+        <designation>Edition générale, vérification des pages manquantes etc...</designation>
+        <adresse>http://www.griffith.ie/</adresse>
+      </production>
+    </situation>
+    <situation ref="489">
+      <ref>489</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion de ticket incident Helpdesk - OTRS</libcourt>
+      <descriptif>Utilisation de l'application en ligne &quot;Helpdesk&quot; permettant la gestion des demandes et des incidents par ticket. Equivalent de OCS.</descriptif>
+      <contexte>Stage Griffith, dev-web, maintenance...</contexte>
+      <datedebut>2014-06-30</datedebut>
+      <datefin>2014-06-30</datefin>
+      <environnement>Service Informatique du griffith college à Dublin</environnement>
+      <moyen>PC, Internet, </moyen>
+      <avisperso>indispensable pour la répartition du travail en équipe</avisperso>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Lorsque je reçois un ticket via Helpdesk, je dois le résoudre ou le transféré à la personne compétente tout en informant l'éxpéditeur de l'avancement ou de la situation actuelle du problème ou de la demande. </commentaireactivite>
+      </activitecitee>
+      <production numero="684">
+        <numero>684</numero>
+        <designation>Le liens helpdesk</designation>
+        <adresse>http://helpdesk.gcd.ie/</adresse>
+      </production>
+    </situation>
+    <situation ref="525">
+      <ref>525</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Proposition solution - Script PowerShell</libcourt>
+      <descriptif>Élaboration d'un script pour le nettoyage des fichiers volumineux temporaires, logs.</descriptif>
+      <contexte>Serveurs d’infrastructure appartenant au domaine ALDES.</contexte>
+      <datedebut>2015-01-12</datedebut>
+      <datefin>2015-01-12</datefin>
+      <environnement>Windows 2008 R2 à 2012 R2</environnement>
+      <moyen>PowerShell V2 et stratégie de groupe (GPO)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>J'ai proposé la création d'un script afin d'automatiser les tâches de nettoyage des serveurs (fichiers temporaire, logs, session etc...). Cela permet un gain de temps non négligeable et économise de la ressource humaine.</commentaireactivite>
+      </activitecitee>
+      <production numero="796">
+        <numero>796</numero>
+        <designation>Script mis en place (.ps1)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/victor_pouchoy_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=GTqkdq61eN6Qx1myrxKAhZAey0c%2bvHbXmKr4Og7pBtM%3d&amp;docid=089e246de03f64dd9b45dbffb1867d615</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="526">
+      <ref>526</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Gestion des incidents - Serveurs</libcourt>
+      <descriptif>Interface web de monitoring de l'ensemble des machines.
+Centreon Sinelis</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-13</datefin>
+      <environnement>Interface Web Centreon</environnement>
+      <moyen>Chrome, Windows 7.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Monitoring, prise en charge et résolution des incidents dans l'interface. Prise en main à distance du serveur mis en cause. </commentaireactivite>
+      </activitecitee>
+      <production numero="797">
+        <numero>797</numero>
+        <designation>Aperçu de l'interface web</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/victor_pouchoy_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=nNcUU2LmtqQ144t6JE6MKhd9fNEFdvzhRGunRPF%2fYbc%3d&amp;docid=09a5e01c0d7d6423eaa93f7075bd3135b</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="527">
+      <ref>527</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Document - Nomenclature Matériel</libcourt>
+      <descriptif>Élaboration d'un document informant sur la stratégie de nomenclature des périphériques interne à l'entreprise.</descriptif>
+      <contexte>Demande de mise à jours par le DSI </contexte>
+      <datedebut>2015-01-07</datedebut>
+      <datefin>2015-01-12</datefin>
+      <environnement></environnement>
+      <moyen>Office 2010</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Mise à jours de la documentation concernant la nomenclature des serveurs.</commentaireactivite>
+      </activitecitee>
+      <production numero="798">
+        <numero>798</numero>
+        <designation>Règles de nomenclature </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/victor_pouchoy_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=a6pSMMmK5bfVDNMx9ZJJY7EkkjZTSVaaK3ns9NBcJPk%3d&amp;docid=0e61ada99c23d4523b2a8578c9143751d</adresse>
+      </production>
+      <production numero="799">
+        <numero>799</numero>
+        <designation>Convention_nommage</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/victor_pouchoy_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=Z0j7QyI%2fIjd4wDW5hwcNZlLj1pVEpNccy0qR1u%2bj%2ffs%3d&amp;docid=0ff9d891ca1114501b1d2c03bcdf0dcd7</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

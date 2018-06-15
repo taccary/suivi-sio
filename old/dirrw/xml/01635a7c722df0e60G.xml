@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a7c722df0e60">
+    <ref>5a7c722df0e60</ref>
+    <datesv>2018-02-08</datesv>
+  </sauvegarde>
+  <etudiant numero="163">
+    <nom>PIOT</nom>
+    <prenom>Julien</prenom>
+    <mel>Julien.PIOT@icof.fr</mel>
+    <situation ref="1172">
+      <ref>1172</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Gestion des sessions sous RDM</libcourt>
+      <descriptif>Apprentissage du langages PowerShell.Connaissance du projet, de l'utilité du projet.Utilisation du logiciel Remote Desktop Manager.Améliorations du script, création de fonctions. Vérification des sessions, des bons user/mdp, de la connexion des sessions.</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-18</datedebut>
+      <datefin>2017-06-28</datefin>
+      <environnement>PowerShell
+Remote Desktop Manager</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Connaissance du projet à réaliser, des fonctionnalités.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Le projet était de crée un script sous PowerShell pour crée des sessions sous RDM pour simplifier la connexion aux employés.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Toutes les sessions doivent être crée et fonctionnel, c'est à dire avoir le bon host, user, mdp , type et que la connexion à l'ouverture soit automatique. Ce que la société m'a demandé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mes tests était de lancer le script PowerShell et de vérifier à chaque fois si les user, mdp, host sont crée ainsi que les dossiers et les types des sessions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>A chaque modification du script, test du script pour la création des sessions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Pour la sauvegarde, on utilisait GIT. Il nous servaient enregistrer tout les script crée pour que si un problème arrive, on est toujours un script fonctionnel. Sauvegarde de tout les essais, scripts.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Pour ce faire, rien de plus simple, il on juste à lancer le script PowerShell et les sessions vont se crée sous RDM avec l'id qu'ils auront choisit.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création d'un script PowerShell automatisé pour crée les sessions demandées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Chaque jour, je devais faire en sorte que le script marche avec en plus, des fonctionnalité supplémentaire. création dossier, mdp, type...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>le projet, je l'ai suivi jusqu'au bout car quand j'ai commencé les projet, il n'y avait rien.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prendre le contrôle à distance de système windows, windows server, linux, SAP pour tester les connexions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Réalisation des tests unitaires avec PowerShell ISE car on mettait des points d’arrêt dans le programme pour voir et analyser les script, son bon fonctionnement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Mis à jour PowerShell, Remote Desktop Manager</commentaireactivite>
+      </activitecitee>
+      <production numero="1929">
+        <numero>1929</numero>
+        <designation>PowerShell aide, commande, commande de base</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=0a4d295c6d6e9481497d559d826096fd8&amp;authkey=Ab7qlAvZAl5M5fO6Wb-xFvE</adresse>
+      </production>
+      <production numero="1931">
+        <numero>1931</numero>
+        <designation>Aide RDM</designation>
+        <adresse>https://help.remotedesktopmanager.com/index.html?importcsv_strategies.htm</adresse>
+      </production>
+      <production numero="1932">
+        <numero>1932</numero>
+        <designation>Aide PowerShell</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=0a4d295c6d6e9481497d559d826096fd8&amp;authkey=Ab7qlAvZAl5M5fO6Wb-xFvE</adresse>
+      </production>
+      <production numero="1933">
+        <numero>1933</numero>
+        <designation>Premier script</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=04acbf2d8e67f4b36ad0bea00a519bb27&amp;authkey=AVonUTssSu0ajX3RB-YFoqg</adresse>
+      </production>
+      <production numero="1934">
+        <numero>1934</numero>
+        <designation>Script PowerShell avec csv</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=0911b36e42bd041f983b0984f9ea1b41e&amp;authkey=ASNz0sCbBTJBNhNgd1YFk4c</adresse>
+      </production>
+      <production numero="1935">
+        <numero>1935</numero>
+        <designation>Script + Json</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=099452add3cf84b7592908c4a2b01e1c1&amp;authkey=ARYXFaVCyWVPQHwWofLl9J0</adresse>
+      </production>
+      <production numero="1936">
+        <numero>1936</numero>
+        <designation>Script avec fonction callJson</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=077e58b2bfc434f48a55e40b5fc802c5a&amp;authkey=ATmy-oaOeVKLKGb3czJO7CU</adresse>
+      </production>
+      <production numero="1951">
+        <numero>1951</numero>
+        <designation>Script PowerShell Fonctionnelle (fini)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/julien_piot_icof_fr/_layouts/15/guestaccess.aspx?docid=0f9e0dd5d523348168a152b15e985aebe&amp;authkey=AW-Q1oQJR3f8vXS4WloPiVg</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1215">
+      <ref>1215</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Création d'un site e-commerce</libcourt>
+      <descriptif>Création d'un site web e-commerce (Dailing) avec l'outil Wordpress(CMS). Dailing est un site web d'offre d'emploi spécialisé dans les offres d'emplois de transporteur.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-02</datedebut>
+      <datefin>2018-02-09</datefin>
+      <environnement>Wordpress, plugin
+Html, CSS, PHP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1986">
+        <numero>1986</numero>
+        <designation>Site Dailing</designation>
+        <adresse>http://transports-mobilites.fr/Dailing(preprode)</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1216">
+      <ref>1216</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Création d'une solution applicative de gestion de leads</libcourt>
+      <descriptif>Création d'une solution applicative pour la gestion de leads, trier, classer, cibler les leads reçu via le formulaire d’inscription. Un tableau se charge de récupérer les informations dans la base de données pour ensuite afficher toutes les information. </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-02</datedebut>
+      <datefin>2018-02-09</datefin>
+      <environnement>Html, CSS, PHP, FileZilla</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <production numero="1987">
+        <numero>1987</numero>
+        <designation>Solution applicative de gestion de leads</designation>
+        <adresse>transports-mobilites.fr/Recrutement</adresse>
+      </production>
+    </situation>
+    <situation ref="1217">
+      <ref>1217</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Création d'un site web Wordpress</libcourt>
+      <descriptif>Création d'un site web Wordpress pour l'organisation IAE pour la journée de la vente. Mise en ligne du service sur un serveur externe, exportation.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-02</datedebut>
+      <datefin>2018-02-09</datefin>
+      <environnement>Wordpress, Html, CSS</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <production numero="1988">
+        <numero>1988</numero>
+        <designation>Site Journée de la vente</designation>
+        <adresse>http://journeedelavente.com/</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

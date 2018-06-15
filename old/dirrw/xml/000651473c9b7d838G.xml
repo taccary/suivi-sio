@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="51473c9b7d838">
+    <ref>51473c9b7d838</ref>
+    <datesv>2013-03-18</datesv>
+  </sauvegarde>
+  <etudiant numero="6">
+    <nom>Enfiedjian</nom>
+    <prenom>Thibault</prenom>
+    <mel>thibault.enfiedjian@icof.fr</mel>
+  </etudiant>
+</suivicomp>

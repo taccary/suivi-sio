@@ -1,0 +1,24 @@
+Installation
+
+Disposer d'une version php5 pour le serveur.
+
+Le poste client doit héberger un interpréteur pdf.
+
+Copier les fichiers dans le répertoire de publication.
+
+Vérifier que le répertoire suivi/dirrw dispose de droits d'écritures.
+
+Lancer l'installation en appelant instal.php depuis son navigateur :
+suivi/dirrw/init/instal.php
+
+Saisir les paramètres d'installation :
+- si un serveur smtp est disponible, les mots de passe sont envoyés par mél
+- sinon
+	* si les mots de passe sont cryptés, ils sont initialisés à ABCD
+	* sinon, l'administrateur peut les récupérer (dans son menu pour les distribuer aux élèves, dans le menu "gestion des comptes" pour tous, voire dans la base en clair...)
+
+
+En fin d'installation, le répertoire init est renommé.
+
+
+Pour réinstaller, renommer init.... en init et relancer (la base est recréée).

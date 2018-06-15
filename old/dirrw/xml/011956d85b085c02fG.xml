@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56d85b085c02f">
+    <ref>56d85b085c02f</ref>
+    <datesv>2016-03-03</datesv>
+  </sauvegarde>
+  <etudiant numero="119">
+    <nom>BOUREMEL</nom>
+    <prenom>Yohan</prenom>
+    <mel>yohan.bouremel@icof.fr</mel>
+    <situation ref="644">
+      <ref>644</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance matérielle et logicielle</libcourt>
+      <descriptif>- Paramétrage du focus des imprimantes pour réglage d'impression des étiquettes
+- vérification d'appartenance de prise à un VLAN
+- configuration ipod
+- déclaration d'un poste dans le domaine et dans l'inventaire</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-09</datefin>
+      <environnement></environnement>
+      <moyen>Ordinateur portable et poste de travail du client</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>on a eu une imprimante qui avait le capot arrière détruit et on ne pouvait pas trouver l'UF que l'on nous as donnée dans notre tableau </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>vérification de Vlan avec le fluxe et ajout de l'imprimante dans le gestionnaire d'imprimante. Ensuite configuration de nouveau poste de travail dans le domaine suite a un déménagement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>configuration d'un ipod pour les logiciels de dictée suite a la panne de l'ancien.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>mettre a jour le tableau qui va répertorier les informations suivantes :
+l'UF du service,l'imprimante,la localisation et le paramétrage des marges de l'imprimante.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Utilisation du logiciel easily pour paramétrer la marge des étiquettes</commentaireactivite>
+      </activitecitee>
+      <production numero="1356">
+        <numero>1356</numero>
+        <designation>Document pour la maintenance de matériel et logiciel Bouremel yohan BTS SIO SISR 2</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/yohan_bouremel_icof_fr/_layouts/15/start.aspx#/Documents/Forms/All.aspx?RootFolder=%2Fpersonal%2Fyohan_bouremel_icof_fr%2FDocuments%2FPartag%C3%A9%20avec%20tout%20le%20monde&amp;FolderCTID=0x012000D213A16297371</adresse>
+      </production>
+      <production numero="1462">
+        <numero>1462</numero>
+        <designation>A3.2.3 : tableau du paramétrage des UF pour les imprimantes et l'avancement du traitement</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="720">
+      <ref>720</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt> SCCM 2007 : remplacement de postes, retauration de données</libcourt>
+      <descriptif>remplacement de poste de plus de 5 ans par du nouveau matériel, passage de XP à W7
+restauration des données sur les nouveaux postes
+déploiement de master avec SCCM 2007</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-12</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement></environnement>
+      <moyen>Prise rj45,disque dur de l'utilisateur,câble sata.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>vérification de la date ou service ou utilisateur de la machine pour le ticket d'intervention afin d'analyser une prioriter d'intervention</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>utilisation d'une documentation pour la configuration de poste neuf.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et configuration de nouveau poste de travaille pour leurs déploiement dans le service dermatologie puis faire une sauvegarde de données des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>on devait remplacer tous le service dermatologie car ces postes de travail avait plus de 5 ans</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>utilisation d'un script pour faire le transfert de données répétitif</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>remplacement des postes du service âgée de plus de 5 ans </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>ajout de barrette mémoire de 2Go ou 4Go pour augmenter la vitesse du pc.</commentaireactivite>
+      </activitecitee>
+      <production numero="1359">
+        <numero>1359</numero>
+        <designation>A3.2.1 SCCM remplacement de postes, sauvegarde des données</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/yohan_bouremel_icof_fr/_layouts/15/start.aspx#/Documents/Forms/All.aspx?RootFolder=%2Fpersonal%2Fyohan_bouremel_icof_fr%2FDocuments%2FPartag%C3%A9%20avec%20tout%20le%20monde&amp;FolderCTID=0x012000D213A16297371</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="755">
+      <ref>755</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance matériel et logiciel</libcourt>
+      <descriptif>changement de barrette mémoire + teste de la compatibilité ou écran noir.
+correction d'erreur sur le logiciel SAS
+mise a jour des systèmes d'exploitation.</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>ordinateur fixe</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Utilisation d'un tutoriel pour corriger le problème de java sur le logiciel SAS et utilisation du bureau a distance pour prendre la main a distance sur un poste </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite> mise a jour d'un tutoriel qui ne disait pas qu'il fallait ajouter l'imprimante dans le logiciel par rapport a une erreur d’impression d'étiquette.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="52">
+        <idActivite>52</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1460">
+        <numero>1460</numero>
+        <designation>A2.2.1 : suivi de l'incident de java lors d'un renouvellement.</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="764">
+      <ref>764</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>dévelopement de site web</libcourt>
+      <descriptif>mise en place d'un site web vitrine</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>poste de travail</environnement>
+      <moyen>utilisation de code source d'une page web déjà crée</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="769">
+      <ref>769</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>SCCM 2012 renouvellement, restoration de donées</libcourt>
+      <descriptif>déploiement de master
+Logiciel ghost et robocopy 
+PC i7 avec 16Go de mémoire et deux disque dont un disque en SSD de 128 Go</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>pour cela je me suis servir d'un pc neuf avec le câble Ethernet pour lancer le master par pxe et puis le disque dur de l'ancien pc pour faire l'image de celui ci avec ghost.</environnement>
+      <moyen>SCCM 2012,Ghost et robocopy.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>ajout d'utilisateurs dans le groupe administrateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>expliquer aux utilisateurs où sont leur données et de voir s'il n'en manque pas.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>lancement de l’installation du système d'exploitation par réseau avec SCCM 2012 .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>appelle de l'utilisateur ou envoi de mail pour prendre rendez vous avec la personne en lui informent  du temps du renouvellent en lui posent s'il y a sauvegarde de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>erreur de java sur le logiciel SAS.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>mise en place d'un tutoriel pour le renouvellement de poste.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>utilisation du logiciel ghost et robotcopy(pour des dossier ayant un chemin plus long) pour de la sauvegarde de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>installation du logiciel chrome,code barre 39 et 128, cristalnet,VBS,patchs hcl </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>création d'un tutoriel de masterisation de poste et de configuration de panel pc. Mise à jour d'un tutoriel qui ne disait pas d'ajouter l'imprimante dans le logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>recherche d'une méthode pour trouver les nom court.</commentaireactivite>
+      </activitecitee>
+      <production numero="1491">
+        <numero>1491</numero>
+        <designation>A2.2.2 contacter la personne pour prendre rendez vous </designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1492">
+        <numero>1492</numero>
+        <designation>A2.3.1 suivi de l'erreur de java </designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1493">
+        <numero>1493</numero>
+        <designation>A3.2.2 création d'un tutoriel de renouvellement de poste</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1495">
+        <numero>1495</numero>
+        <designation>A4.1.9 création de tutoriel de masterisation de poste,sauvegarde de données et configuration de panel PC</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1496">
+        <numero>1496</numero>
+        <designation>A5.2.4 solution pour trouver les nom courts</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="782">
+      <ref>782</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>inventaire informatique avec qualiparc,  et suivi de ticket csd</libcourt>
+      <descriptif>Mise en stock de matériel sur le logiciel de gestion de parc : Qualiparc 
+réédition des étiquettes , mise en reforme(par en destruction) des pc.
+Vérification du matériel et des équipements rattachés (écrans, imprimantes...)
+prise en compte de ticket,tr</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>poste de travail et logiciel qualiparc et CSD</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>vérification de la date ou service ou utilisateur de la machine pour le ticket d'intervention afin d'analyser une prioriter d'intervention</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise à jour du n° d'inventaire et de l'état des éléments matériels dans la BD Qualiparc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>vérification des composant du poste de travail avec qualiparc.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>vérification de lecteur cd qui faisait du bruit lorsque ceci était bouger.Vu d'une imprimante dont le galet n'arrivait plus a attraper la feuille de papier alors il fallait le remettre en place.</commentaireactivite>
+      </activitecitee>
+      <production numero="1484">
+        <numero>1484</numero>
+        <designation>A1.4.1 verification du ticket</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1488">
+        <numero>1488</numero>
+        <designation>A3.2.3 mise a jour du numéro d'etiquette</designation>
+        <adresse></adresse>
+      </production>
+      <production numero="1489">
+        <numero>1489</numero>
+        <designation>A5.1.2 information de la configuration avec qualiparc</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="803">
+      <ref>803</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>3</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>mise en place d'une infrastructure de gestion</libcourt>
+      <descriptif>glpi,fusion inventory</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-11-18</datedebut>
+      <datefin>2015-11-25</datefin>
+      <environnement>poste de travail avec utilisation de virtualbox.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>création du cahier des charges pour la mise en place de l'infrastructure.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>test sur une machine client de la remonter dans l'inventaire glpi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>mise ne place d'un glpi et un Ocs inventory</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="815">
+      <ref>815</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>mise en place d'une infrastructure réseau</libcourt>
+      <descriptif>installation de serveur SAN,NAS,active dirctory,</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-10-06</datedebut>
+      <datefin>2015-10-06</datefin>
+      <environnement>serveur, poste travail,</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>sur glpi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>une baie SAN,NAS,des switch routing switch, un active directory,glpi.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>ne plus avoir accès a une partit de l'infrastructure</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>création d'utilisateur ou ticket avec glpi.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>crée des situations où par exemple le serveur NAS ne marcherait pas </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>rechercher le nombre de matériel que l'on va avoir besoin en fonction du plan réseau crée </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>crée un plan réseau</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>mise en place d'un serveur active directory</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>mise en place de fusion inventory pour faire des remonter de machine aux glpi.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

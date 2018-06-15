@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a9521281311a">
+    <ref>5a9521281311a</ref>
+    <datesv>2018-02-27</datesv>
+  </sauvegarde>
+  <etudiant numero="173">
+    <nom>THERET</nom>
+    <prenom>Tom</prenom>
+    <mel>Tom.THERET@icof.fr</mel>
+    <situation ref="1159">
+      <ref>1159</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Mise en place d'un outil de gestion </libcourt>
+      <descriptif>Création d'un site internet (PHP, CSS, JavaScript, FrameWork) avec application mobile Android (XML, Java) qui permet d'inscrire les menus de la cantine et des informations propre à l'établissement.</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Sublime Text 3
+Android Studio
+FrameWork Bootstrap
+Hébergement site : OVH 
+Test appli : Asus zenfone 2 
+Test Site : Google Chrome</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S1 : Application qui permet de gérer les menus et les information propre a l'établissement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>S1 : Réalisation de jeux d'essai sur les menus et sur les informations du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>S1 : Créations d'utilisateurs pour différents services pour les différents besoins. 3 niveaux de administration.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>S1 : La méthode agile à été appliquer pour la conception du projet afin de répondre plus rapidement aux évolutions des demandes de l’utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>S1 : La conception du projet requiert l'utilisation d'un logiciel de Développement web qui pourra mélanger plusieurs types de langages (PHP, CSS, HTML, JavaScript) --&gt; NetBeans
+
+La partie applications mobile devra se servir de l'outil Android Stud</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>S1 : Conception du site en local afin d'effectuer un prototype avant déploiement. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>S1 : Utilisation de l'IDE Android Studio suivi de tests avec le matériel émuler par le logiciel et par un smartphone réel. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>S1 : Utilisation d'un framework Bootstrap pour le CSS et JavaScript
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>S1 : Apprentissage développement Android .</commentaireactivite>
+      </activitecitee>
+      <production numero="1953">
+        <numero>1953</numero>
+        <designation>Site internet icof APP-INFO</designation>
+        <adresse>http://icof.fr/appinfo/</adresse>
+      </production>
+      <production numero="1954">
+        <numero>1954</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/tom_theret_icof_fr/_layouts/15/guestaccess.aspx?docid=1000bb945f24a463a8c60dae86a43b206&amp;authkey=AX-HuD98k8-EaaK4b7q8RpI</adresse>
+      </production>
+      <production numero="1955">
+        <numero>1955</numero>
+        <designation>Document Application web </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/tom_theret_icof_fr/_layouts/15/guestaccess.aspx?folderid=14b9042812bc64ba09d9b4d48d6dd8290&amp;authkey=ARAe1WjV0A9VEwqW7qsYtO8</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1235">
+      <ref>1235</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 : Outils de déploiement de mise à jour serveur</libcourt>
+      <descriptif>Script Powershell qui permet d'effectué une mise à jour d'un serveur.</descriptif>
+      <contexte>Dans le cadre de mon stage, des mises à jours devaient être effectué sur les serveur de l'entreprise. Le but était de déployer des fichiers sur l’ensemble des machines (qui on tous la même arborescence). Pour le que le déploiement des fichiers fonctionnen</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Powershell ISE,
+SublimeText</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1236">
+      <ref>1236</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 : Outils de sauvegarde de données</libcourt>
+      <descriptif>Script Powershell qui permet de sauver des données dans une cible et restaurer des données depuis cette source vers une autre cible donné d'après la date de modification du fichier.</descriptif>
+      <contexte>L'entreprise dispose deux disque dur, 1 SSD et 1 HDD. Tout les fichiers de code son sur le HDD, si il le fichier en question a été modifié il sera déplacer sur le SSD. Si dans le cas où le fichier n'a pas été modifié depuis plus de 30 jours il sera bascul</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Powershell ISE,
+SublimeText</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1241">
+      <ref>1241</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 : Outils de configuration de nouvelle installation serveur</libcourt>
+      <descriptif>Script Powershell qui permet de mettre en place un serveur supplémentaire efficace dès la fin du processus.
+Récupération des fichiers d'installation,Installation des fichiers MSI et EXE.
+Configuration de fichiers XML en fonction du nom du PC.
+Insertion</descriptif>
+      <contexte>L'entreprise souhaitait obtenir un serveur supplémentaire opérationnel le plus rapidement possible pour gérer un éventuelle surcharge.</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Powershell ISE,
+SublimeText</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1242">
+      <ref>1242</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 : Développement de l'infrastructure Intranet </libcourt>
+      <descriptif>Modification du site intranet existant pour la société AC environnement.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Écrit en PHP avec modification base de données</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

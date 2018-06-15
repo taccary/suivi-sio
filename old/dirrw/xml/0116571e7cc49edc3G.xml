@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="571e7cc49edc3">
+    <ref>571e7cc49edc3</ref>
+    <datesv>2016-04-25</datesv>
+  </sauvegarde>
+  <etudiant numero="116">
+    <nom>THOMAS</nom>
+    <prenom>Benjamin</prenom>
+    <mel>benjamin.thomas@icof.fr</mel>
+    <situation ref="713">
+      <ref>713</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologie</libcourt>
+      <descriptif>Veille sur l’actualité du secteur informatique</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Feedly</environnement>
+      <moyen></moyen>
+      <avisperso>Intéressant de suivre l'actualité qui évolue beaucoup </avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>S'informer des dernières actualités sur le secteur informatique.</commentaireactivite>
+      </activitecitee>
+      <production numero="1272">
+        <numero>1272</numero>
+        <designation>Home page feedly</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=0lsk3SD96vOaJ6CMO4jfiSsVPRnHk6gwviP4%2bhul0fY%3d&amp;docid=02f59dfdefea74ba2a0703200e59df7ac</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="714">
+      <ref>714</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 - Développement application android</libcourt>
+      <descriptif>Développement application android sous Android Studio.
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Android Studio</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Création du cahier des charges avec les tâches à réaliser</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Création d'un document avec les pré requis pour le fonctionnement de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Utilisation des données de l'ancienne version du logiciel pour la nouvelle application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Proposition de service web et d'une application android</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création de l'interface utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Création d'un planning avec &quot;redmine&quot; qui a créer un diagramme de gantt</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Android studio
+serveur dev
+serveur test</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Developpement de l'application android</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Création des test pour importer les données de la base de données dans l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>bitbucket
+sourcetree</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1340">
+        <numero>1340</numero>
+        <designation>Développement application Android (interface connexion utilisateur)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fbenjamin_thomas_icof_fr%2FDocuments%2FPRODUCTION%2520E6%2FStage%25201%2FScreen%2FScreenHome.png</adresse>
+      </production>
+      <production numero="1341">
+        <numero>1341</numero>
+        <designation>Développement Application Android (application)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fbenjamin_thomas_icof_fr%2FDocuments%2FPRODUCTION%2520E6%2FStage%25201%2FScreen%2FScreenAppli.png</adresse>
+      </production>
+      <production numero="1342">
+        <numero>1342</numero>
+        <designation>Développement Application Android (IDE Android Studio)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fbenjamin_thomas_icof_fr%2FDocuments%2FPRODUCTION%2520E6%2FStage%25201%2FScreen%2FscreenAndroidStudio.</adresse>
+      </production>
+      <production numero="1343">
+        <numero>1343</numero>
+        <designation>GANTT créer avec redmine</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fbenjamin_thomas_icof_fr%2FDocuments%2FPRODUCTION%2520E6%2FStage%25201%2FScreen%2Fredmine.png</adresse>
+      </production>
+      <production numero="1344">
+        <numero>1344</numero>
+        <designation>Cahier des charges / Solution technique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/Documents/PRODUCTION%20E6/Stage%201/Screen/doc.pdf</adresse>
+      </production>
+      <production numero="1345">
+        <numero>1345</numero>
+        <designation>Screen Application Android</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=oiE6KDjgerjEu%2fN1BAQM%2baZUwB5if%2fjmbd%2fHFYFAVHM%3d&amp;docid=2_1256226939b1c4477912cb4266cd0fbd7</adresse>
+      </production>
+      <production numero="1552">
+        <numero>1552</numero>
+        <designation>Gestion de configuration (SourceTree de bitbucket)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=xZqw8LbemBSZfLrXmUkcc5AcPOVDeaRxDQksToPWV%2fc%3d&amp;docid=0cfe78bc1acb24cedac68ed3ce687463d</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="715">
+      <ref>715</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage 1 - Service web d'accès aux données</libcourt>
+      <descriptif>Proposition et établissement d'un service web pour envoyer/récupérer les données des clients.
+Création d'une doc pour l'installation rapide chez un client.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-01</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement></environnement>
+      <moyen>apache2,php5,volley,mssql</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Création d'un cahier des charges</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Création d'une documentation pour présenter une solution</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Rédaction d'un document pour présenter le projet à réaliser </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Création d'un jeu d'essai pour tester la validation d'un service.
+Utilisation des données de la version logiciel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Réaliser les test du service.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Création serveur debian avec apache,php5 et ms sql
+Doc d'installation du serveur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création d'un iso pour créer automatiquement un serveur debian avec apache,ms sql et php.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Suivi du cahier des charges et du planning avec gantt</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Diagramme de gant avec &quot;redmine&quot;</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Serveur debian avec apache php5 ms sql </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Service web en php</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Requête sql en php5, convertit en json </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>VM de test debian, sublime text2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Création des requêtes sql en php5 qui sont encodé en json.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Jeu d'essai de l'ancienne version</commentaireactivite>
+      </activitecitee>
+      <production numero="1346">
+        <numero>1346</numero>
+        <designation>Exemple code service web</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=DeyGTpRcm%2fzS1cqTpNurAeZ1%2bTatHgfWTryK90G9euQ%3d&amp;docid=2_14d9184c5a22a460b8a7c7fef2a8a7e7f</adresse>
+      </production>
+      <production numero="1347">
+        <numero>1347</numero>
+        <designation>Résultat code service web</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=ASWEvyPjfGmY%2b%2bn5U4IO5d64mn0gFTL0Fy0I9Y1DERM%3d&amp;docid=2_15ac1c3e2306041beb47b544454ada564</adresse>
+      </production>
+      <production numero="1348">
+        <numero>1348</numero>
+        <designation>Création serveur web (phpmyadmin)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fbenjamin_thomas_icof_fr%2FDocuments%2FPRODUCTION%2520E6%2FStage%25201%2FScreen%2Fphpmyadmin.png</adresse>
+      </production>
+      <production numero="1349">
+        <numero>1349</numero>
+        <designation>Création serveur web (apache)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fbenjamin_thomas_icof_fr%2FDocuments%2FPRODUCTION%2520E6%2FStage%25201%2FScreen%2FApache_Install.png</adresse>
+      </production>
+      <production numero="1350">
+        <numero>1350</numero>
+        <designation>Création serveur web (iso installation automatique)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Fbenjamin_thomas_icof_fr%2FDocuments%2FPRODUCTION%2520E6%2FStage%25201%2FScreen%2Finstallauto.PNG</adresse>
+      </production>
+      <production numero="1351">
+        <numero>1351</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/Documents/PRODUCTION%20E6/Stage%201/Screen/doc.pdf</adresse>
+      </production>
+      <production numero="1352">
+        <numero>1352</numero>
+        <designation>Doc pré requis / Installation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/Documents/PRODUCTION%20E6/Stage%201/Screen/prerequis.pdf</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="774">
+      <ref>774</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Stage 2 - Développement application android</libcourt>
+      <descriptif>Continuation du développement de l'application android du stage 1 sous Android Studio.
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1545">
+        <numero>1545</numero>
+        <designation>Application en ligne sur le playstore</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=dRhUIApSMa71Adv7j%2b49P9SP2RPmTxb8xbY8yroD2CQ%3d&amp;docid=0e6ef23d3c8a24be08c2c7f11c8a6498c</adresse>
+      </production>
+      <production numero="1553">
+        <numero>1553</numero>
+        <designation>Gestionnaire de configuration</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=xZqw8LbemBSZfLrXmUkcc5AcPOVDeaRxDQksToPWV%2fc%3d&amp;docid=0cfe78bc1acb24cedac68ed3ce687463d</adresse>
+      </production>
+      <production numero="1554">
+        <numero>1554</numero>
+        <designation>Compte rendu écrit</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=ZdZewlas4VepzqYlD%2bM%2brts%2fJiQG5oSir%2fR3uR10WMU%3d&amp;docid=057f65c6357254e26a4e3db5a9e8543de</adresse>
+      </production>
+      <production numero="1555">
+        <numero>1555</numero>
+        <designation>Doc aperçu application</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=jL0MBhcib75d%2fNMZFls%2bmGD%2bAxVLZgME1kd6iLOLfr0%3d&amp;docid=00cac17a329b54b8380e1fdc41423f200</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="779">
+      <ref>779</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE  1 - PHP</libcourt>
+      <descriptif>Création application web pour gérer les praticiens, les comptes rendus et médicaments.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-09-01</datedebut>
+      <datefin>2015-12-25</datefin>
+      <environnement>PHP,MYSQL
+Notepad++, PHPMYADMIN,uWamp</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1557">
+        <numero>1557</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=ndBLPbjp8%2baR%2fc8xSpDfTjJB8BVGpPsWMYPL283RKNc%3d&amp;docid=0fa376d3776ee43d3bbd5a96d15c2b1b2</adresse>
+      </production>
+      <production numero="1558">
+        <numero>1558</numero>
+        <designation>Doc BDD</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=6Jvq9lD%2fxcr6QaZ6KPP58kQujzEUCHcLRWIO8hVDrbo%3d&amp;docid=0ac594be3c3174f8eb6311cec2575d6f4</adresse>
+      </production>
+      <production numero="1559">
+        <numero>1559</numero>
+        <designation>Doc technique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=76gqpZgeSBPERQXz3X0Nz5x9QcO7tC11gkbywKUoYQQ%3d&amp;docid=0692cdb03af234abdaa01b723b1996bff</adresse>
+      </production>
+      <production numero="1560">
+        <numero>1560</numero>
+        <designation>Doc utilisateur</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/benjamin_thomas_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=y3%2foARwy2ZFNAOgPs572UrVouSdTLYdwq%2fZ%2feUBqf4c%3d&amp;docid=032e4fd74ac5044a2be5fd48a040c7751</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="827">
+      <ref>827</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE 2 - C#</libcourt>
+      <descriptif>c#</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-03</datedebut>
+      <datefin>2016-03-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

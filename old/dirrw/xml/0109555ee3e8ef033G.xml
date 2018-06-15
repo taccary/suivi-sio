@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="555ee3e8ef033">
+    <ref>555ee3e8ef033</ref>
+    <datesv>2015-05-22</datesv>
+  </sauvegarde>
+  <etudiant numero="109">
+    <nom>GUERRERO</nom>
+    <prenom>Dorian</prenom>
+    <mel>dorian.guerrero@icof.fr</mel>
+    <situation ref="641">
+      <ref>641</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Creation de tableau </libcourt>
+      <descriptif>création de tableau permettant sous windev permettant le trie de différent bouteille de vin </descriptif>
+      <contexte>Pour un client </contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-05-19</datefin>
+      <environnement>Machine sous windev</environnement>
+      <moyen></moyen>
+      <avisperso>Cela m'a permis d'apprendre les base de windev </avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Creation et modification afin de changer le design du tableau </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="642">
+      <ref>642</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>SMTP </libcourt>
+      <descriptif>modification du code afin de permettre l'envoie d'un mail de confirmation </descriptif>
+      <contexte>Client </contexte>
+      <datedebut>2015-05-20</datedebut>
+      <datefin>2015-05-21</datefin>
+      <environnement>Machine sous windev</environnement>
+      <moyen>Windev</moyen>
+      <avisperso>Ma permis de comprendre un peu plus sur windev et surtout son système SMTP et les particularité </avisperso>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Modification du code du projet afin de permettre l'envoie simple d'un mail quand un client fait des modification ou des ajout </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="643">
+      <ref>643</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Condition</libcourt>
+      <descriptif>Modification du code afin de permettre d'éviter les doublons dans la BDD</descriptif>
+      <contexte>Application pour un client </contexte>
+      <datedebut>2015-05-22</datedebut>
+      <datefin>2015-05-22</datefin>
+      <environnement>Sous windev</environnement>
+      <moyen>Machine sous windev </moyen>
+      <avisperso>Ma permis de revoir les conditions et surtout apprendre l'interrogation de la BDD sous Windev </avisperso>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Permis de régler le problème de doublon dans la BDD en créant une condition permettant de bloquer le doublon </commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

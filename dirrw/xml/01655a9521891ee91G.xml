@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a9521891ee91">
+    <ref>5a9521891ee91</ref>
+    <datesv>2018-02-27</datesv>
+  </sauvegarde>
+  <etudiant numero="165">
+    <nom>BENSTITI</nom>
+    <prenom>Nicolas</prenom>
+    <mel>Nicolas.BENSTITI@icof.fr</mel>
+    <situation ref="1155">
+      <ref>1155</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[S1] Développement en C# d'une feature d'application</libcourt>
+      <descriptif>Colibri est un logiciel de Dexeo technologie dont le role consiste en l'analyse et l'extraction de données de formulaires-papier scannés en fichier image. Dans cette mission, mon but était de développer un script qui analysait les formulaires de type &a</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-22</datedebut>
+      <datefin>2017-06-30</datefin>
+      <environnement>Ordinateur avec Windows 10 et une connexion à internet
+Scanner-Imprimante</environnement>
+      <moyen>Visual Studio 2017
+Mozilla Firefox
+API Imagebox (développée en interne par la compagnie)</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Présentation des besoins de l'entreprise pour l'application, ainsi que des contraintes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Réalisation du jeu d'essai nécessaire aux tests du programme (formulaires pré-cochés).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Réalisation des tests.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Échanges mails.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Réalisation de prototypes d'une solution répondant aux attentes (1 : utilisation d'Aforge, 2 : Analyse du % de pixels colorés, 3 : Analyse du nombres de zones blanches/noires).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Visual Studio</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Développement du prototype. Utilisation de l'API Imagebox.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Recherches sur les méthodes possibles pour l'analyse d'images et de pixels.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1231">
+      <ref>1231</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>[S2] Dévelloppement d'un site web</libcourt>
+      <descriptif>Développement d'un site-vitrine pour une PME en cours de création (Sigmarmots).</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Wordpress</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Tests pour l'intégration du formulaire de contact</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Doc de maintien du site</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Apprentissage sur l'utilisation de Wordpress et de ses modules</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

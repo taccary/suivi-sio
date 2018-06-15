@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56c1e855d4a97">
+    <ref>56c1e855d4a97</ref>
+    <datesv>2016-02-15</datesv>
+  </sauvegarde>
+  <etudiant numero="104">
+    <nom>DODON</nom>
+    <prenom>Corentin</prenom>
+    <mel>corentin.dodon@icof.fr</mel>
+    <situation ref="708">
+      <ref>708</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Application simplification code review GitHub</libcourt>
+      <descriptif>Création d'une application Web avec Silex (Micro-Framework PHP dérivé de Symphony2) qui poste des checklist sur GitHub lorsqu'un developpeur ouvre une pull request.</descriptif>
+      <contexte>Stage dans l'entreprise Y-proximité dans le cadre de la première année de BTS</contexte>
+      <datedebut>2015-06-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Pc portable sur dock sous Ubuntu : Utilisation de PhpStorm, nginx, Sqlite3, GitHub, Php (Silex, Twig, Guzzle).</environnement>
+      <moyen>Ordinateur, intégration dans leur organisation sur Github, license PhpStorm</moyen>
+      <avisperso>Très intéressant</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Mise en ordre des fonctionnalités données par mon tuteur selon un ordre de priorité de critique à mineur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Explication detaillé à mon tuteur + creation d'un README sur le project qui permettra au nouveaux utilisateurs de faire fonctionner l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Utilisation d'un script de déploiement avec mon tuteur qui permet de prendre la derniere version du project sur GitHub et de l'upload sur le serveur en générant leur propre fichier de configuration user.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Utilisation Silex, Twig, Guzzle, IDE (PhpStorm), GitHub nécessaire à l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Creation d'une interface graphique pour l'utilisateur selon un mockup fourni par mon tuteur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Creation BDD pour l'application, creation du schema sous Sqlite3</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>Realisation des fonctionnalités les plus critiques selon le temps restant en gardant 1 semaine pour la préparation au déploiement et au correction de bug suite au déploiement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Mise en place des fonctionnalités de l'application sans interface graphique dans un premier temps pour vérifier si elle marche.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Environnement de test en local avec IDE PhpStorm + test de l'application avec méthodes POST grâce à un RESTCLIENT.
+Environnement de test en pré-production en ligne + test de l'application directement avec un project Test sur GitHub</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Utilisation framework Silex (Php) ainsi que Twig (Html) Doctrine (BDD)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Creation d'un README sur le project GitHub pour la doc technique de l'application, Mis a jour a chaque nouvelle fonctionnalité ou configuration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Utilisation de GitHub pour la création du projet. Une pull request a chaque nouvelle fonctionnalité ou fix qui sera validée par mon tuteur. Le code est à chaque fois vérifier par mon tuteur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>Norme Web PSR-2 mise en place pour le code + Architecture squelette de projet Silex/Symfony (MVC)  + PSR-7 pour les requetes et reponses URL.</commentaireactivite>
+      </activitecitee>
+      <production numero="1270">
+        <numero>1270</numero>
+        <designation>Application GitHub</designation>
+        <adresse>https://github.com/Yproximite/PRReviewWatcher</adresse>
+      </production>
+      <production numero="1271">
+        <numero>1271</numero>
+        <designation>Resultat commentaire post via l'application</designation>
+        <adresse>https://camo.githubusercontent.com/371d64b78c3fd50e9e64647b1ffad99c769ed863/687474703a2f2f692e696d6775722e636f6d2f6d6352505243552e706e67</adresse>
+      </production>
+      <production numero="1276">
+        <numero>1276</numero>
+        <designation>Schema BDD</designation>
+        <adresse>http://image.noelshack.com/fichiers/2015/26/1435524792-schemadb.png</adresse>
+      </production>
+      <production numero="1277">
+        <numero>1277</numero>
+        <designation>Cahier des charges</designation>
+        <adresse>http://image.noelshack.com/fichiers/2015/26/1435524982-cahier-des-charges.png</adresse>
+      </production>
+      <production numero="1278">
+        <numero>1278</numero>
+        <designation>Mockup</designation>
+        <adresse>http://image.noelshack.com/fichiers/2015/26/1435525057-mockup.png</adresse>
+      </production>
+      <production numero="1279">
+        <numero>1279</numero>
+        <designation>Resultat interface</designation>
+        <adresse>https://camo.githubusercontent.com/4c4c1d7eee05881a94ba58a53e923b3e8717cc32/687474703a2f2f692e696d6775722e636f6d2f7a736e755456302e706e67</adresse>
+      </production>
+      <production numero="1319">
+        <numero>1319</numero>
+        <designation>Composants logiciels</designation>
+        <adresse>https://github.com/Yproximite/PRReviewWatcher/blob/master/composer.json</adresse>
+      </production>
+      <production numero="1327">
+        <numero>1327</numero>
+        <designation>PhpStorm (IDE)</designation>
+        <adresse>http://image.noelshack.com/fichiers/2015/39/1442835938-screenshot-from-2015-06-26-09-15-24.png</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

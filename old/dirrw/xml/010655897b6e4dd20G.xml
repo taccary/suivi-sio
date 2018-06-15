@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="55897b6e4dd20">
+    <ref>55897b6e4dd20</ref>
+    <datesv>2015-06-23</datesv>
+  </sauvegarde>
+  <etudiant numero="106">
+    <nom>DUCHENET</nom>
+    <prenom>Victor</prenom>
+    <mel>victor.duchenet@icof.fr</mel>
+    <situation ref="659">
+      <ref>659</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Création application</libcourt>
+      <descriptif>Créer une application pour réinitialiser une session utilisateur.</descriptif>
+      <contexte>Ne doit pas formater l'ordinateur, doit être simple et rapide.</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Parc informatique à disposition (ordinateur portable disposant de la même configuration logiciel que ceux des futurs utilisateurs).</environnement>
+      <moyen>utilisation du langage PowerShell</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Prise en compte du type d'utilisateur usant de l'application (plus ou moins restreinte selon la catégorie).  
+Création d'un script dit de &quot;secours&quot; (interface de commande) pour palier à d’éventuel problème avec sa version graphique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Présentation d'un besoin par mon maitre de stage, sans avoir au préalable recherché si une solution était possible.
+Recherche de faisabilité du projet, de l'efficience de chaque solution etc...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création initiale de l'application en interface de commande
+Phase test avec les utilisateurs pour mettre en exergue les problèmes possibles avec ces derniers (incompréhension, erreur possible etc..). 
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Segmentation du script, test de chaque partie indépendamment des autres, afin d'analyser les résultats et prendre en considérations les contraintes de chaque partie. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Après la 1ere phase de développement (interface de commande), j'ai développé mon application en mode graphique. Pour cela j'ai utilisé un IDE (Integrated Development Environment), Powershell Studio 2015 (Copyright © 2015 SAPIEN Technologies).
+Utilisati</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Le projet demander devait fusionner avec une application déjà développer et mise en place sur les ordinateurs.
+Création d'une application, dans un 1er temps en inviter de commande puis modification de celle-ci pour la rendre plus professionnelle (interf</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Mise en place d'un document Excel avec toutes les situations test a effectuer sur l'application . 
+Mise en lumière des étapes manquées ou échouées.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Création d'un tutorielle afin de faciliter la maintenance de mon application après la fin de mon stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Après la réussite du projet (réaliser une application qui réinitialise une session utilisateur), Mise en place d'une interface graphique, évolution des scripts appelé par l'application, meilleurs prise en charge  des erreurs.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="666">
+      <ref>666</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Configuration wifi</libcourt>
+      <descriptif>création d'un script qui automatise la configuration d'un profil wifi pour les utilisateurs de Windows 7. Afin de permettre aux client de bénéficier de la wifi mise à disposition par l'entreprise sans contrainte.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-19</datedebut>
+      <datefin>2015-05-19</datefin>
+      <environnement>Un ordinateur portable sous Windows 7</environnement>
+      <moyen>Utilisation du langage PowerShell</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>Création d'un profil Wifi a partir d'un ordinateur Windows 7,  exportation de ce profil dans un fichier XML, Adaptation du contenu du fichier XML dans un script PowerShell pour les futurs utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Apprentissage du XML, du langage PowerShell.</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

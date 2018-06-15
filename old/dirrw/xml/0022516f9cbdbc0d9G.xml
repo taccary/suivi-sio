@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="516f9cbdbc0d9">
+    <ref>516f9cbdbc0d9</ref>
+    <datesv>2013-04-18</datesv>
+  </sauvegarde>
+  <etudiant numero="22">
+    <nom>Mathey</nom>
+    <prenom>Loic</prenom>
+    <mel>loic.mathey@icof.fr</mel>
+    <situation ref="35">
+      <ref>35</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Parc informatique Lyon Sud</libcourt>
+      <descriptif>Renouvellement de postes, maintenances, installation de logiciels.</descriptif>
+      <contexte>Etude réalisée Lyon Sud, sur le contexte professionnel des HCL(Hospice Civil de Lyon)</contexte>
+      <datedebut>2012-05-28</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Stage Réalisé sur le site de Lyon Sud</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Problème avec un logiciel qui ne fonctionne pas bien cela va perturber toute la gestion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Logiciel (Qualipark) pour recenser tout les postes installé , ou dans le site et dans quel salle, quel version.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Problème de code barre sur une fiche lors d'impression qui n'imprimais que des chiffres et lettres a la place. Récupération de fichier et déplacer dans le système 32.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Lors d'un problème qui peux être résolu a distance utilisation de la prise en main en ligne.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Erreur d'ouverture sur un logiciel. Identification du problème avec le message d'erreur. Recherche de solution avec piste de réflexion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Configuration de postes pour interconnecter les imprimantes sur le réseau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Renouvellement d'ordinateur. Remplacer des postes trop vieux ou trop lent.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Système trop vieux remplacer par un plus récent.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Nouvel version d'office mise a jour passez de 2003 a 2010 mais tous les postes ne sont pas changer en même temps, problème de compatibilité avec des partages de fichiers.</commentaireactivite>
+      </activitecitee>
+      <production numero="117">
+        <numero>117</numero>
+        <designation>Rapport de stage 1 ère année</designation>
+        <adresse>https://www.dropbox.com/s/phex14464ciaz9b/Rapport%20de%20stage%201%20ere%20ann%C3%A9e.docx</adresse>
+      </production>
+    </situation>
+    <situation ref="111">
+      <ref>111</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Optimiser les applications et os des postes utilisateurs</libcourt>
+      <descriptif>Gestion des postes utilisateurs</descriptif>
+      <contexte></contexte>
+      <datedebut>2013-03-13</datedebut>
+      <datefin>2013-03-13</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Mise à jours de poste utilisateurs
+
+https://www.dropbox.com/s/cpnci7gxvrqljxb/A.1.4.1.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Demande d'intervention des utilisateurs
+
+https://www.dropbox.com/s/ief8pqh3u8mg1og/A.2.2.1.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation de postes dans les bureaux qui vont être aménagés.
+
+https://www.dropbox.com/s/4bo2f0vanv8wd1a/A.3.2.1.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Lorsque les postes sont trop vieux ou défectueux.
+
+https://www.dropbox.com/s/yxfbs1stpdpxb0g/A.3.2.2.docx</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Guide pour utilisateur.
+
+https://www.dropbox.com/s/sfvlhuwh4g2jcs0/A.4.1.9.docx</commentaireactivite>
+      </activitecitee>
+      <production numero="54">
+        <numero>54</numero>
+        <designation>Rapport de stage 2ème année</designation>
+        <adresse>https://www.dropbox.com/s/lqemhc1i671unh2/Rapport%20de%20stage.docx</adresse>
+      </production>
+    </situation>
+  </etudiant>
+</suivicomp>

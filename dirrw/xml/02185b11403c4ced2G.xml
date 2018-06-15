@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b11403c4ced2">
+    <ref>5b11403c4ced2</ref>
+    <datesv>2018-06-01</datesv>
+  </sauvegarde>
+  <etudiant numero="218">
+    <nom>SEILLET</nom>
+    <prenom>Cécile</prenom>
+    <mel>cecile.seillet@icof.fr</mel>
+  </etudiant>
+</suivicomp>

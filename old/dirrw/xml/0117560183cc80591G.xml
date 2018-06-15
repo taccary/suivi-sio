@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="560183cc80591">
+    <ref>560183cc80591</ref>
+    <datesv>2015-09-22</datesv>
+  </sauvegarde>
+  <etudiant numero="117">
+    <nom>ALBERT</nom>
+    <prenom>Jean</prenom>
+    <mel>jean.albert@icof.fr</mel>
+    <situation ref="695">
+      <ref>695</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation et mise en place  de postes pour Migration</libcourt>
+      <descriptif>Installation de postes dans une salle de formation pour aider les utilisateurs à se former correctement à Windows 8.1.</descriptif>
+      <contexte>Migration de Windows 7 à Windows 8.1</contexte>
+      <datedebut>2015-05-26</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement>Salle de formation</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aider les utilisateurs à maitriser de nouveaux outils afin de fournir un travail toujours plus optimal.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation de Windows 8.1, tester la compatibilité des logiciels installés.</commentaireactivite>
+      </activitecitee>
+      <production numero="1285">
+        <numero>1285</numero>
+        <designation>Planning des migrations, Mail </designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-1ere-annee.html</adresse>
+      </production>
+      <production numero="1353">
+        <numero>1353</numero>
+        <designation>Extrait Rapport de stage Migration PC</designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-1ere-annee.html</adresse>
+      </production>
+      <production numero="1354">
+        <numero>1354</numero>
+        <designation>Extrait Rapport de stage Installation Imprimante</designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-1ere-annee.html</adresse>
+      </production>
+      <production numero="1355">
+        <numero>1355</numero>
+        <designation>Extrait rapport de stage résolution incident</designation>
+        <adresse>http://albert-sio.e-monsite.com/pages/stage-1ere-annee.html</adresse>
+      </production>
+    </situation>
+    <situation ref="705">
+      <ref>705</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Aide utilisateur</libcourt>
+      <descriptif>Intervention auprès des utilisateurs pour réparation, remplacement de matériel et pour résolution de problèmes réseaux et logiciels.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-25</datedebut>
+      <datefin>2015-07-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

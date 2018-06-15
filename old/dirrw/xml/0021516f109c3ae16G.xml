@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="516f109c3ae16">
+    <ref>516f109c3ae16</ref>
+    <datesv>2013-04-17</datesv>
+  </sauvegarde>
+  <etudiant numero="21">
+    <nom>Guerin</nom>
+    <prenom>Jean-Baptiste</prenom>
+    <mel>jean-baptiste.guerin@icof.fr</mel>
+    <situation ref="33">
+      <ref>33</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Etude du matériel de l’infrastructure informatique</libcourt>
+      <descriptif>Explication de l’infrastructure  présente. Explication détaillé du matériel présent, présentation de la baie systèmes ainsi que les différents services mise à disposition informatique, radio et téléphonie</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>Observation d'une partie de l'architecture informatique de la gendarmerie Nationale. ( Salle </environnement>
+      <moyen>aucun</moyen>
+      <avisperso>Cette situation m'a permit de mettre en pratique les connaissances que j'ai pu acquérir au cours de ma première année de ma formation mais aussi de pointée mais faiblesse.</avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Présentation par l'adjudant-chef des différents services qu'offrent l’infrastructure informatique et les exigences attendues au sein des services. Explication du matériel installé (baie de brassage, serveur, boitier de cryptage).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Explication des risques et conséquence que peut avoir en cas d'intrusion ou dysfonctionnement du réseau ainsi que le service qu'offre l'infrastructure.
+Mise en place de ligne sécuriser et redondance afin de pallier à tout problème.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Explication par l'adjudant-chef sur le dispositif mis en place (câblage du matériel ) afin d'associer chaque service a son service. Mise en place de vlan par unités ainsi que d'autre solution.(switch, routage).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Explication des différentes solutions de sécurité de l'infrastructure que ce soit du niveau de la sécurisation par le câblage du matériel ou encore par réseau sécuriser ....</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Présentation de l'architecture du réseau informatique, radio et téléphonique de la gendarmerie départementale de l’Ardèche. Explication des différents éléments et configurations qui entoure cette architecture.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Découverte d'une nouvelle technologie le dispositif radio . Explication des caractéristiques de son utilisation ainsi que l'architecture déployait  à son fonctionnement (baie radio, relais sur le département, dispositif de transmission réception).</commentaireactivite>
+      </activitecitee>
+      <production numero="32">
+        <numero>32</numero>
+        <designation>compte rendu de stage de la situation : Etude du matériel informatique</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/etude-du-mat%C3%A9riel-de-l%E2%80%99infrastructure-informatique</adresse>
+      </production>
+      <production numero="33">
+        <numero>33</numero>
+        <designation>compte rendu de stage de la situation : Etude du matériel informatique</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+    </situation>
+    <situation ref="45">
+      <ref>45</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d’un dispositif de communication sur un véhicule</libcourt>
+      <descriptif>Installation d’un dispositif radio dans un véhicule mobile. Mise en place du matériel au sein du véhicule, programmation et teste du dispositif mis en service.</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>documentation sur le dispositif, matériel à mettre en place (B.E.R, câblage, combiné, TDG).</environnement>
+      <moyen>aucun</moyen>
+      <avisperso>Cette situation m'a permit de voir une nouvelle technologie, de découvrir un nouveau type d'interconnexion et transmission d'information qui est un plus pour ma formation.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Lecture de la fiche d'intervention ainsi que du cahier des charges, afin de mettre en place une demande d’équipement d’un véhicule avec l'installation d’un dispositif radio embarqué.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>L'exigence attendue de la mission qui m'a été confiée et que le véhicule dispose d'un moyen de communication par le biais d'une installation d'un dispositif de communication embarqué reliée au réseau. Le fonctionnement et l'intégration dans le résea</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Nous avons défini au préalable les différends teste nécessaire à la validation du service de communication au sein d'un véhicule. Le teste consistera à la simulation d'un appel radio et de la transmission de données via le TDG.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Les niveaux d'habilitations associés au système se font par le véhicule. Tout dépend de la configuration du B.E.R sur le réseau, dépendra le niveau d'habilitation des occupants du véhicule. Le B.E.R est la pièce centrale pour les habilités des utilisate</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Nous avons effectuait des tests de fonctionnement prédéfini auparavant afin de valider l'intégration du dispositif.
+Le teste à consister à la simulation d'un appel radio et transmission de données via un TDG. Teste positif, le système marche.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Afin de mettre en place le système de communication au sein d'un véhicule nous avons eu le droit à une procédure sur papier bien détaillé (que je ne peux fournir du fait du secret défense).Cela nous a permis de suivre les différentes étapes installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation du projet qui consistait à &quot; Mise en place d’un dispositif de communication sur un véhicule &quot;. Mise en place d'un planning d'intervention ainsi que d'un compte rendu d'activité sur l'intervention réalisée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recensement par le biais du cahiers des charges du matériel, logiciel et ressource humaine nécessaire a l'exécution du projet ainsi que du planning a respecté dans la durée alloué à la tâche à réaliser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Configuration et programmation du B.E.R par logiciel spécifique, clé de cryptage. Cela permettra d'encoder les communications qui ne pourront être interceptées. De plus il est référencé sur le réseau par code chiffré ce qui assure un niveau de sécurité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et intégration du matérielle sur le réseau rubis. interconnexion des différents élément entre eux. Mise en place des moyens de sécurité (configuration B.E.R cryptage).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Acquisition par cette activité d'une auto-formation sur la mise en place d'un moyen de communication ( dispositif radio sur un véhicule)par le biais de la procédure d'installation du dispositif.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude d'une nouvelle technologie, le système radio qui m'a permit d'acquérir de nouvelle compétence en matière de câblage et de méthodologie.</commentaireactivite>
+      </activitecitee>
+      <production numero="34">
+        <numero>34</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un dispositif de communication sur un véhicule</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/mise-en-place-d%E2%80%99un-dispositif-de-communication-sur-un-v%C3%A9hicule</adresse>
+      </production>
+      <production numero="35">
+        <numero>35</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un dispositif de communication sur un véhicule</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="49">
+      <ref>49</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en place d’un accès a internet au sein d'un service</libcourt>
+      <descriptif>Mise en place au sein du service auto d’un accès à internet grâce à la mise en place d’un ordinateur qui donnera l’accès. Installation du matériel et brassage du réseau.</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-06-18</datedebut>
+      <datefin>2012-06-22</datefin>
+      <environnement>documentation sur le dispositif à mettre en place ainsi que le matériel (ordinateur, câblage).Brassage du réseau dans la baie de l'atelier SIC </environnement>
+      <moyen>aucun</moyen>
+      <avisperso>Cette activité ma permit concrètement de mettre en pratique sur le terrain mais connaissance théorique  que j'ai apprit pendant ma première année. </avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Lecture de la fiche d'intervention ainsi que du cahier des charges, afin de mettre en place une demande de mise en place d'un accès a internet au sein d'un service (service auto).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>l'impact de la mise en place de cette structure va permettre aux utilisateurs de ce poste de se connecter sur le réseau ouvert de l'internet. Toute personne travaillant  sur ce poste aura un accès à internet .</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Les exigences attendues d'après la fiche d'intervention sont que les utilisateur de ce poste informatique au sein du service automobile puissent avoir un accès au réseau ouvert d'internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Les tests nécessaires à la validation du service  àproduire est de tester si l'ordinateur arrive à aller sur internet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>les niveaux d'habilitation seront le même pour tous,  du fait que n'importe qui utilisera l'ordinateur en question aura un accès à internet. L'habilitation se fera en interne au sein de leur service (qui utilisera le service mis en place).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>formation  aux utilisateurs du but de l'installation et de la prise en main du matériel installer dans le besoin d'une utilisation et maîtrise complète de l'utilisateur lorsqu'il aura besoin de ce servir de l'outil &quot;internet&quot;.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Procédure de mise en œuvre de l'installation et du matériel nécessaire à l'installation de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Création d'un compte rendu d'intervention de l'installation de la solution demander par le service concerner.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>L'installation de la solution c'est effectuer en deux étapes distincte :
+- installation physique du matériel, branchement du matériel et câblage.
+- mise œuvre opérationnelle : brassage de la baie et du switch, interconnexion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Un test a été réalisé pour vérifier l’intégration de la nouvelle unité informatique dans le service auto sur le réseau ouvert de l’internet.</commentaireactivite>
+      </activitecitee>
+      <production numero="36">
+        <numero>36</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un accès a internet au sein d'un service</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/mise-en-place-d%E2%80%99un-acc%C3%A8s-a-internet-au-sein-d-un-service</adresse>
+      </production>
+      <production numero="37">
+        <numero>37</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un accès a internet au sein d'un service</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="50">
+      <ref>50</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Mise en place d’un réseau informatique provisoire </libcourt>
+      <descriptif>Installation physique d'un réseau informatique et radio provisoire dans les locaux d'une brigade temporaire estivale . Mise en place des différents élèments informatique ( baie systéme, ordinateur etc..)ainsi que l'installation d'un nouveau dispositif</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-06-25</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>matériel informatique et radio ( mât radio, BER, ordinateur serveur, switch, chiffreur, baie et autres composants)  ainsi qu'un cahier des charges dans la disposition d'installation du matériel physique.</environnement>
+      <moyen>aucun</moyen>
+      <avisperso>Cette activité ma permit d'installer physiquement un réseau informatique et radio. je trouve juste dommage que je n'ai pas eu le droit d'observer ou participer à l'installation ( programmation,configuration) des éléments. Néanmoins j'ai pumettre en o</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Lecture de la fiche d'intervention ainsi que du cahier des charges, afin de mettre en place le réseau informatique provisoire.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>la mise en place d'un réseau informatique local avec une liaison crypté vers les données de la gendarmerie national ainsi qu'un réseau radio afin de communiquer avec les patrouilles sur le terrain.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Teste à effectuée: si l'accès à la base de donnée d'information de la gendarmerie est possible ainsi que l’échange radio s'effectue de façon correcte afin de valider la communication entre les unités sur le terrain.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Installation et configuration du matériel informatique et radio en fonction des utilisateur et des habilitation du personnel qui vont occupée la caserne éphémère. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mise en place de tests sur les différents éléments installée afin de valider l'installation et les services mis en place. Teste de communication radio entre les différents élément ainsi que teste de fonctionnement du réseau informatique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation au projet qui consisté au déploiment, installation ephémére d'un réseau informatique et radio dasn les locaux d'une brigade estivale.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation et configuration de différents éléments  information  et de communication . Observation d'installation d'éléments d'interconnexion, cryptage de réseau et éléments réseau.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Observation et documentation sur la mis en place d'une nouvelle technologie ainsi que des moyens réseau que j'ai découvert lors de la mise en place  de ce réseau provisoire (chiffreur / routeur, réseau rubis, valise tactique).</commentaireactivite>
+      </activitecitee>
+      <production numero="38">
+        <numero>38</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un réseau informatique provisoire</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/mise-en-place-d%E2%80%99un-r%C3%A9seau-informatique-provisoire</adresse>
+      </production>
+      <production numero="39">
+        <numero>39</numero>
+        <designation>compte rendu de stage de la situation : Mise en place d'un réseau informatique provisoire</designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="51">
+      <ref>51</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Projet personnel  de 1 ère année</libcourt>
+      <descriptif>L’étude porte sur la sécurisation de la liaison optique établie entre le bâtiment principal et le bâtiment Atelier. Elle permettra d’assurer un lien de secours en cas de perte de la liaison principale (câble arraché, problèmes de connexions ou autre.</descriptif>
+      <contexte>Stage SIO1, groupement de la gendarmerie de l’Ardèche, service SSIC (section des systèmes d’informatique et de communication), Membre du service SSIC composée de 6 personnes qui gèrent la mise en place et maintenance du  réseau informatique, radio, téléph</contexte>
+      <datedebut>2012-06-12</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>étude de la liaison du réseau informatique, recherche de documentation,technologie , méthode via internet. </environnement>
+      <moyen>aucun</moyen>
+      <avisperso>cette activité au sein de l'entreprise m'a permis de voir concrètement la mise en place d'un projet imposé, et percevoir les difficultés qui peuvent surgir.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="40">
+        <numero>40</numero>
+        <designation>compte rendu de stage de la situation : Projet personnel</designation>
+        <adresse>http://data.over-blog-kiwi.com/0/15/86/91/201209/ob_eae75dc773d7adb4f283e7973a1efe56_situation-5.pdf</adresse>
+      </production>
+      <production numero="41">
+        <numero>41</numero>
+        <designation>compte rendu de stage de la situation : Projet personnel</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="109">
+      <ref>109</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Sécurisation des postes de travail et des accès utilisateurs</libcourt>
+      <descriptif>La mission qui m’a été confiée consister globalement à renforcée la sécurisation des postes utilisateurs par la suppression d’un des deux accès.
+L’accès à supprimer correspond à un compte générique commun à tous les utilisateurs.
+</descriptif>
+      <contexte>Stage SIO2, Conseil général de l'Ardèche,Direction systèmes d'information, service infrastructure informatique. Le service compte 8 personnes qui doivent veiller au bon fonctionnement du réseau informatique sur tout le département de l’Ardèche.</contexte>
+      <datedebut>2013-01-21</datedebut>
+      <datefin>2013-03-01</datefin>
+      <environnement>documentation sur le dispositif a mettre en oeuvre, logiciel spécifique (ConseoleOne), aide du personnelle divers de la direction systèmes d'information</environnement>
+      <moyen>ordinateur portable, personnelle pour tous renseignement, tuteur qui m'informer sur certain point, téléphone, voiture (déplacement).</moyen>
+      <avisperso>Ce contexte m'a permis de géré un projet  de son tests à sa mise en oeuvre sur le terrain. Cela m'a permis de voir pas que l'a partie informatique mais le coté management du projet, communication, géré l'avancement.</avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Analyse de ce que va produire la migration du compte de l'utilisateur. Recensement des différents problèmes qui peuvent arrivée lors de son déploiement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>les exigences attendu porte sur le bon déroulement de la migration du compte de l'utilisateur. l'utilisateur doit retrouver son environnement de départs et les services auquel elle avait accès avant la migration.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Afin de testés la procédure de migration des compte qui vise a sécurisée les poste et accès utilisateur. Cela permet de recenser les dysfonctionnement de la procédure afin d'améliorer  avant son déploiement. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>tests sur 3 postes afin de permettre la validation de la procédure. rédaction d'une documentation de rapport de mise en oeuvre et des désagrément occasionner lors de son déploiement sur le panel d'ordinateur  test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>création de document spécifique a l'explication aux utilisateurs de la manœuvre qu'il va être effectue sur leur ordinateur. accompagnement des utilisateur sur le terrain de leur nouveau moyen de connexion accompagnée d'une note d'explication  (documen</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>déploiement de service de sécurisation par le biais d'une procédure testée et corrigée au fur est a mesure des testes sur différents postes. Cela a permit la mise en place de la solution de sécurisation des postes et des accès utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation a un projet: du teste de la procédure à sa mise en oeuvre avec la création de document d'information pour les utilisateurs  . Utilisation de logiciel de gestion de projet (planning, tableau d'avancement de déploiement). </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation d'une solution de sécurisation des postes et accès utilisateur avec la migration de compte vers un compte mieux sécurisée. La configuration de postes est différentes sur chaque utilisateurs alors il faut arranger, reconfigurée chaque problèm</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mise a jours de document relatif par rapport a l'avancement du projet:
+planning, avancement du déploiement dans les services, rectification de la procédure ( amélioration), feuille d'intervention, compte rendu lors de déploiement au sein des services d</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>Déploiement d'une procédure qui vise a la sécurisation des postes et des accès utilisateurs. Gestion des droits suivent l'utilisateur lors de la migration définition des droits suivent leur poste et rôle au sein des services</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Mise en place d'une feuille excel qui permet de suivre le déploiement de la procédure de sécurisation des comptes, avancement du projet et information complémentaires qui servent au déploiement. De plus des fiche de compte rendu on été effectuée afin de </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Recueil d'information sur les compte des utilisateurs (login, compte utilisée ).Cela permet de voir si la migration du compte peut-être effectuée. Certain nécessite une modification de la procédure standard du fait qu'il utilise des comptes spécifique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Documentation, apprentissage, nouvelle méthode vue  lors de la participation au  projet qui m'a été confiée. Découverte de nouveau outils et composant ( outils Novell).</commentaireactivite>
+      </activitecitee>
+      <production numero="110">
+        <numero>110</numero>
+        <designation>compte rendu de la situation: Sécurisation des postes de travail et des accès utilisateurs</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/s%C3%A9curisation-des-postes-de-travail-et-acc%C3%A8s-utilisateur</adresse>
+      </production>
+      <production numero="118">
+        <numero>118</numero>
+        <designation>compte rendu de la situation: Sécurisation des postes de travail et des accès utilisateurs</designation>
+        <adresse>http://guerin-livretcompetence.overblog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="55116c6761133">
+    <ref>55116c6761133</ref>
+    <datesv>2015-03-24</datesv>
+  </sauvegarde>
+  <etudiant numero="93">
+    <nom>gueyvelian</nom>
+    <prenom>erwan</prenom>
+    <mel>erwan.gueyvelian@icof.fr</mel>
+    <situation ref="434">
+      <ref>434</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Résolution d'incident avec l'outil CSD</libcourt>
+      <descriptif>Un logiciel de résolution d'incidents est utilisé aux HCL afin de rentrer dans une base les incidents déclarés par les utilisateurs. Il sont résolus dans cette même base avec tout les détails importants (utilisateurs, poste de travail,...</descriptif>
+      <contexte>Chaque incident déclaré par un utilisateur est interprété dans une base.</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>J'ai pu effectuer des suivies d'intervention (incidents) lorsqu'il m'a été confié des tâches que j'ai dû accomplir suite à la demande d'utilisateurs. J'ai alors moi-même indiquer les détails de la résolution de l’incident ainsi que sa clôturation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Il m'a été obligé d'informer les utilisateurs pour savoir ou en était leur demande d'intervention (finit, en cours), et de plus leur expliquer de ce qu'il adviendra suite à l'intervention (changements, nouveautés, détails de la maintenance).</commentaireactivite>
+      </activitecitee>
+      <production numero="742">
+        <numero>742</numero>
+        <designation>Utilisation d'outils organisationnels</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/Blog/_layouts/15/start.aspx#/Lists/Billets/Post.aspx?List=e1ff9302-06dc-4370-ae60-e626d22dbd96&amp;ID=79&amp;Source=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyveli</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="435">
+      <ref>435</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt> gestion de parc informatique</libcourt>
+      <descriptif>Utilisation de l'application Qualiparc pour gérer le parc informatique.Cette application permet de référencer le matériel présent sur les HCL (imprimantes, PC, Écrans, MFP, ...) en indiquant son emplacement, l'utilisateur responsable, etc</descriptif>
+      <contexte>Utiliser pour gérer le parc informatique des HCL, simplifier le travail des techniciens, et organisé le parc informatique.</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Il est impératif de mettre à jour le logiciel de gestion de parc informatique sinon, il serait impossible de retrouver un matériel situer sur le site des HCL.</commentaireactivite>
+      </activitecitee>
+      <production numero="746">
+        <numero>746</numero>
+        <designation>Utilisation d'outils organisationnels</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/Blog/_layouts/15/start.aspx#/Lists/Billets/Post.aspx?List=e1ff9302-06dc-4370-ae60-e626d22dbd96&amp;ID=79&amp;Source=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyveli</adresse>
+      </production>
+    </situation>
+    <situation ref="457">
+      <ref>457</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Escalade d'incidents auprès de constructeurs informatiques</libcourt>
+      <descriptif>Lorsque certains matériels étaient défectueux, il était important de faire intervenir la garantie sur site, donc nous avions besoins d'appeler les supports en question, Lenovo, Dell, ICCA pour la solution de sauvegarde ICCA WOC, ou encore Philipps.</descriptif>
+      <contexte></contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Lorsque certains matériels étaient défectueux, il étaient nécessaire d'escalader les informations aux supports des constructeurs informatiques pour qu'ils puissent intervenir et ainsi faire intervenir la garantie sur site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Lorsque certains matériels étaient défectueux, suite à une demande aux supports des constructeurs informatiques, il étaient nécessaire d'informer les utilisateurs de l'état de leur incident et ainsi indiquer dans une base de connaissance son avancement</commentaireactivite>
+      </activitecitee>
+      <production numero="745">
+        <numero>745</numero>
+        <designation>Appel aux supports informatiques</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/Blog/_layouts/15/start.aspx#/Lists/Billets/Post.aspx?List=e1ff9302-06dc-4370-ae60-e626d22dbd96&amp;ID=76&amp;Source=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyveli</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="523">
+      <ref>523</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>GSB - VLAN</libcourt>
+      <descriptif>mise en place et configuration d'un nouveau switch de niveau 2 pour mettre à jour la plateforme GSB qui accueille désormais 2 nouveaux services installés dans un nouveau bâtiment (configuration de 2 nouveaux VLAN)</descriptif>
+      <contexte>La plateforme de BTS dispose de 3 bâtiments et de 2 étages par bâtiment, chaque étage possède sa propre activité. L'entreprise GSB a mit à jour ses secteurs d'activités pour faire apparaître 2 nouveaux service qui ont été configuré sur un nouveau switch</contexte>
+      <datedebut>2014-11-24</datedebut>
+      <datefin>2014-11-24</datefin>
+      <environnement>plateforme GSB de BTS</environnement>
+      <moyen>utilisation de tutos + aide du professeur</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Le paramétrage du nouveau switch aura une incidence sur le routing switch qui devra être mis à jour, sur le DHCP, sur le pfsense. Les VLAN sont un élément essentiel d'interactions entre services car ils permettent la séparation des réseaux.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Présentation d'une solution répondant au besoin de l'entreprise GSB qui demande la configuration du réseau dans un nouveau bâtiment (installation et configuration d'un nouveau switch).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>pour mettre en place ce nouveau switch, il est nécessaire de faire des mises à jour de configurations sur différents composants (Serveur 2008, Routing switch, pfsense).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Après l'installation et la configuration du nouveau switch pour le nouveau bâtiment, des tests on été effectués (ping entre réseaux, accès au serveur DHCP, récupération de bonnes adresses réseaux, ...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mise en place du nouveau switch pour le nouveau bâtiment (configurations 2 VLAN) Test des nouveaux services par rapport aux 2 VLAN en testant la bonne récupération d'adresse réseau (@192.168.14.0 pour le vlan 14, et @192.168.15.0 pour le vlan 15).</commentaireactivite>
+      </activitecitee>
+      <production numero="792">
+        <numero>792</numero>
+        <designation>Plan pour l'installation du nouveau switch (étapes à réaliser pour la bonne réalisation)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={1C8DD266-ADFD-4346-A153-38E7CB1DE9A4}&amp;file=Plan_plateforme_VLAN.docx&amp;action=default</adresse>
+      </production>
+      <production numero="793">
+        <numero>793</numero>
+        <designation>Contexte nouvelles activités (VLAN et Samba)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={67D4E30E-9337-407B-A96E-7FC617D27783}&amp;file=Contexte_Activit%C3%A9s_Examen.docx&amp;action=default</adresse>
+      </production>
+      <production numero="795">
+        <numero>795</numero>
+        <designation>tuto vlan mise à jour</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={378E20FB-9C07-479A-ADA0-4277AE94A58F}&amp;file=Tuto_Vlan.docx&amp;action=default</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="524">
+      <ref>524</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>GSB - Samba</libcourt>
+      <descriptif>Mise à jour du serveur samba pour les nouveaux services mis en place (Création de dossiers partagés + configuration des droits des nouveaux utilisateurs de chaque nouveau service).</descriptif>
+      <contexte>Suite à la création d'un nouveau bâtiment pour héberger 2 nouveaux services par la création de 2 VLAN sur un nouveau switch, le serveur samba doit être mis à jour afin de configurés les nouveaux services pour le partage des dossiers (droits des utilisate</contexte>
+      <datedebut>2014-12-08</datedebut>
+      <datefin>2014-12-08</datefin>
+      <environnement>plateforme GSB</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>La mise à jour du serveur samba est dépendante des utilisateurs de chaque service, autrement dit, au préalable, le serveur 2008 doit être à jour avec les nouveaux utilisateurs, le switch devra être configuré</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Après la mise à jour du serveur samba, il est nécessaire de tester le fonctionnement des partages (se connecter avec un utilisateur et tester ses accès sur les différents dossiers partagés)</commentaireactivite>
+      </activitecitee>
+      <production numero="794">
+        <numero>794</numero>
+        <designation>tuto samba mise à jour</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={CF7CBA9C-95E4-44CD-9F17-F4E8B80DE800}&amp;file=Modification_samba_2_nouveaux_services.docx&amp;action=default</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="537">
+      <ref>537</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Novatim : Installation W2012 + FTP ; Mappage de lecteur réseau</libcourt>
+      <descriptif>installation d'un serveur Windows 2012 R2, implémentant un annuaire AD, un contrôleur de domaine (DNS) + un serveur FTP + configuration d'un lecteur réseau au démarrage de sessions.</descriptif>
+      <contexte>la cellule informatique de Novatim dans laquelle j'étais en stage avait besoin d'un serveur FTP dans lequel les techniciens pourraient déposés depuis l’extérieur des données professionnelles.</contexte>
+      <datedebut>2015-02-05</datedebut>
+      <datefin>2015-02-10</datefin>
+      <environnement>Windows serveur 2012 R2 sur serveur physique comprenant un processeur Intel xeon 2 GHz, un système double RAID 1, et 8 Go de RAM. Serveur HP Proliant ML330 G6 </environnement>
+      <moyen>Internet</moyen>
+      <avisperso>bon projet dans lequel j'ai pu mettre en pratique mes connaissances sur les serveurs windows et dans lequel j'ai pu apprendre d'autres choses.</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>participation au projet de création d'un serveur FTP pour partager les documents de l'entreprise.
+Écriture des procédures d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Lors de mon projet j'ai dû configurer un serveur Windows 2012 R2 implémentant serveur FTP, AD et DNS.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Pour faciliter mon travail, j'ai configuré le support Teamviewer de Novatim sur le serveur afin de prendre la main à distance (utilisation du quick support pour permettre l'accès)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>A la fin de mon projet, j'ai du effectuer des tests d'accès à mon serveur FTP depuis mon poste avec des utilisateurs AD créés auparavant configurés avec certains droits. Tests effectués sur le client Filezilla</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Au fur et à mesure de mon projet, j'ai tenu à jour un fichier contenant toutes les étapes de mon travail, ajouté à cela les tests effectués, les résultats, les choix, ...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>J'ai rédigé un document contenant toutes les étapes de mon travail, les tests effectués, les résultats, les choix, ... Ce fichier contient aussi les étapes de vérification de fonctionnement et donc d'utilisation.</commentaireactivite>
+      </activitecitee>
+      <production numero="808">
+        <numero>808</numero>
+        <designation>Projet windows serveur 2012 R2</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={9E9FDB84-3DFF-4D6C-B200-0815BC02CD58}&amp;file=Projet_Serv2012_Gueyvelian_SIO2.docx&amp;action=default</adresse>
+      </production>
+      <production numero="809">
+        <numero>809</numero>
+        <designation>Rapport de stage 2015 Novatim</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={B101A7A3-3F81-4EBE-8CAD-5062FFA865CB}&amp;file=Rapport_Stage_Gueyvelian_Erwan_SIO2_Novatim.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1037">
+        <numero>1037</numero>
+        <designation>Schéma réseau Projet serveur 2012</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/Documents/Stage%202015/Sch%C3%A9ma_R%C3%A9seau_Projet_Serv2012.vsd</adresse>
+      </production>
+      <production numero="1038">
+        <numero>1038</numero>
+        <designation>Projet mappage lecteur réseau</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B4F1F8210-D254-4959-96D8-173DA0A153BA%7D&amp;file=Projet_mappage_lecteur_reseau_utilisateurs.docx&amp;action=default</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="569">
+      <ref>569</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance en condition opérationnelle des services info</libcourt>
+      <descriptif>Gestion des tickets par l'outil Esteban : degré d'urgence et résolution des problèmes techniques</descriptif>
+      <contexte>Novatim : Les clients nous font part de certains problèmes qui doivent être gérés au mieux.
+Problèmes matériels et logiciels.</contexte>
+      <datedebut>2015-02-14</datedebut>
+      <datefin>2015-02-15</datefin>
+      <environnement>Esteban : BD + ticketing
+</environnement>
+      <moyen>Logiciel Teamviewer pour prise en main à distance sur les serveurs.
+Agent de remontées d'informations installer sur la plupart des postes clients et tous les serveurs</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Lors de la mise en place d'une infrastructure ou d'un service réseau, l'entreprise cliente attend de Novatim une continuité de service optimale et de garantir un certain de taux maximal de disponibilité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Lorsqu'une personne dégrade le service, celle-ci est un risque grave pour l'entreprise. Tout le client est pénalisé et cela signifie perte de temps et donc d'argent. Peut être synonyme de perte de client pour Novatim</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Chaque serveur client, pour garantir une continuité de service optimale, propose un système de sauvegarde RAID (RAID 1 et 5) afin de minimiser une perte de fichiers importants pour l'entreprise cliente.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Des serveurs clients sont gérés par les techniciens, il est impératif de les superviser afin de garantir une continuité et une qualité de service maximal. Un agent est installé sur chaque serveur pour remonter les problèmes rencontrés, sur un serveur &amp</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Lors d'un incident, le technicien résout le problème grâce à ces connaissances, celle de ses collègues (réseau social d'entreprise), internet, documents, base de connaissance. Incidents résolus à distance. Gestion tickets dans BD Esteban.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>lors d'un problème signalé par un utilisateur, le technicien prend en compte son incident, puis le résout, il le rappel ensuite pour lui signalé le résultat et lui demandé de tester. une base de donnée &quot;Esteban&quot; permet la gestion de tickets</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>suite à un incident majeur, il est impératif que le technicien mette en place une solution de continuité de service. (serveur HS, mise en place d'un serveur intermédiaire le temps que le nouveau soit commandé)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>suite à un incident utilisateur, un diagnostique est réalisé afin de trouver la solution (internet, connaissances, ...). Si la cause du problème provient du serveur, c'est que le degré d'urgence est maximal, tout le service client est pénalisé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Pour une utilisation optimale d'un service, il est parfois conseillé au client de remplacé ou d'améliorer leur infrastructure par/avec un élément plus performant et plus récent. Un devis est alors présenté, accompagné des caractéristiques techniques.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Certaines fois, les serveurs clients connaissent une baisse de régime ou deviennent défectueux. Pour assuré une continuité de service optimale, le technicien peut proposer une nouvelle solution d'infrastructure. un devis est alors présenté.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Lors d'un incident déclaré par un client, certains ports d'un switch de celui-ci étaient défectueux. Il a donc fallu changer le switch.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Chaque serveur client, géré par Novatim, possède un support Teamviewer permettant aux techniciens d'administrer ces serveurs à distance. Les agents installés permettent la remontée d'informations telle que la dégradation de certains services.</commentaireactivite>
+      </activitecitee>
+      <production numero="870">
+        <numero>870</numero>
+        <designation>BD esteban (gestion du parc)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyvelian_icof_fr%2FDocuments%2FStage%25202015%2Fphotos%2Festeban.png</adresse>
+      </production>
+      <production numero="871">
+        <numero>871</numero>
+        <designation>BD esteban (creation de poste)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyvelian_icof_fr%2FDocuments%2FStage%25202015%2Fphotos%2Festeban_creation_poste.png</adresse>
+      </production>
+      <production numero="872">
+        <numero>872</numero>
+        <designation>quick support Teamviewer Novatim</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyvelian_icof_fr%2FDocuments%2FStage%25202015%2Fphotos%2Fquick_support.jpg</adresse>
+      </production>
+      <production numero="873">
+        <numero>873</numero>
+        <designation>Procédure master (postes d'un client)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyvelian_icof_fr%2FDocuments%2FStage%25202015%2Fphotos%2Fproc_cegelec.png</adresse>
+      </production>
+      <production numero="874">
+        <numero>874</numero>
+        <designation>BD esteban (gestion de tickets)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyvelian_icof_fr%2FDocuments%2FStage%25202015%2Fphotos%2FCapture.PNG</adresse>
+      </production>
+      <production numero="875">
+        <numero>875</numero>
+        <designation>Procédure informatique client</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/erwan_gueyvelian_icof_fr/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Flyceeicof-my.sharepoint.com%2Fpersonal%2Ferwan_gueyvelian_icof_fr%2FDocuments%2FStage%25202015%2Fphotos%2Fprocedure_client_retouche.png</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

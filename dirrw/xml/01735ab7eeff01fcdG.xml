@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5ab7eeff01fcd">
+    <ref>5ab7eeff01fcd</ref>
+    <datesv>2018-03-25</datesv>
+  </sauvegarde>
+  <etudiant numero="173">
+    <nom>THERET</nom>
+    <prenom>Tom</prenom>
+    <mel>Tom.THERET@icof.fr</mel>
+    <situation ref="1159">
+      <ref>1159</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Mise en place d'un outil de gestion </libcourt>
+      <descriptif>Création d'un site internet (PHP, CSS, JavaScript, FrameWork) avec application mobile Android (XML, Java) qui permet d'inscrire les menus de la cantine et des informations propre à l'établissement.</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Sublime Text 3
+Android Studio
+FrameWork Bootstrap
+Hébergement site : OVH 
+Test appli : Asus zenfone 2 
+Test Site : Google Chrome</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S1 : Application qui permet de gérer les menus et les information propre a l'établissement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>S1 : Réalisation de jeux d'essai sur les menus et sur les informations du site.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>S1 : Créations d'utilisateurs pour différents services pour les différents besoins. 3 niveaux de administration.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>S1 : La méthode agile à été appliquer pour la conception du projet afin de répondre plus rapidement aux évolutions des demandes de l’utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>S1 : La conception du projet requiert l'utilisation d'un logiciel de Développement web qui pourra mélanger plusieurs types de langages (PHP, CSS, HTML, JavaScript) --&gt; NetBeans
+
+La partie applications mobile devra se servir de l'outil Android Stud</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>S1 : Conception du site en local afin d'effectuer un prototype avant déploiement. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>S1 : Utilisation de l'IDE Android Studio suivi de tests avec le matériel émuler par le logiciel et par un smartphone réel. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>S1 : Utilisation d'un framework Bootstrap pour le CSS et JavaScript
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>S1 : Apprentissage développement Android .</commentaireactivite>
+      </activitecitee>
+      <production numero="1953">
+        <numero>1953</numero>
+        <designation>Site internet icof APP-INFO</designation>
+        <adresse>http://icof.fr/appinfo/</adresse>
+      </production>
+      <production numero="1954">
+        <numero>1954</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/tom_theret_icof_fr/_layouts/15/guestaccess.aspx?docid=1000bb945f24a463a8c60dae86a43b206&amp;authkey=AX-HuD98k8-EaaK4b7q8RpI</adresse>
+      </production>
+      <production numero="1955">
+        <numero>1955</numero>
+        <designation>Document Application web </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/tom_theret_icof_fr/_layouts/15/guestaccess.aspx?folderid=14b9042812bc64ba09d9b4d48d6dd8290&amp;authkey=ARAe1WjV0A9VEwqW7qsYtO8</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1235">
+      <ref>1235</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 : Outils de déploiement de mise à jour serveur</libcourt>
+      <descriptif>Script Powershell qui permet d'effectué une mise à jour d'un serveur.</descriptif>
+      <contexte>Dans le cadre de mon stage, des mises à jours devaient être effectué sur les serveur de l'entreprise. Le but était de déployer des fichiers sur l’ensemble des machines (qui on tous la même arborescence). Pour le que le déploiement des fichiers fonctionnen</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Powershell ISE,
+SublimeText</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S2 : C1.1.1.2 : Déployer des fichiers à jours sur toutes les machines disponibles qui on tous la même arborescence. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>S2 : C1.2.3.1 : Le choix de la source ou se trouvent les élément à être déployé doit être le bon chemin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>S2 : C1.3.4.3 : Mise en place du service sur le serveur commun de l'entreprise. L’exécuteur viens le récupérer et l'utiliser en local sur sa machine a condition d'être administrateur et d'être relier au réseaux.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>S2 : C1.4.2.3 : Test en production avec le chef de projet sur toutes les machines disponibles pour éventuellement corriger les erreurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>S2 : Seul sur le projet,
+Matériel a disposition : Ordinateur fixe processeur intel core i7, 16GO RAM, SSD 1To, avec accès réseaux 
+Logiciels : Sublime text et Powershell ISE</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>S2 : C2.1.1.1 : Indication en début de script pour aider les utilisateur à utiliser le script.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>S2 : C2.1.2.4 : prise de conscience sur l'utilisation du script et des éventuelles correction/ajout.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>S2 : C2.2.1.2 : prise de contrôle à distance sur deux serveurs où les mises à jours seront effectué pour effectuer des test du script avec l'outil MSTSC. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>S2 : C2.3.2.2 : Délais moyen exécuté par l’ancien script codé en Batch 20min avec le même nombre de fichier a déployer temps moyen actuel est de 2min codé en powershell.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>S2 : C3.1.3.3 : Le script peut être exécuté uniquement en mode administrateur </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>S2 : Ce script remplace un outil similaire développer en Batch qui devenait obsolète.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1236">
+      <ref>1236</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 : Outils de sauvegarde de données</libcourt>
+      <descriptif>Script Powershell qui permet de sauver des données dans une cible et restaurer des données depuis cette source vers une autre cible donné d'après la date de modification du fichier.</descriptif>
+      <contexte>L'entreprise dispose deux disque dur, 1 SSD et 1 HDD. Tout les fichiers de code son sur le HDD, si il le fichier en question a été modifié il sera déplacer sur le SSD. Si dans le cas où le fichier n'a pas été modifié depuis plus de 30 jours il sera bascul</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Powershell ISE,
+SublimeText</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S2 : C.1.1.1.1 : Script Powershell qui permet de sauver des données dans une cible et restaurer des données depuis cette source vers une autre cible donné d'après la date de modification du fichier.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>S2 : C.1.2.3.1 :  Le choix de la source et la cible doit avoir le bon chemin.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>S2 :C.1.3.3.2 : Document de test sur les deux scripts de sauvegarde pour informer les utilisateurs des utilisations.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>S2 : C.1.3.4.2 : Script automatisé sur la sauvegarde des fichiers. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>S2 : Seul sur le projet,
+Matériel à disposition : Ordinateur fixe processeur intel core i7, 16GO RAM, SSD 1To, avec accès réseaux 
+Logiciels : Sublime text et Powershell ISE</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>S2 : C.2.1.1.1 : Accompagnement au fur et à mesure du déroulement du script.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>S2 : C2.2.1.2 : prise de contrôle à distance sur un serveur où les sauvegardes seront effectué avec l'outil MSTSC. </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1241">
+      <ref>1241</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 : Outils de configuration de nouvelle installation serveur</libcourt>
+      <descriptif>Script Powershell qui permet de mettre en place un serveur supplémentaire efficace dès la fin du processus.
+Récupération des fichiers d'installation,Installation des fichiers MSI et EXE.
+Configuration de fichiers XML en fonction du nom du PC.
+Insertion</descriptif>
+      <contexte>L'entreprise souhaitait obtenir un serveur supplémentaire opérationnel le plus rapidement possible pour gérer un éventuelle surcharge.</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Powershell ISE,
+SublimeText</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S2 : C.1.1.1.2 : Installation et configuration d'un nouveau serveur grâce à un script et un emplacement de stockage contenant les fichiers d'installation. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>S2 : C.1.1.2.1 : Connexion à la base de données existante et insertion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>S2 : C.1.3.3 : Accompagnement des utilisateur durant l'installation avec des annotations dans le déroulement de l'installation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>S2 : Seul sur le projet,
+Matériel a disposition : Ordinateur fixe processeur intel core i7, 16GO RAM, SSD 1To, avec accès réseaux </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>S2 : C2.1.1.1 : aide dans le ReadMe</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>S2 : C2.1.2.4 : prise de conscience sur l'utilisation du script et des éventuelles correction/ajout.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>S2 : C.4.1.10 : Réalisation d'un ReadMe pour aider les utilisateurs dans la nouvelle installation d'un serveur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite>S2 : C5.2.1.2 : Bonnes pratiques dans le ReadMe</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1242">
+      <ref>1242</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 : Développement de l'infrastructure Intranet </libcourt>
+      <descriptif>Modification du site intranet existant pour la société AC environnement.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Écrit en PHP avec modification base de données</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>S2 : C.1.1.1.2 : Modification du site intranet en ajoutant des "modules" Fichiers, Dossiers et lien externent </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>S2 : C.1.2.3.1 : Sécurisation du site par session.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>S2 : C.1.2.4.1 :
+- test de l'insertion, suppression modification dans la base de données
+
+
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>S2 : C.1.4.1.1 : Tant que j’avais à disposition mon PC et Internet j'avais un planning à temps plein sur ce projet. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>S2 : Seul sur le projet,
+Matériel à disposition : Ordinateur fixe processeur intel core i7, 16GO RAM, SSD 1To, avec accès réseaux </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>S2 : C.2.1.1.1 : Schémas et doc de la base de données et commentaire sur le code pour aider la reprise</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>S2 : C.3.1.2.2 : Création de deux prototypes pour une confrontation. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>S2 : C.4.1.3.4 : Manipuler les données déjà existantes </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite>S2 : C.5.1.2.1 : Mise en place du Github</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>S2 : C.5.1.2.1 : Gestion du Github</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>S2 : C.5.1.3.1 : Gestion du Github</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1265">
+      <ref>1265</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>2</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>/</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-11-08</datedebut>
+      <datefin>2018-03-09</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1274">
+      <ref>1274</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE C#</libcourt>
+      <descriptif>/</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-02-27</datedebut>
+      <datefin>2018-02-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1275">
+      <ref>1275</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>PPE php</libcourt>
+      <descriptif>/</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-02-27</datedebut>
+      <datefin>2018-02-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

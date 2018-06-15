@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5341bce5ebf84">
+    <ref>5341bce5ebf84</ref>
+    <datesv>2014-04-06</datesv>
+  </sauvegarde>
+  <etudiant numero="45">
+    <nom>chelza</nom>
+    <prenom>stephane</prenom>
+    <mel>stephane.chelza@icof.fr</mel>
+    <situation ref="248">
+      <ref>248</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Déploiement avec SCCM 2012 et WDM</libcourt>
+      <descriptif>Migration de parc de Windows XP à Seven.
+Après réception de 150 postes, il fallait installer Windows 7 32 bit sur chacun des postes en démarrant en PXE.
+Migration de terminaux Wyse vers la nouvelle ferme. </descriptif>
+      <contexte>150 postes à préparer pour les utilisateurs de la C.C.I. au Palais du commerce. De plus, d'autres terminaux légers de type Wyse devaient être migrés également</contexte>
+      <datedebut>2013-06-28</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Windows Seven, Système Center Configuration Manager, Wyse device manager</environnement>
+      <moyen>Une équipe de 8 stagiaires en informatique, manutention et préparation des postes dans un bureau dédié. </moyen>
+      <avisperso>Travail intéressant car nouveau mais assez répétitif en fin de stage.</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Installation de Seven sur 150 postes via un démarrage réseau PXE et terminaux légers Wyse.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Installation de 150 postes avec une équipe de 8 stagiaires dans un délai de 4 semaines et terminaux wyse selon les besoins.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et paramétrage de terminaux Wyse destinés aux employés.  </commentaireactivite>
+      </activitecitee>
+      <production numero="401">
+        <numero>401</numero>
+        <designation>Déploiement SCCM</designation>
+        <adresse>http://sio-competence2014.over-blog.com/d%C3%A9ploiement-avec-sccm-2012</adresse>
+      </production>
+      <production numero="410">
+        <numero>410</numero>
+        <designation>migration de terminaux wyse</designation>
+        <adresse>http://sio-competence2014.over-blog.com/migration-de-terminaux-wyse</adresse>
+      </production>
+    </situation>
+    <situation ref="250">
+      <ref>250</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Aide aux utilisateurs</libcourt>
+      <descriptif>Assistance aux utilisateurs de la C.C.I. (téléphone, prise en main à distance)
+Gravure de 45 CD.</descriptif>
+      <contexte>Hotline en parallèle de mon projet de stage (déploiement windows 7) et aide aux utilisateurs.</contexte>
+      <datedebut>2013-06-28</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>TeamViewer, DeepBurner</environnement>
+      <moyen>Prise en main à distance, graveur DVD + logiciel de gravure (deepburner).</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Lorsqu'une intervention à été réalisé il fallait par la suite donner le niveau de satisfaction de l'utilisateur à notre maître de stage en lui expliquant la démarche suivi.  </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Prise en main a distance avec TeamViewer, UltraVNC, MSTSC
+Hotline</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement d'alimentation défectueuse sur un poste
+Installation de RAM pour plus de confort pour l'utilisateur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Rédaction d'un documentation sur l'utilisation d'un videoprojecteur</commentaireactivite>
+      </activitecitee>
+      <production numero="402">
+        <numero>402</numero>
+        <designation>aide aux utilisateurs</designation>
+        <adresse>http://sio-competence2014.over-blog.com/aide-aux-utilisateurs</adresse>
+      </production>
+      <production numero="411">
+        <numero>411</numero>
+        <designation>Demande d'un employé</designation>
+        <adresse>http://sio-competence2014.over-blog.com/gravure-cd-pour-lyon-visiocommerce</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="253">
+      <ref>253</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Installation d'un serveur de test de performance (sonde)</libcourt>
+      <descriptif>Une sonde SecurActive a été installée pour surveiller le trafic réseau et la performance des applications.</descriptif>
+      <contexte>Pour comparer les performances au ressenti des utilisateurs, une sonde chargée de relever les performances du réseau a été installée dans la salle des serveurs. </contexte>
+      <datedebut>2013-06-28</datedebut>
+      <datefin>2013-06-28</datefin>
+      <environnement>Salle des serveurs, baie de brassage, sonde SecurActive.</environnement>
+      <moyen>Le technicien chargé d'installer la sonde, deux stagiaires, mon tuteur de stage et moi sommes allés dans la salle des serveurs installer la sonde puis regarder le technicien la configurer. </moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à l'installation de la sonde</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Logiciel qui permet de recueillir les informations de configuration du réseau + exemples.</commentaireactivite>
+      </activitecitee>
+      <production numero="412">
+        <numero>412</numero>
+        <designation>Serveur SecurActive</designation>
+        <adresse>http://sio-competence2014.over-blog.com/installation-d-un-serveur</adresse>
+      </production>
+    </situation>
+    <situation ref="359">
+      <ref>359</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>P2V Physical to virtual</libcourt>
+      <descriptif>Physique-à-Virtuel (P2V) est un processus de migration du système d'exploitation, des applications et des données d'un serveur physique vers une machine virtuelle, accueillie sur une plate-forme virtualisée.</descriptif>
+      <contexte>Pour des raisons de coût et de place, l'école a décidé de virtualiser ses serveurs.</contexte>
+      <datedebut>2014-01-06</datedebut>
+      <datefin>2014-02-21</datefin>
+      <environnement>Salle des serveurs, Windows Server 2008r2, Virtual Machine Manager.</environnement>
+      <moyen>Serveur de test.</moyen>
+      <avisperso>Beaucoup de recherches personnelles afin de trouver le logiciel adéquat pour ensuite lancer les tests.</avisperso>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Mon tuteur de stage m'a fait part de son envie de virtualiser les serveurs physiques de la salle des serveurs. J'ai donc observé les caractéristiques de chaque machine et cherché le logiciel adéquat pour effectuer le P2V.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>J'ai rédigé une documentation avec toutes les étapes que j'ai effectuées pour réaliser mon P2V.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite>Pour faire le P2V, il y a des pré-requis à respecter au niveau des caractéristiques minimales des machines. </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="372">
+      <ref>372</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Installation serveur 2008 r2</libcourt>
+      <descriptif>Installation de 2008 r2 avec installation des rôles active directory, DNS, DHCP, WDS(service de déploiement Windows).</descriptif>
+      <contexte>Pour l'autre site de l'école, qui se trouve à Valence, un nouveau serveur plus récent devait être installé.</contexte>
+      <datedebut>2014-01-06</datedebut>
+      <datefin>2014-02-21</datefin>
+      <environnement>Windows server 2008 r2, HP Intelligent Provisioning, HP Proliant.</environnement>
+      <moyen>En autonomie, dans une salle dédiée, avec tout le matériel nécessaire.</moyen>
+      <avisperso>Beaucoup de recherches personnelles (Windows server 2012 foundation, OCS, GLPI,WDS...). Activité très complète car diverse et variée. </avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Vérification du bon fonctionnement de chacun des rôles DNS, active directory, DHCP et WDS.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>OCS agent sur tous les PC du parc afin de réaliser un inventaire complet du parc informatique de l'organisation.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>RAID 0 HP smart storage administrator.
+Création WDS et configuration du service (drivers, images système)
+DNS, DHCP, AD.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Mise en place d'un serveur plus récent avec plus de mémoire sur le site de Valence.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Prise en main à distance d'un serveur WDS de Lyon pour y récupérer des images système afin de les intégrer par la suite au nouveau serveur.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="387">
+      <ref>387</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Configuration de switch</libcourt>
+      <descriptif>- Création de VLAN sur switch HP 1810 48G avec l'interface graphique dans le navigateur pour répartir la plate-forme de test entre les stagiaires.
+- Réinstallation pour l'utilisation en production.</descriptif>
+      <contexte>De nouveaux switch Gigabit à mettre dans la baie de brassage pour remplacer les anciens en 100Mbit/s</contexte>
+      <datedebut>2014-01-06</datedebut>
+      <datefin>2014-02-21</datefin>
+      <environnement>Interface web HP, Windows 7, Switch HP 1810 48G.</environnement>
+      <moyen>Environnement de test.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

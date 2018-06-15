@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a9521c9cc702">
+    <ref>5a9521c9cc702</ref>
+    <datesv>2018-02-27</datesv>
+  </sauvegarde>
+  <etudiant numero="145">
+    <nom>EMIEUX</nom>
+    <prenom>Charles</prenom>
+    <mel>charles.emieux@icof.fr</mel>
+    <situation ref="921">
+      <ref>921</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Réalisation d'une application Gestion Client</libcourt>
+      <descriptif>Pour l'entreprise IDM (logiciel pour opticien), création d'une application en php/mysql</descriptif>
+      <contexte>Entreprise IDM</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement>PHP/ MySQL / CSS</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Explication du système de fonctionnement de l'application
+Analyse du code</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>L'ancienne plateforme longue et pas toujours pratique a utiliser</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>L'application pointais vers une ancienne base de donnée (mise en commun de l'ancienne et de la nouvelle base)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Sublime Text / BDD de Développement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>La plateforme était existante, il m'a été demandé de la modifier. Je suis donc parti d'un code que j'ai analysé et modifié</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Test de tout les outils de l'application (pour toutes les possibilités)</commentaireactivite>
+      </activitecitee>
+      <production numero="1918">
+        <numero>1918</numero>
+        <designation>Site stage de premiere année (missions)</designation>
+        <adresse>http://stage-bts-sio-ce.e-monsite.com</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1152">
+      <ref>1152</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Maintenance</libcourt>
+      <descriptif>Maintenance des pc</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prendre le contrôle d'un système à distance (ordinateurs clients avec TeamViewer)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Relation client</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Recherche de dysfonctionnement </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Paramétrage de routeur</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Changement de matériel interne au PC (disque dur, ram, carte graphique)</commentaireactivite>
+      </activitecitee>
+      <production numero="1916">
+        <numero>1916</numero>
+        <designation>lien vers document word</designation>
+        <adresse></adresse>
+      </production>
+    </situation>
+    <situation ref="1230">
+      <ref>1230</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2 - Creation d'un site WordPress</libcourt>
+      <descriptif>Création d'un site WordPress pour la marque Véronique Milioni</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-02-27</datedebut>
+      <datefin>2018-02-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

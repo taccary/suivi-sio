@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a9507efe8bf5">
+    <ref>5a9507efe8bf5</ref>
+    <datesv>2018-02-27</datesv>
+  </sauvegarde>
+  <etudiant numero="169">
+    <nom>MIGLIANICO</nom>
+    <prenom>Thomas</prenom>
+    <mel>Thomas.MIGLIANICO@icof.fr</mel>
+    <situation ref="1076">
+      <ref>1076</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Renforcement site web - Galerie photo</libcourt>
+      <descriptif>A la demande d'un client, il nous est demandé de renforcer un site web déjà existant en mettant en place une galerie photo afin d'aérer le visuel de la page et de permettre à l'administrateur de délivrer plus de photos.</descriptif>
+      <contexte>Travail dans les locaux de l'association Coup de Pouce, avec MILON Pascal (Maître de stage), pour le client : Sylvie NEYRET ADAM.
+B</contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>J'apporte moi même mon ordinateur portable et je travail sur mon disque dur.
+Je me connecte aussi sur le réseau du serveur afin d'avoir accès au serveur de test du site web afin de mettre en place les éléments demandés sans compromettre le site en prod</environnement>
+      <moyen>Serveur de test</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du contexte et de la demande du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>/*/Sécurité connexion galerie /*/Où veut-elle placer la galerie photo? Comment l'alimenter ? </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Création de 5 maquettes, présentés lors d'un rendez-vous avec TeamViewer, choix de la maquette selon sa préférence.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>/*/ clique changement d'image dynamique /*/ Solutions déjà existante, BootStrap, ne pas sélectionner le CSS déjà présent mais récupérer un code en ligne qui ne concerne que la partie souhaité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Serveur de test personnel, possibilité de modifier et de tester plus en profondeur le XPX, tester l'intégration de la solution technique.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Renseigner l'utilisateur sur la mise en place d'une galerie photo. (Nouvelle ajout -&gt; Ajout d'image -&gt; Position , etc...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Sélectionner les fichiers modifier, repérer les bouts de code à mettre à jour. Préparer l'intégration sur le serveur de pré-production, puis implantation sur le serveur de post-production.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Sprint fixé chaque semaine, rendre-compte à l'oral du projet et montrer l'avancement du projet à mon maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>S'assurer de la bonne compréhension du service, laisser son numéro pour qu'elle puisse nous joindre en cas d'incompréhension du service proposé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>TeamViewer, faire la manipulation devant elle en projetant son propre écran afin que la cliente puisse comprendre les manipulations. (Environnement familier)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Par la même occasion que la galerie photo, proposition d'un nouvel affichage CSS pour rendre le site plus lisible./*/</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>boostrap</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'un nouveau bouton dans la partie administration pour la création d'une galerie photo et l'administration de cette dernière. (Position, nombre d'image etc..)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Exploitation d'un serveur de test à travers WinSCP, utilisation de mon serveur uWamp pour transférer les fichiers créés ou modifier et afin de garder une trace avec des sauvegardes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite>Requête SQL dans le code XPX pour récupérer les photos en adéquation avec la galerie, toujours protégé (impossibilité de se connecter pour un utilisateur lambda et donc d'avoir accès à l'administration)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Création d'alerte en ligne via Google Alert, sur le monde Informatique et les futurs métiers qui m'intéressent</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Lors de trou pendant le projet (attente d'un retour de la part du maître de stage ou de la cliente) continuer à se former sur des sites tel que Codecademy ou OpenClassroom.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude d'une nouvelle technologie jamais aborder jusqu'à maintenant: le XPX, langage créée par une des sociétés de MILON Pascal (https://www.xpx-technologies.net/)</commentaireactivite>
+      </activitecitee>
+      <production numero="1871">
+        <numero>1871</numero>
+        <designation>A1.1.1 Analyse du cahier des charges d'un service à produire</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B14D66A83-ECF4-4BC4-BCA2-9A000D1C0766%7D&amp;file=Neyret%20Adam%20Architecte.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1872">
+        <numero>1872</numero>
+        <designation>A1.1.3 Étude des exigences liées à la qualité attendue d'un service</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B14D66A83-ECF4-4BC4-BCA2-9A000D1C0766%7D&amp;file=Neyret%20Adam%20Architecte.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1873">
+        <numero>1873</numero>
+        <designation>A1.2.1 Élaboration et présentation d'un dossier de choix de solution technique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20Copropriete%2FSolutions%20propos%C3%A9es</adresse>
+      </production>
+      <production numero="1874">
+        <numero>1874</numero>
+        <designation>A1.2.2 Rédaction des spécifications techniques de la solution retenue (adaptation d'une solution existante ou réalisation d'une nouvelle solution)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B14D66A83-ECF4-4BC4-BCA2-9A000D1C0766%7D&amp;file=Neyret%20Adam%20Architecte.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1875">
+        <numero>1875</numero>
+        <designation>A1.3.1 Test d'intégration et d'acceptation d'un service</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20NEYRET%20ADAM%2FTest%20d%27int%C3%A9gration</adresse>
+      </production>
+      <production numero="1876">
+        <numero>1876</numero>
+        <designation>A1.3.3 Accompagnement de la mise en place d'un nouveau service</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20NEYRET%20ADAM%2FInformations%20utilisateurs</adresse>
+      </production>
+      <production numero="1877">
+        <numero>1877</numero>
+        <designation>A1.3.4 Déploiement d'un service</designation>
+        <adresse>Sprint fixé chaque semaine, rendre-compte à l'oral du projet et montrer l'avancement du projet à mon maître de stage.</adresse>
+      </production>
+      <production numero="1878">
+        <numero>1878</numero>
+        <designation>A2.1.1 Accompagnement des utilisateurs dans la prise en main d'un service</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20NEYRET%20ADAM%2FInformations%20utilisateurs</adresse>
+      </production>
+      <production numero="1879">
+        <numero>1879</numero>
+        <designation>A2.2.2 Suivi et réponse à des demandes d'assistance</designation>
+        <adresse>TeamViewer, faire la manipulation devant elle en projetant son propre écran afin que la cliente puisse comprendre les manipulations. (Environnement familier)</adresse>
+      </production>
+      <production numero="1880">
+        <numero>1880</numero>
+        <designation>A2.3.2 Proposition d'amélioration d'un service</designation>
+        <adresse>Propositions d'une nouvelle couleur de background, plus de design.</adresse>
+      </production>
+      <production numero="1881">
+        <numero>1881</numero>
+        <designation>A4.1.1 Proposition d'une solution applicative</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B14D66A83-ECF4-4BC4-BCA2-9A000D1C0766%7D&amp;file=Neyret%20Adam%20Architecte.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1882">
+        <numero>1882</numero>
+        <designation>A4.1.2 Conception ou adaptation de l'interface utilisateur d'une solution applicative</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20NEYRET%20ADAM%2FNouveau%20bouton%2Fadministration%2EPNG&amp</adresse>
+      </production>
+      <production numero="1884">
+        <numero>1884</numero>
+        <designation>A4.1.6 Gestion d'environnements de développement et de test</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20NEYRET%20ADAM%2FEnvironnement%20d%C3%A9veloppement%2Fenviro</adresse>
+      </production>
+      <production numero="1885">
+        <numero>1885</numero>
+        <designation>A4.1.7 Développement, utilisation ou adaptation de composants logiciels</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20NEYRET%20ADAM%2FNouveau%20code</adresse>
+      </production>
+      <production numero="1886">
+        <numero>1886</numero>
+        <designation>A4.1.8 Réalisation des tests nécessaires à la validation d'éléments adaptés ou développés</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20NEYRET%20ADAM%2FNouveau%20code</adresse>
+      </production>
+      <production numero="1887">
+        <numero>1887</numero>
+        <designation>A5.2.2 Veille technologique</designation>
+        <adresse>https://www.google.fr/alerts</adresse>
+      </production>
+      <production numero="1888">
+        <numero>1888</numero>
+        <designation>A5.2.3 Repérage des compléments de formation ou d'auto-formation utiles à l'acquisition de nouvelles compétences</designation>
+        <adresse>https://www.codecademy.com/</adresse>
+      </production>
+      <production numero="1889">
+        <numero>1889</numero>
+        <designation>A5.2.4 Étude d‘une technologie, d'un composant, d'un outil ou d'une méthode</designation>
+        <adresse>https://www.xpx-technologies.net/</adresse>
+      </production>
+      <production numero="1896">
+        <numero>1896</numero>
+        <designation>A1.4.1 Participation à un projet</designation>
+        <adresse>Rendre compte oral </adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1093">
+      <ref>1093</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Définir la charte graphique d'un nouveau site web</libcourt>
+      <descriptif>MILON Pascal m'a demandé de définir une charte graphique sur un nouveau site qu'il compte créer dans le futur, il voudrait :
+- Se renseigner sur les sites web de copropriété déjà existant 
+- Définir la charte graphique, placements des informations
+- </descriptif>
+      <contexte>Rendre compte au maître de stage pour une mission privée.</contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Serveur UwAmp personnel.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du contexte et de la demande du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Créer un word avec plusieurs solutions</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Redirection sur les différentes solutions utilisés</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>uWamp </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développer et validé par le maitre de stage</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>uWAmp</commentaireactivite>
+      </activitecitee>
+      <production numero="1890">
+        <numero>1890</numero>
+        <designation>A1.1.1 Analyse du cahier des charges d'un service à produire</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B13F56F0C-006F-4CBB-AC2B-1791AB3247BB%7D&amp;file=Copropri%C3%A9t%C3%A9.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1891">
+        <numero>1891</numero>
+        <designation>A1.2.1 Élaboration et présentation d'un dossier de choix de solution technique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B13F56F0C-006F-4CBB-AC2B-1791AB3247BB%7D&amp;file=Copropri%C3%A9t%C3%A9.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1892">
+        <numero>1892</numero>
+        <designation>A1.2.2 Rédaction des spécifications techniques de la solution retenue (adaptation d'une solution existante ou réalisation d'une nouvelle solution)</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B13F56F0C-006F-4CBB-AC2B-1791AB3247BB%7D&amp;file=Copropri%C3%A9t%C3%A9.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1893">
+        <numero>1893</numero>
+        <designation>A4.1.1 Proposition d'une solution applicative</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20Copropriete%2Fsite%2EPNG&amp;parent=%2Fpersonal%2Fthomas_mi</adresse>
+      </production>
+      <production numero="1894">
+        <numero>1894</numero>
+        <designation>A4.1.5 Prototypage de composants logiciels</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20Copropriete%2FPrototype</adresse>
+      </production>
+      <production numero="1895">
+        <numero>1895</numero>
+        <designation>A4.1.6 Gestion d'environnements de développement et de test</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_miglianico_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fthomas_miglianico_icof_fr%2FDocuments%2FSTAGE%20MIGLIANICO%202017%2FMission%20-%20Copropriete%2Fsite%2EPNG&amp;parent=%2Fpersonal%2Fthomas_mi</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1204">
+      <ref>1204</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Développement application web php/js/ajax</libcourt>
+      <descriptif>Développer une application web pour le compte du maître de stage. Le but étant de faciliter la validation de &quot;quête&quot;, de joueurs durant les événements.
+Tel que la Lyon-eSport, Paris Games Week, Geek Touch, etc...
+Aucun CSS utilisé. Utilité s</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-01-17</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Développement phpmyadmin sur uWamp. Test effectué.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Sauvegarde de la base de donnée en .sql plus un rar qui contient tous les fichiers du dossier web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Maitre du stage qui m'informe petit à petit des éléments à corriger et des nouveaux éléments à ajouter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Utilisateur étant mon maître de stage, on voit ensemble les besoins, ce dont elle a besoin. Vérification que cela soit simple d'utilisation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Développement sur uWamp d'un prototype &quot;neutre&quot;, il sera par la suite intégré au sous domaine d'un site web déjà existant</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>uWamp, le maître de stage utilise une base de donnée aussi. Vérification qu'aucun moyen ne peut être mis en oeuvre pour accéder à la base de donnée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Winrar + sql</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Mettre à jour une documentation pour le site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Permet de valider les quêtes pour un utilisateur un jour donné</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Développement d'une base de donnée répondant aux demandes du site web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="38">
+        <idActivite>38</idActivite>
+        <commentaireactivite>Développement de l'application web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Utilisation d'uWAmp pour le php/ajax/js</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>???</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>réalisation d'une doc d'utilisation pour l'utilisation de l'application </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Etude d'un document produit par un collègue, envoyé à LDLC pour validation. Vérification qu'il ne manque rien</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Google alert</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="56">
+        <idActivite>56</idActivite>
+        <commentaireactivite>Mis en place JS / AJAX, recherche d'information et formation sur des sites web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Rechercher comment développer en JS / AJAX</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1205">
+      <ref>1205</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Développement web application prototype </libcourt>
+      <descriptif>Développement d'une application web qui servira de prototype afin que le maître de stage puisse montrer à quoi ressemblera l'application.
+Une société de développement d'application en sous-traitance s'occupe de cette application. La société a besoin </descriptif>
+      <contexte></contexte>
+      <datedebut>2018-01-18</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

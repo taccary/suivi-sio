@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a86ad68d4663">
+    <ref>5a86ad68d4663</ref>
+    <datesv>2018-02-16</datesv>
+  </sauvegarde>
+  <etudiant numero="128">
+    <nom>AZZOUG</nom>
+    <prenom>Jaber</prenom>
+    <mel>Jaber.AZZOUG@icof.fr</mel>
+    <situation ref="1157">
+      <ref>1157</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Amélioration du master des postes</libcourt>
+      <descriptif>J'ai participé a améliorer le master en détectant les erreurs liées a celui-ci</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Microsoft System Center 2012 installation de Windows 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Dans cette partie j’ai dû tester le nouveau master mis en place par le service déploiement, ce master a été fait en urgence et donc n’a pas pu être testé avant j’ai donc été la première à l’utiliser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Pour cette partie j’ai mis en place une procédure concernant la mise en œuvre de l’installation du master sur ces postes.</commentaireactivite>
+      </activitecitee>
+      <production numero="1952">
+        <numero>1952</numero>
+        <designation>EtapeMasterisation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/jaber_azzoug_icof_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjaber_azzoug_icof_fr%2FDocuments%2FStage%202017%2FSuiviDesCompetenceSIO</adresse>
+      </production>
+      <production numero="1967">
+        <numero>1967</numero>
+        <designation>Reformulation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/jaber_azzoug_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B6930815F-518F-484F-8200-B5C0BBA0A621%7D&amp;file=Reformulation.docx&amp;action=default&amp;IsList=1&amp;ListId=%7B40D1929E-EB72-4621-805C-677D0CF233E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1179">
+      <ref>1179</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Déploiement et installation de nouveaux PC</libcourt>
+      <descriptif>J'ai déployé le nouveau master sur 80 postes et installé les logiciels manquants : projet urgent à partir d'un master incomplet </descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Windows 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>J'ai participé plusieurs réunions entre les services informatiques concernant l'avancement la masterisation et par la suite le déploiement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Pour l’installation et le déploiement des nouveaux Pc pour professionnaliser et faciliter la mise en place de  cette tâche j’ai opté pour un document Excel contenant toutes les informations nécessaires : le nom du Pc, le nom et le service de la personne e</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Dans ce projet j’ai pu suivre l’avancement de ce projet avec le document Excel que j’ai réalisé juste avant, il m’a servi essentiellement à savoir à quelle vitesse le projet avancer. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Mon planning concernant le déploiement des PC a dû être adapté, car malheureusement le service déploiement a acheté du matériel informatique plus précisément des écrans non adaptés aux PC acheté : les écrans nécessités de câbles HDMI alors que les PC n’av</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Lors de chaque déploiement de nouveau PC les utilisateurs me demander de leur expliquer les principaux changements avec les anciens PC, je leur ai donc expliqué comment allumer les PC, comment se connecter à citrix directement, je leur ai montré les diffé</commentaireactivite>
+      </activitecitee>
+      <production numero="1968">
+        <numero>1968</numero>
+        <designation>Reformulation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/jaber_azzoug_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B5F897BA0-FEDC-4803-BEA7-414D01177AD2%7D&amp;file=Reformulation.docx&amp;action=default&amp;IsList=1&amp;ListId=%7B40D1929E-EB72-4621-805C-677D0CF233E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1197">
+      <ref>1197</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Mise en place de plusieurs procédures </libcourt>
+      <descriptif>J'ai fait au cour de ce stage plusieurs procédures afin d'aider les utilisateurs mais aussi le service informatique. </descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Windows 7 </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Dans cette partie j’ai réalisé plusieurs procédures que ce soit pour les utilisateurs mais aussi pour les membres du service informatique, dans le but de gagner du temps vu qu’ils n’auront plus qu’à suivre les étapes. </commentaireactivite>
+      </activitecitee>
+      <production numero="1969">
+        <numero>1969</numero>
+        <designation>Reformulation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/jaber_azzoug_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7BE6BC835A-A2DC-463B-8F18-AF6E1A043070%7D&amp;file=Reformulation.docx&amp;action=default&amp;IsList=1&amp;ListId=%7B40D1929E-EB72-4621-805C-677D0CF233E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1198">
+      <ref>1198</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1 - Aide a l'utilisateur </libcourt>
+      <descriptif>J'ai répondu aux tickets des utilisateurs concernant leur problème sur GLPI</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Windows 7 / GLPI</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Grâce à GLPI j'ai pu résoudre plusieurs incident soit par téléphone soit en prenant le contrôle sur leur poste grâce à TeamViewer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Grâce à l'application GLPI l'utilisateur indiquer les degrés d'urgence de son problème et je répondais en fonction des urgences, chaque ticket que je résolvais je mettais une conclusion à la fin qui servait aux membres du service informatique.</commentaireactivite>
+      </activitecitee>
+      <production numero="1970">
+        <numero>1970</numero>
+        <designation>Reformulation</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/jaber_azzoug_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7BA8C24C55-897D-48B8-A0DD-4F12C7F23C22%7D&amp;file=Reformulation.docx&amp;action=default&amp;IsList=1&amp;ListId=%7B40D1929E-EB72-4621-805C-677D0CF233E</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

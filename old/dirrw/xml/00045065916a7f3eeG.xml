@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5065916a7f3ee">
+    <ref>5065916a7f3ee</ref>
+    <datesv>2012-09-28</datesv>
+  </sauvegarde>
+  <etudiant numero="4">
+    <nom>Baudin</nom>
+    <prenom>Edouard</prenom>
+    <mel>edouard.baudin@icof.fr</mel>
+    <situation ref="43">
+      <ref>43</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise en forme de données pour l’intégration dans une base de don</libcourt>
+      <descriptif>J’ai mis en forme des données que des clients nous en envoyés, cherché les photos qui correspondaient s’il on ne les avait pas, puis je donnais mon travail à mon maitre de stage pour qu’il l’intègre à la base de données.</descriptif>
+      <contexte>Enregistrement d'informations dans une base de données, pour être utilisées par un site de e-commerce.</contexte>
+      <datedebut>2012-05-29</datedebut>
+      <datefin>2012-06-04</datefin>
+      <environnement>Pour cette tache, je disposait de Microsoft Excel pour lire les données des fournisseurs et d'un explorateur Internet pour récupérer les photos des produits, si elles n'étaient pas fournis.</environnement>
+      <moyen>Les données nous étaient transmises, le plus souvent, dans un fichier excel. Une fois que ces données sont prête à être insérées dans la base de données, je change l'extension du fichier pour en faire un CSV et alimenter la base.</moyen>
+      <avisperso>C'était un peu répétitif, mais ça demandait beaucoup d'attention pour ne pas faire d'erreurs.</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai du participer à l'alimentation d'une base de données. C'est-à-dire, enregistrer des photos et mettre en formes des données que les clients nous ont fournis.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>J'ai essayé de donner une estimation du temps que je mettrais pour réaliser cette tache, après avoir fait quelques entrées dans la base.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="62">
+      <ref>62</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Demande de création d'un logiciel de gestion de commandes.</libcourt>
+      <descriptif>Mon maître de stage m'a demandé de lui confectionner un logiciel permettant de gérer plusieurs types de commandes, afficher des clients ou des demandes de produits.</descriptif>
+      <contexte>L'entreprise souhaite s'occuper de plusieurs types de commandes à partir d'une seule application pour pallier à la charge de travail qui commençait à augmenter.</contexte>
+      <datedebut>2012-05-14</datedebut>
+      <datefin>2012-06-29</datefin>
+      <environnement>J'avais à ma disposition le logiciel Microsoft VisualStudio, pour développer l'application et Microsoft Access comme base de données.</environnement>
+      <moyen>J'avais un début de cahier des charges avec une idées approximative du patron de ce qu'il désirait. Ce cahier des charges s'étoffait chaque jour, lorsqu'il pensait à une nouvelle fonctionnalité.</moyen>
+      <avisperso>C'était assez dur de commencer, puisque je ne savait pas exactement ce que l'employeur désirait. Une fois l'interface faite et approuvée par le patron, j'ai pu commencer à réellement coder l'application.</avisperso>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>J'ai expliqué à l'employeur ce que je pouvais lui proposer pour répondre à sa demande d'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>J'ai confectionner une interface utilisateur pour la faire valider par le patron, ou la modifier à sa demande.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>J'ai créé une base de données Microsoft Access, pour enregistrer les données des clients et des commandes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="37">
+        <idActivite>37</idActivite>
+        <commentaireactivite>J'ai établi une liste de fonctionnalité que devait remplir chaque onglet de mon application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>J'ai mis en place l'environnement VisualStudio pour me permettre de développer ma solution. Puis, j'ai élaboré une feuille de test pour chaque fonctionnalité codé passait par une phase de test pour valider le comportement de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Chaque fonctionnalité de l'application terminée passait par une phase de test, pour valider chaque comportement que je lui faisais exécuter puis je corrigeait mon code en cas de dysfonctionnement.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

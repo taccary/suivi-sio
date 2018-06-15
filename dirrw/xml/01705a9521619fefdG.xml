@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5a9521619fefd">
+    <ref>5a9521619fefd</ref>
+    <datesv>2018-02-27</datesv>
+  </sauvegarde>
+  <etudiant numero="170">
+    <nom>VALLAS</nom>
+    <prenom>Louis</prenom>
+    <mel>Louis.VALLAS@icof.fr</mel>
+    <situation ref="1103">
+      <ref>1103</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S1 - Créer une application Web</libcourt>
+      <descriptif>Mon but est de créer une application Web afin de faciliter la gestion des temps de projets dans l'entreprise Kibatic.</descriptif>
+      <contexte>Dans des locaux &quot;open-space&quot; de Kibatic avec 9 personnes.
+Mon maître de stage est : Renaud BREDY</contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement>Je dispose d'un ordinateur portable ainsi que d'un écran supplémentaire.</environnement>
+      <moyen>Serveur de production et serveur de test.
+Utilisation de Gitlab afin d'avoir des retours sur mon travail.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Prise en compte des attentes liées à l'application avec l'équipe, brainstorming.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Voir si les serveurs / machines peuvent supporter le service, tests de capacité.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Brainstorming lors des premières réunions afin de trouver des fonctionnalités à l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Création de maquettes et différents plan afin de structurer mes missions.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Mise en place de jeux d'essai avec mon maître de stage.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Serveur de tests</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Validation des Merges requests nécessaires à la validation du déploiement.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement grâce à Git.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Utilisation d'un trello afin de se fixer des objectifs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Analyse des logs pour mieux comprendre le problème</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Discussion avec le client pour améliorer le service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquettes de l'aspect final de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation d'outils servant à développer l'application : PhpStorm / Git etc</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Possibilité de se connecter à distance grâce aux serveurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Modélisation de la BDD avec JMerise, PhpMyAdmin et quelques dessins sur feuilles.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Veille avec Google Alert</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Consulter la documentation du language / logiciel, exemple : Symfony / twig / php.</commentaireactivite>
+      </activitecitee>
+      <production numero="1897">
+        <numero>1897</numero>
+        <designation>Détails du temps de travail</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/louis_vallas_icof_fr/_layouts/15/guestaccess.aspx?docid=1deea7056f0ba4d3f975b25d36bed943f&amp;authkey=Ac4DgVB4syETdIuTxQ9PBYA</adresse>
+      </production>
+      <production numero="1898">
+        <numero>1898</numero>
+        <designation>Trello du projet</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/louis_vallas_icof_fr/_layouts/15/guestaccess.aspx?docid=16fe13663edc64cbf8e1e316754386002&amp;authkey=AY46-yjbXV6264pSCUF39UE</adresse>
+      </production>
+      <production numero="1899">
+        <numero>1899</numero>
+        <designation>Tableau sans design</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/louis_vallas_icof_fr/_layouts/15/guestaccess.aspx?docid=14a099836a314451196e041043963de4d&amp;authkey=AdngQwz4K4VPY6h_fhdnmPw</adresse>
+      </production>
+      <production numero="1900">
+        <numero>1900</numero>
+        <designation>Fonction pour grouper par une certaine période</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/louis_vallas_icof_fr/_layouts/15/guestaccess.aspx?docid=1672593ece2824ddf821c2468bf2904b8&amp;authkey=Ack_TUuYOz8Nn8-Pnd2uai8</adresse>
+      </production>
+      <production numero="1901">
+        <numero>1901</numero>
+        <designation>Code JavaScript</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/louis_vallas_icof_fr/_layouts/15/guestaccess.aspx?docid=13072a38e3c22452684ff85b5b8c8641f&amp;authkey=ATLtIEyldEgl_Ge_hRWvPKc</adresse>
+      </production>
+      <production numero="1902">
+        <numero>1902</numero>
+        <designation>Formulaire d'ajout de temps</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/louis_vallas_icof_fr/_layouts/15/guestaccess.aspx?docid=1a4f4684103c04f019f4a38f7a4c0d06c&amp;authkey=AXdpm5SMXpbtNvRhmXd1eFg</adresse>
+      </production>
+      <production numero="1903">
+        <numero>1903</numero>
+        <designation>Application finale</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/louis_vallas_icof_fr/_layouts/15/guestaccess.aspx?docid=1b0fa840694f94886a90280e4a9f6835e&amp;authkey=Aa0cMl02B0AIUOJ_eO8ACQ8</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1199">
+      <ref>1199</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>S2 - Application Web en Java EE</libcourt>
+      <descriptif>Ma mission durant ce stage est de rajouter des fonctionnalités sur une application Web (Java) déjà existante.
+Cette application a pour but d'afficher l'état de différents services possédés par le CA-TS (Crédit Agricole - Technologies et Services).</descriptif>
+      <contexte>Maître de stage : DEYDIER Julien / Responsable : LEHON Olivier
+Dans des bureaux organisés par &quot;squads&quot; du Crédit Agricole. L'entreprise compte plusieurs centaines de salariés, répartis sur plusieurs étages en fonction des pôles.</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Matériel mis à ma disposition : Un ordinateur fixe avec deux écrans.
+Un compte &quot;développeur&quot; afin de disposer de tous les outils nécessaires au développement de l'application (Eclipse, serveurs Apache, etc).</environnement>
+      <moyen>Un serveur de test ainsi qu'un serveur de production.
+Un logiciel de développement.</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Discussion avec mon maître de stage afin d'évaluer les différents besoins de l'entreprise.
+&quot;Brainstorming&quot; afin de trouver la solution la plus adaptée.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Analyse de l'impact qu'aurait l'application sur les serveurs de l'entreprise. (ralentissement, bugs, crashs, etc...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Organiser des discussions afin de comprendre au mieux les attentes de mon maître de stage vis à vis de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Création de jeux d'essai pour tester l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Utilisation de serveurs de tests liés à l'application afin de limiter les risques lors du déploiement en serveur de production.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation d'un serveur Apache TomCat (version 5.5).</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Utilisation de Google Alert et d'un Word pour noter les articles intéressants.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Consultation de la documentation des différents outils utilisés : Java / Eclipse.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

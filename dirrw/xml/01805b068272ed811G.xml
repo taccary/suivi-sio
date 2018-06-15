@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b068272ed811">
+    <ref>5b068272ed811</ref>
+    <datesv>2018-05-24</datesv>
+  </sauvegarde>
+  <etudiant numero="180">
+    <nom>PERONET</nom>
+    <prenom>Johanna</prenom>
+    <mel>Johanna.PERONET@icof.fr</mel>
+    <situation ref="1330">
+      <ref>1330</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Brassage de 3 prises Ethernet</libcourt>
+      <descriptif>- Vérification des prises à brasser avec un logiciel.
+- Brassage des prises.
+- Test de la connectivité dans le bureau une fois les prises brassées.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-15</datedebut>
+      <datefin>2018-05-15</datefin>
+      <environnement>Windows 7</environnement>
+      <moyen>PC Portable, plusieurs câbles Ethernet.</moyen>
+      <avisperso>Ce local est très grand par rapport à celui d'un établissement scolaire.</avisperso>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Mr Garcia s'est connecté à distance au Switch sur lequel on pouvait brasser grâce à un logiciel afin de procéder à des vérifications sur les ports.</commentaireactivite>
+      </activitecitee>
+      <production numero="2078">
+        <numero>2078</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://1drv.ms/w/s!AqXDxrULd4zljj19IyNRuqYwniHr</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1331">
+      <ref>1331</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Réinitialisation d'un Switch Cisco</libcourt>
+      <descriptif>- Vérification de la configuration du Switch
+- Sauvegarde de la configuration TFTP
+- Réinitialisation du Switch puis vérification des configuration afin de voir si celui-ci s'est bien remis à 0.</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-18</datedebut>
+      <datefin>2018-05-18</datefin>
+      <environnement>Windows 7, Putty</environnement>
+      <moyen>Câble Ethernet + câble USB-to-Serial Converter</moyen>
+      <avisperso>Activité simple et facile.</avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>J'ai du installer le driver correspondant au câble USB-to-Serial Converter afin de pouvoir me connecter au Switch.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Je me suis connecter au Switch via le port console en mode série sur Putty.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Avant de réinitialiser le Switch, j'ai du sauvegarder la configuration TFTP avec la commande "copy run tftp".</commentaireactivite>
+      </activitecitee>
+      <production numero="2079">
+        <numero>2079</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://1drv.ms/w/s!AqXDxrULd4zljj19IyNRuqYwniHr</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1332">
+      <ref>1332</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Analyse d'émission Wifi</libcourt>
+      <descriptif>- Déterminer la zone d'analyse(zone 1, zone 2, zone 3)
+- Prendre les mesures récolté et les notés dans un document
+- Déterminer quel est le signal wifi le plus élevé sur le logiciel
+- Comprendre ce qu'affiche le logiciel comme données</descriptif>
+      <contexte></contexte>
+      <datedebut>2018-05-22</datedebut>
+      <datefin>2018-05-22</datefin>
+      <environnement>Windows 7, inSSIDer Office</environnement>
+      <moyen>PC portable, clé USB WiSpy</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Le service IT du site a pour projet de rajouter des bornes wifi dans les usines puis un peu partout sur le site Renault Trucks Vénissieux et c'est pour cela que récolter ces données est très important pour ce futur projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>A chaque fin de prise de mesure, je complète dans un premier temps mon tableur Excel dans lequel j'y inscrit toute les données récoltées pour ensuite compléter mon document Word dans lequel j'y met tous les plans de l'usine ou j’étais et des zones ou j'ai</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Lorsque j'ai fini toutes mes prises, je remplie au fur et à mesure mon document.</commentaireactivite>
+      </activitecitee>
+      <production numero="2080">
+        <numero>2080</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://1drv.ms/w/s!AqXDxrULd4zljj19IyNRuqYwniHr</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

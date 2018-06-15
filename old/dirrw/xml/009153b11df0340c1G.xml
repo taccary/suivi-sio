@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53b11df0340c1">
+    <ref>53b11df0340c1</ref>
+    <datesv>2014-06-30</datesv>
+  </sauvegarde>
+  <etudiant numero="91">
+    <nom>gallet</nom>
+    <prenom>rémi</prenom>
+    <mel>remi.gallet@icof.fr</mel>
+    <situation ref="458">
+      <ref>458</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>amélioration d'ordinateurs</libcourt>
+      <descriptif>Mon tuteur de stage m'a donné deux ordinateurs à monter. Ces ordinateurs était obsolète dans sa configuration matériel et il était sous Windows XP et il devait migrer vers Windows 7. </descriptif>
+      <contexte>Ces ordinateurs était obsolète dans sa configuration matériel et il était sous Windows XP et il devait migrer vers Windows 7.</contexte>
+      <datedebut>2014-05-19</datedebut>
+      <datefin>2014-06-27</datefin>
+      <environnement>Ordinateur</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Montage de deux ordinateurs pour une migration vers Windows 7 avec une amélioration des caractéristiques technique</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

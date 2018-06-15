@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="555f4d7bd9988">
+    <ref>555f4d7bd9988</ref>
+    <datesv>2015-05-22</datesv>
+  </sauvegarde>
+  <etudiant numero="119">
+    <nom>BOUREMEL</nom>
+    <prenom>Yohan</prenom>
+    <mel>yohan.bouremel@icof.fr</mel>
+    <situation ref="644">
+      <ref>644</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Paramétrage du focus des imprimantes</libcourt>
+      <descriptif>Avec mon tuteur de stage et un salarier d'une autre entreprise on est allé paramétrer le focus des imprimantes car celles ci fesait du décalage lorsqu’elles imprimait sur les étiquettes par exemple on ne voyais pas le non du patient donc on a utiliser le</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-22</datedebut>
+      <datefin>2015-05-22</datefin>
+      <environnement></environnement>
+      <moyen>Ordinateur portable et poste de travaille du client</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>par exemple on a eu une imprimante qui avait le capot arrière détruit et on ne pouvait pas trouver l'UF que l'on noue as donnée dans notre tableau </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>mettre a jour notre tableau</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

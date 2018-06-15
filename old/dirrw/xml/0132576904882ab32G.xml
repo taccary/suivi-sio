@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="576904882ab32">
+    <ref>576904882ab32</ref>
+    <datesv>2016-06-21</datesv>
+  </sauvegarde>
+  <etudiant numero="132">
+    <nom>LALISSE</nom>
+    <prenom>Florent</prenom>
+    <mel>Florent.LALISSE@icof.fr</mel>
+  </etudiant>
+</suivicomp>

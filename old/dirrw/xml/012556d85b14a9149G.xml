@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56d85b14a9149">
+    <ref>56d85b14a9149</ref>
+    <datesv>2016-03-03</datesv>
+  </sauvegarde>
+  <etudiant numero="125">
+    <nom>SIRET</nom>
+    <prenom>Steven</prenom>
+    <mel>steven.siret@icof.fr</mel>
+    <situation ref="665">
+      <ref>665</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maintenance matérielle</libcourt>
+      <descriptif>- Aide aux utilisateurs(Maintenance, dépannage, réparation, installation).
+- Création de procédures.
+- Mise en place de matériel (Borne wifi, serveurs, imprimantes, pc).
+- Modélisation d'un point d’accès WIFI
+- Administration réseau; script powershel</descriptif>
+      <contexte>Stage de 1ére année</contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>PowerShell, Unifi controler, Linux Ubuntu 10.0.4, windows 7, vista, Xp, Android</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Durant l'installation de pc dans une école, j'ai créé un partage sur tout les pc permettant aux professeurs de basculer leur dossier 
+afin qu’ils soient accessible sur les autres ordinateurs. Une fois mis en place j'ai réunis les professeurs afin de l</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>installation d'un vpn pour atteindre une machine a distance.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Durant l'installation de pc dans une école, j'ai créé un partage sur tout les pc permettant aux professeurs de basculer leur dossier 
+afin qu’ils soient accessible sur les autres ordinateurs. Une fois mis en place j'ai réunis les professeurs afin de l</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prise en main à distance avec Teamviewer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Hotline téléphonique et prise en compte des demandes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>J'ai réalisé un diagnostic sur l'alimentation d'un pc portable. De ce fait j'ai pu déterminer la cause, les câbles étaient coupés a l’intérieur, j'ai donc réparé sur le champ avec une soudure pour le ramener.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Faire l'inventaire des éléments matériel d'interconnexion.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Durant mes missions, j'ai installé de nombreux pc sur différents services, la sécurité était plus ou moins importante. j'ai utilisé des modules complémentaires de Mozilla,utilisé Linux afin de bloquer les options qui devait l’être. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>j'ai installé des serveurs NAS,et des antivirus sur des pc (MSE)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement des tout types de matériels (imprimantes, ordinateurs)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>J’ai administré une borne wifi Unifi afin de paramétrer les éléments nécessaires pour une école.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>En fonction des utilisateurs, j'ai bloqué les fonctions qui devaient l’être. J'ai modifié pour des utilisateurs certains droit: soit en ajouter ou en supprimer.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Affectation des droits par un script powershell.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>J'ai réalisé un script Powershell qui permet dans un répertoire de choisir les droits pour n'importe qu'elle domaine ou utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="39">
+        <idActivite>39</idActivite>
+        <commentaireactivite>Développement sur PowerShell</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude du système ubiquiti Unifi 
+Etude PowerShell</commentaireactivite>
+      </activitecitee>
+      <production numero="1261">
+        <numero>1261</numero>
+        <designation>Utilisation de l'application Email sur Android</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/steven_siret_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={5A0BC239-CC88-4A85-9E7C-C63136626139}&amp;file=Utilisation%20de%20l%27application%20Email%20sur%20Android.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1262">
+        <numero>1262</numero>
+        <designation>Procédure de connexion a un WIFI Public</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/steven_siret_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={F2C67FBF-5C9E-4480-BFF5-7B93DB76974B}&amp;file=Proc%C3%A9dure%20de%20connexion%20WI-FI%20public.odt&amp;action=default</adresse>
+      </production>
+      <production numero="1263">
+        <numero>1263</numero>
+        <designation>Guide informatique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/steven_siret_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B6621C3B5-2D9F-4008-AB09-496572362E16%7D&amp;file=Guide%20informatique.odt&amp;action=default</adresse>
+      </production>
+      <production numero="1301">
+        <numero>1301</numero>
+        <designation>Script Powershell</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/steven_siret_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={2E247E7F-E5C2-46C0-BD2C-7A8B91DCF449}&amp;file=Script%20Powershell.docx&amp;action=default</adresse>
+      </production>
+      <production numero="1302">
+        <numero>1302</numero>
+        <designation>Partage de connexion sur Iphone</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/steven_siret_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc={9F9F3400-2BDB-4333-99AD-EE7FCB1C38BE}&amp;file=Partage%20de%20connexion%20sur%20Iphone.docx&amp;action=default</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="735">
+      <ref>735</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Migration de postes de travail sous Windows 10</libcourt>
+      <descriptif>Création d'organigrammes sur les sites de l’entreprisses
+Rechercher sur les méthodes de déploiements d'images
+Réunion pour opter sur la meilleure méthode
+Mise en pratique de la méthode choisis sur le pc source.
+</descriptif>
+      <contexte>Entreprise GAUTHIER</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-02-19</datefin>
+      <environnement>Windows XP, Windows Vista, Windows 7, Windows 8.1, Windows 10
+Utilisation de sysprep.
+Active directory, vpn.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Recensement, identification et préparation d'un compte rendu</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Relever des Pc par numéro de N°Série/OS/Utilisateur/Changement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Recenser les logiciels et les configurations requis. 
+(Production fiche d'intervention)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Élaboration d'un document technique pour la méthode Sysprep</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Recensement des composants nécessaires.
+Description de la méthode de déploiement.
+Rédaction des spécifications de la solution.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Risque de pertes de données.
+Sauvegarde des données prévues.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Recensement des test a la validation du déploiement.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Réalisation d'un Organigramme afin de recenser les utilisateurs du service, leurs rôles et leur niveau de responsabilité.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mise en place du Pc avec la configuration du Sysprep</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite>Sauvegarde de tout les postes</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Sysprep, GPO, AD</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planification sur la réalisation du projet en fonction des utilisateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Bons de remboursement, factures</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Réalisation d'un document technique sur les bases de l'os et sur les nouveautés potentielles de Windows 10/ Office 2016.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Dysfonctionnement internet sur un poste de Pont du Château.
+Identification du problème (RJ45 de la baie de brassage down)
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Utilisation d'un pc source afin de configurer à partir du sysprep</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Installation de Fsecure.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Planification et création d'organigramme afin de réaliser une migration ou un changement des postes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite>Création et mise à jour de dcoumentation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Sauvegarde avec acronis sur chaque changement ou cassage </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite>control userpasswords2</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Déploiement d'une stratégie avec &quot;gpedit.msc&quot; permettant d'aller chercher des mises à jours sur le serveur et de seulement afficher une notification pour gérer quand réaliser les mise à jours.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="48">
+        <idActivite>48</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite>Windows10, Sysprep</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Sysprep: Outil de préparation système, permet de préparer une installation de Windows en vue de créer des images.</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="807">
+      <ref>807</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Modelisation d'un plan d'accés WIFI</libcourt>
+      <descriptif>Utilisation d'une borne wifi UNIFI</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-17</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Unifi controller</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Deploiement d'une borne wifi unifi</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Utilisation d'un unifi controler </commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="826">
+      <ref>826</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Déploiement d'image avec Acronis True Image</libcourt>
+      <descriptif>Deploiement d'image sur les Pc neufs</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-03-03</datedebut>
+      <datefin>2016-03-03</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+  </etudiant>
+</suivicomp>

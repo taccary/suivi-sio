@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="55fe6d252752d">
+    <ref>55fe6d252752d</ref>
+    <datesv>2015-09-20</datesv>
+  </sauvegarde>
+  <etudiant numero="113">
+    <nom>MOIROUD</nom>
+    <prenom>Thomas</prenom>
+    <mel>thomas.moiroud@icof.fr</mel>
+    <situation ref="645">
+      <ref>645</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Participation à une formation d'entreprise</libcourt>
+      <descriptif>Quelque Temps avant le stage mon maître de stage ma invité à une formation concernant plusieurs salarié de l entreprise. Cette formation avait pour thème la découverte ainsi que la manipulation de l'outil PowerPivot sous Excel.</descriptif>
+      <contexte>La société avait besoin d'organiser les informations de leurs bases de données , afin de gérer au milieux les salariés ( Saisi du temps d'intervention , de demande de service) Si ces temps ne sont pas saisi cela fait perdre beaucoup d'argent à l'entre</contexte>
+      <datedebut>2015-05-13</datedebut>
+      <datefin>2015-05-13</datefin>
+      <environnement>Windows / Excel / Complément Excel comme PowerPivot. 
+Machine Virtuelle </environnement>
+      <moyen>??</moyen>
+      <avisperso>La possibilité de participer à une formation d'entreprise avant même le début du stage est selon moi quelque chose qui n'est pas donnée à tout le monde et qui ne peut qu'enrichir mes connaissance en informatique </avisperso>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Lors de la formation j'ai pu étudier toutes les possibilités et utilisation qu'offre PowerPivot.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="650">
+      <ref>650</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Importation de données depuis un serveur SQL</libcourt>
+      <descriptif>Lors de formation de pré-stage il avait été convenu avec le formateur et l'ensemble de l'équipe , de la création d'une VM contenant un SQL Serveur possédant la base de donnée de l'entreprise. Il fallait alors depuis un classeur PowerPivot se connecter</descriptif>
+      <contexte>La société travail à partir d'une VM sur laquelle à été installé un serveur SQL c'est à partir de cette VM que les différents tableau dynamique doivent être crées. Tout ceci m'a été informer dans un mail récapitulatif du formateur. Puis exécuté par moi</contexte>
+      <datedebut>2015-06-01</datedebut>
+      <datefin>2015-06-01</datefin>
+      <environnement>Windows, SQL Server, Excel , PowerPivot</environnement>
+      <moyen></moyen>
+      <avisperso>C'est une étape essentielle pour le projet qui ma permis de constaté des possibilité et de la puissance de l'outil PowerPivot. </avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>L'activité que j'ai effectué ici est essentielle pour la suite du projet. En effet aucun travail n'est possible sans l'importation de données de la société. Un planning avec mon tuteur et un collègue à été établit . </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Dans cette même situation , il fallait importer les données depuis la base de données dans un classeur Powerpivot , la sélection des différentes tables se fait soit à la souris , soit à l'aide de requête SQL. </commentaireactivite>
+      </activitecitee>
+      <production numero="1245">
+        <numero>1245</numero>
+        <designation>Etapes permettant l'importation de données depuis un serveur SQL </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7BBF1E2985-810A-45BB-B4AE-F14DF69DFB93%7D&amp;file=Importation%20de%20donn%C3%A9es%20depuis%20SQL%20SERVER.docx&amp;action=default</adresse>
+      </production>
+    </situation>
+    <situation ref="651">
+      <ref>651</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Analyse des demandes pour PowerPivot</libcourt>
+      <descriptif>Lors de la réunion hebdomadaire , il m'a été fournis sous excel la maquette de plusieurs tableaux qui seront à réaliser avec PowerPivot. Mon travail était de rédiger un document à partir de cette maquette. Ainsi que d'associer les informations demandées</descriptif>
+      <contexte>Dans le soucis de vérifier la saisie des temps d'intervention ainsi que les demandes de service, la société SRA a besoin d'établir des tableaux dynamiques sous PowerPivot </contexte>
+      <datedebut>2015-06-03</datedebut>
+      <datefin>2015-06-12</datefin>
+      <environnement>Windows, VM , SQL SERVEUR , PowerPivot</environnement>
+      <moyen>??</moyen>
+      <avisperso>Contrairement au apparence reliés les tables avec les infomations donnée dans la maquette n'est pas une tâche facile. </avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Une maquette sur le type de tableau à fournir m'a été communiqué par mon maître de stage. Il à fallu pour moi  identifier ses attentes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Avec la maquette fournie il m'a fallu étudier les exigences attendues par mon tuteur. Ainsi que de regrouper toutes les données nécessaires à la réalisation de ce travail. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Dans cette situation , je suis parti d'une maquette J'avais pour objectif de rédiger un document sur les caractéristiques de cette maquette ainsi que de recenser tous les besoins nécessaires à la réalisation de cette maquette.  </commentaireactivite>
+      </activitecitee>
+      <production numero="1246">
+        <numero>1246</numero>
+        <designation>Analyse et création d'un document relatif au demandes</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7B831A8B34-FBC0-4775-9629-F511AB884C4A%7D&amp;file=CompteRendu-MOIROUD-01_06.docx&amp;action=default</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="679">
+      <ref>679</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Conception de tableaux sous PowerPivot</libcourt>
+      <descriptif>Apres avoir analysé les différentes maquettes et la validation de ces dernière. J'ai pu commencé à créer les différents tableaux sous PowerPivot. </descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-08</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement>Windows , Excel ,PoxwerPivot , SQL SERVER </environnement>
+      <moyen>??</moyen>
+      <avisperso>Projet très intéressant qui m'a permis de manier avec plus ou moins de réussite de nouveaux outils. </avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Conception de ces tableaux fait partie d'un projet commun à plusieurs collaborateurs.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Lors de la conception des ses tableaux , j'ai pu me confronter à différents soucis aussi bien au niveau des bases de données que de la mise en forme du tableau. Cependant des réunions hebdomadaires ont été planifiées pour résoudre ces problèmes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>La réalisation de ces tableaux permet aux collaborateur d’accéder à différentes informations issues des bases données. Cette méthode permet la saisie automatiques de données ( temps d'interventions , temps des demandes de services) et non plus la saisie </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>De nombreux test sur ces tableaux ont été réalisé par moi même et par un collaborateur. Ces test avait pour but de vérifier si les informations présentes dans les tableaux étaient bien les mêmes que celles des bases de données.</commentaireactivite>
+      </activitecitee>
+      <production numero="1248">
+        <numero>1248</numero>
+        <designation>Conception et résolutions de problèmes sous PowerPivot </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/thomas_moiroud_icof_fr/_layouts/15/WopiFrame.aspx?sourcedoc=%7BB2D31363-0DEB-483B-A843-88E6AA77FF08%7D&amp;file=CompteRendu-MOIROUD-08_06.docx&amp;action=default</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

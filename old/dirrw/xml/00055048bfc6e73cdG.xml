@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5048bfc6e73cd">
+    <ref>5048bfc6e73cd</ref>
+    <datesv>2012-09-06</datesv>
+  </sauvegarde>
+  <etudiant numero="5">
+    <nom>Didi</nom>
+    <prenom>Mehdi</prenom>
+    <mel>mehdi.didi@icof.fr</mel>
+    <situation ref="9">
+      <ref>9</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Automatisation sous Access</libcourt>
+      <descriptif>En stage chez CHD Expert Europe, l'activité que j'ai réalisée permet de pouvoir lancer des requêtes enregistrées afin de pouvoir traiter les données de la base automatiquement.</descriptif>
+      <contexte>Automatiser une base de données avec des requêtes automatiques sous Access</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-07-06</datefin>
+      <environnement>Windows Server 2008 R2</environnement>
+      <moyen>Access</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Dans cette activité j'ai mis en oeuvre la compétence &quot;Analyser les indicateurs de qualité du service&quot;, durant mon stage j'ai réalisé le maintien d'un service de mise à jour d'une base de données.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Dans cette activité j'ai mis en oeuvre la compétence &quot;Manipuler les données liées à la solution applicative à travers un langage de requête&quot;, j'ai exécuter des requêtes automatique sur une base de données sous Access avec une liaison par con</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Dans cette activité j'ai mis en oeuvre la compétence &quot;Elaborer et réaliser des tests unitaires&quot;, j'ai réaliser des test sous Access (Mise à jour, suppression, sélection) sur une base de données avec une liaison par connecteur ODBC</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="27">
+      <ref>27</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Mise à jour d'une base de données</libcourt>
+      <descriptif>En stage chez CHD Expert Europe, l'activité que j'ai réalisée était de mettre à jour la base de données commerciale de l'entreprise.</descriptif>
+      <contexte>Mettre à jour la base de données commerciale</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-07-06</datefin>
+      <environnement>DELL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Compétence : Analyser les indicateurs de qualité du service
+Maintien d'un service de mise à jour d'une base de données</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Compétence : Mettre en œuvre une procédure de remplacement ou de migration
+Mise à jour d'une base de données, avec une normalisation postale à travers un logiciel adapté (Télé Mission Data +)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Compétence : Programmer des éléments de la solution applicative dans le langage d'un SGBD
+Mise à jour d'une base de données à travers une IHM (FeedFind)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Compétence : Élaborer et réaliser des tests d'intégration et de non régression de la solution mise à jour
+Recherche d'information sur la qualité, la pertinence, la fiabilités des données de la base</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="36">
+      <ref>36</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Conception/adaptation d'une base de données</libcourt>
+      <descriptif>En stage chez CHD Expert Europe, l'activité que j'ai réalisée était de comparer deux bases de données pour en faire une unique.</descriptif>
+      <contexte>Comparaison de plusieurs bases de données afin de pouvoir créer une base unique avec une seule table</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-07-06</datefin>
+      <environnement>DELL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Compétence : Rendre compte de son activité
+Comparaison de plusieurs bases de données (Matching), afin de pouvoir créer une base unique avec les données les plus importantes, avec le logiciel Omikron AdressCenter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Compétence : Implémenter le schéma de données dans un SGBD
+Création d'une base unique avec plusieurs bases de données pour les Pages Jaunes grâce au Matching.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="42">
+      <ref>42</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Documentation technique</libcourt>
+      <descriptif>En stage chez CHD Expert Europe, réalisation d'une documentation sur une application</descriptif>
+      <contexte>Réalisation d'une documentation technique sur une application pour la normalisation postale</contexte>
+      <datedebut>2012-06-04</datedebut>
+      <datefin>2012-07-06</datefin>
+      <environnement>DELL</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

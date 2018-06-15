@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="58bed828af2ca">
+    <ref>58bed828af2ca</ref>
+    <datesv>2017-03-07</datesv>
+  </sauvegarde>
+  <etudiant numero="156">
+    <nom>ANDRES</nom>
+    <prenom>Alexandre</prenom>
+    <mel>andres.alex@hotmail.fr</mel>
+    <situation ref="922">
+      <ref>922</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Veille technologique</libcourt>
+      <descriptif>Recherche d'informations spécifique liées au nouvelles technologique et informatique . Choix de catégorie spécifique au niveau de l'informatique (composants, amélioration performance, nouvelle machines ou gadgets en cours de développement) et spécialisa</descriptif>
+      <contexte>M'informer sur les nouvelles technologies que je pourrai utilisé dans un futur proche </contexte>
+      <datedebut>2015-06-22</datedebut>
+      <datefin>2016-08-29</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1645">
+        <numero>1645</numero>
+        <designation>Lien vers le site Hitek</designation>
+        <adresse>http://hitek.fr/actualite</adresse>
+      </production>
+      <production numero="1646">
+        <numero>1646</numero>
+        <designation>Lien vers le site journal du geek</designation>
+        <adresse>http://www.journaldugeek.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="923">
+      <ref>923</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement application gestion de pannes</libcourt>
+      <descriptif>Développement application pour l'entreprise , afin d’améliorer sa maintenance de gestion de panne sous différents langages (php, html javascript, xml, xslt, css) 
+Test du bon fonctionnement 
+Recherche des différentes solutions à apporter au projet .
+D</descriptif>
+      <contexte>Meilleur gestion des pannes machines des clients de l'entreprise </contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-05-27</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Mise en place d'un tableau avec fonctions attendue de l'application </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="40">
+        <idActivite>40</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>mise en place et modification des fichier sources ( mauvaise adresse ip ) -&gt; ne peut pas se connecter a la machine </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Débogage de l'application (différentes erreur utilisation de la console javascript (google chrome) </commentaireactivite>
+      </activitecitee>
+      <production numero="1647">
+        <numero>1647</numero>
+        <designation>Recap du deroulement des opérations</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/alexandre_andres_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=pjQFg2vn%2fEQPIlkjsGeeA3KzWyex2NX6ainhibev4CY%3d&amp;docid=0b423cd0688124c7785a1b15547718f48&amp;rev=1</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="924">
+      <ref>924</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage: réhabilitation de l'architecture déjà mise en place</libcourt>
+      <descriptif>réhabilitation de l'architecture déjà mise en place par un ancien stagiaire, avec rajout de fonctionnalité tels que NPS et IGC.</descriptif>
+      <contexte>mise en œuvre / déploiement de l’authentification sécurisée des postes sur le réseau
+(802.1x) - (solution déjà élaborée)</contexte>
+      <datedebut>2016-05-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>réhabilitation de l'architecture déjà mise en place par un ancien stagiaire ,avec rajout de fonctionnalité tels que NPS et IGC.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Dispositif déjà mis en place , utilisé par plusieurs utilisateurs (admninistrateur) </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite>Règlement à respecter avec contrainte militaire </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Ad déjà mis en production ( utilisateur de l'ad , pas de fautes possible)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test d'intégration , compatibilité avec les autres serveurs </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Mise en place du services sur un réseau séparé de celui en production afin en cas d'erreur , de pouvoir la corriger avant l'intégration </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Mise en place du service dans le réseau en production</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>projet mis en place 6 semaines dont 1 qui ne sera pas en production </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Plusieurs solutions proposé lors des erreurs et des incompatibilités entre composants </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite>Outils mis en place sur le réseau militaire , aucune erreur possible </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite> installation de nouveau switch entre serveur afin de se rapprocher le plus possible du serveur en production</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Mises à jour des serveurs déjà place et ceux utilisés sur les autres réseau de production </commentaireactivite>
+      </activitecitee>
+      <production numero="1642">
+        <numero>1642</numero>
+        <designation>Tache principale </designation>
+        <adresse>https://alexsingblog.wordpress.com/2017/01/19/titre-des-articles-du-blog-2/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="925">
+      <ref>925</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>participation aux activités de soutien informatique et réseaux</libcourt>
+      <descriptif>Observation des différents services du QGF </descriptif>
+      <contexte>Observation des différents métier en liens avec l'informatique dans une entreprise  </contexte>
+      <datedebut>2016-06-17</datedebut>
+      <datefin>2016-06-24</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>ajout d'utilisateur dans AD avec connexion à distance sur le serveur virtuel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>un client fait un ticket d'incident,
+Contrôle à distance d'un pc client qui à un problème d'imprimante, 
+Test,
+prise en considération de la demande pour la panne 
+Mise a jour pilote , incident réparé
+</commentaireactivite>
+      </activitecitee>
+      <production numero="1644">
+        <numero>1644</numero>
+        <designation>Procédure création utilisateur AD </designation>
+        <adresse>https://alexsingblog.wordpress.com/2017/01/24/stage-1-participation-aux-activites-de-soutien-informatique-et-reseaux/</adresse>
+      </production>
+    </situation>
+    <situation ref="926">
+      <ref>926</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>PPE site web</libcourt>
+      <descriptif>Site web développer lors des séances de PPE en 1ere année SIO</descriptif>
+      <contexte></contexte>
+      <datedebut>2016-09-05</datedebut>
+      <datefin>2016-09-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Test des liens sur le site et de l'administration</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>planning pour le projet avec restriction du temps </commentaireactivite>
+      </activitecitee>
+      <production numero="1638">
+        <numero>1638</numero>
+        <designation>Capture d’écran du site ( site non mis sur internet) </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/alexandre_andres_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=ZbaMBEeBwSSCqn2mKgcmLYfKtzRKfz6aJ7L7y5AW%2fvo%3d&amp;docid=0dd2c43262f004288b14149e55bdf5d8d&amp;rev=1</adresse>
+      </production>
+      <production numero="1639">
+        <numero>1639</numero>
+        <designation>Capture d’écran du site ( site non mis sur internet) </designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/personal/alexandre_andres_icof_fr/_layouts/15/guestaccess.aspx?guestaccesstoken=pyFrlaeyxYvO%2f0ZNZ4uQK4SlIdBzX7MGfpvvtCh1zGM%3d&amp;docid=039519b8b83934da7932bc88bc02cde13&amp;rev=1</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="980">
+      <ref>980</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>AFD Technologies Xwiki</libcourt>
+      <descriptif>Migration du wiki de la socièté sur une nouvelle plateforme , ainsi que sa documentation </descriptif>
+      <contexte></contexte>
+      <datedebut>2017-01-16</datedebut>
+      <datefin>2017-01-31</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="28">
+        <idActivite>28</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1689">
+        <numero>1689</numero>
+        <designation>Xwiki</designation>
+        <adresse>https://alexsingblog.wordpress.com/2017/01/19/titre-des-articles-du-blog-3/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="981">
+      <ref>981</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Intégration Alcatel ALU NG</libcourt>
+      <descriptif>Intégration nouveaux équipement sur le réseau</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-03-05</datedebut>
+      <datefin>2017-03-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="3">
+        <idActivite>3</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1690">
+        <numero>1690</numero>
+        <designation>Méthode et incident</designation>
+        <adresse>https://alexsingblog.wordpress.com/2017/02/03/stage-2-tintegration-alcatel-alu-ng/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="982">
+      <ref>982</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Recette Huawei NG</libcourt>
+      <descriptif>Recette d'equipement huawai ng pour la mise en service des ses équipements </descriptif>
+      <contexte></contexte>
+      <datedebut>2017-03-05</datedebut>
+      <datefin>2017-03-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Odéon à respecter , avec heure lieux et équipement </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="25">
+        <idActivite>25</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="33">
+        <idActivite>33</idActivite>
+        <commentaireactivite>Gestions des alarmes, contrôler par la supp </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite>Certains éléments sont installer en maître et esclave, remettre la configuration de l'installation après les recettes et la vérification du basculement esclave-maître maître-esclave </commentaireactivite>
+      </activitecitee>
+      <production numero="1691">
+        <numero>1691</numero>
+        <designation>Recette Huawei NG</designation>
+        <adresse>https://alexsingblog.wordpress.com/2017/02/03/stage-2-recette-huawei-ng/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

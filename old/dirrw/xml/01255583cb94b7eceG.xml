@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5583cb94b7ece">
+    <ref>5583cb94b7ece</ref>
+    <datesv>2015-06-19</datesv>
+  </sauvegarde>
+  <etudiant numero="125">
+    <nom>SIRET</nom>
+    <prenom>Steven</prenom>
+    <mel>steven.siret@icof.fr</mel>
+  </etudiant>
+</suivicomp>

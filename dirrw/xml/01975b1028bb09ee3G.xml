@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5b1028bb09ee3">
+    <ref>5b1028bb09ee3</ref>
+    <datesv>2018-05-31</datesv>
+  </sauvegarde>
+  <etudiant numero="197">
+    <nom>LADOUGNE</nom>
+    <prenom>Pierrick</prenom>
+    <mel>pierrick.ladougne@icof.fr</mel>
+    <situation ref="1324">
+      <ref>1324</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Stage première année</libcourt>
+      <descriptif>Recherche de solution 
+Réparation des problèmes chez les clients
+Installation de nouveau réseau </descriptif>
+      <contexte>Stage de première année</contexte>
+      <datedebut>2018-05-14</datedebut>
+      <datefin>2018-06-22</datefin>
+      <environnement>Windows 10, Windows 7, Windows Server</environnement>
+      <moyen></moyen>
+      <avisperso>Intéressant, ce stage me permet de voir différent chose dans différent endroit</avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>J'ai participer au projet de déploiement de réseau chez les clients</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>J'ai aider les utilisateurs avec leur nouveaux service, j'ai répondu a leur question dans la mesure du possible</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>J'ai aider les utilisateurs avec leur problèmes en direct ou à distance, dans la mesure du possible je le faisait moi-même sinon j’observais le technicien résoudre les problèmes tout en essayant de comprendre</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation et configuration d'un serveur (création de VM, puis installation et configuration)
+Configuration de Poste :
+- Mise a jour
+- Installation du pack office
+-...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Installation des élément comme des postes ou un serveur chez les clients (câblage, raccordement au routeur, au switch...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

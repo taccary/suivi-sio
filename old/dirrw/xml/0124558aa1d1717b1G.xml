@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="558aa1d1717b1">
+    <ref>558aa1d1717b1</ref>
+    <datesv>2015-06-24</datesv>
+  </sauvegarde>
+  <etudiant numero="124">
+    <nom>PIERRE</nom>
+    <prenom>Aroune</prenom>
+    <mel>aroune.pierre@icof.fr</mel>
+  </etudiant>
+</suivicomp>

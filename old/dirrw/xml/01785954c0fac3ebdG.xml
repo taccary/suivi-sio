@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5954c0fac3ebd">
+    <ref>5954c0fac3ebd</ref>
+    <datesv>2017-06-29</datesv>
+  </sauvegarde>
+  <etudiant numero="178">
+    <nom>MONTESINOS</nom>
+    <prenom>Eddie</prenom>
+    <mel>Eddie.MONTESINOS@icof.fr</mel>
+    <situation ref="1163">
+      <ref>1163</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>homogénéisation du parc informatique</libcourt>
+      <descriptif>mise a jours des logiciel et application a distance.
+désinstallation et réinstallation de suite bureautique.
+déploiement a distance.
+
+</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-05-22</datedebut>
+      <datefin>2017-06-26</datefin>
+      <environnement>win 7 ,win8r32 , win...
+
+
+</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1186">
+      <ref>1186</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>mise en place solution gestion de parc informatique</libcourt>
+      <descriptif>recherche de solution
+etude sur cette solution 
+test dans un atelier de cette solution </descriptif>
+      <contexte></contexte>
+      <datedebut>2017-06-27</datedebut>
+      <datefin>2017-06-27</datefin>
+      <environnement>atelier test .windows , linux.</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>realiser une etude du service informatique afin de savoir si la solution est adapter </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>installation par script automatisé .
+realisation de ce service et test.
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>problemme rencontré avec des certificat et des clef privé et publique , indetifier dou venait le probleme et commment y remedier </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>solution necessitant des logiciel compatible ,  support est payant , solution open source </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>atelier test p</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="1187">
+      <ref>1187</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>installation et configuration  ordinateur police municipale </libcourt>
+      <descriptif>déménagement de locaux ,
+branchement pc , téléphone 
+paramétrage ip et configuration pc logiciel , imprimante etc...</descriptif>
+      <contexte></contexte>
+      <datedebut>2017-06-27</datedebut>
+      <datefin>2017-06-27</datefin>
+      <environnement>locaux police </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>installation pc , ligne téléphonique 
+assister installé serveur , nas ,vpn ,switch , routeur </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>configuration de la téléphonique , renvoi etc...
+config pc de la police : ip , réseau , application, imprimante /
+sur site puis maintenance distante</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

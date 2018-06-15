@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="53498cb51b614">
+    <ref>53498cb51b614</ref>
+    <datesv>2014-04-12</datesv>
+  </sauvegarde>
+  <etudiant numero="33">
+    <nom>illouz</nom>
+    <prenom>raphael</prenom>
+    <mel>raphael.illouz@icof.fr</mel>
+    <situation ref="227">
+      <ref>227</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Développement et intégration d’une application GOLD GESTION</libcourt>
+      <descriptif>Développement d'un site web permettant de regrouper des informations sur les tournées et résultats des commerciaux de l'entreprise TRADING EL.
+Cette application est utilisée aujourd'hui par les organisatrices des tournées ainsi que par les gérants afi</descriptif>
+      <contexte>TRADING EL
+STAGE 1ere année
+Entreprise TRADING EL.</contexte>
+      <datedebut>2012-05-21</datedebut>
+      <datefin>2013-06-21</datefin>
+      <environnement>HTML, CSS, JAVASCRIPTS, AJAX, PHP, SQL, PhpMyAdmin, NotePad++, OVH Manager, Google Chrome, Windows 7</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Comprendre les attentes des utilisateurs afin d'identifier le travail à faire à l'aide du cahier des charges.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Formation aux utilisateurs de l'application, de son fonctionnement, de sa prise en main afin d'avoir un retour sur investissement et possibilité d'amélioration.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite>Vérification périodique de la stabilité de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Résoudre les problèmes et incidents de l'application.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="19">
+        <idActivite>19</idActivite>
+        <commentaireactivite>Répondre aux demandes d'assistance en cas d'incidents afin de résoudre le problème</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>En cas de problème majeur être disponible pour réagir vite à l'interruption du servir pour ne pas affecter le temps de travail des utilisateurs et le résoudre.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>Informer les responsables d'une possible amélioration du système en évaluant le pour et contre.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Répondre au cahier des charges par la proposition d'une application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Création d'une maquette graphique, et conception après validation de ce dernier. La maquette doit être le plus possible en accord avec les outils déjà utiliser.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Creation d'une table pour ajout de nouvelle données. Modélisation selective d'un shéma afin de mieux persevoir le relation</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="41">
+        <idActivite>41</idActivite>
+        <commentaireactivite>Élaboration de test et résoudre les problèmes.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Mis en place de mise a jour et ainsi qu'une sécurisation par le bai d'une zone d'identification.</commentaireactivite>
+      </activitecitee>
+      <production numero="487">
+        <numero>487</numero>
+        <designation>Site web Rafygold</designation>
+        <adresse>http://rafygold.alwaysdata.net/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="308">
+      <ref>308</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement et mise en place du PLANNING CDR CELMA</libcourt>
+      <descriptif>Réalisation d'un planning en PHP, JavaScript, HTML connecté a une base de données MySql ainsi qu'un back Office et une aide utilisateur intéractive.</descriptif>
+      <contexte>Entreprise CDR CELMA
+STAGE 2éme Années</contexte>
+      <datedebut>2014-01-06</datedebut>
+      <datefin>2014-02-21</datefin>
+      <environnement>Langages : PHP, SQL, HTML, JavaScript, CSS
+Frameworks : JQuery, DataTable, REDIPS.drag
+</environnement>
+      <moyen>Logiciel et technologies utilisée : GIT, NetBeans, Filezilla, Chrome, FireFox, IE, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="8">
+        <idActivite>8</idActivite>
+        <commentaireactivite>Restrictions d'accès a différentes fonctionnalités du planning selon le poste du personnel (compagnon, commercial, directeur...)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Formation individuelle a l'utilisation de l'outil pour chaque utilisateur.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Création et déploiement d'un exécutable permettant d'accéder au planning intantanément (Demo .EXE)
+Mise en exploitation progressive...</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Utilisation d'un technologie de versioning (GIT)
+Réunions hebdomadaires sur l'avancée du planning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="15">
+        <idActivite>15</idActivite>
+        <commentaireactivite>Recenser les matériels manquants
+Demande d'un budget pour l'achat de ressources matérielles</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Aide au utilisateurs afin de s'approprier le nouveau service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Correction immédiate des bug signalés par les utilisateurs</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Achat d'une téléviseur 4K et d'une carte graphique appropriée afin de permettre l'affiche global du planning</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="30">
+        <idActivite>30</idActivite>
+        <commentaireactivite>Mise en place régulièrement de Backups sur un disque dur externe.
+Convention de nommage : Date du Backup ****</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Choix des langages web afin de proposer un accès distant efficace.
+Estimation de temps de conception</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="35">
+        <idActivite>35</idActivite>
+        <commentaireactivite>Mise d'une interface d'administration de l'outil.
+Maquettage d'une page d'administration en collaboration avec les utilisateurs concernées</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>MDC, création de la bdd sous MySql, requetage depuis l'application web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Animation flash interactive sur l'utilisation de la solution proposée adaptée a tout type d'utilisateur (aide utilisateur)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Reproduction de dysfonctionnement afin de la corriger.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Choix d'un fournisseur d'hébergement selon l'offre proposée et de la qualité du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="53">
+        <idActivite>53</idActivite>
+        <commentaireactivite>Prise en compte de la qualité de service produit.
+Planning qui n'est plus centralisé geographiquement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Etude de la technologie HDMI 1.4(normes, pour résolution d’écran) DVI ET VGA</commentaireactivite>
+      </activitecitee>
+      <production numero="472">
+        <numero>472</numero>
+        <designation>Blog de compétences</designation>
+        <adresse>http://illouzsio.over-blog.com/</adresse>
+      </production>
+      <production numero="486">
+        <numero>486</numero>
+        <designation>Site Celma</designation>
+        <adresse>http://celma-planning.franceserv.com/site/index.php</adresse>
+      </production>
+      <production numero="535">
+        <numero>535</numero>
+        <designation>illouzR -&gt; Veille</designation>
+        <adresse>http://www.netvibes.com/privatepage/1</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="315">
+      <ref>315</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développement et intégration d’un site WEB vitrine CDR-CELMA.COM</libcourt>
+      <descriptif>Création d'un site WEB vitrine afin de remplacer l'ancien devenue obsolette</descriptif>
+      <contexte>Entreprise CDR CELMA
+STAGE 2éme Années</contexte>
+      <datedebut>2014-02-17</datedebut>
+      <datefin>2014-02-21</datefin>
+      <environnement>Langages web : HTML, CSS, JavaScript, PHP
+Framework : JQuery, Googles Maps, Basic JQuery Slider</environnement>
+      <moyen>Logiciel et technologies utilisée : GIT, NetBeans, Filezilla, Chrome, FireFox, IE</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Hébergement FTP du site Web</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="51">
+        <idActivite>51</idActivite>
+        <commentaireactivite>Choix d'un fournisseur d'hébergement selon l'offre proposée et de la qualité du service</commentaireactivite>
+      </activitecitee>
+      <production numero="488">
+        <numero>488</numero>
+        <designation>Site vitrine CDR-CELMA</designation>
+        <adresse>http://cdr-celma.com/</adresse>
+      </production>
+      <production numero="489">
+        <numero>489</numero>
+        <designation>Livret de compétances</designation>
+        <adresse>http://illouzsio.over-blog.com/</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="411">
+      <ref>411</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>4</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Développement et mise en place du l'Appli-CR</libcourt>
+      <descriptif>Développement d'une application web afin de pouvoir consulter et remplir des comptes rendus de visite pour le contexte GSB </descriptif>
+      <contexte>GSB</contexte>
+      <datedebut>2014-03-17</datedebut>
+      <datefin>2014-06-09</datefin>
+      <environnement>Langages : PHP, SQL, HTML, JavaScript, CSS
+Frameworks : JQuery</environnement>
+      <moyen>Logiciel et technologies utilisée : GIT, NetBeans, Filezilla, Chrome, FireFox, IE, PhpMyAdmin</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Analyse du cahier des charges afin d'identifier les besoins de GSB</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="24">
+        <idActivite>24</idActivite>
+        <commentaireactivite>Maquettage a partir d'un css BootStrap</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Conception de la base de données &quot;applicr&quot; sous MySql</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Production d'une documentation technique afin de faciliter la maintenance de l'application</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="43">
+        <idActivite>43</idActivite>
+        <commentaireactivite>Production d'une documentation utilisateur afin de facilité l'utilisation de l'application</commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

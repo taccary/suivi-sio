@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="56d547c3ab3ae">
+    <ref>56d547c3ab3ae</ref>
+    <datesv>2016-03-01</datesv>
+  </sauvegarde>
+  <etudiant numero="103">
+    <nom>BUTTEZ</nom>
+    <prenom>Grégoire</prenom>
+    <mel>grégoire.buttez@icof.fr</mel>
+    <situation ref="652">
+      <ref>652</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Nettoyage d'ordinateur</libcourt>
+      <descriptif>Des réparation basique sur des ordinateur (tour et portable).
+Des dévérolage basique et avancer sur tout type d'OS.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-05-22</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso>Très intéressant pour savoir comment enlever tout les virus d'un système d'exploitation.</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Prise en charge d'un ordinateur et évaluation des attente du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="5">
+        <idActivite>5</idActivite>
+        <commentaireactivite>Analyse du problème du client, pour faire un diagnostique des problème trouver et qu'elle solution serons a apporter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Si de nouveau système sont installer sur son ordinateur, il en est informer et une démo lui est faite pour comprendre la prise en main de ce système.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Trouver les problème d'un ordinateur en faisant un diagnostique complet grâce a des logiciel ou a la main.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Si de nouveau composant on été implanter ou si un nouveau système d'exploitation a été installer plusieurs mise a jour et installation sont a prévoir et a faire.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="655">
+      <ref>655</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Nettoyage d'ordinateur avancé</libcourt>
+      <descriptif>Dévérolage avancé et remplaçable de pièce puis réinstallation de système.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-25</datedebut>
+      <datefin>2015-06-05</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Prise en charge d'un ordinateur et évaluation des attente du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Qu'elle sera l'impacte d'un service installer sur un nouveau système.
+Ou l’installation d'un nouveau disque dur. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Réhabilitation des personne pour les nouvelle fonctionnalité sur leur poste de travaille</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="44">
+        <idActivite>44</idActivite>
+        <commentaireactivite>Analyse du problème du client, pour faire un diagnostique des problème trouver et qu'elle solution serons a apporter.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="45">
+        <idActivite>45</idActivite>
+        <commentaireactivite>Apport d'un solution a venir pour la mise a niveau des composant de l’ordinateur et installation des drivers de ces composant.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Utilisation de jeux de test pour voire si l’amélioration est efficace ou non.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="47">
+        <idActivite>47</idActivite>
+        <commentaireactivite>Maintien d'un feuille de prise en charge du matériel déposer.</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="656">
+      <ref>656</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Instalation d'Imprimante</libcourt>
+      <descriptif>Installation d’imprimante en réseaux et mise en route.</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-08</datedebut>
+      <datefin>2015-06-12</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="10">
+        <idActivite>10</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="704">
+      <ref>704</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Démontage d'ordinateur</libcourt>
+      <descriptif>Démontage et mise en place de nouveau composant, changement de pâte thermique et installation du nouveau composant au niveau du système (PC fixe et portable).</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-06-22</datedebut>
+      <datefin>2015-06-26</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite>Prise en charge d'un ordinateur et évaluation des attente du client.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="2">
+        <idActivite>2</idActivite>
+        <commentaireactivite>Analyse d'un nouveau matériel apporter a la machine.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite>Maintien d'un feuille de prise en charge pendant toute la durer de l'intervention.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Analyse des risque encouru par le système suite a cette nouvelle implémentation de matériel.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="9">
+        <idActivite>9</idActivite>
+        <commentaireactivite>Faire de test pour voir si l'élément a bien été implémenter avec succès.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="757">
+      <ref>757</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Développer d'un générateur de site</libcourt>
+      <descriptif>Développement d'un logiciel permettant de créer un code HTML pour le site internet d'Investipole.</descriptif>
+      <contexte>Création rapide de site Web.</contexte>
+      <datedebut>2016-01-04</datedebut>
+      <datefin>2016-01-22</datefin>
+      <environnement>Windows // VisualStudio - Eclipse</environnement>
+      <moyen>Java - C# - Android</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="1399">
+        <numero>1399</numero>
+        <designation>A1.4.1 </designation>
+        <adresse></adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>3</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

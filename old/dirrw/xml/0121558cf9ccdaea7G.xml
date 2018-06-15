@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="558cf9ccdaea7">
+    <ref>558cf9ccdaea7</ref>
+    <datesv>2015-06-26</datesv>
+  </sauvegarde>
+  <etudiant numero="121">
+    <nom>FRANCHINO</nom>
+    <prenom>Samuel</prenom>
+    <mel>samuel.franchino@icof.fr</mel>
+    <situation ref="637">
+      <ref>637</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Dépannage Client</libcourt>
+      <descriptif>Ajout d'un lecteur réseaux a distance pour un utilisateur</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-19</datedebut>
+      <datefin>2015-05-19</datefin>
+      <environnement></environnement>
+      <moyen>Utilisation du logiciel SPOT</moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>C2.1.1.1</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="638">
+      <ref>638</ref>
+      <codeType>2</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Habillitation des droits utilisateurs </libcourt>
+      <descriptif>Démarche d'habillitation pour mes propres droits </descriptif>
+      <contexte>La création de ma session, la demande d'équipement de mon poste ainsi que les demande de droit d'accès au application du domaine RSI </contexte>
+      <datedebut>2015-05-18</datedebut>
+      <datefin>2015-05-21</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="31">
+        <idActivite>31</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="639">
+      <ref>639</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>2</codeCadre>
+      <libcourt>Gestion de parc informatique</libcourt>
+      <descriptif>Optimisation du parc informatique en notant tous les numéros de poste inutilisé afin de les restituer et baisser le coup de production 
+Chaque Poste coûte 1500€ de frais qui inclus license, location et sauvegarde</descriptif>
+      <contexte></contexte>
+      <datedebut>2015-05-19</datedebut>
+      <datefin>2015-05-20</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Les postes ne sont ni defectueux ni obselètes mais simplement inutilisé ce qui engendre des frais inutiles</commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

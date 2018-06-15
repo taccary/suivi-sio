@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="5ab7ec17ad236">
+    <ref>5ab7ec17ad236</ref>
+    <datesv>2018-03-25</datesv>
+  </sauvegarde>
+  <etudiant numero="187">
+    <nom>PONTILLE</nom>
+    <prenom>Aldric</prenom>
+    <mel>Aldric.PONTILLE@icof.fr</mel>
+    <situation ref="1136">
+      <ref>1136</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S1-Câblage chantier crématorium de Bron</libcourt>
+      <descriptif>Nos objectifs ont donc été : Tirer tous les câbles et installer des chemins de câbles. Assemblage de l'armoire électrique et raccordement des câbles. Tirage de câbles d'alimentation. Installation éclairages et bloc de secours.</descriptif>
+      <contexte>Travail sur un chantier.
+Découverte du métier d'électricien.</contexte>
+      <datedebut>2017-05-15</datedebut>
+      <datefin>2017-06-23</datefin>
+      <environnement></environnement>
+      <moyen>Outils, touret de câbles, plans</moyen>
+      <avisperso>Ce chantier était très intéressant car nous avons fait plein de choses différentes, j'ai pu découvrir comment se déroule un chantier et apprendre quelques bases du métier d'électricien.</avisperso>
+      <activitecitee numero="6">
+        <idActivite>6</idActivite>
+        <commentaireactivite>Risque humain : il faut faire attention sur un chantier, ça peut être dangereux, il faut donc évaluer les risques et utiliser les outils appropriés pour plus de sécurité. Effectuer un travail fiable pour ne pas retarder le chantier.
+
+Risque matériel : u</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite>Nous avons tester les connexions une fois les prises Ethernet installées. Test avec des appareils. (testeur de câblage RJ45)</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Participation à l’avancement du projet : conformité et avancement vérifier par l'architecte du projet.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="14">
+        <idActivite>14</idActivite>
+        <commentaireactivite>Le projet a pris du retard, il aurait du se terminer le 15 juin et le délai a été repoussé à début juillet. l'architecte a demandé du câblage non prévu initialement</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Remplacement des halogènes par des LED. Changement de prise et d’interrupteur qui chauffent. Économie d'énergie et plus de sécurité. </commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>Étude du monde de l'électricité et de ses composants. Notion de courant fort, courant faible, câble RJ45, 3g 2.5, 3g 1.5, 5G 1.5, câble résistant à la chaleur.</commentaireactivite>
+      </activitecitee>
+      <production numero="1976">
+        <numero>1976</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/:b:/g/personal/aldric_pontille_icof_fr/EdQ4_iqn64VGrbT4BN3vrtMBSfXPnzgEYelIoWc_jrQxlQ?e=hGiPQy</adresse>
+      </production>
+    </situation>
+    <situation ref="1214">
+      <ref>1214</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2-1-Mise en place d'un écran de supervision</libcourt>
+      <descriptif>1- Monter les différents composants d'un PC et installer  Windows 7 grâce à un CD.
+2- Mettre en place un écran dédié à la supervision d'un client (banque) en passant par un VPN. L’objectif est d’avoir un visuel en continu sur l'état des serveurs dans les</descriptif>
+      <contexte>Avant la mise en place de l'écran il fallait se connecter au serveur, maintenant l’écran est toujours allumé dans les locaux. C’est le premier écran de supervision qui est installé dans l’entreprise. </contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-01-26</datefin>
+      <environnement></environnement>
+      <moyen>Différents composants d'ordinateur.</moyen>
+      <avisperso>Cette situation m'a permis d'apprendre et de savoir brancher les différents composants d'un PC. Cela m'a encouragé à monter ma propre configuration.</avisperso>
+      <activitecitee numero="12">
+        <idActivite>12</idActivite>
+        <commentaireactivite>Déploiement d'un écran de supervision afin d'avoir un visuel en continu sur l'état du parc informatique de la banque grâce au service déjà existant : Check_MK.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Grâce à cette solution nous avons détecté un problème majeure rapidement. Un switch n'était plus sous tension,il à donc fallu le remplacer. Le degrés d'urgence était assez élevé.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="57">
+        <idActivite>57</idActivite>
+        <commentaireactivite>J'ai pu étudier les différents composants d'un ordinateur et apprendre à les différencier selon le besoin.</commentaireactivite>
+      </activitecitee>
+      <production numero="2060">
+        <numero>2060</numero>
+        <designation>Activité 1 Supervision</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/:w:/g/personal/aldric_pontille_icof_fr/EeVt_Z_NydVCvpY6VCZSNo0BkHCljdyTjuqjhLrQVUy2Gw?e=JsfP8e</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1218">
+      <ref>1218</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2-2-Déploiement d'image sur des nouveaux PC</libcourt>
+      <descriptif>Remplacement d'anciens PC par des nouveaux à la banque cantonal de Genève.
+Pousser une image de Windows 10 sur les nouveaux PC en utilisant l'outil de déploiement WDS.</descriptif>
+      <contexte>Une douzaine de PC désormais trop vieux doivent être remplacés par des nouveaux.
+Il y a donc un déploiement d'image grâce à WDS.
+Il a fallu aller au contact de l'utilisateur pour récupérer et migrer ses données importantes sur les nouveaux PC.</contexte>
+      <datedebut>2018-01-15</datedebut>
+      <datefin>2018-01-16</datefin>
+      <environnement>Serveur WDS de la banque cantonal de Genève.
+Nouveaux PC.</environnement>
+      <moyen></moyen>
+      <avisperso>Cette activité m'a permis de préparer et de mieux comprendre un de mes projets de PPE.</avisperso>
+      <activitecitee numero="11">
+        <idActivite>11</idActivite>
+        <commentaireactivite>Avant de commencer le déploiement il a fallu attribuer un poste à chaque utilisateur. Pour cela les administrateurs de la banque nous ont donné une liste avec tous les noms et les étages des différents utilisateurs concernés par le changement de poste. Ce</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="16">
+        <idActivite>16</idActivite>
+        <commentaireactivite>Il a fallu aller au contact de chaque utilisateurs pour leur demander ce qu'ils voulaient conserver afin de migrer leurs données de l'ancien poste au nouveau. Il fallait donc un retour positif des utilisateurs en s'assurant que leur messagerie et leurs fa</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Nous avons dû configurer chaque PC afin qu'ils soient dans le domaine de la banque. Il fallait s'assurer que chaque utilisateur a ses logiciels spécifiques, en effet ils ne font pas tous parti du même service donc ils n'ont pas les même besoins.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Les PC qui ont été changé étaient obsolètes, cela nuisait au travail des utilisateurs. Nous avons donc dû les remplacer. Meilleurs processeur et RAM.</commentaireactivite>
+      </activitecitee>
+      <production numero="2061">
+        <numero>2061</numero>
+        <designation>Activité 2 Déploiement</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/:w:/g/personal/aldric_pontille_icof_fr/ETdLfCkb9k9Mk74SYvZku4QBg0oOvq0cfiFRdsSNtsDwkQ?e=XNIEAk</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>1</codeTypologie>
+      </typologie>
+    </situation>
+    <situation ref="1219">
+      <ref>1219</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>S2-3-Maintenance d'un parc informatique</libcourt>
+      <descriptif>Assurer la maintenance du parc informatique du collège du sacré coeur.
+Installation de logiciel;
+Réparation de PC;
+Création de fichier partagé pour chaque niveau de classe( 6eme,5eme,etc...) en utilisant l'Active Directory;
+Les failles Meltdown et Spe</descriptif>
+      <contexte>J.DI GIACOMO gère la maintenance du parc informatique d'un collège de 600 utilisateurs et d'une centaine de PC.J'ai dû l'accompagner dans cette mission qui a duré tout le long du stage. LAN Advice a un contrat avec le collège qui indique que tous les merc</contexte>
+      <datedebut>2018-01-08</datedebut>
+      <datefin>2018-02-16</datefin>
+      <environnement>Parc informatique du collège du Sacré-cœur</environnement>
+      <moyen></moyen>
+      <avisperso>Cette activité a été ma favorite. En effet gérer un parc informatique demande de nombreuses compétences et propose des missions variées à réaliser. Aller au contact avec certains professeurs pour leur expliquer et répondre à leurs besoins a aussi été très</avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="7">
+        <idActivite>7</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="17">
+        <idActivite>17</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="49">
+        <idActivite>49</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="50">
+        <idActivite>50</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="54">
+        <idActivite>54</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="55">
+        <idActivite>55</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <production numero="2062">
+        <numero>2062</numero>
+        <designation>Activité 3 Maintenance d'un parc informatique</designation>
+        <adresse>https://lyceeicof-my.sharepoint.com/:w:/g/personal/aldric_pontille_icof_fr/EZRzsBrsRZVDr9XAHCS1GNkBjQSeUtkYpr6fwAvUtZ0qng?e=nWpqJ0</adresse>
+      </production>
+      <typologie>
+        <codeTypologie>2</codeTypologie>
+      </typologie>
+      <typologie>
+        <codeTypologie>4</codeTypologie>
+      </typologie>
+    </situation>
+  </etudiant>
+</suivicomp>

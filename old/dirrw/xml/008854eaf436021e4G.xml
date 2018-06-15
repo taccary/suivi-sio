@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="54eaf436021e4">
+    <ref>54eaf436021e4</ref>
+    <datesv>2015-02-23</datesv>
+  </sauvegarde>
+  <etudiant numero="88">
+    <nom>bourdet</nom>
+    <prenom>tanguy</prenom>
+    <mel>tanguy.bourdet@icof.fr</mel>
+    <situation ref="383">
+      <ref>383</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Maison des Ligues</libcourt>
+      <descriptif>Dans </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-03-20</datedebut>
+      <datefin>2014-03-20</datefin>
+      <environnement></environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+    </situation>
+    <situation ref="455">
+      <ref>455</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Déploiement PXE</libcourt>
+      <descriptif>Déploiement d'une image système sur poste vie le réseau LAN en utilisant un serveur PXE.</descriptif>
+      <contexte>  </contexte>
+      <datedebut>2014-06-30</datedebut>
+      <datefin>2014-06-30</datefin>
+      <environnement>Pc portable Lenovo. Serveur PXE </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Installation D'un équipement terminal utilisateur. </commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="461">
+      <ref>461</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Secours Réseau Switch</libcourt>
+      <descriptif>Pendant mon stage, une coupure électrique à effacé la configuration d'un switch 
+il était donc nécessaire de recharger cette configuration sur le switch </descriptif>
+      <contexte></contexte>
+      <datedebut>2014-06-30</datedebut>
+      <datefin>2014-06-30</datefin>
+      <environnement>SWITCH ALCATEL </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prendre le contrôle d'un système à distance du switch VIA SSH et Interface Web
+Résoudre l'incident en s'appuyant sur une base de connaissances et la documentation associée ou solliciter l'entité compétente</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="20">
+        <idActivite>20</idActivite>
+        <commentaireactivite>Appliquer la procédure de reprise du service</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="27">
+        <idActivite>27</idActivite>
+        <commentaireactivite>Reconfiguration du switch</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="29">
+        <idActivite>29</idActivite>
+        <commentaireactivite>Configuration switch 
+Prendre le contrôle d'un système à distance du switch VIA SSH et Interface Web</commentaireactivite>
+      </activitecitee>
+    </situation>
+    <situation ref="472">
+      <ref>472</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Création Script shell pour installation automatique&amp; utilisa</libcourt>
+      <descriptif>L'entreprise avait besoin d'installer simplement l'utilitaire VNC sur une machine linux. J'ai donc créé un script d'installation et d'utilisation 
+Ainsi qu'un script pour pouvoir monter une image.</descriptif>
+      <contexte>Stage le Progrès : Outil de Connexion à distance sur des machines linux</contexte>
+      <datedebut>2014-06-30</datedebut>
+      <datefin>2014-06-30</datefin>
+      <environnement>Serveur Debian 7 </environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="32">
+        <idActivite>32</idActivite>
+        <commentaireactivite>Faciliter la connexion à distance par la création d'un script d'installation automatique de tightvnc.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="34">
+        <idActivite>34</idActivite>
+        <commentaireactivite>Écriture du script</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="46">
+        <idActivite>46</idActivite>
+        <commentaireactivite>Vérification du bon fonctionnement et de la connexion simplifié.</commentaireactivite>
+      </activitecitee>
+      <production numero="676">
+        <numero>676</numero>
+        <designation>Script Connexion VNC</designation>
+        <adresse>SCRIPT NE voulant pas être dévoilé </adresse>
+      </production>
+      <production numero="790">
+        <numero>790</numero>
+        <designation>Script montage images</designation>
+        <adresse>https://myownlandfr.fr/owncloud/public.php?service=files&amp;t=d2f11852322a22ad84cadac5329ce695&amp;path=%2F&amp;files=Rapport%20De%20Stage%20PORGES.pdf&amp;download</adresse>
+      </production>
+    </situation>
+    <situation ref="516">
+      <ref>516</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>1</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>ETUDE RESOLUTION PROBLEME QUALITE VOIP</libcourt>
+      <descriptif>Dans l'entreprise il y avais un dysfonctionnement sur des le réseau VOIP WIFI. 
+</descriptif>
+      <contexte>Stage : Le PROGRES</contexte>
+      <datedebut>2014-09-22</datedebut>
+      <datefin>2014-09-22</datefin>
+      <environnement>Serveur IPBX. 
+Téléphone Wifi VOIP</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="18">
+        <idActivite>18</idActivite>
+        <commentaireactivite>Prise de contrôle sur le manageur des bornes wifi
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="21">
+        <idActivite>21</idActivite>
+        <commentaireactivite>Identification du dysfonctionnement
+Test de qualité
+</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="22">
+        <idActivite>22</idActivite>
+        <commentaireactivite>modification materiel</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction du document de résolution</commentaireactivite>
+      </activitecitee>
+      <production numero="791">
+        <numero>791</numero>
+        <designation>Rapport de stage</designation>
+        <adresse>https://myownlandfr.fr/owncloud/public.php?service=files&amp;t=d2f11852322a22ad84cadac5329ce695&amp;path=%2F&amp;files=Rapport%20De%20Stage%20PORGES.pdf&amp;download</adresse>
+      </production>
+    </situation>
+    <situation ref="551">
+      <ref>551</ref>
+      <codeType>1</codeType>
+      <codeLocalisation>1</codeLocalisation>
+      <codeSource>2</codeSource>
+      <codeCadre>1</codeCadre>
+      <libcourt>Projet GreenCloud </libcourt>
+      <descriptif>Projet visant à rendre écologique une infrastructure de virtualisation. En étudiant les différentes métriques liées à la consommation .</descriptif>
+      <contexte>Stage Newgeneration Sr : En vue de proposer des solutions moins gourmandes en technologie.</contexte>
+      <datedebut>2015-01-05</datedebut>
+      <datefin>2015-02-23</datefin>
+      <environnement>Proxmox
+Debian
+</environnement>
+      <moyen></moyen>
+      <avisperso></avisperso>
+      <activitecitee numero="1">
+        <idActivite>1</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="4">
+        <idActivite>4</idActivite>
+        <commentaireactivite></commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="13">
+        <idActivite>13</idActivite>
+        <commentaireactivite>Planification des différentes étapes du projet</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="23">
+        <idActivite>23</idActivite>
+        <commentaireactivite>Choix des élément nécessaires à l'infrastructure de test.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="26">
+        <idActivite>26</idActivite>
+        <commentaireactivite>Mise en place du réseau d'interconnexion 
+Configuration pfsense.</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="36">
+        <idActivite>36</idActivite>
+        <commentaireactivite>Création, SGBD pour collectes d'informations proxmox</commentaireactivite>
+      </activitecitee>
+      <activitecitee numero="42">
+        <idActivite>42</idActivite>
+        <commentaireactivite>Rédaction fiche technique de mise en place de environnement virtualisé proxmox avec stockage SAN </commentaireactivite>
+      </activitecitee>
+    </situation>
+  </etudiant>
+</suivicomp>

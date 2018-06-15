@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="yes" ?>
+<suivicomp>
+  <sauvegarde ref="57434b24830b6">
+    <ref>57434b24830b6</ref>
+    <datesv>2016-05-23</datesv>
+  </sauvegarde>
+  <etudiant numero="147">
+    <nom>GIRAUD</nom>
+    <prenom>Julien</prenom>
+    <mel>julien.giraud-sauveur@icof.fr</mel>
+  </etudiant>
+</suivicomp>
