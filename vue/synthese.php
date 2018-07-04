@@ -1,4 +1,4 @@
-﻿<?php  include_once 'exit.php'; ?>
+<?php  include_once 'exit.php'; ?>
 <?php
 
   function enutf8($t){
@@ -20,7 +20,7 @@
   }
   function dc($c){
     //return html_entity_decode(stripslashes($c));
-	return $c;
+		return $c;
   }
 
 
@@ -80,23 +80,23 @@ $pdf->SetFont($police,'B',$potitre);
 $txt=enutf8("BTS SERVICES INFORMATIQUES AUX ORGANISATIONS - TABLEAU DE SYNTHÈSE");
 $pdf->Cell(0,$hvt,$txt,0,1,"C");
 $pdf->SetFont($police,'B',$potexte);
-$txt=enutf8("Nom et prénom du candidat : ").enutf8($ident[0]["nom"])." ".enutf8($ident[0]["prenom"]);
+$txt=enutf8("Nom et prénom du candidat : ".$ident[0]["nom"]." ".$ident[0]["prenom"]);
 $pdf->Cell(60, $hvt,"",0,0);
 $pdf->Cell(160,$hvt,$txt,0,0);
-$txt="Parcours : ".$ident[0]["nomenclature"];
+$txt=enutf8("Parcours : ".$ident[0]["nomenclature"]);
 $pdf->Cell(60,$hvt,$txt,0,0);
-$txt=enutf8("Numéro du candidat : ").enutf8($ident[0]["numexam"]);
+$txt=enutf8("Numéro du candidat : ".$ident[0]["numexam"]);
 $pdf->Cell(0,$hvt,$txt,0,1);
 
 $pdf->SetFont($police,'B',$polibelle);
 $pdf->Ln(5);
 
 //situ oblig
-$pdf->Cell(4*$lgoblig,$hvp,"Situation obligatoire",1,0,"C");
+$pdf->Cell(4*$lgoblig,$hvp,enutf8("Situation obligatoire"),1,0,"C");
 //<>ajouté
 $y0=$pdf->getY();
 $x0=$pdf->getX();
-$pdf->MultiCell($mgs+$margeinterne,$hvp/2,"Situation professionnelle\n(intitulé et liste des documents et productions associés)",0,"C");
+$pdf->MultiCell($mgs+$margeinterne,$hvp/2,enutf8("Situation professionnelle\n(intitulé et liste des documents et productions associés)"),0,"C");
 $pdf->SetXY($x0,$y0);
 //</ajouté>
 $pdf->Cell($mgs+$margeinterne,$hvp,"",0,0);
@@ -104,7 +104,7 @@ $pdf->Cell($mgs+$margeinterne,$hvp,"",0,0);
 for ($i=0;$i<$nbp;$i++){
   $unproc=$entete[$i];
   $largeur=$lg*count($unproc["act"]);
-  $pdf->Cell($largeur,$hvp,$unproc["nomenclature"]." ".$unproc["libelle"],1,0,"C");
+  $pdf->Cell($largeur,$hvp,enutf8($unproc["nomenclature"]." ".$unproc["libelle"]),1,0,"C");
 }
 
 //ecriture verticale pour activites
@@ -118,7 +118,7 @@ $y1=$y0+$hv;//hauteur texte à 90°
 $pdf->SetFillColor($grisclairfond);
 
 for ($i=0;$i<4;$i++){ //4 sûr, sinon on est mal
-	$pdf->TourneTexte(90,$x+$lg/2,$y1,"  ".$typologie[$i]["libelle"]);
+	$pdf->TourneTexte(90,$x+$lg/2,$y1,enutf8("  ".$typologie[$i]["libelle"]));
     $pdf->SetXY($x,$y0);
   	$pdf->Cell($lg,$hv,"",1,0);//hauteur case verticale
     $x+=$lg;
@@ -142,7 +142,7 @@ for ($i=0;$i<$nbp;$i++){
     	$eprE6[]=false;
     }
   	$pdf->SetXY($x,$y0);
-  	$pdf->TourneTexte(90,$x+$lg/2,$y1,"  ".$lesact[$j]["nomenclature"]."  ".$lesact[$j]["libelle"]);
+  	$pdf->TourneTexte(90,$x+$lg/2,$y1,"  ".enutf8($lesact[$j]["nomenclature"]."  ".$lesact[$j]["libelle"]));
   	$pdf->Cell($lg,$hv,"",1,0);//hauteur case verticale
     $x+=$lg;
   }
@@ -195,11 +195,11 @@ for ($src=0 ; $src<3 ; $src++){//0=formation / 1=stage1 / 2=stage2
 //gestion bas de page : soussigné...
 $pdf->Ln(10);
 $pdf->SetFont($police,'B',$posousigne);
-$txtj="Je soussigné-e";
+$txtj=enutf8("Je soussigné-e");
 $pdf->Cell(80,$hvt,$txtj,0,0);
-$txt="formatrice (formateur) au centre de formation";
+$txt=enutf8("formatrice (formateur) au centre de formation");
 $pdf->Cell(120,$hvt,$txt,0,0);
-$txt="certifie que le candidat (la candidate) a bien effectué en formation les activités et missions présentées dans ce tableau";
+$txt=enutf8("certifie que le candidat (la candidate) a bien effectué en formation les activités et missions présentées dans ce tableau");
 $pdf->Cell(0,$hvt,$txt,0,1,"R");
 
 
@@ -213,7 +213,7 @@ $po2=9;
 $ht =8;
 $hcl=5;
 $pdf->SetFont($police,'B',$potitre);
-$txt="BTS SERVICES INFORMATIQUES AUX ORGANISATIONS - DÉTAILS DES ACTIVITÉS";
+$txt=enutf8("BTS SERVICES INFORMATIQUES AUX ORGANISATIONS - DÉTAILS DES ACTIVITÉS");
 $pdf->Cell(0,$hvt,$txt,0,1,"C");
 $goDroite=0;
 $goNext=1;
@@ -227,7 +227,7 @@ if (count($synthese)>0){
 	$pdf->SetDrawColor(0);
     $pdf->SetFillColor($grisclairfond);
     $txt=dtihm($synt["datedebut"]).' - '.dtihm($synt["datefin"]);
-    $pdf->Cell(60, $ht, $txt, "LTRB", $goDroite, "L", 1);					// date
+    $pdf->Cell(60, $ht, enutf8($txt), "LTRB", $goDroite, "L", 1);					// date
 	//$x0=$pdf->getX();
 	//$y0=$pdf->getY();
 
@@ -235,13 +235,13 @@ if (count($synthese)>0){
     $txt="Situation : ".$synt["libcs"];
 	//$y0=$pdf->getY();
 	//$pdf->setXY(0,$y0);
-    $pdf->Cell(200, $ht, dc($txt), "LTRB", 1, "C", 0);						// titre activité
+    $pdf->Cell(200, $ht, enutf8($txt), "LTRB", 1, "C", 0);						// titre activité
     $pdf->SetFont($police,'',$po2);
 	$pdf->SetFontSize($po2);
     $txt=$synt["descs"];
 	//$y0=$pdf->getY();
 	//$pdf->setXY(60,$y0+$ht);
-    $pdf->MultiCell(260, $hcl, dc($txt), "LTBR", "LT", 0);					// détail activité
+    $pdf->MultiCell(260, $hcl, enutf8($txt), "LTBR", "LT", 0);					// détail activité
 	//$pdf->getXY($x0,$y0);
 	$x0=$pdf->getX();
 	$y0=$pdf->getY();
